@@ -27,8 +27,11 @@ FEEDS = [
     {"url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",   "name": "AWS What's New",    "category": "aws",       "limit": 15},
     {"url": "https://aws.amazon.com/blogs/aws/feed/",                    "name": "AWS Blog",          "category": "aws",       "limit": 15},
     # Google
-    {"url": "https://cloudblog.withgoogle.com/rss.xml",                  "name": "Google Cloud Blog", "category": "google",    "limit": 15},
-    {"url": "https://deepmind.google/blog/rss.xml",                      "name": "Google DeepMind",   "category": "google",    "limit": 15},
+    {"url": "https://blog.google/technology/ai/rss/",                    "name": "Google AI",         "category": "google",    "limit": 20},
+    {"url": "https://blog.google/products/google-cloud/rss/",            "name": "Google Cloud",      "category": "google",    "limit": 20},
+    {"url": "https://cloudblog.withgoogle.com/products/gcp/rss/",        "name": "Google Cloud Blog", "category": "google",    "limit": 20},
+    {"url": "https://security.googleblog.com/feeds/posts/default?alt=rss","name": "Google Security",  "category": "google",    "limit": 15},
+    {"url": "https://deepmind.google/blog/rss.xml",                      "name": "Google DeepMind",   "category": "google",    "limit": 50},
     # OpenAI
     {"url": "https://openai.com/blog/rss.xml",                           "name": "OpenAI Blog",       "category": "openai",    "limit": 15},
     # Anthropic
@@ -206,7 +209,7 @@ def fetch_feed(feed):
 
             search = (title + " " + summary + " " + feed["name"]).lower()
             relevance = score(search)
-            if relevance < 3:
+            if relevance < 1:
                 continue
 
             articles.append({

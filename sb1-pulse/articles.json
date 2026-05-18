@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T09:13:40.955279+00:00",
-  "sources": 16,
+  "generated": "2026-05-18T09:47:26.073997+00:00",
+  "sources": 19,
   "articles": [
     {
       "title": "Top announcements of the What’s Next with AWS, 2026",
@@ -135,6 +135,20 @@
       "image": null
     },
     {
+      "title": "What Google Cloud announced in AI this month",
+      "summary": "Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. We hosted Google Cloud Next in Las Vegas on April 22, announcing incredible innovations from Gemini Enterprise Agent Platform to our eight-generation TPUs. We also expanded the Gemini Enterprise app in coll",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "date": "2026-04-30T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 20,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
+    },
+    {
       "title": "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)",
       "summary": "Amazon WorkSpaces now lets AI agents securely operate legacy desktop applications—without APIs or modernization—using IAM authentication, MCP support, and computer vision within existing security frameworks.",
       "url": "https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/",
@@ -191,6 +205,20 @@
         "automation"
       ],
       "image": null
+    },
+    {
+      "title": "Gemini Enterprise Agent Platform lets you build, govern and optimize your agents.",
+      "summary": "This new platform creates a single environment for technical teams to build, scale, govern and optimize autonomous agents.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-enterprise-agent-platform/",
+      "date": "2026-04-22T13:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 18,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiEnterprise_social.max-600x600.format-webp.webp"
     },
     {
       "title": "The Path to the Autonomous Enterprise: SAP Announces New Sustainability AI Agents",
@@ -308,6 +336,21 @@
         "data"
       ],
       "image": null
+    },
+    {
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "summary": "Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "date": "2026-05-04T15:30:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 14,
+      "tags": [
+        "ai",
+        "automation",
+        "developer"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp"
     },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -448,6 +491,34 @@
         "developer"
       ],
       "image": null
+    },
+    {
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "summary": "A web next to a laptop",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "date": "2026-04-27T13:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 13,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "date": "2026-04-24T19:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 13,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp"
     },
     {
       "title": "Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available",
@@ -707,6 +778,31 @@
       "image": null
     },
     {
+      "title": "The new AI-powered Google Finance is expanding to Europe.",
+      "summary": "A screenshot of the AI-powered experience on Google Finance.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+      "date": "2026-05-11T06:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 5,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "10 leading enterprises show why agents mean business",
+      "summary": "Blog hero",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-customer-round-up/",
+      "date": "2026-04-22T18:45:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 5,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GCN26_103A_BlogHeader_2096x1182.max-600x600.format-webp.webp"
+    },
+    {
       "title": "Apply the Orchestration Density Framework to Your Next Automation Decision",
       "summary": "Explore five real-world automation use cases and learn how to evaluate the right Salesforce automation approach for each.",
       "url": "https://www.salesforce.com/blog/orchestration-density-framework-automation-decisions/",
@@ -740,6 +836,20 @@
       "relevance": 4,
       "tags": [],
       "image": null
+    },
+    {
+      "title": "Here’s how we’re helping Belgium's farmers save water with AI.",
+      "summary": "Agrow’s technology platform integrates climate, water and soil data from satellite and thermal imagery to provide precise irrigation and fertilization recommendations.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/heres-how-were-helping-belgiums-farmers-save-water-with-ai/",
+      "date": "2026-05-05T09:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 4,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-05_11.20.04_.max-600x600.format-webp.webp"
     },
     {
       "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment",
@@ -828,6 +938,847 @@
         "data"
       ],
       "image": null
+    },
+    {
+      "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20260224, 12.22-rds.20260224, and 13.23-rds.20260224",
+      "summary": "Amazon Relational Database Service (RDS) for PostgreSQL announces Amazon RDS Extended Support minor versions 11.22-rds.20260224, 12.22-rds.20260224, and 13.23-rds.20260224. We recommend that you upgrade to these versions to fix known security vulnerabilities and bugs in prior versions of PostgreSQL. Amazon RDS Extended Support provides up to three additional years of critical security and bug fixe",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql-extended-support/",
+      "date": "2026-05-15T16:08:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "security",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "How data science teams use Codex",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW",
+      "summary": "Editor’s note: The Gaijin single sign-on feature is now up and running. Dive masks on — Subnautica 2 is making a splash on GeForce NOW day-and-date with launch, so members can plunge into the title’s brand-new alien ocean from almost any device. It leads 11 new games joining the cloud this week. A limited-time HITMAN […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/",
+      "date": "2026-05-14T13:00:08+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/gfn-thursday-5-14-nv-blog-1280x680-logo.jpg"
+    },
+    {
+      "title": "Moving Toward a More Autonomous Supply Chain",
+      "summary": "New AI innovations make supply chains more adaptive, connected, and responsive.",
+      "url": "https://news.sap.com/2026/05/more-autonomous-supply-chain/",
+      "date": "2026-05-14T12:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Salesforce Headless 360: What the Agent Consumer Means for Your Integration Architecture",
+      "summary": "Understand where the new platform capabilities fit within established Salesforce integration patterns, and what shifts when agents become consumers of your org.",
+      "url": "https://www.salesforce.com/blog/headless-360-integration-architecture/",
+      "date": "2026-05-13T16:13:13+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [
+        "ai",
+        "data",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
+      "summary": "Reinforcement-learning agents — AI systems that learn by trial and error — can convert computation into new knowledge. That’s the focus of a new engineering-level collaboration between NVIDIA and Ineffable Intelligence, the London-based AI lab founded by AlphaGo architect David Silver in the wake of Ineffable’s emergence from stealth last week. “The next frontier of […]",
+      "url": "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/",
+      "date": "2026-05-13T13:00:57+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/agentic-logo-lockup-Ineffable-press-1920x1080-1-scaled.png"
+    },
+    {
+      "title": "How finance teams use Codex",
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "date": "2026-05-12T15:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Read our new report on AI-powered threats and our latest defenses.",
+      "summary": "Learn more about how outside attackers are misusing AI, and what Google is doing to stop it.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/",
+      "date": "2026-05-11T15:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "security"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations",
+      "summary": "Researchers share in an interview how they used GitHub data to predict GDP, inequality, and emissions in ways that traditional economic data misses, along with our Q4 2025 data release. The post How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-reveal-the-digital-complexity-of-nations/",
+      "date": "2026-05-08T15:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 2,
+      "tags": [
+        "data",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Linked and Loaded: Gaijin Single Sign-On Now Available on GeForce NOW",
+      "summary": "Less typing, more tanking. Faster logins mean more time in the gaming action — and this week provides GeForce NOW members with a smoother path straight into the battlefield. Cloud gaming is all about instant access to titles across devices, and the latest GeForce NOW update removes another layer for members jumping into their Gaijin […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gaijin-sso/",
+      "date": "2026-05-07T13:00:27+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/gfn-thursday-gaijin-sso-nv-blog-1280x680-logo.jpg"
+    },
+    {
+      "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
+      "summary": "The HSM-based Backup Key Vault Meta’s HSM-based Backup Key Vault provides the foundation for end-to-end encrypted backups for WhatsApp and Messenger. The system allows people to protect their backed-up message history with a recovery code, ensuring that the recovery code is stored in tamper-resistant hardware security modules (HSMs) and is inaccessible to Meta, cloud storage [...] Read More... The",
+      "url": "https://engineering.fb.com/2026/05/01/security/meta-strengthening-end-to-end-encrypted-backups/",
+      "date": "2026-05-01T16:00:58+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
+      "summary": "Microsoft Agent 365 helps you take control of agent sprawl as your control plane to observe, govern, and secure agents and their interactions. The post Microsoft Agent 365, now generally available, expands capabilities and integrations appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
+      "date": "2026-05-01T15:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "ai",
+        "data",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Nemotron Labs: What OpenClaw Agents Mean for Every Organization",
+      "summary": "By early 2026, the open source project OpenClaw had become a phenomenon. In January, its GitHub star count crossed 100,000 as developer interest surged.",
+      "url": "https://blogs.nvidia.com/blog/what-openclaw-agents-mean-for-every-organization/",
+      "date": "2026-04-30T20:00:39+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/nemotron-labs-openclaw-1920x1080-1.jpg"
+    },
+    {
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "date": "2026-04-30T12:14:15+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://lh3.googleusercontent.com/z2sN_eil5tgap-Ji1W_4l1xnbfLRghzxdXzyCMdnKFVW1xTfgm0o8bpg9pNwE4RcHTR2QGEGhGx7LFn7Q6bg-LEPBW20d4Djo3Erii8PBYYrWz36=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Announcing our partnership with the Republic of Korea",
+      "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "date": "2026-04-27T07:00:06+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://lh3.googleusercontent.com/3q6uiTEWOv5PKJQYWgYLxCgohyndMqdWTFiwFDbxSzk-tW0HeannPdF7kvqR2hmE_tvSeryfw4IvG7gwuZ11rBgIYGvapEQvHO9RRJXw4JCqyme6uA=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "7 highlights from Google Cloud Next ‘26",
+      "summary": "Wide view of a large audience in a purple-lit arena looking at a main stage screen displaying \"Google Cloud NEXT\".",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-next-26-recap/",
+      "date": "2026-04-24T18:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GCNEXT2026_0422_085831-8501_ALI.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "AI threats in the wild: The current state of prompt injections on the web",
+      "summary": "Posted by Thomas Brunner, Yu-Han Liu, Moni Pande At Google, our Threat Intelligence teams are dedicated to staying ahead of real-world adversarial activity, proactively monitoring emerging threats before they can impact users. Right now, Indirect Prompt Injection (IPI) is a top priority for the security community, anticipating it as a primary attack vector for adversaries to target and compromise ",
+      "url": "http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html",
+      "date": "2026-04-23T21:38:00+00:00",
+      "source": "Google Security",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "security"
+      ],
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjduMEPWkG_wwO64NLFbqReZSDPQTMk1t-TXI7EcNHNLHxGkNDsCj_c8TTUK981qqXDO-FAuHS2q1QsbGm974lYZ9GSSlD9wIkQUvxCOKEFrgAYYa86E0AC0JvWTxuFAJ0PL1ArEU1syhWTVcNVYz2a3N2SubkXKspyY3pqtqku-90AwK0cftheXw6nDdHW=s72-c"
+    },
+    {
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "summary": "Aerial image of the data center",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+      "date": "2026-04-23T09:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Kronstorf_Data_Center_1.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "1,302 real-world gen AI use cases from the world's leading organizations",
+      "summary": "Text reads \"Google Cloud Next 26\"",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gen-ai-business-use-cases/",
+      "date": "2026-04-22T16:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GCN26_102_BlogHeader_2436x1200_.max-600x600.format-webp_DGOjQgk.webp"
+    },
+    {
+      "title": "Cloud Next ‘26: Momentum and innovation at Google scale",
+      "summary": "Red V, blue gradient loop, yellow X, and green star",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/",
+      "date": "2026-04-22T12:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Next_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments",
+      "summary": "Azure Accelerate for Databases helps organizations modernize their databases and build AI-ready capabilities. The post Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
+      "date": "2026-04-22T00:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch Logs announces increased query result limits",
+      "summary": "Amazon CloudWatch Logs now supports retrieving up to 100,000 results using the Logs Insights query language. Customers can specify the limit in their query using the LIMIT command. Previously, customers were limited to 10,000 results and had to split their queries into smaller time ranges to retrieve all results. With this launch, customers can view a larger set of results and use existing feature",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/cloudwatch-logs-query-results/",
+      "date": "2026-05-15T21:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "12 AI Sales Strategies for Startups That Actually Work",
+      "summary": "Your next sale could already be in motion — here's how AI is helping startups close more deals.",
+      "url": "https://www.salesforce.com/blog/small-business/ai-sales-strategies-for-startups/",
+      "date": "2026-05-15T16:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Organizations now supports higher quotas for service control policies (SCPs)",
+      "summary": "AWS Organizations now supports higher quotas for service control policies (SCPs). The maximum number of SCPs that can be attached to a single node (root, OU, or account) has increased from 5 to 10, and the maximum SCP size has increased from 5,120 to 10,240 characters. With these higher quotas, you can write SCPs with finer-grained permissions and conditions, and attach more SCPs per node to build",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-increased-scp-quotas/",
+      "date": "2026-05-15T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
+      "summary": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program appeared first on The GitHub Blog .",
+      "url": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
+      "date": "2026-05-15T14:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [
+        "data",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Sell Smarter: Ecommerce Metrics To Track For Your Small Business Shop",
+      "summary": "Use smart data to improve your online shopping experience and connect with your customers.",
+      "url": "https://www.salesforce.com/blog/small-business/ecommerce-metrics-to-track/",
+      "date": "2026-05-15T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Certification in the AI Era: From Knowledge to Capability",
+      "summary": "Success depends on how effectively professionals can apply their knowledge alongside AI.",
+      "url": "https://news.sap.com/2026/05/certification-ai-era-knowledge-capability/",
+      "date": "2026-05-15T06:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "How sales teams use Codex",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "How business operations teams use Codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudFront announces support for OCSP Revocation for Mutual TLS (Viewer)",
+      "summary": "Amazon CloudFront now supports Online Certificate Status Protocol (OCSP) revocation checking for viewer mTLS, enabling you to validate client certificate revocation status in real time during connection establishment. This enables customers using mutual TLS (mTLS) on CloudFront to verify that client certificates haven't been revoked before accepting connections—a common requirement for regulated i",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-ocsp/",
+      "date": "2026-05-14T22:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudFront announces Passthrough Mode for mutual TLS (Viewer)",
+      "summary": "Amazon CloudFront now supports passthrough mode for mutual TLS (mTLS) viewer authentication, allowing CloudFront to forward client certificates to the origin without verifying the certificates on CloudFront. Customers who already validate client certificates at their origin can now add CloudFront to their existing mTLS infrastructure without changing how or where validation happens. In passthrough",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-passthrough/",
+      "date": "2026-05-14T22:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud",
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "GitHub availability report: April 2026",
+      "summary": "In April, we experienced 10 incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: April 2026 appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-april-2026/",
+      "date": "2026-05-14T22:02:43+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [
+        "data",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "url": "https://openai.com/index/sea-david-chen",
+      "date": "2026-05-14T20:30:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Wait, Black Friday Planning In Spring? It’s Time to Start Holiday Promotions",
+      "summary": "Your holiday commerce planning starts now for your startup or SMB. Let’s find out how you can get ahead.",
+      "url": "https://www.salesforce.com/blog/small-business/black-friday-planning/",
+      "date": "2026-05-14T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AI-First Operations, One Process at a Time",
+      "summary": "How a step-by-step, process-by-process approach is delivering faster ROI than full-scale transformation.",
+      "url": "https://www.salesforce.com/blog/agentforce-operations/",
+      "date": "2026-05-14T12:08:43+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Why AI Raises the Stakes for Customer Experience",
+      "summary": "Autonomous CX makes it possible to understand customers, respond faster, and earn loyalty over time.",
+      "url": "https://news.sap.com/2026/05/autonomous-cx-why-ai-raises-stakes-for-customer-experience/",
+      "date": "2026-05-14T06:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "CEOs of the Classroom: Why Principals are the Key to the AI Era",
+      "summary": "Learn how philanthropic funding and AI reskilling can prepare students for jobs of the future.",
+      "url": "https://www.salesforce.com/blog/education-and-ai/",
+      "date": "2026-05-13T23:02:57+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)",
+      "summary": "Roguelikes don’t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once. The post Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them) appeared first on The GitHub Blog .",
+      "url": "https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/",
+      "date": "2026-05-13T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Reel Friends: Building Social Discovery that Scales to Billions",
+      "summary": "On its face the new Friend Bubbles feature looks simple enough. It highlights Reels your friends have watched and reacted to. But sometimes the features that seem the most straightforward require the deepest engineering work. On this episode of the Meta Tech Podcast, Pascal Hartig chats with Subasree and Joseph, two software engineers from the Facebook [...] Read More... The post Reel Friends: Bui",
+      "url": "https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/",
+      "date": "2026-05-13T13:00:44+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "date": "2026-05-13T11:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Our response to the TanStack npm supply chain attack",
+      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "date": "2026-05-13T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine",
+      "summary": "Amazon Redshift RG instances, powered by AWS Graviton, run data warehouse and data lake workloads up to 2.4x as fast as RA3 instances at 30% lower price per vCPU. Its integrated data lake query engine supports open table formats such as Apache Iceberg.",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine/",
+      "date": "2026-05-12T16:05:12+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Migrating Data Ingestion Systems at Meta Scale",
+      "summary": "Meta’s data ingestion system, which our engineering teams leverage for up-to-date snapshots of the social graph, has recently undergone a significant revamp to enhance its reliability at scale. Moving from our legacy system to our new architecture required a large-scale migration of our entire data ingestion system. We’re sharing the solutions and strategies that enabled [...] Read More... The pos",
+      "url": "https://engineering.fb.com/2026/05/12/data-infrastructure/migrating-data-ingestion-systems-at-meta-scale/",
+      "date": "2026-05-12T16:00:57+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "GitHub for Beginners: Getting started with OSS contributions",
+      "summary": "Learn how to find opportunities to contribute to the open source community. The post GitHub for Beginners: Getting started with OSS contributions appeared first on The GitHub Blog .",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/",
+      "date": "2026-05-11T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates",
+      "summary": "“You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote address at Carnegie Mellon University’s 128th commencement ceremony on Sunday. “A new industry is being born. A new era of science and discovery is beginning.” “No generation has entered the world with more […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/",
+      "date": "2026-05-10T22:00:50+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26-cmu-commencement-20-KL_-13_16x9-scaled.jpg"
+    },
+    {
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "date": "2026-05-08T15:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission",
+      "summary": "AI will help build the energy it needs. That’s the case U.S. Energy Secretary Chris Wright and NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck made Thursday morning at the SCSP AI+ Expo. The 30-minute fireside chat, moderated by SCSP president Ylli Bajraktari, was called “Powering the Next American Century.” Their argument: American […]",
+      "url": "https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/",
+      "date": "2026-05-07T19:14:38+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2019/06/DC-skyline.jpg"
+    },
+    {
+      "title": "Find out how AlphaEvolve has gone from research to solving real-life problems.",
+      "summary": "AlphaEvolve has become a powerful engine for scientific and societal progress.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/",
+      "date": "2026-05-07T15:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/alphaevolve_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "5 gardening tips you can try right in Search",
+      "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
+      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "date": "2026-05-06T16:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
+      "summary": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can’t afford to compromise on performance, resilience or […]",
+      "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
+      "date": "2026-05-06T11:30:20+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/ethernet-press-spectrum-x-corp-blog-1920x1080-1.jpg"
+    },
+    {
+      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "date": "2026-05-05T16:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
+      "summary": "Last week, I took some time off in York, England, often described as the most haunted city in the country. I wandered through the ruins of abbeys that have stood for nearly a thousand years, walked along medieval walls, and spent an evening on a ghost tour hearing stories passed down through centuries. There’s something […]",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026/",
+      "date": "2026-05-04T17:05:41+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "The latest AI news we announced in April 2026",
+      "summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "date": "2026-05-04T17:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Apr 27 - May 1 Master ",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "date": "2026-05-01T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "It’s Gonna Be May: 16 Games Hit the Cloud This Month, With More NVIDIA GeForce RTX 5080 Power",
+      "summary": "[Editor’s note] The blog has been updated to note that GeForce RTX 5080-power expansion also extends to the Install-to-Play library. It’s gonna be May — and the cloud’s in full festival mode. 16 games are joining GeForce NOW this month, including new AAA titles arriving on launch day from Steam, Xbox, PC Game Pass and […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/",
+      "date": "2026-04-30T13:00:47+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/gfn-thursday-4-30-nv-blog-1280x680-logo.jpg"
+    },
+    {
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
+      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "date": "2026-04-28T16:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Tag, You’re It: GeForce NOW Levels Up Game Discovery With Xbox Game Pass and Ubisoft+ Labels",
+      "summary": "GeForce NOW is doubling down on what matters most: gamers. This week’s upgrades bring smarter libraries, making it easier than ever for gamers to turn a PC collection into a cloud-powered flex. It starts with giving existing libraries time to shine. Gamers can bring the games they love to the cloud, stream them with high […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-in-app-labels/",
+      "date": "2026-04-23T13:00:51+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/gfn-thursday-feature-launch-library-nv-blog-1280x680-logo.jpg"
+    },
+    {
+      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "date": "2026-04-23T12:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "date": "2026-04-22T12:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Google Cloud Next ‘26",
+      "summary": "Here’s a look at what Google announced at Google Cloud Next ‘26.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2026/",
+      "date": "2026-04-22T12:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Next_Collection_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "summary": "Computer chips",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "date": "2026-04-22T12:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "ai",
+        "cloud",
+        "automation"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/two_chips_for_the_agentic_era_h.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+      "summary": "",
+      "url": "https://deepmind.google/blog/decoupled-diloco/",
+      "date": "2026-04-22T10:20:03+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://lh3.googleusercontent.com/1-K_kcmoX-fIzTJ13T0-uF4gylS2tK00ZVvx87B2WSayzUS2fxDoDDXFq5hOhxptrBeG8AbjG_URN5OOTpGMqad9zILjMsTdAHWroiDKpziBQjzErw=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge",
+      "summary": "We’ve fundamentally transformed Facebook Groups Search to help people more reliably discover, sort through, and validate community content that’s most relevant to them. We’ve adopted a new hybrid retrieval architecture and implemented automated model-based evaluation to address the major friction points people experience when searching community content. Under this new framework, we’ve made tangib",
+      "url": "https://engineering.fb.com/2026/04/21/ml-applications/modernizing-the-facebook-groups-search-to-unlock-the-power-of-community-knowledge/",
+      "date": "2026-04-21T16:00:19+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Partnering with industry leaders to accelerate AI transformation",
+      "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+      "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+      "date": "2026-04-21T14:54:15+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://lh3.googleusercontent.com/t9KvGjgjHJMLDqzAzXuDUOXFI4IlnMiYLhRmxohCRvB1qGSr8-8-TDEI24qk8ilY4OzRB2et5dSlWOjMs6lm-R718xmtQwdiGBxOO7VjxBfMq4a3yoI=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
+      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "date": "2026-04-21T14:30:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp"
     }
   ]
 }
