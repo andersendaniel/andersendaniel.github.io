@@ -662,98 +662,39 @@
 
 <script>
 // ─────────────────────────────────────────────────────────
-// Configuration
+// Tag labels (tags arrive as strings from articles.json)
 // ─────────────────────────────────────────────────────────
-
-const FEEDS = [
-  { url: 'https://www.finextra.com/rss/headlines.aspx',            name: 'Finextra' },
-  { url: 'https://www.bankingtech.com/feed/',                      name: 'Banking Technology' },
-  { url: 'https://www.fintechfutures.com/feed/',                   name: 'Fintech Futures' },
-  { url: 'https://techcrunch.com/tag/fintech/feed/',               name: 'TechCrunch' },
-  { url: 'https://www.pymnts.com/feed/',                           name: 'PYMNTS' },
-  { url: 'https://nordicfintech.io/feed/',                         name: 'Nordic Fintech' },
-  { url: 'https://feeds.feedburner.com/ThePaypers',                name: 'The Paypers' },
-];
-
-const RSS2JSON = 'https://api.rss2json.com/v1/api.json';
-
-// Keywords weighted for Sparebank1 relevance
-const KW = {
-  high: [
-    'sparebank', 'vipps', 'bankid', 'nordic bank', 'norwegian bank',
-    'open banking', 'psd2', 'psd3', 'dora', 'instant payment', 'sepa instant',
-    'core banking', 'cloud banking', 'ai in banking', 'llm bank', 'generative ai bank',
-    'digital banking', 'mobile banking', 'embedded finance', 'buy now pay later',
-    'fraud detection', 'anti money laundering', 'aml', 'kyc',
-  ],
-  medium: [
-    'cloud', 'aws', 'azure', 'google cloud', 'microservices', 'api',
-    'fintech', 'neobank', 'challenger bank', 'payments', 'paytech',
-    'artificial intelligence', 'machine learning', 'large language model',
-    'cybersecurity', 'data breach', 'ransomware', 'zero trust',
-    'gdpr', 'regulation', 'compliance', 'eba', 'ecb', 'financial stability',
-    'open finance', 'account aggregation', 'data sharing',
-    'blockchain', 'stablecoin', 'cbdc', 'crypto',
-    'norway', 'norwegian', 'nordic', 'scandinavian', 'denmark', 'sweden', 'finland',
-  ],
-  low: [
-    'bank', 'finance', 'financial', 'digital', 'innovation', 'technology',
-    'data', 'security', 'risk', 'customer', 'european', 'payment', 'mobile',
-    'investment', 'insurance', 'insurtech', 'wealthtech',
-  ],
+const TAG_LABELS = {
+  'ai':           'AI & ML',
+  'cloud':        'Cloud',
+  'payments':     'Payments',
+  'security':     'Cybersecurity',
+  'regulation':   'Regulation',
+  'open-banking': 'Open Banking',
+  'nordic':       'Nordic',
+  'banking':      'Banking',
 };
-
-const TAGS = [
-  { filter: 'ai',           label: 'AI & ML',       kw: ['artificial intelligence','machine learning','llm','gpt','generative ai','chatbot','neural','deep learning','mlops','ai model','foundation model','copilot'] },
-  { filter: 'cloud',        label: 'Cloud',          kw: ['cloud','aws','azure','google cloud','saas','paas','kubernetes','microservice','serverless','devops','infrastructure'] },
-  { filter: 'payments',     label: 'Payments',       kw: ['payment','vipps','sepa','wallet','card','pos','checkout','instant pay','buy now pay later','bnpl','remittance','swift'] },
-  { filter: 'security',     label: 'Cybersecurity',  kw: ['security','cyber','fraud','breach','hack','phishing','ransomware','authentication','zero trust','bankid','biometric','dora','identity'] },
-  { filter: 'regulation',   label: 'Regulation',     kw: ['regulation','gdpr','psd2','psd3','compliance','eba','ecb','fsb','dora','mifid','basel','regtech','finanstilsynet','directive','legislation','central bank'] },
-  { filter: 'open-banking', label: 'Open Banking',   kw: ['open banking','open finance','api','psd','account aggregation','plaid','tink','data sharing','screen scraping','consent'] },
-  { filter: 'nordic',       label: 'Nordic',         kw: ['nordic','norway','norwegian','scandinavian','sweden','denmark','finland','sparebank','dnb','vipps','mobilepay','swish'] },
-  { filter: 'banking',      label: 'Banking',        kw: ['bank','banking','core banking','retail bank','commercial bank','branch','deposit','loan','mortgage','credit','saving','neobank','challenger'] },
-];
 
 // ─────────────────────────────────────────────────────────
 // State
 // ─────────────────────────────────────────────────────────
 let allArticles = [];
 let activeFilter = 'all';
-let searchQuery = '';
+let searchQuery  = '';
 
 // ─────────────────────────────────────────────────────────
 // Utils
 // ─────────────────────────────────────────────────────────
 
-function stripHtml(html = '') {
-  const d = document.createElement('div');
-  d.innerHTML = html;
-  return (d.textContent || d.innerText || '').trim();
-}
-
 function timeAgo(dateStr) {
   const date = new Date(dateStr);
   if (isNaN(date)) return '';
   const diff = (Date.now() - date) / 1000;
-  if (diff < 60)   return 'just now';
-  if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;
+  if (diff < 60)    return 'just now';
+  if (diff < 3600)  return `${Math.floor(diff / 60)}m ago`;
   if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
   if (diff < 604800) return `${Math.floor(diff / 86400)}d ago`;
   return date.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
-}
-
-function scoreRelevance(text) {
-  const t = text.toLowerCase();
-  let score = 0;
-  KW.high.forEach(k => { if (t.includes(k)) score += 12; });
-  KW.medium.forEach(k => { if (t.includes(k)) score += 4; });
-  KW.low.forEach(k => { if (t.includes(k)) score += 1; });
-  return Math.min(score, 100);
-}
-
-function getTags(text) {
-  const t = text.toLowerCase();
-  return TAGS.filter(rule => rule.kw.some(k => t.includes(k))).slice(0, 3);
 }
 
 function relClass(score) {
@@ -762,81 +703,47 @@ function relClass(score) {
   return 'rel-low';
 }
 
-function escHtml(str) {
+function escHtml(str = '') {
   return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
 // ─────────────────────────────────────────────────────────
-// Fetch
+// Data loading — reads pre-built articles.json
 // ─────────────────────────────────────────────────────────
 
-async function fetchFeed(feed) {
-  try {
-    const url = `${RSS2JSON}?rss_url=${encodeURIComponent(feed.url)}&count=20`;
-    const res = await fetch(url);
-    if (!res.ok) return [];
-    const data = await res.json();
-    if (data.status !== 'ok' || !data.items) return [];
-    return data.items.map(item => {
-      const summary = stripHtml(item.description || item.content || '').replace(/\s+/g, ' ').slice(0, 350);
-      return {
-        title: (item.title || '').trim(),
-        summary,
-        url: item.link || '#',
-        date: item.pubDate || '',
-        source: feed.name,
-        searchText: ((item.title || '') + ' ' + summary + ' ' + (item.categories || []).join(' ')).toLowerCase(),
-      };
-    }).filter(a => a.title && a.url && a.url !== '#');
-  } catch {
-    return [];
-  }
-}
-
 async function loadAllFeeds() {
-  const btn = document.getElementById('refreshBtn');
+  const btn  = document.getElementById('refreshBtn');
   const icon = document.getElementById('refreshIcon');
   btn.disabled = true;
   icon.classList.add('spin');
 
   document.getElementById('featuredGrid').innerHTML = skeletonCards(3, true);
-  document.getElementById('newsGrid').innerHTML = skeletonCards(9);
+  document.getElementById('newsGrid').innerHTML     = skeletonCards(9);
   document.getElementById('articleCount').textContent = '—';
-  document.getElementById('feedCount').textContent = '—';
-  document.getElementById('lastUpdated').textContent = 'Fetching…';
+  document.getElementById('feedCount').textContent    = '—';
+  document.getElementById('lastUpdated').textContent  = 'Loading…';
 
-  const results = await Promise.allSettled(FEEDS.map(fetchFeed));
-  let articles = [];
-  let successFeeds = 0;
-  results.forEach(r => {
-    if (r.status === 'fulfilled' && r.value.length > 0) {
-      articles = articles.concat(r.value);
-      successFeeds++;
-    }
-  });
+  try {
+    const res  = await fetch('./articles.json?_=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
 
-  // Score & enrich
-  articles = articles
-    .map(a => ({ ...a, relevance: scoreRelevance(a.searchText), tags: getTags(a.searchText) }))
-    .filter(a => a.relevance >= 3);
+    allArticles = data.articles || [];
 
-  // Deduplicate by title prefix
-  const seen = new Set();
-  articles = articles.filter(a => {
-    const key = a.title.toLowerCase().slice(0, 70);
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
-  });
-
-  // Sort: relevance first, then recency
-  articles.sort((a, b) => b.relevance - a.relevance || new Date(b.date) - new Date(a.date));
-
-  allArticles = articles;
-
-  const now = new Date();
-  document.getElementById('lastUpdated').textContent = `Updated ${now.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' })}`;
-  document.getElementById('feedCount').textContent = `${successFeeds} / ${FEEDS.length} sources`;
+    const gen = new Date(data.generated);
+    document.getElementById('lastUpdated').textContent =
+      `Updated ${gen.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })} · ${gen.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' })} UTC`;
+    document.getElementById('feedCount').textContent =
+      `${data.sources || 0} sources`;
+  } catch (e) {
+    document.getElementById('featuredGrid').innerHTML = '';
+    document.getElementById('newsGrid').innerHTML = `
+      <div class="empty" style="grid-column:1/-1">
+        <h3>Could not load articles</h3>
+        <p>${escHtml(e.message)} — articles are refreshed automatically every 6 hours.</p>
+      </div>`;
+    document.getElementById('lastUpdated').textContent = 'Unavailable';
+  }
 
   btn.disabled = false;
   icon.classList.remove('spin');
@@ -851,31 +758,31 @@ function renderArticles() {
   let list = allArticles;
 
   if (activeFilter !== 'all') {
-    list = list.filter(a => a.tags.some(t => t.filter === activeFilter));
+    list = list.filter(a => (a.tags || []).includes(activeFilter));
   }
 
   if (searchQuery) {
     const q = searchQuery.toLowerCase();
     list = list.filter(a =>
-      a.title.toLowerCase().includes(q) ||
-      a.summary.toLowerCase().includes(q) ||
-      a.source.toLowerCase().includes(q)
+      (a.title  || '').toLowerCase().includes(q) ||
+      (a.summary|| '').toLowerCase().includes(q) ||
+      (a.source || '').toLowerCase().includes(q)
     );
   }
 
   document.getElementById('articleCount').textContent = list.length;
 
   const featured = list.slice(0, 3);
-  const rest = list.slice(3);
+  const rest     = list.slice(3);
 
   document.getElementById('featuredGrid').innerHTML =
-    featured.length ? featured.map(a => renderFeatured(a)).join('') : '';
+    featured.length ? featured.map(renderFeatured).join('') : '';
 
   if (list.length === 0) {
     document.getElementById('newsGrid').innerHTML = `
       <div class="empty" style="grid-column:1/-1">
         <h3>No articles found</h3>
-        <p>Try a different filter or search term, or refresh to load new articles.</p>
+        <p>Try a different filter or search term.</p>
       </div>`;
     return;
   }
@@ -883,8 +790,10 @@ function renderArticles() {
   document.getElementById('newsGrid').innerHTML = rest.map(renderCard).join('');
 }
 
-function renderTags(tags) {
-  return tags.map(t => `<span class="tag tag-${t.filter}">${escHtml(t.label)}</span>`).join('');
+function renderTags(tags = []) {
+  return tags.map(t =>
+    `<span class="tag tag-${t}">${escHtml(TAG_LABELS[t] || t)}</span>`
+  ).join('');
 }
 
 function renderFeatured(a) {
@@ -898,7 +807,7 @@ function renderFeatured(a) {
     ${a.summary ? `<div class="card-summary">${escHtml(a.summary)}</div>` : ''}
     <div class="card-footer">
       <div class="tags">${renderTags(a.tags)}</div>
-      <span class="rel-dot ${relClass(a.relevance)}" title="Relevance score: ${a.relevance}"></span>
+      <span class="rel-dot ${relClass(a.relevance)}" title="Relevance: ${a.relevance}/100"></span>
     </div>
   </a>`;
 }
@@ -914,13 +823,13 @@ function renderCard(a) {
     ${a.summary ? `<div class="card-summary">${escHtml(a.summary)}</div>` : ''}
     <div class="card-footer">
       <div class="tags">${renderTags(a.tags)}</div>
-      <span class="rel-dot ${relClass(a.relevance)}" title="Relevance score: ${a.relevance}"></span>
+      <span class="rel-dot ${relClass(a.relevance)}" title="Relevance: ${a.relevance}/100"></span>
     </div>
   </a>`;
 }
 
 // ─────────────────────────────────────────────────────────
-// Skeleton helpers (inlined as strings for DRY template)
+// Skeletons
 // ─────────────────────────────────────────────────────────
 
 function skeletonCards(n, featured = false) {
@@ -971,10 +880,12 @@ document.querySelectorAll('.chip').forEach(chip => {
 // ─────────────────────────────────────────────────────────
 // Init
 // ─────────────────────────────────────────────────────────
-
-// Render static skeletons defined in HTML, then fetch
 loadAllFeeds();
 </script>
+
+<footer style="text-align:center;padding:2rem 1rem 2.5rem;font-size:0.8rem;color:var(--text-3);">
+  made with ❤️ by Daniel Andersen and Claude
+</footer>
 
 </body>
 </html>

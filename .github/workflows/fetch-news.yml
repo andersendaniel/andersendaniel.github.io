@@ -1,0 +1,33 @@
+name: Fetch News
+
+on:
+  schedule:
+    - cron: '0 5,11,17,23 * * *'   # 4× daily at 05, 11, 17, 23 UTC
+  workflow_dispatch:                 # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install feedparser -q
+
+      - name: Fetch articles
+        run: python sb1-pulse/fetch_news.py
+
+      - name: Commit updated articles
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sb1-pulse/articles.json
+          git diff --staged --quiet || git commit -m "chore: refresh news articles [skip ci]"
+          git push
