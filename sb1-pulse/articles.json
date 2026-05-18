@@ -1,7 +1,34 @@
 {
-  "generated": "2026-05-18T10:15:11.898685+00:00",
+  "generated": "2026-05-18T14:27:38.010401+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How We Protect Our Data as Customer Zero",
+      "summary": "We stress-test our security, compliance, and resilience tools at a massive scale. Learn how you can do the same.",
+      "url": "https://www.salesforce.com/blog/protecting-data-as-customer-zero/",
+      "date": "2026-05-18T13:50:55+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [
+        "security",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "The question your commercial data should already be able to answer",
+      "summary": "Seventy to eighty percent of patients with transthyretin amyloid cardiomyopathy (ATTR-CM), a progressive...",
+      "url": "https://www.databricks.com/blog/question-your-commercial-data-should-already-be-able-answer",
+      "date": "2026-05-18T12:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
       "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
@@ -215,15 +242,17 @@
       "image": null
     },
     {
-      "title": "A new personal finance experience in ChatGPT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "url": "https://openai.com/index/databricks",
       "date": "2026-05-15T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 13,
+      "relevance": 23,
       "tags": [
-        "ai"
+        "ai",
+        "data",
+        "automation"
       ],
       "image": null
     },
@@ -237,21 +266,6 @@
       "relevance": 2,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "url": "https://openai.com/index/databricks",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 23,
-      "tags": [
-        "ai",
-        "data",
-        "automation"
       ],
       "image": null
     },
@@ -277,6 +291,19 @@
       "category": "openai",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -679,36 +706,6 @@
       "image": null
     },
     {
-      "title": "Salesforce Headless 360: What the Agent Consumer Means for Your Integration Architecture",
-      "summary": "Understand where the new platform capabilities fit within established Salesforce integration patterns, and what shifts when agents become consumers of your org.",
-      "url": "https://www.salesforce.com/blog/headless-360-integration-architecture/",
-      "date": "2026-05-13T16:13:13+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [
-        "ai",
-        "data",
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "Meet Customers Where They Are: Agentforce Contact Center Now Offers WhatsApp Voice",
-      "summary": "Bring voice, messaging, CRM data, and AI together to deliver seamless, real-time support to customers directly on WhatsApp.",
-      "url": "https://www.salesforce.com/blog/agentforce-contact-center-whatsapp-voice/",
-      "date": "2026-05-13T16:08:29+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 18,
-      "tags": [
-        "ai",
-        "security",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "SAP Unveils Business AI Platform to Power the Autonomous Enterprise",
       "summary": "A bold new vision from SAP will enable customers to use agentic AI accurately, securely, and at scale.",
       "url": "https://news.sap.com/2026/05/sap-sapphire-keynote-business-ai-platform-power-autonomous-enterprise/",
@@ -719,6 +716,20 @@
       "tags": [
         "ai",
         "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "From commit to cloud: Powering what’s next for PostgreSQL",
+      "summary": "PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility. The post From commit to cloud: Powering what’s ne",
+      "url": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
+      "date": "2026-05-13T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "data"
       ],
       "image": null
     },
@@ -919,6 +930,19 @@
       "image": null
     },
     {
+      "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
+      "summary": "Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure. The post Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026 appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
+      "date": "2026-05-12T18:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan",
       "summary": "Starting June 1, our lineup of individual plans will update based on your feedback. The post GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan appeared first on The GitHub Blog .",
       "url": "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/",
@@ -929,19 +953,6 @@
       "tags": [
         "ai",
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "How CFOs in consulting can recover margin with Databricks",
-      "summary": "Consulting firms have a profitability problem, and it isn’t driven by lack of demand.Across...",
-      "url": "https://www.databricks.com/blog/how-cfos-consulting-can-recover-margin-databricks",
-      "date": "2026-05-12T17:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
       ],
       "image": null
     },
@@ -1040,15 +1051,16 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/logo-lockup-blog-SAP-1920x1080-1.jpg"
     },
     {
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "url": "https://openai.com/index/nvidia",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "url": "https://openai.com/index/autoscout24",
       "date": "2026-05-12T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 13,
+      "relevance": 17,
       "tags": [
-        "ai"
+        "ai",
+        "automation"
       ],
       "image": null
     },
@@ -1067,16 +1079,28 @@
       "image": null
     },
     {
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "url": "https://openai.com/index/autoscout24",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "url": "https://openai.com/index/nvidia",
       "date": "2026-05-12T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 17,
+      "relevance": 13,
       "tags": [
-        "ai",
-        "automation"
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift",
+      "summary": "Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance. The post Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
+      "date": "2026-05-11T19:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 6,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -1107,6 +1131,21 @@
         "ai",
         "cloud",
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026",
+      "summary": "AI is reshaping application development. Explore key trends from Cosmos DB Conf 2026 and how teams are building scalable, AI-native applications with Azure Cosmos DB. The post Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026 appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/",
+      "date": "2026-05-11T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "automation",
+        "developer"
       ],
       "image": null
     },
@@ -1929,21 +1968,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GCN26_103A_BlogHeader_2096x1182.max-600x600.format-webp.webp"
     },
     {
-      "title": "Microsoft Discovery: Advancing agentic R&D at scale",
-      "summary": "Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams. The post Microsoft Discovery: Advancing agentic R&D at scale appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
-      "date": "2026-04-22T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 17,
-      "tags": [
-        "ai",
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "1,302 real-world gen AI use cases from the world's leading organizations",
       "summary": "Text reads \"Google Cloud Next 26\"",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gen-ai-business-use-cases/",
@@ -2037,20 +2061,6 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/1-K_kcmoX-fIzTJ13T0-uF4gylS2tK00ZVvx87B2WSayzUS2fxDoDDXFq5hOhxptrBeG8AbjG_URN5OOTpGMqad9zILjMsTdAHWroiDKpziBQjzErw=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments",
-      "summary": "Azure Accelerate for Databases helps organizations modernize their databases and build AI-ready capabilities. The post Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
-      "date": "2026-04-22T00:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
     },
     {
       "title": "Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge",
