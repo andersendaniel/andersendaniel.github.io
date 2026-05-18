@@ -719,6 +719,8 @@ function filtered() {
       (a.source  || '').toLowerCase().includes(q)
     );
   }
+  // Always newest first
+  list = [...list].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
   return list;
 }
 

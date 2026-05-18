@@ -256,17 +256,16 @@ def main():
             seen.add(a["url"])
             deduped.append(a)
 
-    # Sort: relevance desc, then date desc
+    # Sort: newest first
     def sort_key(a):
-        ts = 0
         if a["date"]:
             try:
-                ts = datetime.fromisoformat(a["date"]).timestamp()
+                return datetime.fromisoformat(a["date"]).timestamp()
             except Exception:
                 pass
-        return (-a["relevance"], -ts)
+        return 0
 
-    deduped.sort(key=sort_key)
+    deduped.sort(key=sort_key, reverse=True)
 
     data = {
         "generated": datetime.now(timezone.utc).isoformat(),
