@@ -273,6 +273,42 @@
       white-space: nowrap;
     }
 
+    /* ── Update bar (below topbar) ─────────────────────── */
+    .update-bar {
+      background: var(--surface-2);
+      border-bottom: 1px solid var(--border);
+      padding: 0.4rem 1.5rem;
+      font-size: 0.75rem;
+      color: var(--text-3);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .update-bar strong { color: var(--text-2); font-weight: 600; }
+
+    /* ── Toast ─────────────────────────────────────────── */
+    .toast {
+      position: fixed;
+      bottom: 1.5rem;
+      left: 50%;
+      transform: translateX(-50%) translateY(8px);
+      background: var(--navy);
+      color: #fff;
+      font-size: 0.82rem;
+      font-weight: 500;
+      padding: 0.55rem 1.1rem;
+      border-radius: 999px;
+      opacity: 0;
+      transition: opacity 0.2s, transform 0.2s;
+      pointer-events: none;
+      white-space: nowrap;
+      z-index: 999;
+    }
+    .toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
     /* ── Feed ───────────────────────────────────────────── */
     .feed {
       max-width: 740px;
@@ -461,6 +497,7 @@
       .feed-area { margin-left: 0; }
       .hamburger { display: flex; }
       .topbar-meta { display: none; }
+      .update-bar { padding: 0.4rem 0.875rem; }
       .feed { padding: 0 0.875rem; }
       .topbar { padding: 0 0.875rem; }
       .fi-thumb-wrap { width: 60px; height: 60px; }
@@ -473,6 +510,9 @@
   </style>
 </head>
 <body>
+
+<!-- Toast notification -->
+<div class="toast" id="toast"></div>
 
 <!-- Mobile overlay -->
 <div class="overlay" id="overlay"></div>
@@ -520,16 +560,22 @@
       <input id="searchInput" type="text" placeholder="Search articles…" autocomplete="off" />
     </div>
 
-    <button class="btn-refresh" id="refreshBtn">
+    <button class="btn-refresh" id="refreshBtn" title="Reload the current articles (news updates automatically 4× per day)">
       <svg id="refreshIcon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
         <polyline points="23 4 23 10 17 10"/>
         <polyline points="1 20 1 14 7 14"/>
         <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
       </svg>
-      Refresh
+      Reload
     </button>
 
     <span class="topbar-meta" id="metaText">Loading…</span>
+  </div>
+
+  <!-- Update bar -->
+  <div class="update-bar" id="updateBar" style="display:none">
+    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="flex-shrink:0"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+    <span id="updateBarText">Loading…</span>
   </div>
 
   <!-- Feed -->
@@ -609,13 +655,22 @@ function faviconUrl(category) {
 // Data loading
 // ─────────────────────────────────────────────────────────────
 
+let isFirstLoad = true;
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2800);
+}
+
 async function loadData() {
   const btn  = document.getElementById('refreshBtn');
   const icon = document.getElementById('refreshIcon');
   btn.disabled = true;
   icon.classList.add('spin');
   document.getElementById('metaText').textContent = 'Loading…';
-  document.getElementById('feed').innerHTML = skelItems(10);
+  if (isFirstLoad) document.getElementById('feed').innerHTML = skelItems(10);
 
   try {
     const res  = await fetch('./articles.json?_=' + Date.now());
@@ -624,19 +679,30 @@ async function loadData() {
 
     allArticles = data.articles || [];
 
-    const gen = new Date(data.generated);
+    const gen     = new Date(data.generated);
     const dateStr = gen.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
     const timeStr = gen.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
-    document.getElementById('metaText').textContent =
-      `${allArticles.length} articles · ${dateStr} ${timeStr} UTC`;
+    const metaStr = `${allArticles.length} articles · ${dateStr} ${timeStr} UTC`;
+    document.getElementById('metaText').textContent = metaStr;
+
+    // Update bar (always visible, including mobile)
+    const bar = document.getElementById('updateBar');
+    bar.style.display = 'flex';
+    document.getElementById('updateBarText').innerHTML =
+      `<strong>${allArticles.length} articles</strong> &nbsp;·&nbsp; Last fetched ${dateStr} at ${timeStr} UTC &nbsp;·&nbsp; Auto-updates 4× daily`;
 
     buildSidebar();
     renderFeed();
+
+    if (!isFirstLoad) showToast(`Reloaded — ${allArticles.length} articles, last fetched ${timeStr} UTC`);
+    isFirstLoad = false;
 
   } catch (e) {
     document.getElementById('feed').innerHTML =
       `<div class="empty"><h3>Could not load articles</h3><p>${esc(e.message)}</p></div>`;
     document.getElementById('metaText').textContent = 'Error';
+    if (!isFirstLoad) showToast('Reload failed — check your connection');
+    isFirstLoad = false;
   }
 
   btn.disabled = false;
