@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch European fintech/banking RSS feeds and generate articles.json for SB1 Pulse."""
+"""Fetch tech-vendor RSS feeds and generate articles.json for SB1 Pulse."""
 
 import json
 import re
@@ -15,58 +15,94 @@ except ImportError:
     subprocess.check_call([sys.executable, "-m", "pip", "install", "feedparser", "-q"])
     import feedparser
 
+# ---------------------------------------------------------------------------
+# Feed definitions  (category drives sidebar grouping in the frontend)
+# ---------------------------------------------------------------------------
 FEEDS = [
-    {"url": "https://www.finextra.com/rss/headlines.aspx",        "name": "Finextra"},
-    {"url": "https://www.bankingtech.com/feed/",                  "name": "Banking Technology"},
-    {"url": "https://www.fintechfutures.com/feed/",               "name": "Fintech Futures"},
-    {"url": "https://techcrunch.com/tag/fintech/feed/",           "name": "TechCrunch Fintech"},
-    {"url": "https://www.pymnts.com/feed/",                       "name": "PYMNTS"},
-    {"url": "https://nordicfintech.io/feed/",                     "name": "Nordic Fintech"},
-    {"url": "https://sifted.eu/feed/",                            "name": "Sifted"},
-    {"url": "https://thepaypers.com/rss/",                        "name": "The Paypers"},
-    {"url": "https://www.computerweekly.com/rss/IT-industry.xml", "name": "Computer Weekly"},
-    {"url": "https://feeds.feedburner.com/LeMondeInformatique",   "name": "Finance Forward"},
-    {"url": "https://www.euromoney.com/rss.xml",                  "name": "Euromoney"},
+    # Microsoft
+    {"url": "https://azure.microsoft.com/en-us/blog/feed/",              "name": "Azure Blog",        "category": "microsoft", "limit": 15},
+    {"url": "https://blogs.microsoft.com/ai/feed/",                      "name": "Microsoft AI",      "category": "microsoft", "limit": 15},
+    {"url": "https://www.microsoft.com/en-us/microsoft-365/blog/feed/",  "name": "Microsoft 365",     "category": "microsoft", "limit": 10},
+    # Amazon / AWS
+    {"url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",   "name": "AWS What's New",    "category": "aws",       "limit": 15},
+    {"url": "https://aws.amazon.com/blogs/aws/feed/",                    "name": "AWS Blog",          "category": "aws",       "limit": 15},
+    # Google
+    {"url": "https://cloudblog.withgoogle.com/rss.xml",                  "name": "Google Cloud Blog", "category": "google",    "limit": 15},
+    {"url": "https://deepmind.google/blog/rss.xml",                      "name": "Google DeepMind",   "category": "google",    "limit": 15},
+    # OpenAI
+    {"url": "https://openai.com/blog/rss.xml",                           "name": "OpenAI Blog",       "category": "openai",    "limit": 15},
+    # Anthropic
+    {"url": "https://www.anthropic.com/news/rss",                        "name": "Anthropic News",    "category": "anthropic", "limit": 15},
+    # ServiceNow
+    {"url": "https://www.servicenow.com/company/media/press-room/rss.xml", "name": "ServiceNow News", "category": "servicenow","limit": 10},
+    # Salesforce
+    {"url": "https://www.salesforce.com/blog/feed/",                     "name": "Salesforce Blog",   "category": "salesforce","limit": 15},
+    # SAP
+    {"url": "https://news.sap.com/feed/",                                "name": "SAP News",          "category": "sap",       "limit": 15},
+    # Meta
+    {"url": "https://engineering.fb.com/feed/",                          "name": "Meta Engineering",  "category": "meta",      "limit": 10},
+    # IBM
+    {"url": "https://research.ibm.com/blog/rss",                         "name": "IBM Research",      "category": "ibm",       "limit": 10},
+    # NVIDIA
+    {"url": "https://blogs.nvidia.com/feed/",                            "name": "NVIDIA Blog",       "category": "nvidia",    "limit": 15},
+    # GitHub
+    {"url": "https://github.blog/feed/",                                 "name": "GitHub Blog",       "category": "github",    "limit": 10},
 ]
 
+# ---------------------------------------------------------------------------
+# Relevance scoring  (tuned for banking/financial services sales context)
+# ---------------------------------------------------------------------------
 HIGH_KW = [
-    "sparebank", "vipps", "bankid", "nordic bank", "norwegian bank",
-    "open banking", "psd2", "psd3", "dora", "instant payment", "sepa instant",
-    "core banking", "cloud banking", "ai in banking", "generative ai bank",
-    "digital banking", "mobile banking", "embedded finance", "buy now pay later",
+    # Direct banking/finance
+    "bank", "banking", "financial services", "financial institution",
+    "insurance", "wealth management", "asset management",
+    "sparebank", "dnb", "nordic bank", "norwegian bank",
+    # Banking AI/tech use cases
     "fraud detection", "anti money laundering", "aml", "kyc",
-    "banking as a service", "baas", "open finance",
+    "credit risk", "credit scoring", "loan origination", "mortgage",
+    "payments", "open banking", "instant payment",
+    # Regulatory
+    "dora", "psd2", "psd3", "gdpr", "financial regulation", "fintech",
+    "regulatory compliance", "financial compliance",
+    # AI products (universally relevant to AI/cloud sales)
+    "generative ai", "large language model", "llm", "foundation model",
+    "agentic ai", "ai agent", "copilot", "gpt", "claude", "gemini",
+    "bedrock", "watsonx", "vertex ai", "azure openai",
 ]
 
 MEDIUM_KW = [
-    "cloud", "aws", "azure", "google cloud", "microservices",
-    "fintech", "neobank", "challenger bank", "payments", "paytech",
-    "artificial intelligence", "machine learning", "large language model", "llm",
-    "cybersecurity", "data breach", "ransomware", "zero trust",
-    "gdpr", "regulation", "compliance", "eba", "ecb", "financial stability",
-    "account aggregation", "data sharing", "blockchain", "stablecoin", "cbdc",
-    "norway", "norwegian", "nordic", "scandinavian",
+    "enterprise", "digital transformation", "cloud migration",
+    "machine learning", "artificial intelligence", "deep learning",
+    "cybersecurity", "zero trust", "identity", "data protection",
+    "microservices", "kubernetes", "serverless", "devops",
+    "analytics", "real-time", "data platform", "data lakehouse",
+    "automation", "workflow", "low-code", "no-code",
+    "saas", "paas", "cloud native", "hybrid cloud", "multicloud",
+    "norway", "nordic", "scandinavian", "europe",
 ]
 
 LOW_KW = [
-    "bank", "finance", "financial", "digital", "innovation", "technology",
-    "data", "security", "risk", "customer", "european", "payment", "mobile",
-    "investment", "insurance", "insurtech", "wealthtech",
+    "cloud", "ai", "data", "security", "platform", "api",
+    "integration", "developer", "open source", "innovation",
+    "productivity", "collaboration", "model", "inference",
 ]
 
 TAGS_CONFIG = [
-    {"filter": "ai",           "kw": ["artificial intelligence", "machine learning", "llm", "gpt", "generative ai", "chatbot", "neural", "deep learning", "mlops", "ai model", "foundation model", "copilot", "large language"]},
-    {"filter": "cloud",        "kw": ["cloud", "aws", "azure", "google cloud", "saas", "paas", "kubernetes", "microservice", "serverless", "devops", "infrastructure"]},
-    {"filter": "payments",     "kw": ["payment", "vipps", "sepa", "wallet", "card", "pos", "checkout", "instant pay", "buy now pay later", "bnpl", "remittance", "swift", "paytech"]},
-    {"filter": "security",     "kw": ["security", "cyber", "fraud", "breach", "hack", "phishing", "ransomware", "authentication", "zero trust", "bankid", "biometric", "dora", "identity theft"]},
-    {"filter": "regulation",   "kw": ["regulation", "gdpr", "psd2", "psd3", "compliance", "eba", "ecb", "fsb", "dora", "mifid", "basel", "regtech", "finanstilsynet", "directive", "legislation", "central bank"]},
-    {"filter": "open-banking", "kw": ["open banking", "open finance", "account aggregation", "plaid", "tink", "data sharing", "consent", "api banking"]},
-    {"filter": "nordic",       "kw": ["nordic", "norway", "norwegian", "scandinavian", "sweden", "denmark", "finland", "sparebank", "dnb", "vipps", "mobilepay", "swish"]},
-    {"filter": "banking",      "kw": ["bank", "banking", "core banking", "retail bank", "commercial bank", "deposit", "loan", "mortgage", "credit", "neobank", "challenger bank"]},
+    {"filter": "ai",         "kw": ["artificial intelligence", "machine learning", "llm", "gpt", "generative ai", "copilot", "agent", "agentic", "neural", "foundation model", "claude", "gemini", "bedrock", "watsonx", "deepmind", "chatbot", "nlp", "computer vision"]},
+    {"filter": "cloud",      "kw": ["cloud", "aws", "azure", "google cloud", "kubernetes", "serverless", "infrastructure", "multicloud", "hybrid cloud", "data center", "paas", "iaas", "saas"]},
+    {"filter": "security",   "kw": ["security", "cyber", "fraud", "breach", "zero trust", "identity", "authentication", "compliance", "dora", "ransomware", "threat", "vulnerability", "aml", "kyc"]},
+    {"filter": "data",       "kw": ["data", "analytics", "database", "warehouse", "lakehouse", "fabric", "bi", "reporting", "pipeline", "etl", "real-time data", "streaming"]},
+    {"filter": "banking",    "kw": ["bank", "banking", "financial services", "payments", "lending", "credit", "mortgage", "wealth", "insurance", "fintech", "fraud detection", "open banking"]},
+    {"filter": "automation", "kw": ["automation", "workflow", "process", "rpa", "low-code", "no-code", "power automate", "integration", "api", "agentic", "servicenow", "salesforce flow"]},
+    {"filter": "developer",  "kw": ["developer", "github", "devops", "copilot", "coding", "api", "sdk", "open source", "ci/cd", "devsecops", "platform engineering", "innersource"]},
 ]
 
 
-class _HTMLStripper(HTMLParser):
+# ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+
+class _Stripper(HTMLParser):
     def __init__(self):
         super().__init__()
         self._parts = []
@@ -78,16 +114,16 @@ class _HTMLStripper(HTMLParser):
         return re.sub(r"\s+", " ", " ".join(self._parts)).strip()
 
 
-def strip_html(html: str) -> str:
+def strip_html(html):
     try:
-        s = _HTMLStripper()
+        s = _Stripper()
         s.feed(html or "")
         return s.get_text()
     except Exception:
         return re.sub(r"<[^>]+>", "", html or "").strip()
 
 
-def score(text: str) -> int:
+def score(text):
     t = text.lower()
     s = 0
     for kw in HIGH_KW:
@@ -102,7 +138,7 @@ def score(text: str) -> int:
     return min(s, 100)
 
 
-def get_tags(text: str) -> list[str]:
+def get_tags(text):
     t = text.lower()
     return [rule["filter"] for rule in TAGS_CONFIG if any(kw in t for kw in rule["kw"])][:3]
 
@@ -118,6 +154,23 @@ def parse_date(entry):
     return None
 
 
+def extract_image(entry):
+    for attr in ("media_content", "media_thumbnail"):
+        items = getattr(entry, attr, None)
+        if items and isinstance(items, list):
+            url = items[0].get("url", "")
+            if url and url.startswith("http"):
+                return url
+    for enc in getattr(entry, "enclosures", []):
+        if enc.get("type", "").startswith("image/"):
+            return enc.get("href") or enc.get("url")
+    return None
+
+
+# ---------------------------------------------------------------------------
+# Fetch
+# ---------------------------------------------------------------------------
+
 def fetch_feed(feed):
     print(f"  {feed['name']}...", end=" ", flush=True)
     try:
@@ -126,9 +179,10 @@ def fetch_feed(feed):
             request_headers={"User-Agent": "SB1Pulse/1.0 (+https://andersendaniel.github.io)"},
         )
         cutoff = datetime.now(timezone.utc) - timedelta(days=30)
+        limit = feed.get("limit", 15)
         articles = []
 
-        for entry in parsed.entries[:30]:
+        for entry in parsed.entries[:limit]:
             title = (entry.get("title") or "").strip()
             link = entry.get("link") or ""
             if not title or not link:
@@ -148,8 +202,9 @@ def fetch_feed(feed):
                 or (entry.get("content") or [{}])[0].get("value", "")
             )
             summary = strip_html(raw)[:400]
+            image = extract_image(entry)
 
-            search = (title + " " + summary).lower()
+            search = (title + " " + summary + " " + feed["name"]).lower()
             relevance = score(search)
             if relevance < 3:
                 continue
@@ -160,8 +215,10 @@ def fetch_feed(feed):
                 "url": link,
                 "date": date_str or "",
                 "source": feed["name"],
+                "category": feed["category"],
                 "relevance": relevance,
                 "tags": get_tags(search),
+                "image": image,
             })
 
         print(f"{len(articles)} articles")
@@ -172,28 +229,37 @@ def fetch_feed(feed):
         return []
 
 
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
 def main():
     out = Path(__file__).parent / "articles.json"
-    print("SB1 Pulse — fetching news\n")
+    print("SB1 Pulse — fetching vendor news\n")
 
     all_articles = []
     for feed in FEEDS:
         all_articles.extend(fetch_feed(feed))
 
-    # Deduplicate by title
+    # Deduplicate by URL (vendor blogs reuse title patterns)
     seen = set()
     deduped = []
     for a in all_articles:
-        key = a["title"].lower()[:70]
-        if key not in seen:
-            seen.add(key)
+        if a["url"] not in seen:
+            seen.add(a["url"])
             deduped.append(a)
 
     # Sort: relevance desc, then date desc
-    deduped.sort(key=lambda a: (
-        -a["relevance"],
-        -(datetime.fromisoformat(a["date"]).timestamp() if a["date"] else 0),
-    ))
+    def sort_key(a):
+        ts = 0
+        if a["date"]:
+            try:
+                ts = datetime.fromisoformat(a["date"]).timestamp()
+            except Exception:
+                pass
+        return (-a["relevance"], -ts)
+
+    deduped.sort(key=sort_key)
 
     data = {
         "generated": datetime.now(timezone.utc).isoformat(),

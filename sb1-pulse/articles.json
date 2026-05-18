@@ -1,271 +1,833 @@
 {
-  "generated": "2026-05-18T08:12:51.666317+00:00",
-  "sources": 11,
+  "generated": "2026-05-18T09:13:40.955279+00:00",
+  "sources": 16,
   "articles": [
     {
-      "title": "Risk Control Regulation: How European Issuers Are Approaching Digital Assets",
-      "summary": "At NextGen Nordics 2026 in Stockholm, Francesco Dallesandro, head of sales, cards and payments, Europe, FIS provided insights into stablecoin adoption and the digital euro. Dallesandro explained that European issuers are not currently looking at the digital euro as an an individual rail, but are instead thinking more holistically about a new ecosystem of CBDCs, tokenised assets and regulated stabl",
-      "url": "https://www.finextra.com/videoarticle/3500/risk-control-regulation-how-european-issuers-are-approaching-digital-assets?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-15T11:00:00+00:00",
-      "source": "Finextra",
+      "title": "Top announcements of the What’s Next with AWS, 2026",
+      "summary": "At the \"What's Next with AWS\" 2026 event, AWS launched Amazon Quick—an AI assistant for work with a desktop app and expanded integrations—and expanded Amazon Connect into four agentic AI solutions for supply chain, hiring, customer experience, and healthcare. AWS also expended its partnership with OpenAI, bringing models like GPT-5.5, Codex, and Managed Agents to Amazon Bedrock in limited preview.",
+      "url": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-whats-next-with-aws-2026/",
+      "date": "2026-04-28T18:11:39+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 39,
+      "tags": [
+        "ai",
+        "cloud",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more (May 11, 2026)",
+      "summary": "My most exciting news of last week: Amazon Bedrock AgentCore previewed the first managed payment capabilities enabling AI agents to autonomously access and pay for APIs, MCP servers, web content, and other agents. Built in partnership with Coinbase and Stripe, it removes the undifferentiated heavy lifting of building customized systems for billing, credential management, and […]",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agentcore-payments-agent-toolkit-for-aws-and-more-may-11-2026/",
+      "date": "2026-05-11T16:08:26+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 38,
+      "tags": [
+        "ai",
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
+      "summary": "AI agents have revolutionized developer workflows, and their next frontier is knowledge work: processing information, solving complex problems, coming up with new ideas and driving innovation. Codex, OpenAI’s agentic coding application, is enabling this new frontier. It’s now powered by GPT-5.5, OpenAI’s latest frontier model, which runs on NVIDIA GB200 NVL72 rack-scale systems. Over 10,000 […]",
+      "url": "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/",
+      "date": "2026-04-23T18:57:55+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 32,
+      "tags": [
+        "ai",
+        "cloud",
+        "automation"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/logo-lockup-codex-tech-blog-v-1920x1080-5175350.png"
+    },
+    {
+      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
+      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
+      "date": "2026-04-20T15:53:21+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 30,
+      "tags": [
+        "ai",
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+      "summary": "Agentic AI is changing the way users get work done. Following the success of OpenClaw, the community is embracing new open source agentic frameworks. The latest is Hermes Agent, which crossed 140,000 GitHub stars in under three months.",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/",
+      "date": "2026-05-13T13:00:10+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 26,
+      "tags": [
+        "ai",
+        "automation",
+        "developer"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/rtx-ai-garage-hermes.jpeg"
+    },
+    {
+      "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
+      "summary": "Late March took me to Seattle for the Specialist Tech Conference, one of the most energizing gatherings of AWS specialists from around the world. It was an incredible opportunity to connect with peers, exchange experiences, and go deep on the latest advancements in Generative AI and Amazon Bedrock — and a powerful reminder of something […]",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/",
+      "date": "2026-04-27T15:01:28+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 25,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "How BCU Is Transforming Banking Service with Agentforce",
+      "summary": "Discover how BCU’s partnership with NeuraFlash provided them with the expertise and support needed to launch an agent that delivers human-centered service on demand. BCU is a leading member-owned credit union with over…",
+      "url": "https://www.salesforce.com/blog/how-bcu-is-transforming-banking-service-with-agentforce/",
+      "date": "2026-05-13T20:09:52+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
       "relevance": 24,
       "tags": [
-        "payments",
-        "regulation",
-        "nordic"
-      ]
+        "ai",
+        "banking"
+      ],
+      "image": null
     },
     {
-      "title": "How SEPA Will Be the Backbone of Modern European Payments Sovereignty",
-      "summary": "Whilst attending Diebold Nixdorf Intersect event in Cannes, Regis Folbaum, CEO, STET spoke to FinextraTV about the progress SEPA has made with European alignment. Discussing what this alignment means for the payments industry, Folbaum mentioned instant payments regulation and growing adoption of domestic card schemes, professing that SEPA will be the backbone of this next wave of European payments",
-      "url": "https://www.finextra.com/videoarticle/3499/how-sepa-will-be-the-backbone-of-modern-european-payments-sovereignty?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-14T15:00:00+00:00",
-      "source": "Finextra",
-      "relevance": 22,
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "url": "https://openai.com/index/databricks",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 23,
       "tags": [
-        "payments",
-        "regulation"
-      ]
+        "ai",
+        "data",
+        "automation"
+      ],
+      "image": null
     },
     {
-      "title": "Fasset raises $51m for stablecoin-powered digital banking",
-      "summary": "Stablecoin-powered digital banking and investment platform Fasset has raised $51 million in Series B funding.",
-      "url": "https://www.finextra.com/newsarticle/47755/fasset-raises-51m-for-stablecoin-powered-digital-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-15T00:01:00+00:00",
-      "source": "Finextra",
+      "title": "Announcing New Joule Studio for Enterprise Scale Agentic Development",
+      "summary": "The bold, fully managed offering empowers enterprises to build and manage the full life cycle of AI agents, applications, and workflows",
+      "url": "https://news.sap.com/2026/05/new-joule-studio-enterprise-scale-agentic-development/",
+      "date": "2026-05-13T11:59:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 21,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)",
+      "summary": "Amazon WorkSpaces now lets AI agents securely operate legacy desktop applications—without APIs or modernization—using IAM authentication, MCP support, and computer vision within existing security frameworks.",
+      "url": "https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/",
+      "date": "2026-05-05T17:23:40+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
       "relevance": 19,
       "tags": [
-        "banking"
-      ]
+        "ai",
+        "cloud",
+        "security"
+      ],
+      "image": null
     },
     {
-      "title": "Equipifi secures $34m to help banks embed BNPL",
-      "summary": "Equipifi, the fintech platform enabling banks and credit unions to offer flexible payment solutions natively within their digital banking experience, today announced the close of its $34-million Series B.",
-      "url": "https://www.finextra.com/pressarticle/109852/equipifi-secures-34m-to-help-banks-embed-bnpl?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-14T18:19:00+00:00",
-      "source": "Finextra",
+      "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
+      "summary": "OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work. The post OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
+      "date": "2026-04-23T22:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
       "relevance": 19,
       "tags": [
-        "payments",
-        "banking"
-      ]
+        "ai",
+        "cloud"
+      ],
+      "image": null
     },
     {
-      "title": "AI Agents Turn Open Banking Into an Accountability Test",
-      "summary": "Banks have spent years building the data pipes. This week, the industry confronted what happens when artificial intelligence (AI) agents start running through them: who builds the infrastructure, who sets the rules and who captures the value. Inside Fiserv’s Bet on a Single AI Operating System for Banks Banks have spent years running disconnected […] The post AI Agents Turn Open Banking Into an Ac",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ai-agents-turn-open-banking-into-an-accountability-test/",
-      "date": "2026-05-18T08:00:35+00:00",
-      "source": "PYMNTS",
+      "title": "Meet Customers Where They Are: Agentforce Contact Center Now Offers WhatsApp Voice",
+      "summary": "Bring voice, messaging, CRM data, and AI together to deliver seamless, real-time support to customers directly on WhatsApp.",
+      "url": "https://www.salesforce.com/blog/agentforce-contact-center-whatsapp-voice/",
+      "date": "2026-05-13T16:08:29+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
       "relevance": 18,
       "tags": [
         "ai",
-        "cloud",
-        "payments"
-      ]
+        "security",
+        "data"
+      ],
+      "image": null
     },
     {
-      "title": "How Early Digital Payments Adoption in the Nordics Influenced Its Growth",
-      "summary": "Taking time out of NextGen Nordics in Stockholm, Erik Gutwasser, President, Northern Europe, Mastercard joined FinextraTV to discuss how digitlisation is changing in the Nordic markets. Beginning by establishing the Nordics as the most digitalised payment society globally, Gutwasser explained how Fintech firms in the region were early adopters of one-click checkouts and this has provided easier op",
-      "url": "https://www.finextra.com/videoarticle/3498/how-early-digital-payments-adoption-in-the-nordics-influenced-its-growth?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-13T15:00:00+00:00",
-      "source": "Finextra",
-      "relevance": 14,
-      "tags": [
-        "payments",
-        "nordic"
-      ]
-    },
-    {
-      "title": "Paymentology CEO Says Payments Has a New Legacy Problem",
-      "summary": "Watch more: The Digital Shift With Paymentology’s Jeff Parker Here’s a thought no one in payments likes to say out loud. A lot of the infrastructure that was supposed to replace the old stuff is becoming the old stuff. Banks built digital front ends. FinTechs built slick apps. But underneath, the issuer-processing layer, the […] The post Paymentology CEO Says Payments Has a New Legacy Problem appe",
-      "url": "https://www.pymnts.com/technology/2026/paymentology-ceo-says-payments-has-a-new-legacy-problem/",
-      "date": "2026-05-18T08:03:46+00:00",
-      "source": "PYMNTS",
-      "relevance": 11,
-      "tags": [
-        "cloud",
-        "payments",
-        "banking"
-      ]
-    },
-    {
-      "title": "Banks and FinTechs Watch as Regulators Redraw Data Rules",
-      "summary": "For years, the debate about data and market power has lived mostly in antitrust courts and academic journals. That changes when AI enters the picture. A new analysis from the European Commission’s Joint Research Centre puts a sharper edge on a question the banking and FinTech sectors can no longer treat as someone else’s problem: […] The post Banks and FinTechs Watch as Regulators Redraw Data Rule",
-      "url": "https://www.pymnts.com/data/2026/banks-and-fintechs-watch-as-regulators-redraw-data-rules/",
-      "date": "2026-05-18T08:00:02+00:00",
-      "source": "PYMNTS",
-      "relevance": 11,
-      "tags": [
-        "payments",
-        "regulation",
-        "banking"
-      ]
-    },
-    {
-      "title": "More than 4 in 10 Digital Bank Users Prefer Wallets Over Cards",
-      "summary": "Digital bank customers are not just experimenting with new payment methods. They are increasingly reshaping what mainstream payments behavior looks like, particularly as mobile-first consumers lean into digital wallets and become more comfortable moving money directly from bank accounts. The PYMNTS Intelligence report, “Pay by Bank Deep Dive: Digital Bank Users Are Ready to […] The post More than ",
-      "url": "https://www.pymnts.com/news/payment-methods/2026/more-than-4-in-10-digital-bank-users-prefer-wallets-over-cards/",
-      "date": "2026-05-18T08:00:58+00:00",
-      "source": "PYMNTS",
-      "relevance": 9,
-      "tags": [
-        "payments",
-        "banking"
-      ]
-    },
-    {
-      "title": "CFOs See AR Automation Driving Growth in B2B Payments",
-      "summary": "For today’s CFO, modernization isn’t about efficiency alone. It’s about removing the manual, painstaking work that keeps finance teams stuck in the back office — and freeing them to focus on more strategic, customer-focused initiatives that drive growth. Yet many accounts receivable (AR) functions remain anchored in spreadsheets, email chains and follow-ups, even as […] The post CFOs See AR Automa",
-      "url": "https://www.pymnts.com/accounts-receivable/2026/cfos-see-ar-automation-driving-growth-in-b2b-payments/",
-      "date": "2026-05-18T08:02:49+00:00",
-      "source": "PYMNTS",
-      "relevance": 7,
-      "tags": [
-        "payments"
-      ]
-    },
-    {
-      "title": "NAB buys A2A payments platform Banked",
-      "summary": "National Australia Bank has acquired account-to-account payments platform Banked. Financial terms were not disclosed.",
-      "url": "https://www.finextra.com/newsarticle/47761/nab-buys-a2a-payments-platform-banked?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-15T14:07:00+00:00",
-      "source": "Finextra",
-      "relevance": 7,
-      "tags": [
-        "payments",
-        "banking"
-      ]
-    },
-    {
-      "title": "Adyen collaborates SAP on Unified Payments solution",
-      "summary": "Adyen, the financial technology platform of choice for leading businesses, today announced a new collaboration with SAP, deepening its partnership to support the launch of the SAP Unified Payment solution.",
-      "url": "https://www.finextra.com/pressarticle/109851/adyen-collaborates-sap-on-unified-payments-solution?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-14T18:14:00+00:00",
-      "source": "Finextra",
-      "relevance": 7,
-      "tags": [
-        "payments"
-      ]
-    },
-    {
-      "title": "Revolut primed for wealth management push after FCA approval",
-      "summary": "Challenger bank Revolut is set to expand its investment services in the UK after securing a series of permissions from the Financial Conduct Authority (FCA).",
-      "url": "https://www.finextra.com/newsarticle/47752/revolut-primed-for-wealth-management-push-after-fca-approval?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-14T10:15:00+00:00",
-      "source": "Finextra",
-      "relevance": 7,
-      "tags": [
-        "banking"
-      ]
-    },
-    {
-      "title": "Small-Business Banking Has a Segmentation Problem",
-      "summary": "The term “small business” has traditionally functioned as a sort of economic shorthand. Banks, payment companies, FinTech firms, and even policymakers spoke about small-and-medium-sized businesses (SMBs) as if they formed a single commercial bloc moving through the economy at roughly the same speed and under roughly the same conditions. But new findings in the […] The post Small-Business Banking H",
-      "url": "https://www.pymnts.com/news/banking/2026/small-business-banking-has-a-segmentation-problem/",
-      "date": "2026-05-18T08:00:01+00:00",
-      "source": "PYMNTS",
-      "relevance": 6,
-      "tags": [
-        "payments",
-        "banking"
-      ]
-    },
-    {
-      "title": "BofE to soften plans for stablecoin restrictions",
-      "summary": "The Bank of England look set to ease planned stablecoin restrictions in the face of industry pushback, according to the Financial Times.",
-      "url": "https://www.finextra.com/newsarticle/47757/bofe-to-soften-plans-for-stablecoin-restrictions?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-14T18:22:00+00:00",
-      "source": "Finextra",
-      "relevance": 6,
-      "tags": [
-        "banking"
-      ]
-    },
-    {
-      "title": "Endava teas up with Tyl by NatWest",
-      "summary": "Endava, the technology-driven business transformation group whose AI-native approach combines cutting-edge technology with deep industry expertise today announced a strategic partnership with Tyl by NatWest, NatWest Group’s merchant-payments arm, to accelerate the evolution of its offering.",
-      "url": "https://www.finextra.com/pressarticle/109847/endava-teas-up-with-tyl-by-natwest?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-14T14:58:00+00:00",
-      "source": "Finextra",
-      "relevance": 6,
-      "tags": [
-        "payments"
-      ]
-    },
-    {
-      "title": "Frictionless Checkouts: How Much Invisibility Is Too Much?",
-      "summary": "Joining FinextraTV's virtual studio, Rachel Whelan, Managing Director, APAC & MEA Head of Corporate Cash Management & Global Head of Payments & TFX Product Mgmt at Deutsche Bank, explained the particular friction points that make a transaction safe, without being slow. Whelan explains that invisible payments are not about removing friction entirely, but more successfully embedding it into differen",
-      "url": "https://www.finextra.com/videoarticle/3495/frictionless-checkouts-how-much-invisibility-is-too-much?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-12T09:00:00+00:00",
-      "source": "Finextra",
-      "relevance": 6,
-      "tags": [
-        "payments",
-        "banking"
-      ]
-    },
-    {
-      "title": "Earnings Reveal New Race to Control the Merchant Stack",
-      "summary": "For years, merchant services centered on moving money from cardholder to business. The current earnings season gives proof that business has become far broader, encompassing everything from payments to back-office efficiency. Across quarterly updates from Block, PayPal, Shopify and Fiserv, executives described merchants grappling with rising operating complexity, fragmented sales channels and pres",
-      "url": "https://www.pymnts.com/news/merchant-innovation/2026/earnings-reports-reveal-merchant-services-anchoring-commerce-ecosystems/",
-      "date": "2026-05-18T01:21:44+00:00",
-      "source": "PYMNTS",
-      "relevance": 5,
-      "tags": [
-        "payments"
-      ]
-    },
-    {
-      "title": "Zopa and ClearScore sign up 22 members for GenAI upskilling push",
-      "summary": "Zopa Bank and ClearScore have signed up 22 members to their coalition dedicated to upskilling 100,000 fintech and banking professionals in AI disciplines by 2030.",
-      "url": "https://www.finextra.com/newsarticle/47764/zopa-and-clearscore-sign-up-22-members-for-genai-upskilling-push?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-18T00:01:00+00:00",
-      "source": "Finextra",
-      "relevance": 5,
-      "tags": [
-        "banking"
-      ]
-    },
-    {
-      "title": "Experian and ServiceNow Team to Help AI Agents Act Faster",
-      "summary": "Experian has launched an agentic artificial intelligence partnership with software provider ServiceNow. This collaboration, the data/tech company announced Friday (May 15), is designed to help businesses make better decisions with the help of autonomous AI agents. “Through this partnership, autonomous AI agents can gain the ability to act faster, and more consistently, starting with […] The post E",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/experian-and-servicenow-team-to-help-ai-agents-act-faster/",
-      "date": "2026-05-17T23:06:57+00:00",
-      "source": "PYMNTS",
-      "relevance": 5,
+      "title": "SAP Unveils Business AI Platform to Power the Autonomous Enterprise",
+      "summary": "A bold new vision from SAP will enable customers to use agentic AI accurately, securely, and at scale.",
+      "url": "https://news.sap.com/2026/05/sap-sapphire-keynote-business-ai-platform-power-autonomous-enterprise/",
+      "date": "2026-05-13T16:01:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 18,
       "tags": [
         "ai",
-        "payments"
-      ]
+        "automation"
+      ],
+      "image": null
     },
     {
-      "title": "Carta buys Avantia for new law unit",
-      "summary": "Carta, the agentic enterprise resource planning (ERP) platform for private capital, today announced it has acquired Avantia, a leading AI-powered legal and compliance law firm for asset managers.",
-      "url": "https://www.finextra.com/pressarticle/109854/carta-buys-avantia-for-new-law-unit?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-15T13:15:00+00:00",
-      "source": "Finextra",
+      "title": "The Path to the Autonomous Enterprise: SAP Announces New Sustainability AI Agents",
+      "summary": "With the Autonomous Enterprise, leaders can deliver sustainable outcomes at scale.",
+      "url": "https://news.sap.com/2026/05/autonomous-enterprise-new-sustainability-ai-agents/",
+      "date": "2026-05-15T06:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 17,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "url": "https://openai.com/index/autoscout24",
+      "date": "2026-05-12T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 17,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises",
+      "summary": "Enterprise AI has learned to generate. It has learned to reason. Now companies are asking the next question: How should AI act? Early agent systems have shown what’s possible, moving beyond simple prompts to take on more complex tasks. The next step is bringing those capabilities into enterprise environments — where agents must operate with […]",
+      "url": "https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/",
+      "date": "2026-05-05T17:00:40+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 17,
+      "tags": [
+        "ai",
+        "data",
+        "automation"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26-servicenow-jhh-bill-KLUB1672-3-scaled.jpg"
+    },
+    {
+      "title": "Microsoft Discovery: Advancing agentic R&D at scale",
+      "summary": "Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams. The post Microsoft Discovery: Advancing agentic R&D at scale appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
+      "date": "2026-04-22T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 17,
+      "tags": [
+        "ai",
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "New and improved: Agent governance, intelligent workflows, and connected app experiences",
+      "summary": "See what's new in Copilot Studio, April 2026: updates to workflows, increased control over agent operations, and an expanded agent usage estimator. The post New and improved: Agent governance, intelligent workflows, and connected app experiences appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-agent-governance-intelligent-workflows-and-connected-app-experiences/",
+      "date": "2026-05-11T17:25:12+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 16,
+      "tags": [
+        "ai",
+        "automation",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
+      "summary": "AI agent systems today juggle separate models for vision, speech and language — losing time and context as they pass data from one model to the other. Unveiled today, NVIDIA Nemotron 3 Nano Omni is an open multimodal model that brings these capabilities together into one system, enabling agents to deliver faster, smarter responses with […]",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+      "date": "2026-04-28T16:00:28+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 15,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/nemotron-3-nano-omni-featured-1920x1080-1.jpg"
+    },
+    {
+      "title": "AWS Transform agents now available in Kiro, Claude, Cursor, and Codex",
+      "summary": "Today, AWS announces that the AWS Transform agents — built on decades of AWS migration and modernization experience — are now accessible through a Kiro power, agent plugins, and via the AWS Transform MCP server. Developers can now consume all of AWS Transform's capabilities directly from their preferred development environment, whether working interactively in an agentic IDE, managing jobs through",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-developer-tools/",
+      "date": "2026-05-14T19:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [
+        "ai",
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "The AWS MCP Server is now generally available",
+      "summary": "AWS announces the general availability of the AWS MCP Server, a managed remote Model Context Protocol (MCP) server that gives AI agents and coding assistants secure, authenticated access to all AWS services. The AWS MCP Server is part of the Agent Toolkit for AWS, a suite of tooling that includes the MCP Server, skills, and plugins that help coding agents build more effectively and efficiently on ",
+      "url": "https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/",
+      "date": "2026-05-06T15:36:44+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [
+        "ai",
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "date": "2026-05-16T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Partner Central agents now accelerates opportunity creation",
+      "summary": "Today, AWS announces that the AWS Partner Central agents now accelerate opportunity creation through natural language conversation. AWS Partner Central agents , released on March 16, 2026, are AI-powered capabilities built on Amazon Bedrock AgentCore that help partners surface pipeline insights, advance deals with next-step recommendations, and identify funding opportunities. With this update, par",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-agents-oppo",
+      "date": "2026-05-15T18:41:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [
+        "ai",
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock introduces new advanced prompt optimization and migration tool",
+      "summary": "Amazon Bedrock Advanced Prompt Optimization enables customers to optimize their prompts for their current model or migrate prompts to new models faster than before with built-in evaluation feedback loops. Optimize your prompts and compare results for up to 5 models simultaneously.",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/",
+      "date": "2026-05-14T22:03:39+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock Introduces Advanced Prompt Optimization and Migration Tool",
+      "summary": "Customers spend days to weeks optimizing prompts and evaluating responses when they want to migrate to a new model or just get better performance out of their current model. They struggle with changing their prompts quickly and then testing them to prevent regressions and improve on underperforming tasks. These situations call for the same tool – a prompt optimizer with built-in evaluations. Today",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-advanced-prompt-optimization-migration-tool/",
+      "date": "2026-05-14T21:50:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Work with Codex from anywhere",
+      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "date": "2026-05-14T13:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [
+        "ai",
+        "data",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "date": "2026-05-14T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "url": "https://openai.com/index/nvidia",
+      "date": "2026-05-12T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Copilot Cowork: From conversation to action across skills, integrations, and devices",
+      "summary": "Today, we’re announcing additional capabilities in Cowork to expand on what it can make possible for you. The post Copilot Cowork: From conversation to action across skills, integrations, and devices appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/",
+      "date": "2026-05-05T10:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [
+        "ai",
+        "data",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Microsoft 365 Copilot, human agency, and the opportunity for every organization",
+      "summary": "As AI and agents take on more of the execution, people have more agency than ever to unlock their ambition, direct what gets done, and own the outcomes. The post Microsoft 365 Copilot, human agency, and the opportunity for every organization appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/microsoft-365-copilot-human-agency-and-the-opportunity-for-every-organization/",
+      "date": "2026-05-05T10:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [
+        "ai",
+        "data",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available",
+      "summary": "From first draft to final polish, Copilot acts as a true collaborator, taking action while you stay in control. The post Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
+      "date": "2026-04-23T00:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [
+        "ai",
+        "data",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Streamlining Commerce Media Ad Inventory Management",
+      "summary": "Drive operational efficiency and revenue growth using this Commerce Media Playbook.",
+      "url": "https://www.salesforce.com/blog/commerce-media-ad-inventory-management/",
+      "date": "2026-05-15T21:29:18+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 12,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan",
+      "summary": "Starting June 1, our lineup of individual plans will update based on your feedback. The post GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/",
+      "date": "2026-05-12T17:35:41+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 12,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
+      "summary": "Learn how one Hubber used GitHub Copilot CLI to build an extension that turns any codebase into a unique, roguelike dungeon. The post Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/",
+      "date": "2026-05-12T15:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 12,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "date": "2026-05-06T10:43:49+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 12,
+      "tags": [
+        "ai",
+        "cloud",
+        "developer"
+      ],
+      "image": "https://lh3.googleusercontent.com/UNlyTVoqkmAoTzbbF4QRoPXr-X-QBkXeVpcHxIjte0y5mn_f6ZYHVsynQswOhGLJx-7hnbwt1NcTOQDQoCbum3-l8wPPP5dC6kw0tGmBQAw60nEHog=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Amazon EMR Serverless is now available in additional AWS Regions",
+      "summary": "Amazon EMR Serverless is now generally available in six additional AWS Regions - Asia Pacific (Hyderabad), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Taipei), Asia Pacific (Thailand), and Mexico (Central). Amazon EMR Serverless is a deployment option in Amazon EMR that makes it simple and cost effective for data engineers and analysts to run petabyte-scale data analytics in",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-aws-regions/",
+      "date": "2026-05-15T19:50:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 10,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
+      "summary": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously. The post Azure IaaS: Defense in depth built on secure-by-design principles appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
+      "date": "2026-05-04T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 8,
+      "tags": [
+        "cloud",
+        "security",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "SageMaker AI now supports serverless model customization for Qwen3.6",
+      "summary": "Amazon SageMaker AI now supports serverless model customization for Qwen3.6 27B parameter model using supervised fine-tuning (SFT) and reinforcement fine-tuning (RFT). Qwen3.6 is a popular open-weight model family from Alibaba Cloud. This launch is an addition to our support for fine-tuning Qwen3.5 and other popular models. Before this launch, you could deploy Qwen3.6 base model on SageMaker AI an",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-qwen3-6/",
+      "date": "2026-05-14T19:18:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Accelerate the Autonomous Enterprise with SAP Business Data Cloud",
+      "summary": "New innovations move organizations closer to becoming autonomous enterprises.",
+      "url": "https://news.sap.com/2026/05/sap-bdc-accelerate-autonomous-enterprise/",
+      "date": "2026-05-13T12:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 7,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "SAP Unveils the Autonomous Enterprise",
+      "summary": "ORLANDO — The company introduces a unified SAP Business AI Platform, deepening partnerships with Anthropic, Amazon Web Services, Google Cloud, Microsoft, NVIDIA and Palantir.",
+      "url": "https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/",
+      "date": "2026-05-12T12:35:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 7,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
+      "summary": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
+      "date": "2026-05-06T14:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 7,
+      "tags": [
+        "cloud",
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Paris) region",
+      "summary": "Amazon EC2 High Memory U7i-12TB instances (u7i-12tb.224xlarge) and U7in-16TB instances (u7in-16tb.224xlarge) are now available in the AWS Europe (Paris) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids). U7i instances offer up to 45% better price performance over existing U-1 instances. U7i-12TB ins",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-u7i-aws-europe-paris/",
+      "date": "2026-05-14T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud",
+        "automation",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Future of the Enterprise Is Autonomous",
+      "summary": "Companies of all sizes deserve AI-driven outcomes that increase innovation, revenue, and margins.",
+      "url": "https://news.sap.com/2026/05/future-enterprise-autonomous/",
+      "date": "2026-05-13T10:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "NVIDIA and SAP Bring Trust to Specialized Agents",
+      "summary": "Announced today at SAP Sapphire — where NVIDIA founder and CEO Jensen Huang joined SAP CEO Christian Klein’s keynote by video — SAP and NVIDIA’s expanded collaboration helps enterprises run specialized agents with security and governance controls.",
+      "url": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
+      "date": "2026-05-12T12:30:56+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 6,
+      "tags": [
+        "ai",
+        "security"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/logo-lockup-blog-SAP-1920x1080-1.jpg"
+    },
+    {
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "date": "2026-05-12T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 6,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in preview",
+      "summary": "AWS announces the public preview of AWS Interconnect — multicloud with Oracle Cloud Infrastructure (OCI). Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons including interoperability requirements, the freedom to choose technology that best suits their needs, and the ability to build and deploy applications on any environm",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-AWS-interconnect-multicloud-oci-preview/",
+      "date": "2026-05-15T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Making AI Value Real Today",
+      "summary": "At SAP Sapphire, SAP executives and customers presented the Autonomous Enterprise as the path to real AI value for customers.",
+      "url": "https://news.sap.com/2026/05/sap-sapphire-keynote-customers-making-ai-value-real-today/",
+      "date": "2026-05-15T13:05:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Enabling Autonomous Spend Management with AI and Connected Processes",
+      "summary": "AI and unified workflows fundamentally change decision-making across the spend life cycle.",
+      "url": "https://news.sap.com/2026/05/enabling-autonomous-spend-management-ai-connected-processes/",
+      "date": "2026-05-14T16:00:15+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 5,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "From Static Planning to Continuous Enterprise Planning",
+      "summary": "Finance needs an operating model that moves beyond periodic exercises and toward continuous steering.",
+      "url": "https://news.sap.com/2026/05/static-planning-to-continuous-enterprise-planning/",
+      "date": "2026-05-14T12:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Apply the Orchestration Density Framework to Your Next Automation Decision",
+      "summary": "Explore five real-world automation use cases and learn how to evaluate the right Salesforce automation approach for each.",
+      "url": "https://www.salesforce.com/blog/orchestration-density-framework-automation-decisions/",
+      "date": "2026-05-14T21:36:09+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
       "relevance": 4,
       "tags": [
-        "regulation"
-      ]
+        "automation"
+      ],
+      "image": null
     },
     {
-      "title": "Klarna breaks even first time after IPO listing",
-      "summary": "Swedish fintech firm Klarna broke even for the first time since it announced its $15 billion New York IPO last September.",
-      "url": "https://www.finextra.com/newsarticle/47758/klarna-breaks-even-first-time-after-ipo-listing?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-15T10:16:00+00:00",
-      "source": "Finextra",
+      "title": "A Symphony of Partnership to Ring in the Era of the Autonomous Enterprise",
+      "summary": "SAP partners are the company's force multiplier to bring the Autonomous Enterprise to life.",
+      "url": "https://news.sap.com/2026/05/partner-summit-sap-sapphire-autonomous-enterprise-era/",
+      "date": "2026-05-13T16:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
       "relevance": 4,
-      "tags": []
+      "tags": [],
+      "image": null
     },
     {
-      "title": "UK fintech funding falls by 43% in Q1",
-      "summary": "Fintechs in the UK raised close to three-quarters of a billion dollars in the first three months of the year, according to recently-released research.",
-      "url": "https://www.finextra.com/newsarticle/47753/uk-fintech-funding-falls-by-43-in-q1?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-14T11:05:00+00:00",
-      "source": "Finextra",
+      "title": "Business Transformation Management Helps Lay the Foundation for the Autonomous Enterprise",
+      "summary": "Business Transformation Management solutions from SAP help deliver the promise of the autonomous suite.",
+      "url": "https://news.sap.com/2026/05/business-transformation-management-foundation-autonomous-enterprise/",
+      "date": "2026-05-13T12:01:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
       "relevance": 4,
-      "tags": []
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment",
+      "summary": "Azure API Management provides a single, Azure-native platform to govern everything from traditional APIs to AI models, tools, and agents. The post Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
+      "date": "2026-04-28T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 4,
+      "tags": [
+        "ai",
+        "cloud",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Announcing general availability of Amazon EC2 M3 Ultra Mac instances",
+      "summary": "Amazon Web Services announces general availability of Amazon EC2 M3 Ultra Mac instances, powered by the latest Mac Studio hardware. Amazon EC2 M3 Ultra Mac instances are the next-generation EC2 Mac instances, that enable Apple developers to migrate their most demanding build and test workloads onto AWS. These instances are ideal for building and testing applications for Apple platforms such as iOS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m3-ultra-mac-instances-generally-available/",
+      "date": "2026-05-14T21:23:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "data",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "SAP SuccessFactors Innovations Define a New Era of Autonomous HCM",
+      "summary": "AI requires a fundamental rethinking of how work gets done, grounded in data, systems, and processes.",
+      "url": "https://news.sap.com/2026/05/sap-successfactors-innovations-new-era-autonomous-hcm/",
+      "date": "2026-05-14T06:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 3,
+      "tags": [
+        "data",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Why age assurance laws matter for developers",
+      "summary": "Youth safety requirements are moving down the tech stack to operating systems and app stores—raising new questions for open source developers. The post Why age assurance laws matter for developers appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
+      "date": "2026-05-08T16:30:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM",
+      "summary": "As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key protection into Azure, extending cryptographic trust from silicon to services through verifiable and transparent design. The post Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM ap",
+      "url": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
+      "date": "2026-04-30T18:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
+      "tags": [
+        "ai",
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
+      "summary": "Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations. The post Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local appeared first on Microsoft Azure Blog .",
+      "url": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
+      "date": "2026-04-27T18:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "security",
+        "data"
+      ],
+      "image": null
     }
   ]
 }
