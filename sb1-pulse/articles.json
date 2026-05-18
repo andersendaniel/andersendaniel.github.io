@@ -1,7 +1,77 @@
 {
-  "generated": "2026-05-18T14:27:38.010401+00:00",
+  "generated": "2026-05-18T18:29:11.200132+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Take your local GitHub sessions anywhere",
+      "summary": "Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub sessions anywhere appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
+      "date": "2026-05-18T16:54:53+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 13,
+      "tags": [
+        "ai",
+        "data",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS SAM CLI adds AWS CloudFormation Language Extensions support to accelerate local serverless development",
+      "summary": "AWS SAM CLI now supports AWS CloudFormation Language Extensions , enabling you to reduce duplication in your infrastructure as code (IaC) templates while retaining the full local development workflow. This accelerates your serverless development by letting you define resources once and iterate locally without waiting for cloud deployments. Developers frequently need to define multiple similar reso",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-cloudformation/",
+      "date": "2026-05-18T16:31:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 11,
+      "tags": [
+        "cloud",
+        "automation",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Run every HCP Event on Time, on Budget, and in Compliance with Agentforce",
+      "summary": "From field dinners to national speaker programs, here's how a unified platform changes the game in HCP event management.",
+      "url": "https://www.salesforce.com/blog/hcp-event-management/",
+      "date": "2026-05-18T16:15:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [
+        "ai",
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Florida Prepaid’s Call Center Never Closes Thanks to Agentforce Voice",
+      "summary": "Agentforce Voice is now the first point of contact for 75% of business-hours calls and gives 100% of after-hours callers a path forward.",
+      "url": "https://www.salesforce.com/blog/florida-prepaid-agentforce-voice/",
+      "date": "2026-05-18T15:37:28+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Announcing the Databricks analytics engineer learning pathway",
+      "summary": "Today, we are launching the new Databricks Analytics Engineer Learning Pathway. This...",
+      "url": "https://www.databricks.com/blog/announcing-databricks-analytics-engineer-learning-pathway",
+      "date": "2026-05-18T14:46:06+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "How We Protect Our Data as Customer Zero",
       "summary": "We stress-test our security, compliance, and resilience tools at a massive scale. Learn how you can do the same.",
@@ -26,6 +96,21 @@
       "relevance": 1,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "date": "2026-05-18T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 10,
+      "tags": [
+        "ai",
+        "data",
+        "automation"
       ],
       "image": null
     },
@@ -257,6 +342,19 @@
       "image": null
     },
     {
+      "title": "A new personal finance experience in ChatGPT",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
       "title": "How data science teams use Codex",
       "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
@@ -291,19 +389,6 @@
       "category": "openai",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -475,21 +560,6 @@
       "image": null
     },
     {
-      "title": "AWS Transform agents now available in Kiro, Claude, Cursor, and Codex",
-      "summary": "Today, AWS announces that the AWS Transform agents — built on decades of AWS migration and modernization experience — are now accessible through a Kiro power, agent plugins, and via the AWS Transform MCP server. Developers can now consume all of AWS Transform's capabilities directly from their preferred development environment, whether working interactively in an agentic IDE, managing jobs through",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-developer-tools/",
-      "date": "2026-05-14T19:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [
-        "ai",
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Cortex Code for FP&A: Faster Insight",
       "summary": "Learn how Cortex Code helps FP&A move from static reporting to near real-time insight with governed data, faster workflows, and connected finance apps.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/cortex-code-fpa-real-time-insight",
@@ -638,31 +708,6 @@
       "relevance": 13,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "CEOs of the Classroom: Why Principals are the Key to the AI Era",
-      "summary": "Learn how philanthropic funding and AI reskilling can prepare students for jobs of the future.",
-      "url": "https://www.salesforce.com/blog/education-and-ai/",
-      "date": "2026-05-13T23:02:57+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How BCU Is Transforming Banking Service with Agentforce",
-      "summary": "Discover how BCU’s partnership with NeuraFlash provided them with the expertise and support needed to launch an agent that delivers human-centered service on demand. BCU is a leading member-owned credit union with over…",
-      "url": "https://www.salesforce.com/blog/how-bcu-is-transforming-banking-service-with-agentforce/",
-      "date": "2026-05-13T20:09:52+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 24,
-      "tags": [
-        "ai",
-        "banking"
       ],
       "image": null
     },
@@ -903,19 +948,6 @@
       "image": null
     },
     {
-      "title": "The Rise of Sports Intelligence: How the Lakehouse Turns Tracking Data into Competitive Advantage",
-      "summary": "Every second of a professional basketball game now generates more than 20,000 data...",
-      "url": "https://www.databricks.com/blog/rise-sports-intelligence-how-lakehouse-turns-tracking-data-competitive-advantage",
-      "date": "2026-05-12T22:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "AI agent backup protection for enterprise data",
       "summary": "Learn how AI agent backup protection helps reduce risk from autonomous mistakes with immutable backups, disaster recovery, and stronger data resilience.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agent-backup-protection",
@@ -1049,20 +1081,6 @@
         "security"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/logo-lockup-blog-SAP-1920x1080-1.jpg"
-    },
-    {
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "url": "https://openai.com/index/autoscout24",
-      "date": "2026-05-12T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 17,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
     },
     {
       "title": "What Parameter Golf taught us about AI-assisted research",
@@ -1236,20 +1254,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations",
-      "summary": "Researchers share in an interview how they used GitHub data to predict GDP, inequality, and emissions in ways that traditional economic data misses, along with our Q4 2025 data release. The post How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-reveal-the-digital-complexity-of-nations/",
-      "date": "2026-05-08T15:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 2,
-      "tags": [
-        "data",
-        "developer"
-      ],
-      "image": null
     },
     {
       "title": "Snowflake Startup Spotlight: TestGorilla",
