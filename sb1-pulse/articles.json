@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T09:55:44.247704+00:00",
-  "sources": 20,
+  "generated": "2026-05-18T10:01:07.326856+00:00",
+  "sources": 21,
   "articles": [
     {
       "title": "Top announcements of the What’s Next with AWS, 2026",
@@ -207,6 +207,49 @@
       "image": null
     },
     {
+      "title": "AI agent backup protection for enterprise data",
+      "summary": "Learn how AI agent backup protection helps reduce risk from autonomous mistakes with immutable backups, disaster recovery, and stronger data resilience.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agent-backup-protection",
+      "date": "2026-05-12T18:00:43+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 18,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Snowflake and Veeva Unlock Agentic AI in Life Sciences",
+      "summary": "See how Snowflake and Veeva connect Vault data to power secure analytics, agentic AI, and cross-functional insights across life sciences.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-veeva-agentic-ai-life-sciences",
+      "date": "2026-05-06T16:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 18,
+      "tags": [
+        "ai",
+        "data",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Snowflake Intelligence Partner Solutions Bring AI Edge to Industries",
+      "summary": "Explore how Snowflake Intelligence partner solutions help teams get grounded, natural-language answers across enterprise data with industry-ready AI agents.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-intelligence-partner-solutions",
+      "date": "2026-04-30T18:35:26+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 18,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Gemini Enterprise Agent Platform lets you build, govern and optimize your agents.",
       "summary": "This new platform creates a single environment for technical teams to build, scale, govern and optimize autonomous agents.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-enterprise-agent-platform/",
@@ -290,6 +333,21 @@
         "ai",
         "automation",
         "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Snowflake Openflow & Cortex Code: AI-Driven Data Integration",
+      "summary": "Build and troubleshoot Snowflake Openflow pipelines faster with Cortex Code, Snowflake's AI agent for data integration and CDC. Get started today.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-openflow-cortex-code-integration",
+      "date": "2026-05-05T19:47:11+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 15,
+      "tags": [
+        "ai",
+        "data",
+        "automation"
       ],
       "image": null
     },
@@ -432,6 +490,19 @@
       "tags": [
         "ai",
         "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Semantic Layer in Financial Services AI Risk",
+      "summary": "AI in financial services depends on a reliable semantic layer. Learn why inconsistent definitions create risk, drift and governance gaps.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/semantic-layer-ai-risk-finance",
+      "date": "2026-05-14T16:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 13,
+      "tags": [
+        "banking"
       ],
       "image": null
     },
@@ -620,6 +691,33 @@
       "image": null
     },
     {
+      "title": "Cortex Code for FP&A: Faster Insight",
+      "summary": "Learn how Cortex Code helps FP&A move from static reporting to near real-time insight with governed data, faster workflows, and connected finance apps.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/cortex-code-fpa-real-time-insight",
+      "date": "2026-05-14T16:30:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 9,
+      "tags": [
+        "data",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Retail Customer Analytics: Modern Customer 360",
+      "summary": "Explore how a modern customer 360 uses retail customer analytics, AI and real-time personalization to help brands win cautious consumers.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/retail-customer-analytics-customer-360",
+      "date": "2026-05-13T16:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 9,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
       "summary": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously. The post Azure IaaS: Defense in depth built on secure-by-design principles appeared first on Microsoft Azure Blog .",
       "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
@@ -756,6 +854,20 @@
       "image": null
     },
     {
+      "title": "SAP and Snowflake Unleash a New Era of Enterprise AI with Zero-Copy Integration",
+      "summary": "Snowflake announces the next milestone in the groundbreaking partnership with SAP with the general availability of their joint offerings.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/sap-snowflake-zero-copy-integration-enterprise-ai",
+      "date": "2026-05-11T12:55:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 6,
+      "tags": [
+        "data",
+        "automation"
+      ],
+      "image": null
+    },
+    {
       "title": "AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in preview",
       "summary": "AWS announces the public preview of AWS Interconnect — multicloud with Oracle Cloud Infrastructure (OCI). Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons including interoperability requirements, the freedom to choose technology that best suits their needs, and the ability to build and deploy applications on any environm",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-AWS-interconnect-multicloud-oci-preview/",
@@ -814,6 +926,17 @@
       "relevance": 5,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "AI Transformation and Governance Inside Snowflake’s Ecosystem",
+      "summary": "Explore how Snowflake is approaching AI transformation as a governance challenge, using its partner ecosystem to deliver faster enterprise outcomes.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/inside-the-boardroom-ecosystem-operating-system",
+      "date": "2026-05-05T20:07:16+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 5,
+      "tags": [],
+      "image": null
     },
     {
       "title": "10 leading enterprises show why agents mean business",
@@ -933,6 +1056,20 @@
       "tags": [
         "cloud",
         "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Observe by Snowflake: AI-Powered Observability at Scale for the Data Cloud",
+      "summary": "Discover how Observe by Snowflake brings AI-powered observability to the Data Cloud. Learn how the Observability Context Graph, AI SRE, and Telemetry Lakehouse enable faster troubleshooting, lower costs, and scalable telemetry insights.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/observe-by-snowflake-ai-observability-at-scale",
+      "date": "2026-05-05T16:05:49+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "data"
       ],
       "image": null
     },
@@ -1089,6 +1226,19 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/agentic-logo-lockup-Ineffable-press-1920x1080-1-scaled.png"
     },
     {
+      "title": "Data Governance in Healthcare for Trustworthy AI",
+      "summary": "Learn why trustworthy AI in healthcare depends on governed data, auditability, lineage and human oversight — and how Snowflake supports that foundation.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/data-governance-in-healthcare-trustworthy-ai",
+      "date": "2026-05-12T16:20:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "How finance teams use Codex",
       "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
       "url": "https://openai.com/academy/how-finance-teams-use-codex",
@@ -1126,6 +1276,19 @@
       "tags": [
         "data",
         "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Snowflake Startup Spotlight: TestGorilla",
+      "summary": "Learn how TestGorilla aims to help recruiters find job candidates and candidates showcase their skills with a combination of research, data and AI at scale.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-spotlight-testgorilla",
+      "date": "2026-05-07T19:17:40+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [
+        "data"
       ],
       "image": null
     },
@@ -1168,6 +1331,19 @@
         "ai",
         "data",
         "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Introducing the 2026 Snowflake Startup Challenge Finalists",
+      "summary": "Meet the 3 startups advancing to this year’s Snowflake Startup Challenge finale: Airrived, LGND AI and Twine Security.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/finalists-snowflake-startup-challenge-2026",
+      "date": "2026-05-01T15:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [
+        "security"
       ],
       "image": null
     },
@@ -1771,6 +1947,19 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "Datometry for Snowflake: Accelerate Teradata Migration",
+      "summary": "Announcing Datometry for Snowflake in Public Preview. Move Teradata workloads to Snowflake in weeks with minimal rewrites, low risk and near-zero disruption.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/datometry-for-snowflake-teradata-migration",
+      "date": "2026-04-30T16:33:05+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
     },
     {
       "title": "It’s Gonna Be May: 16 Games Hit the Cloud This Month, With More NVIDIA GeForce RTX 5080 Power",

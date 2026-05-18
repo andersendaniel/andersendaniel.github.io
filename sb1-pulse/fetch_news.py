@@ -52,6 +52,8 @@ FEEDS = [
     {"url": "https://github.blog/feed/",                                 "name": "GitHub Blog",       "category": "github",    "limit": 10},
     # Databricks
     {"url": "https://www.databricks.com/feed",                           "name": "Databricks Blog",   "category": "databricks","limit": 15},
+    # Snowflake
+    {"url": "https://www.snowflake.com/feed/",                           "name": "Snowflake Blog",    "category": "snowflake", "limit": 15},
 ]
 
 # ---------------------------------------------------------------------------
