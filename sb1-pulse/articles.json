@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T09:47:26.073997+00:00",
-  "sources": 19,
+  "generated": "2026-05-18T09:55:44.247704+00:00",
+  "sources": 20,
   "articles": [
     {
       "title": "Top announcements of the What’s Next with AWS, 2026",
@@ -306,6 +306,20 @@
         "data"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/nemotron-3-nano-omni-featured-1920x1080-1.jpg"
+    },
+    {
+      "title": "From manual to autonomous: how AI agents are transforming electric grid operations",
+      "summary": "Executive SummaryThe electric utility industry stands at a critical inflection point...",
+      "url": "https://www.databricks.com/blog/manual-autonomous-how-ai-agents-are-transforming-electric-grid-operations",
+      "date": "2026-05-14T20:58:50+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
     },
     {
       "title": "AWS Transform agents now available in Kiro, Claude, Cursor, and Codex",
@@ -690,6 +704,19 @@
       "image": null
     },
     {
+      "title": "ABAC row filtering and column masking policies, governed tags, and data classification are now generally available in Unity Catalog",
+      "summary": "Scale data protection with automated governance in Unity CatalogAs data estates grow...",
+      "url": "https://www.databricks.com/blog/abac-row-filtering-and-column-masking-policies-governed-tags-and-data-classification-are-now",
+      "date": "2026-05-13T14:08:52+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "The Future of the Enterprise Is Autonomous",
       "summary": "Companies of all sizes deserve AI-driven outcomes that increase innovation, revenue, and margins.",
       "url": "https://news.sap.com/2026/05/future-enterprise-autonomous/",
@@ -968,6 +995,21 @@
       "image": null
     },
     {
+      "title": "Expanded interoperability with Unity Catalog Open APIs",
+      "summary": "Unity Catalog was designed for the open lakehouse. Previously, data teams were stuck...",
+      "url": "https://www.databricks.com/blog/expanded-interoperability-unity-catalog-open-apis",
+      "date": "2026-05-14T21:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data",
+        "automation",
+        "developer"
+      ],
+      "image": null
+    },
+    {
       "title": "Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW",
       "summary": "Editor’s note: The Gaijin single sign-on feature is now up and running. Dive masks on — Subnautica 2 is making a splash on GeForce NOW day-and-date with launch, so members can plunge into the title’s brand-new alien ocean from almost any device. It leads 11 new games joining the cloud this week. A limited-time HITMAN […]",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/",
@@ -989,6 +1031,32 @@
       "category": "sap",
       "relevance": 2,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Data quality is the AI strategy",
+      "summary": "Healthcare may be one of the greatest beneficiaries of AI. Few industries generate...",
+      "url": "https://www.databricks.com/blog/data-quality-ai-strategy",
+      "date": "2026-05-13T19:10:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Rosetta stone of CPS: Claroty’s AI-powered library",
+      "summary": "The Rosetta Stone of CPS: Inside Claroty’s Revolutionary AI-Powered LibraryFor decades,...",
+      "url": "https://www.databricks.com/blog/rosetta-stone-cps-clarotys-ai-powered-library",
+      "date": "2026-05-13T19:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -1261,6 +1329,19 @@
       "image": null
     },
     {
+      "title": "PipelineIQ: Forward‑Looking Sales Intelligence That Drives Action",
+      "summary": "SummarySales and Customer Relationship Management (CRM) data is messy. For decades,...",
+      "url": "https://www.databricks.com/blog/pipelineiq-forward-looking-sales-intelligence-drives-action",
+      "date": "2026-05-15T14:50:22+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
       "summary": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program appeared first on The GitHub Blog .",
       "url": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
@@ -1281,6 +1362,19 @@
       "date": "2026-05-15T13:00:00+00:00",
       "source": "Salesforce Blog",
       "category": "salesforce",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Backstage with Lakebase, part 2",
+      "summary": "In part 1 of this series, we explored how moving Backstage's underlying database...",
+      "url": "https://www.databricks.com/blog/backstage-lakebase-part-2",
+      "date": "2026-05-15T12:47:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
       "relevance": 1,
       "tags": [
         "data"
@@ -1426,6 +1520,19 @@
       "image": null
     },
     {
+      "title": "Clinical operations intelligence belongs on the Lakehouse",
+      "summary": "The clinical data problem is not a storage problem. Most organizations already have...",
+      "url": "https://www.databricks.com/blog/clinical-operations-intelligence-belongs-lakehouse",
+      "date": "2026-05-13T18:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)",
       "summary": "Roguelikes don’t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once. The post Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them) appeared first on The GitHub Blog .",
       "url": "https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/",
@@ -1475,6 +1582,32 @@
       "relevance": 1,
       "tags": [
         "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Rise of Sports Intelligence: How the Lakehouse Turns Tracking Data into Competitive Advantage",
+      "summary": "Every second of a professional basketball game now generates more than 20,000 data...",
+      "url": "https://www.databricks.com/blog/rise-sports-intelligence-how-lakehouse-turns-tracking-data-competitive-advantage",
+      "date": "2026-05-12T22:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "How CFOs in consulting can recover margin with Databricks",
+      "summary": "Consulting firms have a profitability problem, and it isn’t driven by lack of demand.Across...",
+      "url": "https://www.databricks.com/blog/how-cfos-consulting-can-recover-margin-databricks",
+      "date": "2026-05-12T17:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
       ],
       "image": null
     },

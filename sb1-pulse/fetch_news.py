@@ -50,6 +50,8 @@ FEEDS = [
     {"url": "https://blogs.nvidia.com/feed/",                            "name": "NVIDIA Blog",       "category": "nvidia",    "limit": 15},
     # GitHub
     {"url": "https://github.blog/feed/",                                 "name": "GitHub Blog",       "category": "github",    "limit": 10},
+    # Databricks
+    {"url": "https://www.databricks.com/feed",                           "name": "Databricks Blog",   "category": "databricks","limit": 15},
 ]
 
 # ---------------------------------------------------------------------------
@@ -179,7 +181,7 @@ def fetch_feed(feed):
     try:
         parsed = feedparser.parse(
             feed["url"],
-            request_headers={"User-Agent": "SB1Pulse/1.0 (+https://andersendaniel.github.io)"},
+            request_headers={"User-Agent": "Mozilla/5.0 (compatible; SB1Pulse/1.0; +https://andersendaniel.github.io)"},
         )
         cutoff = datetime.now(timezone.utc) - timedelta(days=30)
         limit = feed.get("limit", 15)
