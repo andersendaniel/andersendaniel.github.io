@@ -164,6 +164,32 @@
       text-align: center;
     }
 
+    /* Topic checkbox */
+    .sb-check {
+      width: 15px;
+      height: 15px;
+      border-radius: 4px;
+      border: 1.5px solid var(--border-md);
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.12s, border-color 0.12s;
+    }
+    .sb-item.active .sb-check {
+      background: var(--navy);
+      border-color: var(--navy);
+    }
+    .sb-item.active .sb-check::after {
+      content: '';
+      width: 5px;
+      height: 3px;
+      border-left: 1.5px solid #fff;
+      border-bottom: 1.5px solid #fff;
+      transform: rotate(-45deg) translateY(-1px);
+      display: block;
+    }
+
     /* Sidebar footer */
     .sb-footer {
       margin-top: auto;
@@ -563,10 +589,10 @@ const SOURCE_META = {
 // State
 // ─────────────────────────────────────────────────────────────
 
-let allArticles  = [];
-let activeSource = 'all';
-let activeTopic  = 'all';
-let searchQuery  = '';
+let allArticles   = [];
+let activeSource  = 'all';
+let activeTopics  = new Set();   // empty = show all topics
+let searchQuery   = '';
 
 // ─────────────────────────────────────────────────────────────
 // Utilities
@@ -662,14 +688,25 @@ function buildSidebar() {
     ...srcItems.map(([k, m]) => sbItem(k, 'source', m.label, faviconUrl(k), srcCounts[k])),
   ].join('');
 
-  // Topics
+  // Topics — multi-select checkboxes
   const topicItems = Object.entries(TAG_LABELS)
     .filter(([k]) => tagCounts[k] > 0)
     .sort((a, b) => (tagCounts[b[0]] || 0) - (tagCounts[a[0]] || 0));
 
+  const clearAll = activeTopics.size === 0;
   document.getElementById('topicList').innerHTML = [
-    sbItem('all', 'topic', 'All topics', null, null),
-    ...topicItems.map(([k, label]) => sbItem(k, 'topic', label, null, tagCounts[k])),
+    `<div class="sb-item${clearAll ? ' active' : ''}" data-topic-clear>
+       <span>All topics</span>
+       ${clearAll ? '' : `<span class="sb-count" style="background:var(--navy);color:#fff;cursor:pointer">Clear</span>`}
+     </div>`,
+    ...topicItems.map(([k, label]) => {
+      const on = activeTopics.has(k);
+      return `<div class="sb-item${on ? ' active' : ''}" data-topic="${k}">
+        <span class="sb-check"></span>
+        <span>${label}</span>
+        <span class="sb-count">${tagCounts[k]}</span>
+      </div>`;
+    }),
   ].join('');
 
   // Wire events
@@ -681,9 +718,17 @@ function buildSidebar() {
       closeSidebar();
     });
   });
+  document.querySelector('[data-topic-clear]').addEventListener('click', () => {
+    activeTopics.clear();
+    buildSidebar();
+    renderFeed();
+    closeSidebar();
+  });
   document.querySelectorAll('[data-topic]').forEach(el => {
     el.addEventListener('click', () => {
-      activeTopic = el.dataset.topic;
+      const t = el.dataset.topic;
+      if (activeTopics.has(t)) activeTopics.delete(t);
+      else activeTopics.add(t);
       buildSidebar();
       renderFeed();
       closeSidebar();
@@ -710,7 +755,7 @@ function sbItem(key, type, label, iconUrl, count) {
 function filtered() {
   let list = allArticles;
   if (activeSource !== 'all') list = list.filter(a => a.category === activeSource);
-  if (activeTopic  !== 'all') list = list.filter(a => (a.tags || []).includes(activeTopic));
+  if (activeTopics.size > 0)  list = list.filter(a => (a.tags || []).some(t => activeTopics.has(t)));
   if (searchQuery) {
     const q = searchQuery.toLowerCase();
     list = list.filter(a =>
