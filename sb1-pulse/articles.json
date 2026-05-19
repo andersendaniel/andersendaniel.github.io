@@ -1,7 +1,94 @@
 {
-  "generated": "2026-05-18T18:29:11.200132+00:00",
+  "generated": "2026-05-19T00:01:54.855514+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: “Demand Is Going Parabolic, Utterly Parabolic”",
+      "summary": "Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs — while enterprise data queries are up to 3x faster with the Vera CPU. And 5,000 enterprises like Lilly, Samsung, and Honeywell are running AI workloads on Dell AI Factories […]",
+      "url": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/",
+      "date": "2026-05-18T22:28:59+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "data",
+        "automation"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26-dtw-keynote-jhh-dell-CG3A2688_Option2-scaled.jpg"
+    },
+    {
+      "title": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs",
+      "summary": "The first NVIDIA Vera CPUs arrived at three of the world's leading AI labs on Friday — Anthropic in San Francisco, OpenAI in Mission Bay, SpaceXAI in Palo Alto — followed by a delivery to Oracle Cloud Infrastructure in Santa Clara on Monday. NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck hand-delivered them.",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+      "date": "2026-05-18T21:48:17+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Vera-CPU_Tray_Open-34_Wide_R6C-FNL-5260651.jpg"
+    },
+    {
+      "title": "AWS Glue zero-ETL is now available in Asia Pacific (Mumbai) region",
+      "summary": "AWS Glue zero-ETL integrations are now available in the Asia Pacific (Mumbai) region. With this expansion, customers in the Asia Pacific (Mumbai) region can now use zero-ETL integrations to simplify their data pipelines, reduce data movement latency, and accelerate time-to-insight for analytics and machine learning workloads. Zero-ETL integrations offer a set of fully managed integrations by AWS t",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-zero-etl-mumbai-region",
+      "date": "2026-05-18T21:10:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 11,
+      "tags": [
+        "ai",
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
+      "summary": "Just a year ago, we launched AWS Transform for .NET, Mainframe and VMware workloads, the first agentic AI service purpose-built for modernizing enterprise applications at scale. At re:Invent 2025, we introduced AWS Transform custom, which enables organizations to modernize and transform code at scale using AWS-managed and custom transformations. You can upgrade language versions, migrate […]",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/",
+      "date": "2026-05-18T19:13:20+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 30,
+      "tags": [
+        "ai",
+        "cloud",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Lightsail CDN distributions now support IPv6-only instances as origins",
+      "summary": "Amazon Lightsail content delivery network (CDN) distributions now support IPv6-only instances as origins. This feature enables customers to use IPv6-only instances to deliver content through the Lightsail CDN distributions with low latency and high transfer speeds worldwide. With this launch, customers can run their websites and applications on cost-effective IPv6-only instances while seamlessly s",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-lightsail-cdn-ipv6/",
+      "date": "2026-05-18T18:49:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [
+        "cloud",
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EVS enables support for 32 hosts per environment",
+      "summary": "Today, we are announcing that Amazon Elastic VMware Service (Amazon EVS) now supports up to 32 ESXi hosts per environment, double the previous limit of 16 hosts. Amazon EVS gives you flexibility in how you configure VMware Cloud Foundation (VCF) domains and clusters within an environment. You can put all your hosts into a single large cluster, spread them across several smaller clusters, or any co",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-evs-32-hosts",
+      "date": "2026-05-18T17:55:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Take your local GitHub sessions anywhere",
       "summary": "Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub sessions anywhere appeared first on The GitHub Blog .",
@@ -33,6 +120,20 @@
       "image": null
     },
     {
+      "title": "Amazon Redshift adds ALTER TABLE for Iceberg tables and writes via the AWS Glue Data Catalog mount",
+      "summary": "Amazon Redshift now supports writing directly to Apache Iceberg tables via the AWS Glue Data Catalog (awsdatacatalog) mount and ALTER TABLE DDL statements to modify the schema, partitioning, and properties of Apache Iceberg tables. With write access through the auto-mounted awsdatacatalog, you can land Redshift transformations in your data lake for any engine to query without creating external sch",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-alter-table-iceberg/",
+      "date": "2026-05-18T16:25:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Run every HCP Event on Time, on Budget, and in Compliance with Agentforce",
       "summary": "From field dinners to national speaker programs, here's how a unified platform changes the game in HCP event management.",
       "url": "https://www.salesforce.com/blog/hcp-event-management/",
@@ -56,6 +157,20 @@
       "relevance": 1,
       "tags": [
         "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker Studio now supports GPU capacity reservation through SageMaker Flexible Training Plans",
+      "summary": "Amazon SageMaker Studio IDEs, including JupyterLab and Code Editor, now support GPU capacity reservations through SageMaker Flexible Training Plans (FTP) , giving you predictable access to high-demand, high-performance computational resources within your budget. By leveraging FTP, you can achieve up to 65% cost savings compared to On-Demand instances while running ML workflows in JupyterLab or Cod",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-training-plan-support-for-studio/",
+      "date": "2026-05-18T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud",
+        "automation"
       ],
       "image": null
     },
@@ -209,6 +324,19 @@
       "image": null
     },
     {
+      "title": "AWS Organizations now supports higher quotas for service control policies (SCPs)",
+      "summary": "AWS Organizations now supports higher quotas for service control policies (SCPs). The maximum number of SCPs that can be attached to a single node (root, OU, or account) has increased from 5 to 10, and the maximum SCP size has increased from 5,120 to 10,240 characters. With these higher quotas, you can write SCPs with finer-grained permissions and conditions, and attach more SCPs per node to build",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-increased-scp-quotas/",
+      "date": "2026-05-15T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in preview",
       "summary": "AWS announces the public preview of AWS Interconnect — multicloud with Oracle Cloud Infrastructure (OCI). Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons including interoperability requirements, the freedom to choose technology that best suits their needs, and the ability to build and deploy applications on any environm",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-AWS-interconnect-multicloud-oci-preview/",
@@ -219,19 +347,6 @@
       "tags": [
         "cloud",
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Organizations now supports higher quotas for service control policies (SCPs)",
-      "summary": "AWS Organizations now supports higher quotas for service control policies (SCPs). The maximum number of SCPs that can be attached to a single node (root, OU, or account) has increased from 5 to 10, and the maximum SCP size has increased from 5,120 to 10,240 characters. With these higher quotas, you can write SCPs with finer-grained permissions and conditions, and attach more SCPs per node to build",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-increased-scp-quotas/",
-      "date": "2026-05-15T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -342,6 +457,30 @@
       "image": null
     },
     {
+      "title": "How business operations teams use Codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How sales teams use Codex",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "A new personal finance experience in ChatGPT",
       "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
       "url": "https://openai.com/index/personal-finance-chatgpt",
@@ -364,57 +503,6 @@
       "relevance": 2,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "How sales teams use Codex",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "How business operations teams use Codex",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon CloudFront announces support for OCSP Revocation for Mutual TLS (Viewer)",
-      "summary": "Amazon CloudFront now supports Online Certificate Status Protocol (OCSP) revocation checking for viewer mTLS, enabling you to validate client certificate revocation status in real time during connection establishment. This enables customers using mutual TLS (mTLS) on CloudFront to verify that client certificates haven't been revoked before accepting connections—a common requirement for regulated i",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-ocsp/",
-      "date": "2026-05-14T22:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon CloudFront announces Passthrough Mode for mutual TLS (Viewer)",
-      "summary": "Amazon CloudFront now supports passthrough mode for mutual TLS (mTLS) viewer authentication, allowing CloudFront to forward client certificates to the origin without verifying the certificates on CloudFront. Customers who already validate client certificates at their origin can now add CloudFront to their existing mTLS infrastructure without changing how or where validation happens. In passthrough",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-passthrough/",
-      "date": "2026-05-14T22:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud",
-        "security"
       ],
       "image": null
     },
@@ -447,20 +535,6 @@
       "image": null
     },
     {
-      "title": "Amazon Bedrock Introduces Advanced Prompt Optimization and Migration Tool",
-      "summary": "Customers spend days to weeks optimizing prompts and evaluating responses when they want to migrate to a new model or just get better performance out of their current model. They struggle with changing their prompts quickly and then testing them to prevent regressions and improve on underperforming tasks. These situations call for the same tool – a prompt optimizer with built-in evaluations. Today",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-advanced-prompt-optimization-migration-tool/",
-      "date": "2026-05-14T21:50:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 13,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Apply the Orchestration Density Framework to Your Next Automation Decision",
       "summary": "Explore five real-world automation use cases and learn how to evaluate the right Salesforce automation approach for each.",
       "url": "https://www.salesforce.com/blog/orchestration-density-framework-automation-decisions/",
@@ -484,21 +558,6 @@
       "tags": [
         "data",
         "automation",
-        "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "Announcing general availability of Amazon EC2 M3 Ultra Mac instances",
-      "summary": "Amazon Web Services announces general availability of Amazon EC2 M3 Ultra Mac instances, powered by the latest Mac Studio hardware. Amazon EC2 M3 Ultra Mac instances are the next-generation EC2 Mac instances, that enable Apple developers to migrate their most demanding build and test workloads onto AWS. These instances are ideal for building and testing applications for Apple platforms such as iOS",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m3-ultra-mac-instances-generally-available/",
-      "date": "2026-05-14T21:23:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud",
-        "data",
         "developer"
       ],
       "image": null
@@ -528,34 +587,6 @@
       "tags": [
         "ai",
         "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Paris) region",
-      "summary": "Amazon EC2 High Memory U7i-12TB instances (u7i-12tb.224xlarge) and U7in-16TB instances (u7in-16tb.224xlarge) are now available in the AWS Europe (Paris) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids). U7i instances offer up to 45% better price performance over existing U-1 instances. U7i-12TB ins",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-u7i-aws-europe-paris/",
-      "date": "2026-05-14T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud",
-        "automation",
-        "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "SageMaker AI now supports serverless model customization for Qwen3.6",
-      "summary": "Amazon SageMaker AI now supports serverless model customization for Qwen3.6 27B parameter model using supervised fine-tuning (SFT) and reinforcement fine-tuning (RFT). Qwen3.6 is a popular open-weight model family from Alibaba Cloud. This launch is an addition to our support for fine-tuning Qwen3.5 and other popular models. Before this launch, you could deploy Qwen3.6 base model on SageMaker AI an",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-qwen3-6/",
-      "date": "2026-05-14T19:18:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -1083,6 +1114,19 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/logo-lockup-blog-SAP-1920x1080-1.jpg"
     },
     {
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "url": "https://openai.com/index/nvidia",
+      "date": "2026-05-12T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
       "title": "What Parameter Golf taught us about AI-assisted research",
       "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
       "url": "https://openai.com/index/what-parameter-golf-taught-us",
@@ -1093,19 +1137,6 @@
       "tags": [
         "ai",
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "url": "https://openai.com/index/nvidia",
-      "date": "2026-05-12T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [
-        "ai"
       ],
       "image": null
     },
@@ -1887,35 +1918,6 @@
         "security"
       ],
       "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjduMEPWkG_wwO64NLFbqReZSDPQTMk1t-TXI7EcNHNLHxGkNDsCj_c8TTUK981qqXDO-FAuHS2q1QsbGm974lYZ9GSSlD9wIkQUvxCOKEFrgAYYa86E0AC0JvWTxuFAJ0PL1ArEU1syhWTVcNVYz2a3N2SubkXKspyY3pqtqku-90AwK0cftheXw6nDdHW=s72-c"
-    },
-    {
-      "title": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
-      "summary": "AI agents have revolutionized developer workflows, and their next frontier is knowledge work: processing information, solving complex problems, coming up with new ideas and driving innovation. Codex, OpenAI’s agentic coding application, is enabling this new frontier. It’s now powered by GPT-5.5, OpenAI’s latest frontier model, which runs on NVIDIA GB200 NVL72 rack-scale systems. Over 10,000 […]",
-      "url": "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/",
-      "date": "2026-04-23T18:57:55+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 32,
-      "tags": [
-        "ai",
-        "cloud",
-        "automation"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/logo-lockup-codex-tech-blog-v-1920x1080-5175350.png"
-    },
-    {
-      "title": "Tag, You’re It: GeForce NOW Levels Up Game Discovery With Xbox Game Pass and Ubisoft+ Labels",
-      "summary": "GeForce NOW is doubling down on what matters most: gamers. This week’s upgrades bring smarter libraries, making it easier than ever for gamers to turn a PC collection into a cloud-powered flex. It starts with giving existing libraries time to shine. Gamers can bring the games they love to the cloud, stream them with high […]",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-in-app-labels/",
-      "date": "2026-04-23T13:00:51+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/gfn-thursday-feature-launch-library-nv-blog-1280x680-logo.jpg"
     },
     {
       "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
