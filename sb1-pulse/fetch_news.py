@@ -147,7 +147,12 @@ def score(text):
 
 def get_tags(text):
     t = text.lower()
-    return [rule["filter"] for rule in TAGS_CONFIG if any(kw in t for kw in rule["kw"])][:3]
+    tags = []
+    for rule in TAGS_CONFIG:
+        hits = sum(1 for kw in rule["kw"] if kw in t)
+        if hits >= 2:
+            tags.append(rule["filter"])
+    return tags[:3]
 
 
 def parse_date(entry):
