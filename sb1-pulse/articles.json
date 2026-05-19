@@ -1,7 +1,95 @@
 {
-  "generated": "2026-05-19T18:57:15.432826+00:00",
+  "generated": "2026-05-19T23:58:54.363739+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "When AI Becomes Invisible: The Rise of Ambient Intelligence",
+      "summary": "Travel has always been a story of how much friction we’re willing to tolerate to get somewhere. A century ago, a long-distance journey began at a train station thick with smoke and shouting…",
+      "url": "https://www.salesforce.com/blog/ambient-intelligence/",
+      "date": "2026-05-19T21:53:40+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Automate Data & KPI Monitoring with SQL Alerts",
+      "summary": "In many organizations, data monitoring is still a manual, repetitive routine: open...",
+      "url": "https://www.databricks.com/blog/automate-data-kpi-monitoring-sql-alerts",
+      "date": "2026-05-19T21:04:41+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
+      "summary": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud. Launched at Google I/O last year, the community […]",
+      "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/",
+      "date": "2026-05-19T20:30:09+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 4,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/google-cloud-nvidia-1920x1080-1.jpg"
+    },
+    {
+      "title": "Amazon MWAA now supports Apache Airflow 3.2",
+      "summary": "Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 3.2, the latest major release of the popular open-source workflow orchestration framework. Amazon MWAA is a managed service that lets you run Apache Airflow at scale without managing the underlying infrastructure. This release brings new data-aware scheduling capabilities and developer productivity improvements ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mwaa-now-supports-apache-airflow-3-2/",
+      "date": "2026-05-19T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 8,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "How to Build Real-Time Fraud Detection using Spark Real-Time Mode and Lakebase",
+      "summary": "Card fraud operates in seconds. A stolen credit card number can fuel dozens of purchases...",
+      "url": "https://www.databricks.com/blog/how-build-real-time-fraud-detection-using-spark-real-time-mode-and-lakebase",
+      "date": "2026-05-19T19:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 17,
+      "tags": [
+        "banking"
+      ],
+      "image": null
+    },
+    {
+      "title": "Headless Doesn’t Mean Ungoverned: How Trust Works When Agents Call Salesforce",
+      "summary": "Understand how Salesforce authenticates, authorizes, and audits agents connecting through Salesforce Headless 360, and how to apply the right trust model for your agentic architecture.",
+      "url": "https://www.salesforce.com/blog/headless-trust-model-agentic-architecture/",
+      "date": "2026-05-19T19:18:59+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "How Databricks Genie improves supply chain visibility with real-time AI analytics",
+      "summary": "Supply chain visibility has been a boardroom priority since 2020. Most companies...",
+      "url": "https://www.databricks.com/blog/how-databricks-genie-improves-supply-chain-visibility-real-time-ai-analytics",
+      "date": "2026-05-19T19:08:59+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 10,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "dbt Fusion Is Now Available on Snowflake",
       "summary": "Accelerate builds with dbt Fusion on Snowflake. Support for dbt Core 1.11.5, native Task orchestration, and GitHub Actions CI/CD. No extra cost.",
@@ -108,6 +196,17 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FINAL_SOCIAL_HERO_laWfMt0.max-600x600.format-webp.webp"
     },
     {
+      "title": "A CFO’s guide to managing value-based care financial performance",
+      "summary": "The shift from fee-for-service to value-based care reimbursement is well underway. Health systems with significant ACO...",
+      "url": "https://www.databricks.com/blog/cfos-guide-managing-value-based-care-financial-performance",
+      "date": "2026-05-19T17:38:20+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon Inspector is now available in the AWS Asia Pacific (Taipei) Region",
       "summary": "Today, AWS announces the availability of Amazon Inspector in the AWS Asia Pacific (Taipei) Region. Amazon Inspector is an automated vulnerability management service that continually scans AWS workloads including Amazon EC2 instances, container images, and AWS Lambda functions for software vulnerabilities and unintended network exposure across your AWS Organization. With this expansion, Amazon Insp",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei/",
@@ -116,6 +215,19 @@
       "category": "aws",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon ECS introduces pause and continue controls for service deployments",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now enables you to pause service deployments at critical stages during deployment progression and continue deployments when ready. You can use these pause points to introduce manual decision points and interactive controls into your deployments for scenarios such as manual approval workflows, operational checks, integration tests, or custom automation,",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ecs-pause-continue-deployments/",
+      "date": "2026-05-19T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 10,
+      "tags": [
+        "automation"
+      ],
       "image": null
     },
     {
@@ -174,6 +286,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Managed Grafana now supports dual-stack connectivity (IPv6 and IPv4)",
+      "summary": "Amazon Managed Grafana now supports dual-stack connectivity, enabling workspaces to communicate over both Internet Protocol version 4 (IPv4) and Internet Protocol version 6 (IPv6). Dual-stack mode is available for workspaces running Grafana version 10.4 or later. With dual-stack support, customers can simplify their network stack by eliminating the need to manage overlapping address spaces in thei",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-ipv6/",
+      "date": "2026-05-19T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -248,19 +371,6 @@
       "image": null
     },
     {
-      "title": "MemEx: A Programmable Scratchpad for LLM Agents",
-      "summary": "In 1945, Vannevar Bush imagined a desk-sized machine that would extend a scientist's...",
-      "url": "https://www.databricks.com/blog/memex-programmable-scratchpad-llm-agents",
-      "date": "2026-05-19T09:01:42+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "The AI Race Is Being Fought in the Wrong Place",
       "summary": "As AI moves from insight to action, enterprise context becomes the differentiator.",
       "url": "https://news.sap.com/2026/05/ai-race-being-fought-in-wrong-place/",
@@ -268,17 +378,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Deutsche Börse built a generative AI tool to tackle the large-scale migration of   Zeppelin notebooks to Databricks",
-      "summary": "At Deutsche Börse Group, our StatistiX platform provides approximately 95% of all...",
-      "url": "https://www.databricks.com/blog/how-deutsche-borse-built-generative-ai-tool-tackle-large-scale-migration-zeppelin-notebooks",
-      "date": "2026-05-19T03:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 15,
       "tags": [],
       "image": null
     },
@@ -432,19 +531,6 @@
       "image": null
     },
     {
-      "title": "Announcing the Databricks analytics engineer learning pathway",
-      "summary": "Today, we are launching the new Databricks Analytics Engineer Learning Pathway. This...",
-      "url": "https://www.databricks.com/blog/announcing-databricks-analytics-engineer-learning-pathway",
-      "date": "2026-05-18T14:46:06+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "How We Protect Our Data as Customer Zero",
       "summary": "We stress-test our security, compliance, and resilience tools at a massive scale. Learn how you can do the same.",
       "url": "https://www.salesforce.com/blog/protecting-data-as-customer-zero/",
@@ -458,17 +544,6 @@
       "image": null
     },
     {
-      "title": "The question your commercial data should already be able to answer",
-      "summary": "Seventy to eighty percent of patients with transthyretin amyloid cardiomyopathy (ATTR-CM), a progressive...",
-      "url": "https://www.databricks.com/blog/question-your-commercial-data-should-already-be-able-answer",
-      "date": "2026-05-18T12:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
@@ -476,6 +551,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 10,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing pre-fetching and IAM role assumption for AWS Secrets Manager Agent",
+      "summary": "AWS Secrets Manager Agent now supports two new capabilities: pre-fetching secrets at startup and assuming an IAM role to retrieve secrets. With pre-fetching, you can specify a list of secrets or a tag value to retrieve and cache at agent startup, reducing application startup latency and optimizing cost through the BatchGetSecretValue API. With IAM role assumption, you can pass a role ARN in your p",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-agent-prefetch-and-role-assumption/",
+      "date": "2026-05-18T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -564,17 +650,6 @@
       "image": null
     },
     {
-      "title": "Streamlining Commerce Media Ad Inventory Management",
-      "summary": "Drive operational efficiency and revenue growth using this Commerce Media Playbook.",
-      "url": "https://www.salesforce.com/blog/commerce-media-ad-inventory-management/",
-      "date": "2026-05-15T21:29:18+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 12,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon CloudWatch Logs announces increased query result limits",
       "summary": "Amazon CloudWatch Logs now supports retrieving up to 100,000 results using the Logs Insights query language. Customers can specify the limit in their query using the LIMIT command. Previously, customers were limited to 10,000 results and had to split their queries into smaller time ranges to retrieve all results. With this launch, customers can view a larger set of results and use existing feature",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/cloudwatch-logs-query-results/",
@@ -613,41 +688,6 @@
         "ai",
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20260224, 12.22-rds.20260224, and 13.23-rds.20260224",
-      "summary": "Amazon Relational Database Service (RDS) for PostgreSQL announces Amazon RDS Extended Support minor versions 11.22-rds.20260224, 12.22-rds.20260224, and 13.23-rds.20260224. We recommend that you upgrade to these versions to fix known security vulnerabilities and bugs in prior versions of PostgreSQL. Amazon RDS Extended Support provides up to three additional years of critical security and bug fixe",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql-extended-support/",
-      "date": "2026-05-15T16:08:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "12 AI Sales Strategies for Startups That Actually Work",
-      "summary": "Your next sale could already be in motion — here's how AI is helping startups close more deals.",
-      "url": "https://www.salesforce.com/blog/small-business/ai-sales-strategies-for-startups/",
-      "date": "2026-05-15T16:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Organizations now supports higher quotas for service control policies (SCPs)",
-      "summary": "AWS Organizations now supports higher quotas for service control policies (SCPs). The maximum number of SCPs that can be attached to a single node (root, OU, or account) has increased from 5 to 10, and the maximum SCP size has increased from 5,120 to 10,240 characters. With these higher quotas, you can write SCPs with finer-grained permissions and conditions, and attach more SCPs per node to build",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-increased-scp-quotas/",
-      "date": "2026-05-15T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -706,17 +746,6 @@
       "image": null
     },
     {
-      "title": "How data science teams use Codex",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
       "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "url": "https://openai.com/index/databricks",
@@ -748,6 +777,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How data science teams use Codex",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1187,16 +1227,14 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/logo-lockup-blog-SAP-1920x1080-1.jpg"
     },
     {
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "url": "https://openai.com/index/autoscout24",
       "date": "2026-05-12T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 6,
-      "tags": [
-        "ai"
-      ],
+      "relevance": 17,
+      "tags": [],
       "image": null
     },
     {
