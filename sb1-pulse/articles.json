@@ -1,7 +1,219 @@
 {
-  "generated": "2026-05-19T13:54:07.740888+00:00",
+  "generated": "2026-05-19T18:57:15.432826+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "dbt Fusion Is Now Available on Snowflake",
+      "summary": "Accelerate builds with dbt Fusion on Snowflake. Support for dbt Core 1.11.5, native Task orchestration, and GitHub Actions CI/CD. No extra cost.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/dbt-fusion-available-snowflake",
+      "date": "2026-05-19T18:50:17+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "I/O 2026",
+      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif"
+    },
+    {
+      "title": "How AI Mode is changing the way people search in the U.S.",
+      "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "New ways to create and get things done in Google Workspace",
+      "summary": "Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "summary": "a series of colorful icons representing Google I/O against a black background",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 13,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "A new era for AI Search",
+      "summary": "Text that reads \"The best of a search engine with the best of AI\"",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+      "summary": "The image shows colorful icons. The copy reads: More magic in one plan. More power, more perks, same price.",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/I_O_26_Header_1_AYohnR4.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Making it easier to understand how content was created and edited",
+      "summary": "A chat input box mockup featuring an uploaded thumbnail of dog-themed latte art, the text \"Is this generated with AI?\", and action icons for adding files, voice input, and sending.",
+      "url": "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FINAL_SOCIAL_HERO_laWfMt0.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Amazon Inspector is now available in the AWS Asia Pacific (Taipei) Region",
+      "summary": "Today, AWS announces the availability of Amazon Inspector in the AWS Asia Pacific (Taipei) Region. Amazon Inspector is an automated vulnerability management service that continually scans AWS workloads including Amazon EC2 instances, container images, and AWS Lambda functions for software vulnerabilities and unintended network exposure across your AWS Organization. With this expansion, Amazon Insp",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei/",
+      "date": "2026-05-19T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Multimodal Analytics: Decode Video, Audio and Images",
+      "summary": "Learn how multimodal analytics with Snowflake Cortex AI turns video, audio, images and documents into structured insights for faster decisions.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/multimodal-analytics-ai-video-audio-images",
+      "date": "2026-05-19T16:38:12+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Stop rogue AI: How Unity Catalog secures your agent actions",
+      "summary": "The risks of agentic AI are no longer theoretical. Agents connected to external tools...",
+      "url": "https://www.databricks.com/blog/stop-rogue-ai-how-unity-catalog-secures-your-agent-actions",
+      "date": "2026-05-19T15:58:36+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Run Every HCP Event On Time, On Budget, and In Compliance with Agentforce",
+      "summary": "From field dinners to national speaker programs, here's how a unified platform changes the game in HCP event management.",
+      "url": "https://www.salesforce.com/blog/hcp-event-management/",
+      "date": "2026-05-19T15:43:52+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Why AI Security Infrastructure is Now a CMO Priority",
+      "summary": "AI Threats Are Moving Faster Than HumansThe RSAC Conference is usually a security industry moment, but this year, ...",
+      "url": "https://www.databricks.com/blog/why-ai-security-infrastructure-now-cmo-priority",
+      "date": "2026-05-19T15:33:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Databricks context engineer associate: the industry’s first certification for reliable AI agent systems",
+      "summary": "As AI systems move from experimentation to real-world deployment, one truth is becoming...",
+      "url": "https://www.databricks.com/blog/databricks-context-engineer-associate-industrys-first-certification-reliable-ai-agent-systems",
+      "date": "2026-05-19T15:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing AI spend controls with Unity AI Gateway",
+      "summary": "Today, we're announcing AI Spend Controls in Unity AI Gateway. This release extends...",
+      "url": "https://www.databricks.com/blog/introducing-ai-spend-controls-unity-ai-gateway",
+      "date": "2026-05-19T14:04:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How to safeguard AI workloads with Unity AI Gateway Guardrails",
+      "summary": "No company wants to appear in the next news headline about a security breach caused by AI...",
+      "url": "https://www.databricks.com/blog/how-safeguard-ai-workloads-unity-ai-gateway-guardrails",
+      "date": "2026-05-19T13:53:57+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "What’s new in Unity AI Gateway: service policies, guardrails, observability, and cost controls for AI agents and MCPs",
+      "summary": "AI agents are moving into production fast, but AI governance isn’t keeping up. Teams...",
+      "url": "https://www.databricks.com/blog/whats-new-unity-ai-gateway-service-policies-guardrails-observability-and-cost-controls-ai",
+      "date": "2026-05-19T13:46:13+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "How SharkNinja Turned Product Unboxing Into a Guided AI Conversation",
       "summary": "The QR code on the box is the new instruction manual. Here's how SharkNinja built an Agentforce agent that walks customers through setup, step by step.",
@@ -22,6 +234,30 @@
       "category": "salesforce",
       "relevance": 5,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "date": "2026-05-19T10:45:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "MemEx: A Programmable Scratchpad for LLM Agents",
+      "summary": "In 1945, Vannevar Bush imagined a desk-sized machine that would extend a scientist's...",
+      "url": "https://www.databricks.com/blog/memex-programmable-scratchpad-llm-agents",
+      "date": "2026-05-19T09:01:42+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -174,17 +410,6 @@
       "image": null
     },
     {
-      "title": "Run every HCP Event on Time, on Budget, and in Compliance with Agentforce",
-      "summary": "From field dinners to national speaker programs, here's how a unified platform changes the game in HCP event management.",
-      "url": "https://www.salesforce.com/blog/hcp-event-management/",
-      "date": "2026-05-18T16:15:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Florida Prepaid’s Call Center Never Closes Thanks to Agentforce Voice",
       "summary": "Agentforce Voice is now the first point of contact for 75% of business-hours calls and gives 100% of after-hours callers a path forward.",
       "url": "https://www.salesforce.com/blog/florida-prepaid-agentforce-voice/",
@@ -255,6 +480,65 @@
       "image": null
     },
     {
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "date": "2026-05-17T19:53:18+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing Gemini Omni",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "date": "2026-05-17T19:50:57+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 12,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "date": "2026-05-17T13:50:34+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Accelerating discovery of liver disease mechanisms",
+      "summary": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "date": "2026-05-16T08:00:15+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://lh3.googleusercontent.com/BviYtfKhFkYTOW9MCZSU9GB3fFLNEupgc1ZynnxKJDiZqNVBaCN-1vtpF1H5e9vXubypNvruDDTrEMwuUEEHPiO4DeohPfocpIXVR7hdcolcP5WX3K4=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "summary": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa.",
+      "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "date": "2026-05-16T03:14:17+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://lh3.googleusercontent.com/iLgzjfK9faS-SQePs9fq0zjKGOVGpcyS0J0wQ3SS7llJjJhzz214LUtuy82bJIjweaMRiRWcLMDhPxdP1Z2VitCvWEQyMpY8xLFekP2RG255e2td=w528-h297-n-nu-rw-lo"
+    },
+    {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
       "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
@@ -263,6 +547,20 @@
       "category": "openai",
       "relevance": 13,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "summary": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+      "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+      "date": "2026-05-15T22:50:12+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 16,
+      "tags": [
+        "ai",
+        "automation"
+      ],
       "image": null
     },
     {
@@ -353,32 +651,6 @@
       "image": null
     },
     {
-      "title": "AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in preview",
-      "summary": "AWS announces the public preview of AWS Interconnect — multicloud with Oracle Cloud Infrastructure (OCI). Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons including interoperability requirements, the freedom to choose technology that best suits their needs, and the ability to build and deploy applications on any environm",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-AWS-interconnect-multicloud-oci-preview/",
-      "date": "2026-05-15T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "PipelineIQ: Forward‑Looking Sales Intelligence That Drives Action",
-      "summary": "SummarySales and Customer Relationship Management (CRM) data is messy. For decades,...",
-      "url": "https://www.databricks.com/blog/pipelineiq-forward-looking-sales-intelligence-drives-action",
-      "date": "2026-05-15T14:50:22+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
       "summary": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program appeared first on The GitHub Blog .",
       "url": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
@@ -398,30 +670,6 @@
       "category": "sap",
       "relevance": 5,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Sell Smarter: Ecommerce Metrics To Track For Your Small Business Shop",
-      "summary": "Use smart data to improve your online shopping experience and connect with your customers.",
-      "url": "https://www.salesforce.com/blog/small-business/ecommerce-metrics-to-track/",
-      "date": "2026-05-15T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Backstage with Lakebase, part 2",
-      "summary": "In part 1 of this series, we explored how moving Backstage's underlying database...",
-      "url": "https://www.databricks.com/blog/backstage-lakebase-part-2",
-      "date": "2026-05-15T12:47:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -447,31 +695,9 @@
       "image": null
     },
     {
-      "title": "A new personal finance experience in ChatGPT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How sales teams use Codex",
       "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How business operations teams use Codex",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "date": "2026-05-15T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -504,6 +730,28 @@
       "image": null
     },
     {
+      "title": "How business operations teams use Codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon Bedrock introduces new advanced prompt optimization and migration tool",
       "summary": "Amazon Bedrock Advanced Prompt Optimization enables customers to optimize their prompts for their current model or migrate prompts to new models faster than before with built-in evaluation feedback loops. Optimize your prompts and compare results for up to 5 models simultaneously.",
       "url": "https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/",
@@ -522,30 +770,6 @@
       "source": "GitHub Blog",
       "category": "github",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Expanded interoperability with Unity Catalog Open APIs",
-      "summary": "Unity Catalog was designed for the open lakehouse. Previously, data teams were stuck...",
-      "url": "https://www.databricks.com/blog/expanded-interoperability-unity-catalog-open-apis",
-      "date": "2026-05-14T21:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "From manual to autonomous: how AI agents are transforming electric grid operations",
-      "summary": "Executive SummaryThe electric utility industry stands at a critical inflection point...",
-      "url": "https://www.databricks.com/blog/manual-autonomous-how-ai-agents-are-transforming-electric-grid-operations",
-      "date": "2026-05-14T20:58:50+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -674,41 +898,6 @@
       "category": "openai",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Data quality is the AI strategy",
-      "summary": "Healthcare may be one of the greatest beneficiaries of AI. Few industries generate...",
-      "url": "https://www.databricks.com/blog/data-quality-ai-strategy",
-      "date": "2026-05-13T19:10:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The Rosetta stone of CPS: Claroty’s AI-powered library",
-      "summary": "The Rosetta Stone of CPS: Inside Claroty’s Revolutionary AI-Powered LibraryFor decades,...",
-      "url": "https://www.databricks.com/blog/rosetta-stone-cps-clarotys-ai-powered-library",
-      "date": "2026-05-13T19:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Clinical operations intelligence belongs on the Lakehouse",
-      "summary": "The clinical data problem is not a storage problem. Most organizations already have...",
-      "url": "https://www.databricks.com/blog/clinical-operations-intelligence-belongs-lakehouse",
-      "date": "2026-05-13T18:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -974,6 +1163,19 @@
       "image": null
     },
     {
+      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+      "summary": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
+      "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+      "date": "2026-05-12T14:40:07+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://lh3.googleusercontent.com/8kFWTjhROuwZK6kVFk-ol13YlKLABvppqzVl9LIhYyY3NP4Z8Y0i2ubSuVIfgmknluXTgYmTMAzRR21CxJPbgSK5m37ARzv26S8TPX5QhNWG6wq11Q=w528-h297-n-nu-rw-lo"
+    },
+    {
       "title": "NVIDIA and SAP Bring Trust to Specialized Agents",
       "summary": "Announced today at SAP Sapphire — where NVIDIA founder and CEO Jensen Huang joined SAP CEO Christian Klein’s keynote by video — SAP and NVIDIA’s expanded collaboration helps enterprises run specialized agents with security and governance controls.",
       "url": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
@@ -985,25 +1187,16 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/logo-lockup-blog-SAP-1920x1080-1.jpg"
     },
     {
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "url": "https://openai.com/index/nvidia",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "date": "2026-05-12T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "url": "https://openai.com/index/autoscout24",
-      "date": "2026-05-12T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 17,
-      "tags": [],
+      "relevance": 6,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -1478,17 +1671,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/nemotron-labs-openclaw-1920x1080-1.jpg"
     },
     {
-      "title": "Snowflake Intelligence Partner Solutions Bring AI Edge to Industries",
-      "summary": "Explore how Snowflake Intelligence partner solutions help teams get grounded, natural-language answers across enterprise data with industry-ready AI agents.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-intelligence-partner-solutions",
-      "date": "2026-04-30T18:35:26+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 18,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM",
       "summary": "As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key protection into Azure, extending cryptographic trust from silicon to services through verifiable and transparent design. The post Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM ap",
       "url": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
@@ -1500,17 +1682,6 @@
         "ai",
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Datometry for Snowflake: Accelerate Teradata Migration",
-      "summary": "Announcing Datometry for Snowflake in Public Preview. Move Teradata workloads to Snowflake in weeks with minimal rewrites, low risk and near-zero disruption.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/datometry-for-snowflake-teradata-migration",
-      "date": "2026-04-30T16:33:05+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
