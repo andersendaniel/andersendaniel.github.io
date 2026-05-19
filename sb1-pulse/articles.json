@@ -1,10 +1,48 @@
 {
-  "generated": "2026-05-19T00:01:54.855514+00:00",
+  "generated": "2026-05-19T08:23:27.630861+00:00",
   "sources": 21,
   "articles": [
     {
-      "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: “Demand Is Going Parabolic, Utterly Parabolic”",
-      "summary": "Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs — while enterprise data queries are up to 3x faster with the Vera CPU. And 5,000 enterprises like Lilly, Samsung, and Honeywell are running AI workloads on Dell AI Factories […]",
+      "title": "The AI Race Is Being Fought in the Wrong Place",
+      "summary": "As AI moves from insight to action, enterprise context becomes the differentiator.",
+      "url": "https://news.sap.com/2026/05/ai-race-being-fought-in-wrong-place/",
+      "date": "2026-05-19T08:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Deutsche Börse built a generative AI tool to tackle the large-scale migration of   Zeppelin notebooks to Databricks",
+      "summary": "At Deutsche Börse Group, our StatistiX platform provides approximately 95% of all...",
+      "url": "https://www.databricks.com/blog/how-deutsche-borse-built-generative-ai-tool-tackle-large-scale-migration-zeppelin-notebooks",
+      "date": "2026-05-19T03:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 15,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Blackstone will create a new TPU cloud in a joint venture with Google.",
+      "summary": "Blackstone announced a joint venture with Google to create a new TPU cloud.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/",
+      "date": "2026-05-19T01:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blackstone_Google_logo_lockup.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
+      "summary": "Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs — while enterprise data queries are up to 3x faster with the Vera CPU. And 5,000 enterprises like Lilly, Samsung and Honeywell are running AI workloads on Dell AI Factories […]",
       "url": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/",
       "date": "2026-05-18T22:28:59+00:00",
       "source": "NVIDIA Blog",
@@ -847,19 +885,6 @@
       "image": null
     },
     {
-      "title": "ABAC row filtering and column masking policies, governed tags, and data classification are now generally available in Unity Catalog",
-      "summary": "Scale data protection with automated governance in Unity CatalogAs data estates grow...",
-      "url": "https://www.databricks.com/blog/abac-row-filtering-and-column-masking-policies-governed-tags-and-data-classification-are-now",
-      "date": "2026-05-13T14:08:52+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
       "summary": "Reinforcement-learning agents — AI systems that learn by trial and error — can convert computation into new knowledge. That’s the focus of a new engineering-level collaboration between NVIDIA and Ineffable Intelligence, the London-based AI lab founded by AlphaGo architect David Silver in the wake of Ineffable’s emergence from stealth last week. “The next frontier of […]",
       "url": "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/",
@@ -1083,19 +1108,6 @@
       "tags": [
         "ai",
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "SAP Unveils the Autonomous Enterprise",
-      "summary": "ORLANDO — The company introduces a unified SAP Business AI Platform, deepening partnerships with Anthropic, Amazon Web Services, Google Cloud, Microsoft, NVIDIA and Palantir.",
-      "url": "https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/",
-      "date": "2026-05-12T12:35:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 7,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
