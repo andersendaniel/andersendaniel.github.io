@@ -1,7 +1,110 @@
 {
-  "generated": "2026-05-20T13:35:42.235290+00:00",
+  "generated": "2026-05-20T19:20:44.710911+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Security Hub Extended expands to 21 curated partner solutions across 9 categories",
+      "summary": "AWS Security Hub Extended plan now includes 21 curated partner solutions across 9 security categories, adding SentinelOne (endpoint), CyberArk (identity), Sublime (email), Varonis (data security), LayerX (browser), Native Security (cloud), and Zenity (AI security). With these additions, you have more flexibility to select the solutions that best fit your enterprise security requirements. All solut",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-extended/",
+      "date": "2026-05-20T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 12,
+      "tags": [
+        "cloud",
+        "security",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Readiness Starts at the Kitchen Table: Modernizing the Military Family Experience",
+      "summary": "In national defense, “readiness” is a term usually reserved for maintenance cycles, ammunition counts, and grueling certification exercises. We measure it in hours to deploy and percentages of mission-capable aircraft. But there is…",
+      "url": "https://www.salesforce.com/blog/military-defense-hr-transformation/",
+      "date": "2026-05-20T17:30:04+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS announces ExtendDB, an open source DynamoDB-compatible adapter",
+      "summary": "Today, Amazon Web Services (AWS) announced version 0.1 of ExtendDB, an open source project that implements the Amazon DynamoDB API with pluggable storage backends. Amazon DynamoDB is a serverless, fully managed NoSQL database with single-digit millisecond performance at any scale. ExtendDB enables application developers, platform teams, and enterprise architects to use the DynamoDB programming mod",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-extenddb-dynamodb/",
+      "date": "2026-05-20T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [
+        "cloud",
+        "data",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "A new experiment brings better group meetings to Google Beam",
+      "summary": "A small group meeting featuring two in-room participants and three participants on-screen.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+      "date": "2026-05-20T16:45:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Unlock seamless and cost-effective marketing campaigns with Lakebase",
+      "summary": "Recently, Deichmann published a customer story describing how Lakebase enabled seamless...",
+      "url": "https://www.databricks.com/blog/unlock-seamless-and-cost-effective-marketing-campaigns-lakebase",
+      "date": "2026-05-20T16:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Billing Conductor Improves Account Visibility with Billing Transfer Inventory",
+      "summary": "AWS Billing Conductor Console now enables you to see which accounts have received or accepted billing transfer invites but still lack access to pro forma billing data. This page helps customers detect and close gaps in their account’s billing visibility. When an account accepts a billing transfer invitation, billing data is transferred to the inviting account. By configuring a billing group via AW",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-billing-conductor-billing-transfer/",
+      "date": "2026-05-20T16:28:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Entering a New Era of Salesforce Development with Headless 360",
+      "summary": "Together with Multi-framework and the Headless Experience Layer, developers can deliver the unified, secure, and premium experiences their users demand.",
+      "url": "https://www.salesforce.com/blog/headless-salesforce-development/",
+      "date": "2026-05-20T15:30:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Announcing the general availability of a new AWS Local Zone in Istanbul, Türkiye",
+      "summary": "Today, AWS announces the general availability of a new AWS Local Zone in Istanbul, Türkiye, bringing AWS infrastructure closer to end users, while enabling organizations to meet data residency requirements by storing and backing up data locally. AWS Local Zones are AWS infrastructure deployments that extend core services, such as compute, storage, networking, and other select services, closer to m",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-istanbul-turkiye/",
+      "date": "2026-05-20T14:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "How to Build a Service Team That Thrives Alongside AI",
       "summary": "The new competitive edge belongs to organizations that cultivate AI fluency, continuous learning, and the unique human judgment that forges unbreakable customer loyalty.",
@@ -10,6 +113,28 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Governing AI agents at scale with Unity Catalog",
+      "summary": "A year ago, your organization had a dozen AI agents. Today, there are thousands.Every...",
+      "url": "https://www.databricks.com/blog/governing-ai-agents-scale-unity-catalog",
+      "date": "2026-05-20T12:41:42+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How telecom CFOs can make smarter network capex decisions with AI",
+      "summary": "USE CASENetwork Investment ROI & Financial Planning Intelligence Network capital...",
+      "url": "https://www.databricks.com/blog/how-telecom-cfos-can-make-smarter-network-capex-decisions-ai",
+      "date": "2026-05-20T11:26:14+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
       "tags": [],
       "image": null
     },
@@ -48,16 +173,26 @@
     },
     {
       "title": "Amazon SageMaker HyperPod now supports data capture for inference workloads",
-      "summary": "Amazon SageMaker HyperPod now supports data capture for inference workloads, enabling customers to record inference request and response payloads for model monitoring, compliance, debugging, and offline analysis. Organizations deploying generative AI and machine learning models on HyperPod need systematic visibility into the inputs flowing into their models and the outputs returned to clients to d",
+      "summary": "Amazon SageMaker HyperPod now supports data capture for inference workloads, a new capability that records inference request and response payloads from production endpoints to Amazon S3. Customers deploying generative AI models on HyperPod need visibility into model inputs and outputs to detect drift, troubleshoot production issues, build evaluation datasets, and continuously improve their deploye",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture",
       "date": "2026-05-20T01:08:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
-      "relevance": 20,
+      "relevance": 16,
       "tags": [
-        "ai",
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "date": "2026-05-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
       "image": null
     },
     {
@@ -346,30 +481,6 @@
       "image": null
     },
     {
-      "title": "Why AI Security Infrastructure is Now a CMO Priority",
-      "summary": "AI Threats Are Moving Faster Than HumansThe RSAC Conference is usually a security industry moment, but this year, ...",
-      "url": "https://www.databricks.com/blog/why-ai-security-infrastructure-now-cmo-priority",
-      "date": "2026-05-19T15:33:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
-      "title": "Databricks context engineer associate: the industry’s first certification for reliable AI agent systems",
-      "summary": "As AI systems move from experimentation to real-world deployment, one truth is becoming...",
-      "url": "https://www.databricks.com/blog/databricks-context-engineer-associate-industrys-first-certification-reliable-ai-agent-systems",
-      "date": "2026-05-19T15:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon Managed Grafana now supports dual-stack connectivity (IPv6 and IPv4)",
       "summary": "Amazon Managed Grafana now supports dual-stack connectivity, enabling workspaces to communicate over both Internet Protocol version 4 (IPv4) and Internet Protocol version 6 (IPv6). Dual-stack mode is available for workspaces running Grafana version 10.4 or later. With dual-stack support, customers can simplify their network stack by eliminating the need to manage overlapping address spaces in thei",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-ipv6/",
@@ -377,39 +488,6 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Introducing AI spend controls with Unity AI Gateway",
-      "summary": "Today, we're announcing AI Spend Controls in Unity AI Gateway. This release extends...",
-      "url": "https://www.databricks.com/blog/introducing-ai-spend-controls-unity-ai-gateway",
-      "date": "2026-05-19T14:04:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How SharkNinja Turned Product Unboxing Into a Guided AI Conversation",
-      "summary": "The QR code on the box is the new instruction manual. Here's how SharkNinja built an Agentforce agent that walks customers through setup, step by step.",
-      "url": "https://www.salesforce.com/blog/sharkninja-agentforce/",
-      "date": "2026-05-19T11:55:57+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Indeed Builds, Tests, and Deploys Agents Without Ever Opening a Browser",
-      "summary": "Inside the developer workflow behind Indeed's production agents, powered by Salesforce Headless 360",
-      "url": "https://www.salesforce.com/blog/indeed-agentforce/",
-      "date": "2026-05-19T11:51:22+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -563,28 +641,6 @@
       "image": null
     },
     {
-      "title": "Florida Prepaid’s Call Center Never Closes Thanks to Agentforce Voice",
-      "summary": "Agentforce Voice is now the first point of contact for 75% of business-hours calls and gives 100% of after-hours callers a path forward.",
-      "url": "https://www.salesforce.com/blog/florida-prepaid-agentforce-voice/",
-      "date": "2026-05-18T15:37:28+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker Studio now supports GPU capacity reservation through SageMaker Flexible Training Plans",
-      "summary": "Amazon SageMaker Studio IDEs, including JupyterLab and Code Editor, now support GPU capacity reservations through SageMaker Flexible Training Plans (FTP) , giving you predictable access to high-demand, high-performance computational resources within your budget. By leveraging FTP, you can achieve up to 65% cost savings compared to On-Demand instances while running ML workflows in JupyterLab or Cod",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-training-plan-support-for-studio/",
-      "date": "2026-05-18T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
@@ -592,17 +648,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 10,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Introducing pre-fetching and IAM role assumption for AWS Secrets Manager Agent",
-      "summary": "AWS Secrets Manager Agent now supports two new capabilities: pre-fetching secrets at startup and assuming an IAM role to retrieve secrets. With pre-fetching, you can specify a list of secrets or a tag value to retrieve and cache at agent startup, reducing application startup latency and optimizing cost through the BatchGetSecretValue API. With IAM role assumption, you can pass a role ARN in your p",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-agent-prefetch-and-role-assumption/",
-      "date": "2026-05-18T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -702,33 +747,6 @@
       "image": null
     },
     {
-      "title": "Amazon CloudWatch Logs announces increased query result limits",
-      "summary": "Amazon CloudWatch Logs now supports retrieving up to 100,000 results using the Logs Insights query language. Customers can specify the limit in their query using the LIMIT command. Previously, customers were limited to 10,000 results and had to split their queries into smaller time ranges to retrieve all results. With this launch, customers can view a larger set of results and use existing feature",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/cloudwatch-logs-query-results/",
-      "date": "2026-05-15T21:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EMR Serverless is now available in additional AWS Regions",
-      "summary": "Amazon EMR Serverless is now generally available in six additional AWS Regions - Asia Pacific (Hyderabad), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Taipei), Asia Pacific (Thailand), and Mexico (Central). Amazon EMR Serverless is a deployment option in Amazon EMR that makes it simple and cost effective for data engineers and analysts to run petabyte-scale data analytics in",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-aws-regions/",
-      "date": "2026-05-15T19:50:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 10,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
       "summary": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program appeared first on The GitHub Blog .",
       "url": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
@@ -773,6 +791,39 @@
       "image": null
     },
     {
+      "title": "How data science teams use Codex",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How sales teams use Codex",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
       "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "url": "https://openai.com/index/databricks",
@@ -793,39 +844,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How sales teams use Codex",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How data science teams use Codex",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1111,20 +1129,9 @@
     },
     {
       "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "summary": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
       "url": "https://openai.com/index/building-codex-windows-sandbox",
       "date": "2026-05-13T11:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Our response to the TanStack npm supply chain attack",
-      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "date": "2026-05-13T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
@@ -2070,31 +2077,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://lh3.googleusercontent.com/t9KvGjgjHJMLDqzAzXuDUOXFI4IlnMiYLhRmxohCRvB1qGSr8-8-TDEI24qk8ilY4OzRB2et5dSlWOjMs6lm-R718xmtQwdiGBxOO7VjxBfMq4a3yoI=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-      "summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
-      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-      "date": "2026-04-21T14:30:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
-      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
-      "date": "2026-04-20T15:53:21+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 30,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
     }
   ]
 }
