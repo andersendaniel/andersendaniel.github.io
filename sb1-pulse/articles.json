@@ -1,7 +1,40 @@
 {
-  "generated": "2026-05-20T08:22:17.419117+00:00",
+  "generated": "2026-05-20T13:35:42.235290+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How to Build a Service Team That Thrives Alongside AI",
+      "summary": "The new competitive edge belongs to organizations that cultivate AI fluency, continuous learning, and the unique human judgment that forges unbreakable customer loyalty.",
+      "url": "https://www.salesforce.com/blog/how-to-build-service-teams-with-ai/",
+      "date": "2026-05-20T13:30:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Databricks Genie improves retail personalization",
+      "summary": "USE CASECustomer Intelligence & Loyalty OptimizationRetail personalization has come...",
+      "url": "https://www.databricks.com/blog/how-databricks-genie-improves-retail-personalization",
+      "date": "2026-05-20T08:57:23+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Databricks for Good and Virtue Foundation: Partnering to Connect Medical Volunteers to Critical Health Services in 72 Countries",
+      "summary": "IntroductionVirtue Foundation is a nonprofit focused on global health delivery and...",
+      "url": "https://www.databricks.com/blog/databricks-good-and-virtue-foundation-partnering-connect-medical-volunteers-critical-health",
+      "date": "2026-05-20T08:55:29+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI",
       "summary": "MADRID — The global leader in automotive seating and interior systems, has successfully deployed an autonomous intralogistics model.",
@@ -25,6 +58,17 @@
         "ai",
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "date": "2026-05-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -348,32 +392,6 @@
       "image": null
     },
     {
-      "title": "How to safeguard AI workloads with Unity AI Gateway Guardrails",
-      "summary": "No company wants to appear in the next news headline about a security breach caused by AI...",
-      "url": "https://www.databricks.com/blog/how-safeguard-ai-workloads-unity-ai-gateway-guardrails",
-      "date": "2026-05-19T13:53:57+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
-      "title": "What’s new in Unity AI Gateway: service policies, guardrails, observability, and cost controls for AI agents and MCPs",
-      "summary": "AI agents are moving into production fast, but AI governance isn’t keeping up. Teams...",
-      "url": "https://www.databricks.com/blog/whats-new-unity-ai-gateway-service-policies-guardrails-observability-and-cost-controls-ai",
-      "date": "2026-05-19T13:46:13+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "How SharkNinja Turned Product Unboxing Into a Guided AI Conversation",
       "summary": "The QR code on the box is the new instruction manual. Here's how SharkNinja built an Agentforce agent that walks customers through setup, step by step.",
       "url": "https://www.salesforce.com/blog/sharkninja-agentforce/",
@@ -564,19 +582,6 @@
       "category": "aws",
       "relevance": 5,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "How We Protect Our Data as Customer Zero",
-      "summary": "We stress-test our security, compliance, and resilience tools at a massive scale. Learn how you can do the same.",
-      "url": "https://www.salesforce.com/blog/protecting-data-as-customer-zero/",
-      "date": "2026-05-18T13:50:55+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [
-        "security"
-      ],
       "image": null
     },
     {
@@ -1198,17 +1203,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "How finance teams use Codex",
-      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-      "url": "https://openai.com/academy/how-finance-teams-use-codex",
-      "date": "2026-05-12T15:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
