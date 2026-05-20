@@ -1,7 +1,32 @@
 {
-  "generated": "2026-05-19T23:58:54.363739+00:00",
+  "generated": "2026-05-20T08:22:17.419117+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI",
+      "summary": "MADRID — The global leader in automotive seating and interior systems, has successfully deployed an autonomous intralogistics model.",
+      "url": "https://news.sap.com/2026/05/martur-fompak-international-throughput-efficiency-intelligent-robotics-joule-embodied-ai/",
+      "date": "2026-05-20T08:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports data capture for inference workloads",
+      "summary": "Amazon SageMaker HyperPod now supports data capture for inference workloads, enabling customers to record inference request and response payloads for model monitoring, compliance, debugging, and offline analysis. Organizations deploying generative AI and machine learning models on HyperPod need systematic visibility into the inputs flowing into their models and the outputs returned to clients to d",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture",
+      "date": "2026-05-20T01:08:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 20,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "When AI Becomes Invisible: The Rise of Ambient Intelligence",
       "summary": "Travel has always been a story of how much friction we’re willing to tolerate to get somewhere. A century ago, a long-distance journey began at a train station thick with smoke and shouting…",
@@ -36,6 +61,17 @@
         "cloud"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/google-cloud-nvidia-1920x1080-1.jpg"
+    },
+    {
+      "title": "Introducing OpenAI for Singapore",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "date": "2026-05-19T20:30:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
     },
     {
       "title": "Amazon MWAA now supports Apache Airflow 3.2",
@@ -603,6 +639,17 @@
       "image": null
     },
     {
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "date": "2026-05-16T09:13:34+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://lh3.googleusercontent.com/Woiv_MqlJsgv6bSWD505JCSu936VdLLtR0y7Ev1wPWDmuhFK1SYxkpyU4N2vhSpSMl22NAtbxuZ1yFMHIcDFwABNZIgRtX0ccRXxWiBaHETRXUQEZQ=w528-h297-n-nu-rw-lo"
+    },
+    {
       "title": "Accelerating discovery of liver disease mechanisms",
       "summary": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
       "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
@@ -677,20 +724,6 @@
       "image": null
     },
     {
-      "title": "AWS Partner Central agents now accelerates opportunity creation",
-      "summary": "Today, AWS announces that the AWS Partner Central agents now accelerate opportunity creation through natural language conversation. AWS Partner Central agents , released on March 16, 2026, are AI-powered capabilities built on Amazon Bedrock AgentCore that help partners surface pipeline insights, advance deals with next-step recommendations, and identify funding opportunities. With this update, par",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-agents-oppo",
-      "date": "2026-05-15T18:41:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 13,
-      "tags": [
-        "ai",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
       "summary": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program appeared first on The GitHub Blog .",
       "url": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
@@ -735,17 +768,6 @@
       "image": null
     },
     {
-      "title": "How sales teams use Codex",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
       "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "url": "https://openai.com/index/databricks",
@@ -762,6 +784,17 @@
       "title": "How business operations teams use Codex",
       "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
       "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How sales teams use Codex",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "date": "2026-05-15T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -1083,17 +1116,6 @@
       "image": null
     },
     {
-      "title": "The Future of the Enterprise Is Autonomous",
-      "summary": "Companies of all sizes deserve AI-driven outcomes that increase innovation, revenue, and margins.",
-      "url": "https://news.sap.com/2026/05/future-enterprise-autonomous/",
-      "date": "2026-05-13T10:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Our response to the TanStack npm supply chain attack",
       "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
       "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
@@ -1225,17 +1247,6 @@
       "relevance": 6,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/logo-lockup-blog-SAP-1920x1080-1.jpg"
-    },
-    {
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "url": "https://openai.com/index/autoscout24",
-      "date": "2026-05-12T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 17,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift",
