@@ -1,7 +1,68 @@
 {
-  "generated": "2026-05-21T08:30:02.031550+00:00",
+  "generated": "2026-05-21T14:02:49.653218+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle",
+      "summary": "The mission begins now. GeForce NOW is dialing up the action with a blockbuster mix of spy thrills, high-speed racing and member rewards — plus eight new games joining the cloud this week, all ready to stream instantly. Leading the drop: the 007 First Light Ultimate Membership Bundle, which brings a brand-new way to jump […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/",
+      "date": "2026-05-21T13:00:22+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/gfn-thursday-5-14-nv-blog-1280x680-logo-1.jpg"
+    },
+    {
+      "title": "How Founders Are Moving Boldly Into The Agentic Enterprise: Startup Summit Insights",
+      "summary": "Salesforce's Startup Summit offers a front-row seat to watch the agentic playbook being written.",
+      "url": "https://www.salesforce.com/blog/small-business/annual-startup-summit-insights/",
+      "date": "2026-05-21T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 4,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "From emissions reporting to decarbonization decisions",
+      "summary": "USE CASEESG Reporting & Decarbonization IntelligenceSustainability reporting in the...",
+      "url": "https://www.databricks.com/blog/emissions-reporting-decarbonization-decisions",
+      "date": "2026-05-21T10:37:15+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "You’ve built the media products, now make them personalized",
+      "summary": "USE CASEDigital Product Analytics, Audience Engagement Optimization, & PersonalizationMost...",
+      "url": "https://www.databricks.com/blog/youve-built-media-products-now-make-them-personalized",
+      "date": "2026-05-21T09:56:44+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "From \"What Happened?\" to \"What Will Happen?\"",
+      "summary": "Business intelligence has always been about answering questions. For most organizations,...",
+      "url": "https://www.databricks.com/blog/what-happened-what-will-happen",
+      "date": "2026-05-21T09:50:51+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Ericsson Scales AI Across the Enterprise with a Business Data Fabric and SAP",
       "summary": "MADRID — The company is moving from AI experimentation to enterprise-wide execution.",
@@ -140,6 +201,19 @@
       "image": null
     },
     {
+      "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
+      "summary": "Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads. The post Azure IaaS: Deploy high-performance workloads with a system-level approach appeared first on",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
+      "date": "2026-05-20T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "ECS supports native integration with Amazon EBS volumes in GovCloud Regions",
       "summary": "Amazon Elastic Container Service (ECS) now supports mounting Amazon Elastic Block Store (EBS) volumes to containers in the AWS GovCloud Regions. This capability makes it easier for you to deploy storage and data intensive applications such as ETL jobs, media transcoding, and ML inference workloads using serverless containers. With EBS task attachment, customers can allow ECS to provision, manage a",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/ecs-amazon-ebs-govcloud/",
@@ -269,17 +343,6 @@
       "image": null
     },
     {
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "date": "2026-05-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
@@ -298,6 +361,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "date": "2026-05-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -384,19 +458,6 @@
       "relevance": 1,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "How Databricks Genie improves supply chain visibility with real-time AI analytics",
-      "summary": "Supply chain visibility has been a boardroom priority since 2020. Most companies...",
-      "url": "https://www.databricks.com/blog/how-databricks-genie-improves-supply-chain-visibility-real-time-ai-analytics",
-      "date": "2026-05-19T19:08:59+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 10,
-      "tags": [
-        "data"
       ],
       "image": null
     },
@@ -520,17 +581,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FINAL_SOCIAL_HERO_laWfMt0.max-600x600.format-webp.webp"
     },
     {
-      "title": "A CFO’s guide to managing value-based care financial performance",
-      "summary": "The shift from fee-for-service to value-based care reimbursement is well underway. Health systems with significant ACO...",
-      "url": "https://www.databricks.com/blog/cfos-guide-managing-value-based-care-financial-performance",
-      "date": "2026-05-19T17:38:20+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon Inspector is now available in the AWS Asia Pacific (Taipei) Region",
       "summary": "Today, AWS announces the availability of Amazon Inspector in the AWS Asia Pacific (Taipei) Region. Amazon Inspector is an automated vulnerability management service that continually scans AWS workloads including Amazon EC2 instances, container images, and AWS Lambda functions for software vulnerabilities and unintended network exposure across your AWS Organization. With this expansion, Amazon Insp",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei/",
@@ -562,30 +612,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Stop rogue AI: How Unity Catalog secures your agent actions",
-      "summary": "The risks of agentic AI are no longer theoretical. Agents connected to external tools...",
-      "url": "https://www.databricks.com/blog/stop-rogue-ai-how-unity-catalog-secures-your-agent-actions",
-      "date": "2026-05-19T15:58:36+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Run Every HCP Event On Time, On Budget, and In Compliance with Agentforce",
-      "summary": "From field dinners to national speaker programs, here's how a unified platform changes the game in HCP event management.",
-      "url": "https://www.salesforce.com/blog/hcp-event-management/",
-      "date": "2026-05-19T15:43:52+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -863,19 +889,6 @@
       "image": null
     },
     {
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "url": "https://openai.com/index/databricks",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 23,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "How sales teams use Codex",
       "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
@@ -883,17 +896,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -917,6 +919,30 @@
       "category": "openai",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "url": "https://openai.com/index/databricks",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 23,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -1808,19 +1834,6 @@
       "image": null
     },
     {
-      "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
-      "summary": "AI agent systems today juggle separate models for vision, speech and language — losing time and context as they pass data from one model to the other. Unveiled today, NVIDIA Nemotron 3 Nano Omni is an open multimodal model that brings these capabilities together into one system, enabling agents to deliver faster, smarter responses with […]",
-      "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
-      "date": "2026-04-28T16:00:28+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 15,
-      "tags": [
-        "data"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/nemotron-3-nano-omni-featured-1920x1080-1.jpg"
-    },
-    {
       "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment",
       "summary": "Azure API Management provides a single, Azure-native platform to govern everything from traditional APIs to AI models, tools, and agents. The post Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment appeared first on Microsoft Azure Blog .",
       "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
@@ -1841,19 +1854,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
-      "summary": "Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations. The post Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local appeared first on Microsoft Azure Blog .",
-      "url": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
-      "date": "2026-04-27T18:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
     },
     {
       "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
