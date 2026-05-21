@@ -1,7 +1,53 @@
 {
-  "generated": "2026-05-20T19:20:44.710911+00:00",
+  "generated": "2026-05-21T00:03:42.307911+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "We’re announcing new community investments in Missouri.",
+      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "date": "2026-05-20T20:40:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "AWS Security Hub now uncovers identity risks from unused access",
+      "summary": "Today, AWS Security Hub brings identity risk into the same unified console where central security teams already manage threats, exposures, and posture findings. Security Hub now detects unused IAM permissions, roles, and credentials across your AWS organization, helping central security teams identify and reduce identity risk at scale. Until now, managing identity risk across hundreds of accounts ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-unused-access/",
+      "date": "2026-05-20T20:20:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "100 things we announced at I/O 2026",
+      "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "date": "2026-05-20T19:30:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 13,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Asking For a Friend: What Exactly is an AI Moat?",
+      "summary": "Learn about competitive advantages that protect your tech investment and make it more valuable",
+      "url": "https://www.salesforce.com/blog/ai-moat/",
+      "date": "2026-05-20T19:22:57+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Security Hub Extended expands to 21 curated partner solutions across 9 categories",
       "summary": "AWS Security Hub Extended plan now includes 21 curated partner solutions across 9 security categories, adding SentinelOne (endpoint), CyberArk (identity), Sublime (email), Varonis (data security), LayerX (browser), Native Security (cloud), and Zenity (AI security). With these additions, you have more flexibility to select the solutions that best fit your enterprise security requirements. All solut",
@@ -81,6 +127,20 @@
       "image": null
     },
     {
+      "title": "ECS supports native integration with Amazon EBS volumes in GovCloud Regions",
+      "summary": "Amazon Elastic Container Service (ECS) now supports mounting Amazon Elastic Block Store (EBS) volumes to containers in the AWS GovCloud Regions. This capability makes it easier for you to deploy storage and data intensive applications such as ETL jobs, media transcoding, and ML inference workloads using serverless containers. With EBS task attachment, customers can allow ECS to provision, manage a",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/ecs-amazon-ebs-govcloud/",
+      "date": "2026-05-20T15:53:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 9,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Entering a New Era of Salesforce Development with Headless 360",
       "summary": "Together with Multi-framework and the Headless Experience Layer, developers can deliver the unified, secure, and premium experiences their users demand.",
       "url": "https://www.salesforce.com/blog/headless-salesforce-development/",
@@ -139,6 +199,17 @@
       "image": null
     },
     {
+      "title": "AWS Transfer Family web apps now support federated permissions with IAM Identity Center across AWS Regions",
+      "summary": "AWS Transfer Family web apps now support federated permissions with AWS IAM Identity Center across multiple AWS Regions. Previously, you could only create Transfer Family web apps in the Region where your IAM Identity Center instance was enabled. With IAM Identity Center's support for multi-Region replication, you can now replicate your identity configurations to another Region and create Transfer",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transfer-family-federated-permissions-across-regions/",
+      "date": "2026-05-20T10:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "How Databricks Genie improves retail personalization",
       "summary": "USE CASECustomer Intelligence & Loyalty OptimizationRetail personalization has come...",
       "url": "https://www.databricks.com/blog/how-databricks-genie-improves-retail-personalization",
@@ -192,6 +263,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "url": "https://openai.com/index/ramp",
+      "date": "2026-05-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -591,19 +673,6 @@
       "image": null
     },
     {
-      "title": "Amazon EVS enables support for 32 hosts per environment",
-      "summary": "Today, we are announcing that Amazon Elastic VMware Service (Amazon EVS) now supports up to 32 ESXi hosts per environment, double the previous limit of 16 hosts. Amazon EVS gives you flexibility in how you configure VMware Cloud Foundation (VCF) domains and clusters within an environment. You can put all your hosts into a single large cluster, spread them across several smaller clusters, or any co",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-evs-32-hosts",
-      "date": "2026-05-18T17:55:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Take your local GitHub sessions anywhere",
       "summary": "Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub sessions anywhere appeared first on The GitHub Blog .",
       "url": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
@@ -614,30 +683,6 @@
       "tags": [
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "AWS SAM CLI adds AWS CloudFormation Language Extensions support to accelerate local serverless development",
-      "summary": "AWS SAM CLI now supports AWS CloudFormation Language Extensions , enabling you to reduce duplication in your infrastructure as code (IaC) templates while retaining the full local development workflow. This accelerates your serverless development by letting you define resources once and iterate locally without waiting for cloud deployments. Developers frequently need to define multiple similar reso",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-cloudformation/",
-      "date": "2026-05-18T16:31:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 11,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Redshift adds ALTER TABLE for Iceberg tables and writes via the AWS Glue Data Catalog mount",
-      "summary": "Amazon Redshift now supports writing directly to Apache Iceberg tables via the AWS Glue Data Catalog (awsdatacatalog) mount and ALTER TABLE DDL statements to modify the schema, partitioning, and properties of Apache Iceberg tables. With write access through the auto-mounted awsdatacatalog, you can land Redshift transformations in your data lake for any engine to query without creating external sch",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-alter-table-iceberg/",
-      "date": "2026-05-18T16:25:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -791,17 +836,6 @@
       "image": null
     },
     {
-      "title": "How data science teams use Codex",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "A new personal finance experience in ChatGPT",
       "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
       "url": "https://openai.com/index/personal-finance-chatgpt",
@@ -813,9 +847,9 @@
       "image": null
     },
     {
-      "title": "How sales teams use Codex",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "title": "How business operations teams use Codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "date": "2026-05-15T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -837,9 +871,20 @@
       "image": null
     },
     {
-      "title": "How business operations teams use Codex",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "title": "How data science teams use Codex",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How sales teams use Codex",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "date": "2026-05-15T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -1128,17 +1173,6 @@
       "image": null
     },
     {
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "summary": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "date": "2026-05-13T11:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AI agent backup protection for enterprise data",
       "summary": "Learn how AI agent backup protection helps reduce risk from autonomous mistakes with immutable backups, disaster recovery, and stronger data resilience.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agent-backup-protection",
@@ -1355,19 +1389,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26-cmu-commencement-20-KL_-13_16x9-scaled.jpg"
-    },
-    {
-      "title": "Why age assurance laws matter for developers",
-      "summary": "Youth safety requirements are moving down the tech stack to operating systems and app stores—raising new questions for open source developers. The post Why age assurance laws matter for developers appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
-      "date": "2026-05-08T16:30:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 3,
-      "tags": [
-        "developer"
-      ],
-      "image": null
     },
     {
       "title": "See what happens when creative legends use AI to make ads for small businesses.",
@@ -1929,17 +1950,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp"
     },
     {
-      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-      "summary": "Aerial image of the data center",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-      "date": "2026-04-23T09:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Kronstorf_Data_Center_1.max-600x600.format-webp.webp"
-    },
-    {
       "title": "Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available",
       "summary": "From first draft to final polish, Copilot acts as a true collaborator, taking action while you stay in control. The post Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available appeared first on Microsoft 365 Blog .",
       "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
@@ -1993,19 +2003,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiEnterprise_social.max-600x600.format-webp.webp"
     },
     {
-      "title": "We're launching two specialized TPUs for the agentic era.",
-      "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
-      "date": "2026-04-22T12:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp"
-    },
-    {
       "title": "Google Cloud Next ‘26",
       "summary": "Here’s a look at what Google announced at Google Cloud Next ‘26.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2026/",
@@ -2044,6 +2041,20 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Next_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "date": "2026-04-22T12:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp"
     },
     {
       "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
