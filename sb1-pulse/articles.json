@@ -1,7 +1,61 @@
 {
-  "generated": "2026-05-21T18:57:19.999999+00:00",
+  "generated": "2026-05-21T23:57:53.127246+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How security teams can report cyber risk to boards",
+      "summary": "USE CASECyber Risk Quantification & Executive Reporting IntelligenceCyber risk quantification...",
+      "url": "https://www.databricks.com/blog/how-security-teams-can-report-cyber-risk-boards",
+      "date": "2026-05-22T05:20:23+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "security",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AI Agents Are Shopping. Is Your Brand Getting Noticed?",
+      "summary": "Agents and LLMs are revolutionizing the shopping experience. Try these 3 tips to help your brand stay on AI's radar.",
+      "url": "https://www.salesforce.com/blog/tips-to-win-agentic-commerce/",
+      "date": "2026-05-21T20:53:25+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 25,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 C7i-flex, M7i-flex & M7i instances now available in Asia Pacific (Hyderabad) region",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i-flex, M7i-flex and M7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in Asia Pacific (Hyderabad) region. These custom processors, available only on AWS, offer up to 15% better performance over comparable x86-based Intel processors utilized by other cloud providers. C7i-flex",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-c7i-flex-m7i-flex-m7i-instances-HYD-region/",
+      "date": "2026-05-21T19:39:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "SageMaker Unified Studio automates Glue connector provisioning for cross-subnet job retries",
+      "summary": "Amazon SageMaker Unified Studio now supports automatic creation of connections for Glue job retries across subnets to improve data pipeline resilience. This helps organizations running business-critical data pipelines reduce unplanned downtime and meet their SLAs — without requiring engineers to manually configure backup connectors or intervene during subnet failures. With this launch, SageMaker U",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-unified-studio-glue/",
+      "date": "2026-05-21T19:27:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
       "summary": "Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets. The post Beyond the engine: 10 open source projects shaping how games actually get made appeared first on The GitHub Blog .",
@@ -11,6 +65,20 @@
       "category": "github",
       "relevance": 3,
       "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker AI now supports OpenAI-compatible APIs for inference endpoints",
+      "summary": "Amazon SageMaker Inference now supports OpenAI-compatible APIs, so you can use the tools and frameworks you already know, like the OpenAI SDK, LangChain, and Strands Agents, to connect directly to your SageMaker endpoints. Switching requires nothing more than changing an endpoint URL — no custom integration code, no SDK wrappers, no rewrites. With this launch, you no longer need to adopt a differe",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-openai-apis/",
+      "date": "2026-05-21T17:55:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "automation",
         "developer"
       ],
       "image": null
@@ -29,6 +97,17 @@
         "developer"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/computex-rolling-blog-kickoff.jpg"
+    },
+    {
+      "title": "Amazon Aurora MySQL 8.4  is now generally available",
+      "summary": "Amazon Aurora MySQL-Compatible Edition now supports MySQL 8.4, a community MySQL Long Term Support (LTS) major version. Aurora MySQL 8.4 launches with compatibility for community MySQL 8.4.7 and introduces aligned version numbering, so the version number you run on Aurora matches the community MySQL version it is compatible with. Aurora also manages the underlying patch on your behalf, simplifying",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-mysql/8-4/",
+      "date": "2026-05-21T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
     },
     {
       "title": "Agentic AI in Financial Services: How Nasdaq eVestment Drives Faster Investment Insights",
@@ -165,6 +244,19 @@
       "image": null
     },
     {
+      "title": "Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server",
+      "summary": "Amazon Relational Database Service (Amazon RDS) Custom for SQL Server now supports the latest General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for SQL Server 2019 CU32+GDR KB5084816 (RDS version 15.00.4465.1.v1) and SQL Server 2022 CU24+GDR KB5083252 (RDS version 16.00.4250.1.v1). The GDR updates address vulnerabilities described in CVE-2026-32167 ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-custom-sql-server-latest-gdr-updates-microsoft-sql-server",
+      "date": "2026-05-21T07:22:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Amazon Bedrock expands support for request-level usage attribution",
       "summary": "Amazon Bedrock customers can now attribute model inference usage to specific teams, applications, environments, and experiments at the individual request level on the InvokeModel and InvokeModelWithResponseStream APIs. This gives customers fine-grained visibility into how their Amazon Bedrock usage is distributed across their organization, helping them understand consumption patterns, optimize spe",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-request-level-usage-attribution/",
@@ -219,6 +311,19 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon DocumentDB (with MongoDB compatibility) Serverless is now available on DocumentDB 8.0",
+      "summary": "Amazon DocumentDB (with MongoDB compatibility) Serverless, an on-demand, auto-scaling configuration for DocumentDB, is now available on version 8.0. Amazon DocumentDB Serverless automatically scales capacity up or down in fine-grained increments based on your application's demand, offering up to 90% cost savings compared to provisioning for peak capacity. DocumentDB 8.0 improves query latency by u",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/5/docdb8-serverless",
+      "date": "2026-05-20T18:17:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -313,16 +418,15 @@
       "image": null
     },
     {
-      "title": "ECS supports native integration with Amazon EBS volumes in GovCloud Regions",
-      "summary": "Amazon Elastic Container Service (ECS) now supports mounting Amazon Elastic Block Store (EBS) volumes to containers in the AWS GovCloud Regions. This capability makes it easier for you to deploy storage and data intensive applications such as ETL jobs, media transcoding, and ML inference workloads using serverless containers. With EBS task attachment, customers can allow ECS to provision, manage a",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/ecs-amazon-ebs-govcloud/",
-      "date": "2026-05-20T15:53:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 9,
+      "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
+      "summary": "Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads. The post Azure IaaS: Deploy high-performance workloads with a system-level approach appeared first on",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
+      "date": "2026-05-20T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
       "tags": [
-        "cloud",
-        "data"
+        "cloud"
       ],
       "image": null
     },
@@ -442,13 +546,13 @@
       "image": null
     },
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "url": "https://openai.com/index/ramp",
       "date": "2026-05-20T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 2,
+      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -464,35 +568,13 @@
       "image": null
     },
     {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "url": "https://openai.com/index/ramp",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "date": "2026-05-20T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "When AI Becomes Invisible: The Rise of Ambient Intelligence",
-      "summary": "Travel has always been a story of how much friction we’re willing to tolerate to get somewhere. A century ago, a long-distance journey began at a train station thick with smoke and shouting…",
-      "url": "https://www.salesforce.com/blog/ambient-intelligence/",
-      "date": "2026-05-19T21:53:40+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Automate Data & KPI Monitoring with SQL Alerts",
-      "summary": "In many organizations, data monitoring is still a manual, repetitive routine: open...",
-      "url": "https://www.databricks.com/blog/automate-data-kpi-monitoring-sql-alerts",
-      "date": "2026-05-19T21:04:41+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -518,20 +600,6 @@
       "category": "openai",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon MWAA now supports Apache Airflow 3.2",
-      "summary": "Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 3.2, the latest major release of the popular open-source workflow orchestration framework. Amazon MWAA is a managed service that lets you run Apache Airflow at scale without managing the underlying infrastructure. This release brings new data-aware scheduling capabilities and developer productivity improvements ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mwaa-now-supports-apache-airflow-3-2/",
-      "date": "2026-05-19T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 8,
-      "tags": [
-        "cloud",
-        "data"
-      ],
       "image": null
     },
     {
@@ -654,30 +722,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FINAL_SOCIAL_HERO_laWfMt0.max-600x600.format-webp.webp"
     },
     {
-      "title": "Amazon Inspector is now available in the AWS Asia Pacific (Taipei) Region",
-      "summary": "Today, AWS announces the availability of Amazon Inspector in the AWS Asia Pacific (Taipei) Region. Amazon Inspector is an automated vulnerability management service that continually scans AWS workloads including Amazon EC2 instances, container images, and AWS Lambda functions for software vulnerabilities and unintended network exposure across your AWS Organization. With this expansion, Amazon Insp",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei/",
-      "date": "2026-05-19T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon ECS introduces pause and continue controls for service deployments",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) now enables you to pause service deployments at critical stages during deployment progression and continue deployments when ready. You can use these pause points to introduce manual decision points and interactive controls into your deployments for scenarios such as manual approval workflows, operational checks, integration tests, or custom automation,",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ecs-pause-continue-deployments/",
-      "date": "2026-05-19T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 10,
-      "tags": [
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "Multimodal Analytics: Decode Video, Audio and Images",
       "summary": "Learn how multimodal analytics with Snowflake Cortex AI turns video, audio, images and documents into structured insights for faster decisions.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/multimodal-analytics-ai-video-audio-images",
@@ -685,17 +729,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Managed Grafana now supports dual-stack connectivity (IPv6 and IPv4)",
-      "summary": "Amazon Managed Grafana now supports dual-stack connectivity, enabling workspaces to communicate over both Internet Protocol version 4 (IPv4) and Internet Protocol version 6 (IPv6). Dual-stack mode is available for workspaces running Grafana version 10.4 or later. With dual-stack support, customers can simplify their network stack by eliminating the need to manage overlapping address spaces in thei",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-ipv6/",
-      "date": "2026-05-19T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -949,17 +982,6 @@
       "image": null
     },
     {
-      "title": "How business operations teams use Codex",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
       "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "url": "https://openai.com/index/databricks",
@@ -970,6 +992,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "How business operations teams use Codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -1831,19 +1864,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
-      "summary": "Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations. The post Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local appeared first on Microsoft Azure Blog .",
-      "url": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
-      "date": "2026-04-27T18:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
     },
     {
       "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
