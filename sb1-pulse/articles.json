@@ -1,7 +1,84 @@
 {
-  "generated": "2026-05-21T14:02:49.653218+00:00",
+  "generated": "2026-05-21T18:57:19.999999+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
+      "summary": "Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets. The post Beyond the engine: 10 open source projects shaping how games actually get made appeared first on The GitHub Blog .",
+      "url": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
+      "date": "2026-05-21T18:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 3,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
+      "summary": "At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthroughs shaping every industry, covering topics spanning AI factories and scaling infrastructure to agentic and physical AI and more.",
+      "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+      "date": "2026-05-21T16:00:17+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 3,
+      "tags": [
+        "ai",
+        "automation",
+        "developer"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/computex-rolling-blog-kickoff.jpg"
+    },
+    {
+      "title": "Agentic AI in Financial Services: How Nasdaq eVestment Drives Faster Investment Insights",
+      "summary": "Discover how Nasdaq eVestment uses agentic AI, Snowflake Cortex and trusted institutional data to help asset managers accelerate prospecting, improve win rates and drive faster investment insights.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-ai-financial-services-nasdaq-evestment",
+      "date": "2026-05-21T15:52:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 26,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Beyond the Funnel: Selling in the Age of Agentic AI",
+      "summary": "From SDR to Strategic Partner: How Jinhee Baek is shaping the future of the agentic enterprise in Korea’s digital-native market.",
+      "url": "https://www.salesforce.com/blog/beyond-the-funnel-agentic-ai-sales-korea/",
+      "date": "2026-05-21T15:49:54+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 18,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Transforming industries with conversational AI: Partner solutions built on Databricks Genie",
+      "summary": "In the era of data intelligence, the value of information is only as good as its...",
+      "url": "https://www.databricks.com/blog/transforming-industries-conversational-ai-partner-solutions-built-databricks-genie",
+      "date": "2026-05-21T14:25:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Breaking Down Data Silos: A New Path to Making AI-Driven Government a Reality",
+      "summary": "The U.S. General Services Administration (GSA) announced a new OneGov agreement with Snowflake, to empower federal workers to break down data silos, enhance mission effectiveness and accelerate IT modernization.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/gsa-agreement-ai-driven-government",
+      "date": "2026-05-21T13:55:40+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle",
       "summary": "The mission begins now. GeForce NOW is dialing up the action with a blockbuster mix of spy thrills, high-speed racing and member rewards — plus eight new games joining the cloud this week, all ready to stream instantly. Leading the drop: the 007 First Light Ultimate Membership Bundle, which brings a brand-new way to jump […]",
@@ -24,6 +101,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "url": "https://openai.com/index/adventhealth",
+      "date": "2026-05-21T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 29,
+      "tags": [],
       "image": null
     },
     {
@@ -74,6 +162,17 @@
       "tags": [
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock expands support for request-level usage attribution",
+      "summary": "Amazon Bedrock customers can now attribute model inference usage to specific teams, applications, environments, and experiments at the individual request level on the InvokeModel and InvokeModelWithResponseStream APIs. This gives customers fine-grained visibility into how their Amazon Bedrock usage is distributed across their organization, helping them understand consumption patterns, optimize spe",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-request-level-usage-attribution/",
+      "date": "2026-05-20T23:34:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 16,
+      "tags": [],
       "image": null
     },
     {
@@ -138,6 +237,19 @@
       "image": null
     },
     {
+      "title": "Amazon SageMaker Unified Studio now supports data quality rule authoring and evaluation",
+      "summary": "Amazon SageMaker Unified Studio now supports data quality rule authoring and evaluation, powered by AWS Glue Data Quality. Data engineers, analysts, and data scientists can define data quality rules, run ruleset evaluations, and view results directly within SageMaker Unified Studio for both data at rest in catalog tables and data in transit within Visual ETL jobs. This helps you catch data quality",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-quality",
+      "date": "2026-05-20T17:42:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Readiness Starts at the Kitchen Table: Modernizing the Military Family Experience",
       "summary": "In national defense, “readiness” is a term usually reserved for maintenance cycles, ammunition counts, and grueling certification exercises. We measure it in hours to deploy and percentages of mission-capable aircraft. But there is…",
       "url": "https://www.salesforce.com/blog/military-defense-hr-transformation/",
@@ -197,19 +309,6 @@
       "relevance": 1,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
-      "summary": "Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads. The post Azure IaaS: Deploy high-performance workloads with a system-level approach appeared first on",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
-      "date": "2026-05-20T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -354,17 +453,6 @@
       "image": null
     },
     {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "url": "https://openai.com/index/ramp",
-      "date": "2026-05-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The next phase of OpenAI’s Education for Countries",
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -372,6 +460,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "url": "https://openai.com/index/ramp",
+      "date": "2026-05-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -432,32 +531,6 @@
       "tags": [
         "cloud",
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "How to Build Real-Time Fraud Detection using Spark Real-Time Mode and Lakebase",
-      "summary": "Card fraud operates in seconds. A stolen credit card number can fuel dozens of purchases...",
-      "url": "https://www.databricks.com/blog/how-build-real-time-fraud-detection-using-spark-real-time-mode-and-lakebase",
-      "date": "2026-05-19T19:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 17,
-      "tags": [
-        "banking"
-      ],
-      "image": null
-    },
-    {
-      "title": "Headless Doesn’t Mean Ungoverned: How Trust Works When Agents Call Salesforce",
-      "summary": "Understand how Salesforce authenticates, authorizes, and audits agents connecting through Salesforce Headless 360, and how to apply the right trust model for your agentic architecture.",
-      "url": "https://www.salesforce.com/blog/headless-trust-model-agentic-architecture/",
-      "date": "2026-05-19T19:18:59+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [
-        "ai"
       ],
       "image": null
     },
@@ -689,19 +762,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Vera-CPU_Tray_Open-34_Wide_R6C-FNL-5260651.jpg"
     },
     {
-      "title": "AWS Glue zero-ETL is now available in Asia Pacific (Mumbai) region",
-      "summary": "AWS Glue zero-ETL integrations are now available in the Asia Pacific (Mumbai) region. With this expansion, customers in the Asia Pacific (Mumbai) region can now use zero-ETL integrations to simplify their data pipelines, reduce data movement latency, and accelerate time-to-insight for analytics and machine learning workloads. Zero-ETL integrations offer a set of fully managed integrations by AWS t",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-zero-etl-mumbai-region",
-      "date": "2026-05-18T21:10:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 11,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
       "summary": "Just a year ago, we launched AWS Transform for .NET, Mainframe and VMware workloads, the first agentic AI service purpose-built for modernizing enterprise applications at scale. At re:Invent 2025, we introduced AWS Transform custom, which enables organizations to modernize and transform code at scale using AWS-managed and custom transformations. You can upgrade language versions, migrate […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/",
@@ -712,17 +772,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon Lightsail CDN distributions now support IPv6-only instances as origins",
-      "summary": "Amazon Lightsail content delivery network (CDN) distributions now support IPv6-only instances as origins. This feature enables customers to use IPv6-only instances to deliver content through the Lightsail CDN distributions with low latency and high transfer speeds worldwide. With this launch, customers can run their websites and applications on cost-effective IPv6-only instances while seamlessly s",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-lightsail-cdn-ipv6/",
-      "date": "2026-05-18T18:49:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 13,
-      "tags": [],
       "image": null
     },
     {
@@ -900,17 +949,6 @@
       "image": null
     },
     {
-      "title": "How data science teams use Codex",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How business operations teams use Codex",
       "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
       "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
@@ -918,17 +956,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -943,6 +970,28 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How data science teams use Codex",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
       "image": null
     },
     {
@@ -1080,17 +1129,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "date": "2026-05-14T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -1275,19 +1313,6 @@
       "image": null
     },
     {
-      "title": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
-      "summary": "Learn how one Hubber used GitHub Copilot CLI to build an extension that turns any codebase into a unique, roguelike dungeon. The post Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/",
-      "date": "2026-05-12T15:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 12,
-      "tags": [
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
       "summary": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
       "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
@@ -1357,19 +1382,6 @@
       "category": "microsoft",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "GitHub for Beginners: Getting started with OSS contributions",
-      "summary": "Learn how to find opportunities to contribute to the open source community. The post GitHub for Beginners: Getting started with OSS contributions appeared first on The GitHub Blog .",
-      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/",
-      "date": "2026-05-11T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
-      "tags": [
-        "developer"
-      ],
       "image": null
     },
     {
@@ -1603,19 +1615,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26-servicenow-jhh-bill-KLUB1672-3-scaled.jpg"
     },
     {
-      "title": "Observe by Snowflake: AI-Powered Observability at Scale for the Data Cloud",
-      "summary": "Discover how Observe by Snowflake brings AI-powered observability to the Data Cloud. Learn how the Observability Context Graph, AI SRE, and Telemetry Lakehouse enable faster troubleshooting, lower costs, and scalable telemetry insights.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/observe-by-snowflake-ai-observability-at-scale",
-      "date": "2026-05-05T16:05:49+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 3,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
@@ -1746,17 +1745,6 @@
       "image": null
     },
     {
-      "title": "Introducing the 2026 Snowflake Startup Challenge Finalists",
-      "summary": "Meet the 3 startups advancing to this year’s Snowflake Startup Challenge finale: Airrived, LGND AI and Twine Security.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/finalists-snowflake-startup-challenge-2026",
-      "date": "2026-05-01T15:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Nemotron Labs: What OpenClaw Agents Mean for Every Organization",
       "summary": "By early 2026, the open source project OpenClaw had become a phenomenon. In January, its GitHub star count crossed 100,000 as developer interest surged.",
       "url": "https://blogs.nvidia.com/blog/what-openclaw-agents-mean-for-every-organization/",
@@ -1796,17 +1784,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
-    },
-    {
-      "title": "It’s Gonna Be May: 16 Games Hit the Cloud This Month, With More NVIDIA GeForce RTX 5080 Power",
-      "summary": "[Editor’s note] The blog has been updated to note that GeForce RTX 5080-power expansion also extends to the Install-to-Play library. It’s gonna be May — and the cloud’s in full festival mode. 16 games are joining GeForce NOW this month, including new AAA titles arriving on launch day from Steam, Xbox, PC Game Pass and […]",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/",
-      "date": "2026-04-30T13:00:47+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/gfn-thursday-4-30-nv-blog-1280x680-logo.jpg"
     },
     {
       "title": "Enabling a new model for healthcare with AI co-clinician",
@@ -1854,6 +1831,19 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
+      "summary": "Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations. The post Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local appeared first on Microsoft Azure Blog .",
+      "url": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
+      "date": "2026-04-27T18:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
     },
     {
       "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
@@ -2055,28 +2045,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://lh3.googleusercontent.com/1-K_kcmoX-fIzTJ13T0-uF4gylS2tK00ZVvx87B2WSayzUS2fxDoDDXFq5hOhxptrBeG8AbjG_URN5OOTpGMqad9zILjMsTdAHWroiDKpziBQjzErw=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge",
-      "summary": "We’ve fundamentally transformed Facebook Groups Search to help people more reliably discover, sort through, and validate community content that’s most relevant to them. We’ve adopted a new hybrid retrieval architecture and implemented automated model-based evaluation to address the major friction points people experience when searching community content. Under this new framework, we’ve made tangib",
-      "url": "https://engineering.fb.com/2026/04/21/ml-applications/modernizing-the-facebook-groups-search-to-unlock-the-power-of-community-knowledge/",
-      "date": "2026-04-21T16:00:19+00:00",
-      "source": "Meta Engineering",
-      "category": "meta",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Partnering with industry leaders to accelerate AI transformation",
-      "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
-      "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-      "date": "2026-04-21T14:54:15+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://lh3.googleusercontent.com/t9KvGjgjHJMLDqzAzXuDUOXFI4IlnMiYLhRmxohCRvB1qGSr8-8-TDEI24qk8ilY4OzRB2et5dSlWOjMs6lm-R718xmtQwdiGBxOO7VjxBfMq4a3yoI=w528-h297-n-nu-rw-lo"
     }
   ]
 }
