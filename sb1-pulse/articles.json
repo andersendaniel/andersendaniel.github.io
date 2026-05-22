@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-21T23:57:53.127246+00:00",
+  "generated": "2026-05-22T08:19:05.619953+00:00",
   "sources": 21,
   "articles": [
     {
@@ -13,6 +13,19 @@
       "tags": [
         "security",
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch Logs Insights adds new query commands and functions",
+      "summary": "Amazon CloudWatch Logs Insights query language now supports 13 new commands and functions that give you more powerful ways to query, transform, and analyze your logs. Customers analyzing logs in CloudWatch Logs Insights often need to perform string manipulation, encode or decode field values, parse non-JSON log formats, or calculate geographic distances, so they can derive deeper insights from the",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights/",
+      "date": "2026-05-21T23:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -418,19 +431,6 @@
       "image": null
     },
     {
-      "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
-      "summary": "Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads. The post Azure IaaS: Deploy high-performance workloads with a system-level approach appeared first on",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
-      "date": "2026-05-20T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Entering a New Era of Salesforce Development with Headless 360",
       "summary": "Together with Multi-framework and the Headless Experience Layer, developers can deliver the unified, secure, and premium experiences their users demand.",
       "url": "https://www.salesforce.com/blog/headless-salesforce-development/",
@@ -530,19 +530,6 @@
       "category": "sap",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker HyperPod now supports data capture for inference workloads",
-      "summary": "Amazon SageMaker HyperPod now supports data capture for inference workloads, a new capability that records inference request and response payloads from production endpoints to Amazon S3. Customers deploying generative AI models on HyperPod need visibility into model inputs and outputs to detect drift, troubleshoot production issues, build evaluation datasets, and continuously improve their deploye",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture",
-      "date": "2026-05-20T01:08:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 16,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -1864,6 +1851,19 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
+      "summary": "Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations. The post Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local appeared first on Microsoft Azure Blog .",
+      "url": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
+      "date": "2026-04-27T18:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
     },
     {
       "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
