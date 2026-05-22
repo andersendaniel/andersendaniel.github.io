@@ -1,7 +1,42 @@
 {
-  "generated": "2026-05-22T08:19:05.619953+00:00",
+  "generated": "2026-05-22T13:27:58.760040+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Top 7 Financial Blogs For Small Business Owners",
+      "summary": "Make better financial decisions with this curated list of blogs tailored specifically for your growing business.",
+      "url": "https://www.salesforce.com/blog/small-business/financial-blogs-for-entrepreneurs/",
+      "date": "2026-05-22T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Databricks Genie democratizes data access in financial services",
+      "summary": "USE CASEData Democratization & AI-Powered Business IntelligenceFinancial services...",
+      "url": "https://www.databricks.com/blog/how-databricks-genie-democratizes-data-access-financial-services",
+      "date": "2026-05-22T10:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Using observability data to prevent incidents",
+      "summary": "USE CASEPlatform Reliability Intelligence & Engineering MetricsHow Engineering Teams...",
+      "url": "https://www.databricks.com/blog/using-observability-data-prevent-incidents",
+      "date": "2026-05-22T10:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "How security teams can report cyber risk to boards",
       "summary": "USE CASECyber Risk Quantification & Executive Reporting IntelligenceCyber risk quantification...",
@@ -456,17 +491,6 @@
       "image": null
     },
     {
-      "title": "How to Build a Service Team That Thrives Alongside AI",
-      "summary": "The new competitive edge belongs to organizations that cultivate AI fluency, continuous learning, and the unique human judgment that forges unbreakable customer loyalty.",
-      "url": "https://www.salesforce.com/blog/how-to-build-service-teams-with-ai/",
-      "date": "2026-05-20T13:30:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Governing AI agents at scale with Unity Catalog",
       "summary": "A year ago, your organization had a dozen AI agents. Today, there are thousands.Every...",
       "url": "https://www.databricks.com/blog/governing-ai-agents-scale-unity-catalog",
@@ -500,34 +524,23 @@
       "image": null
     },
     {
-      "title": "How Databricks Genie improves retail personalization",
-      "summary": "USE CASECustomer Intelligence & Loyalty OptimizationRetail personalization has come...",
-      "url": "https://www.databricks.com/blog/how-databricks-genie-improves-retail-personalization",
-      "date": "2026-05-20T08:57:23+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Databricks for Good and Virtue Foundation: Partnering to Connect Medical Volunteers to Critical Health Services in 72 Countries",
-      "summary": "IntroductionVirtue Foundation is a nonprofit focused on global health delivery and...",
-      "url": "https://www.databricks.com/blog/databricks-good-and-virtue-foundation-partnering-connect-medical-volunteers-critical-health",
-      "date": "2026-05-20T08:55:29+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI",
       "summary": "MADRID — The global leader in automotive seating and interior systems, has successfully deployed an autonomous intralogistics model.",
       "url": "https://news.sap.com/2026/05/martur-fompak-international-throughput-efficiency-intelligent-robotics-joule-embodied-ai/",
       "date": "2026-05-20T08:00:00+00:00",
       "source": "SAP News",
       "category": "sap",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "date": "2026-05-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
       "relevance": 2,
       "tags": [],
       "image": null
@@ -551,17 +564,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "date": "2026-05-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -958,17 +960,6 @@
       "image": null
     },
     {
-      "title": "How sales teams use Codex",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
       "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "url": "https://openai.com/index/databricks",
@@ -979,17 +970,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "How business operations teams use Codex",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1004,6 +984,17 @@
       "image": null
     },
     {
+      "title": "How sales teams use Codex",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "How data science teams use Codex",
       "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
@@ -1011,6 +1002,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How business operations teams use Codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1986,85 +1988,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GCN26_102_BlogHeader_2436x1200_.max-600x600.format-webp_DGOjQgk.webp"
-    },
-    {
-      "title": "Gemini Enterprise Agent Platform lets you build, govern and optimize your agents.",
-      "summary": "This new platform creates a single environment for technical teams to build, scale, govern and optimize autonomous agents.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-enterprise-agent-platform/",
-      "date": "2026-04-22T13:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 18,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiEnterprise_social.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Google Cloud Next ‘26",
-      "summary": "Here’s a look at what Google announced at Google Cloud Next ‘26.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2026/",
-      "date": "2026-04-22T12:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Next_Collection_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Our eighth generation TPUs: two chips for the agentic era",
-      "summary": "Computer chips",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-      "date": "2026-04-22T12:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 1,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/two_chips_for_the_agentic_era_h.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Cloud Next ‘26: Momentum and innovation at Google scale",
-      "summary": "Red V, blue gradient loop, yellow X, and green star",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/",
-      "date": "2026-04-22T12:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Next_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "We're launching two specialized TPUs for the agentic era.",
-      "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
-      "date": "2026-04-22T12:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
-      "summary": "",
-      "url": "https://deepmind.google/blog/decoupled-diloco/",
-      "date": "2026-04-22T10:20:03+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://lh3.googleusercontent.com/1-K_kcmoX-fIzTJ13T0-uF4gylS2tK00ZVvx87B2WSayzUS2fxDoDDXFq5hOhxptrBeG8AbjG_URN5OOTpGMqad9zILjMsTdAHWroiDKpziBQjzErw=w528-h297-n-nu-rw-lo"
     }
   ]
 }
