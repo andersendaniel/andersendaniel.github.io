@@ -1,7 +1,125 @@
 {
-  "generated": "2026-05-22T13:27:58.760040+00:00",
+  "generated": "2026-05-22T18:51:21.332080+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Pharma launch analytics: How to compress the first 90 days and win the three years that follow",
+      "summary": "USE CASECommercial Launch Intelligence & Market Access AnalyticsPharmaceutical companies...",
+      "url": "https://www.databricks.com/blog/pharma-launch-analytics-how-compress-first-90-days-and-win-three-years-follow",
+      "date": "2026-05-23T02:15:31+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "We Debunk 5 Misconceptions About Email Marketing",
+      "summary": "No, email is not perfect, but many of its challenges are solvable if you go about it the right way. Here's how.",
+      "url": "https://www.salesforce.com/blog/email-marketing-misconceptions/",
+      "date": "2026-05-22T18:50:53+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "date": "2026-05-22T18:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "AWS Security Agent adds verification scripts for pentest findings",
+      "summary": "AWS Security Agent now generates verification scripts for penetration test findings, enabling security teams to independently reproduce and validate discovered vulnerabilities. Previously, teams manually followed reproduction steps from finding details. Now, AWS Security Agent automatically generates ready-to-run scripts for each confirmed finding. Teams download the script, configure environment ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent/",
+      "date": "2026-05-22T17:21:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon WorkSpaces Personal now supports WorkSpace Migration for Linux WorkSpaces",
+      "summary": "Amazon WorkSpaces now supports the WorkSpace Migration feature for all Linux operating systems that Amazon WorkSpaces offers. This allows customers to seamlessly migrate WorkSpaces from one Linux operating system to another, automating the process to migrate to newer operating system versions or to move from one Linux operating system to another. When customers migrate their WorkSpaces from one op",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-linux-migration",
+      "date": "2026-05-22T16:24:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 12,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
+      "summary": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
+      "date": "2026-05-22T16:10:21+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 7,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Keyspaces (for Apache Cassandra) expands to Asia Pacific (Malaysia) and Asia Pacific (Thailand) Regions",
+      "summary": "Amazon Keyspaces (for Apache Cassandra) is now available in the Asia Pacific (Malaysia) and Asia Pacific (Thailand) Regions, allowing customers in Asia Pacific Region to build Cassandra-compatible applications with lower latency while keeping their data within the Region to meet data residency requirements. Amazon Keyspaces (for Apache Cassandra) is a scalable, highly available, and managed Apache",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-keyspaces-malaysia-thailand/",
+      "date": "2026-05-22T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> May 18 - May 22 Chines",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "date": "2026-05-22T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale",
+      "summary": "Azure NetApp Files is redefining what’s possible for EDA in the cloud—delivering scalable, high-performance storage that supports massive concurrency, low latency, and consistent production performance. With independent benchmark validation and real-world adoption, organizations can now run EDA workloads at scale without traditional storage bottlenecks. The post Azure NetApp Files for EDA workload",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
+      "date": "2026-05-22T15:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "How World Bank Group uses databricks to eradicate poverty through shared knowledge",
+      "summary": "The World Bank Group's mission is to improve shared prosperity across the planet....",
+      "url": "https://www.databricks.com/blog/how-world-bank-group-uses-databricks-eradicate-poverty-through-shared-knowledge",
+      "date": "2026-05-22T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Top 7 Financial Blogs For Small Business Owners",
       "summary": "Make better financial decisions with this curated list of blogs tailored specifically for your growing business.",
@@ -10,6 +128,17 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Clean Rooms now supports mutable payment configurations for collaborations",
+      "summary": "AWS Clean Rooms now supports mutable fine-grained payment configurations for collaboration members. This capability offers customers greater flexibility and control over payment responsibilities as they develop new use cases with their partners. With this launch, customers can specify which partners are authorized to pay for specific cost types after a collaboration is created—including SQL querie",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-clean-rooms-mutable-payments",
+      "date": "2026-05-22T12:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -49,6 +178,17 @@
         "security",
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "date": "2026-05-22T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 6,
+      "tags": [],
       "image": null
     },
     {
@@ -414,21 +554,6 @@
       "image": null
     },
     {
-      "title": "AWS announces ExtendDB, an open source DynamoDB-compatible adapter",
-      "summary": "Today, Amazon Web Services (AWS) announced version 0.1 of ExtendDB, an open source project that implements the Amazon DynamoDB API with pluggable storage backends. Amazon DynamoDB is a serverless, fully managed NoSQL database with single-digit millisecond performance at any scale. ExtendDB enables application developers, platform teams, and enterprise architects to use the DynamoDB programming mod",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-extenddb-dynamodb/",
-      "date": "2026-05-20T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 13,
-      "tags": [
-        "cloud",
-        "data",
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "A new experiment brings better group meetings to Google Beam",
       "summary": "A small group meeting featuring two in-room participants and three participants on-screen.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
@@ -453,74 +578,16 @@
       "image": null
     },
     {
-      "title": "AWS Billing Conductor Improves Account Visibility with Billing Transfer Inventory",
-      "summary": "AWS Billing Conductor Console now enables you to see which accounts have received or accepted billing transfer invites but still lack access to pro forma billing data. This page helps customers detect and close gaps in their account’s billing visibility. When an account accepts a billing transfer invitation, billing data is transferred to the inviting account. By configuring a billing group via AW",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-billing-conductor-billing-transfer/",
-      "date": "2026-05-20T16:28:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Entering a New Era of Salesforce Development with Headless 360",
-      "summary": "Together with Multi-framework and the Headless Experience Layer, developers can deliver the unified, secure, and premium experiences their users demand.",
-      "url": "https://www.salesforce.com/blog/headless-salesforce-development/",
-      "date": "2026-05-20T15:30:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Announcing the general availability of a new AWS Local Zone in Istanbul, Türkiye",
-      "summary": "Today, AWS announces the general availability of a new AWS Local Zone in Istanbul, Türkiye, bringing AWS infrastructure closer to end users, while enabling organizations to meet data residency requirements by storing and backing up data locally. AWS Local Zones are AWS infrastructure deployments that extend core services, such as compute, storage, networking, and other select services, closer to m",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-istanbul-turkiye/",
-      "date": "2026-05-20T14:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
+      "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
+      "summary": "Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads. The post Azure IaaS: Deploy high-performance workloads with a system-level approach appeared first on",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
+      "date": "2026-05-20T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
       "relevance": 2,
       "tags": [
-        "cloud",
-        "data"
+        "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Governing AI agents at scale with Unity Catalog",
-      "summary": "A year ago, your organization had a dozen AI agents. Today, there are thousands.Every...",
-      "url": "https://www.databricks.com/blog/governing-ai-agents-scale-unity-catalog",
-      "date": "2026-05-20T12:41:42+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How telecom CFOs can make smarter network capex decisions with AI",
-      "summary": "USE CASENetwork Investment ROI & Financial Planning Intelligence Network capital...",
-      "url": "https://www.databricks.com/blog/how-telecom-cfos-can-make-smarter-network-capex-decisions-ai",
-      "date": "2026-05-20T11:26:14+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Transfer Family web apps now support federated permissions with IAM Identity Center across AWS Regions",
-      "summary": "AWS Transfer Family web apps now support federated permissions with AWS IAM Identity Center across multiple AWS Regions. Previously, you could only create Transfer Family web apps in the Region where your IAM Identity Center instance was enabled. With IAM Identity Center's support for multi-Region replication, you can now replicate your identity configurations to another Region and create Transfer",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transfer-family-federated-permissions-across-regions/",
-      "date": "2026-05-20T10:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [],
       "image": null
     },
     {
@@ -531,6 +598,17 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "date": "2026-05-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -553,17 +631,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "date": "2026-05-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -960,6 +1027,28 @@
       "image": null
     },
     {
+      "title": "How sales teams use Codex",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How business operations teams use Codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
       "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "url": "https://openai.com/index/databricks",
@@ -984,17 +1073,6 @@
       "image": null
     },
     {
-      "title": "How sales teams use Codex",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How data science teams use Codex",
       "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
@@ -1002,17 +1080,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How business operations teams use Codex",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1098,17 +1165,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/gfn-thursday-5-14-nv-blog-1280x680-logo.jpg"
-    },
-    {
-      "title": "Work with Codex from anywhere",
-      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "date": "2026-05-14T13:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     },
     {
       "title": "From Static Planning to Continuous Enterprise Planning",
@@ -1280,19 +1336,6 @@
       "category": "microsoft",
       "relevance": 6,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan",
-      "summary": "Starting June 1, our lineup of individual plans will update based on your feedback. The post GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/",
-      "date": "2026-05-12T17:35:41+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 12,
-      "tags": [
-        "developer"
-      ],
       "image": null
     },
     {
@@ -1743,19 +1786,6 @@
       "image": null
     },
     {
-      "title": "What’s new with Google Cloud",
-      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Apr 27 - May 1 Master ",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "date": "2026-05-01T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
-    },
-    {
       "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
       "summary": "Microsoft Agent 365 helps you take control of agent sprawl as your control plane to observe, govern, and secure agents and their interactions. The post Microsoft Agent 365, now generally available, expands capabilities and integrations appeared first on Microsoft 365 Blog .",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
@@ -1833,17 +1863,6 @@
       "image": null
     },
     {
-      "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment",
-      "summary": "Azure API Management provides a single, Azure-native platform to govern everything from traditional APIs to AI models, tools, and agents. The post Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
-      "date": "2026-04-28T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
       "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
@@ -1853,19 +1872,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
-      "summary": "Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations. The post Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local appeared first on Microsoft Azure Blog .",
-      "url": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
-      "date": "2026-04-27T18:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
     },
     {
       "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
@@ -1944,10 +1950,12 @@
       "summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
       "date": "2026-04-23T12:00:00+00:00",
-      "source": "Google AI",
+      "source": "Google Cloud",
       "category": "google",
-      "relevance": 1,
-      "tags": [],
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp"
     },
     {
@@ -1962,32 +1970,6 @@
         "ai"
       ],
       "image": null
-    },
-    {
-      "title": "10 leading enterprises show why agents mean business",
-      "summary": "Blog hero",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-customer-round-up/",
-      "date": "2026-04-22T18:45:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GCN26_103A_BlogHeader_2096x1182.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "1,302 real-world gen AI use cases from the world's leading organizations",
-      "summary": "Text reads \"Google Cloud Next 26\"",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gen-ai-business-use-cases/",
-      "date": "2026-04-22T16:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GCN26_102_BlogHeader_2436x1200_.max-600x600.format-webp_DGOjQgk.webp"
     }
   ]
 }
