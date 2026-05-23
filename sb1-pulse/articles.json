@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-22T18:51:21.332080+00:00",
+  "generated": "2026-05-23T00:01:25.685858+00:00",
   "sources": 21,
   "articles": [
     {
@@ -16,6 +16,55 @@
       "image": null
     },
     {
+      "title": "Accelerating LLM Inference with Prompt Caching for Open‑Source Models on Databricks",
+      "summary": "Why Prompt Caching MattersLarge language model (LLM) inference often involves repeated...",
+      "url": "https://www.databricks.com/blog/accelerating-llm-inference-prompt-caching-open-source-models-databricks",
+      "date": "2026-05-22T20:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 27,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker expands domain management across domain types",
+      "summary": "Amazon SageMaker Unified Studio now provides domain management experience for Identity Center and IAM-based domains outside of AWS console, allows administrators and data management teams to create and manage projects, configure workforce identity, manage users and permissions, and set networking properties for projects. Previously, this was only available for IAM based domains. With this launch, ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/",
+      "date": "2026-05-22T19:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Observability for any agent, anywhere: Production-ready tracing with OpenTelemetry & Unity Catalog on Databricks",
+      "summary": "Why AI Tracing Breaks Traditional ObservabilityAs AI applications move into production...",
+      "url": "https://www.databricks.com/blog/observability-any-agent-anywhere-production-ready-tracing-opentelemetry-unity-catalog",
+      "date": "2026-05-22T19:20:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "New agentic migration assessment capabilities now available with AWS Transform",
+      "summary": "AWS Transform now offers advanced migration assessment capabilities including what-if scenarios, customizable assumptions, flexible file format support, and multiple new total cost of ownership (TCO) assessment features. These latest features let you quickly build a migration business case and accelerate your migration decisions. You can start your migration assessment with whatever data you have ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform",
+      "date": "2026-05-22T18:58:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "We Debunk 5 Misconceptions About Email Marketing",
       "summary": "No, email is not perfect, but many of its challenges are solvable if you go about it the right way. Here's how.",
       "url": "https://www.salesforce.com/blog/email-marketing-misconceptions/",
@@ -24,6 +73,19 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker adds business metadata and governance in IAM-based domains",
+      "summary": "Amazon SageMaker Unified Studio now supports business context, metadata and data governance capabilities in IAM-based domains. With this launch, customers using Amazon SageMaker IAM-based domains can add business context to their AWS Glue Data Catalog tables, including business names, descriptions, and README documentation. They can use AI-generated metadata to produce business names and descripti",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/",
+      "date": "2026-05-22T18:24:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -97,19 +159,6 @@
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
-      "title": "Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale",
-      "summary": "Azure NetApp Files is redefining what’s possible for EDA in the cloud—delivering scalable, high-performance storage that supports massive concurrency, low latency, and consistent production performance. With independent benchmark validation and real-world adoption, organizations can now run EDA workloads at scale without traditional storage bottlenecks. The post Azure NetApp Files for EDA workload",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
-      "date": "2026-05-22T15:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "How World Bank Group uses databricks to eradicate poverty through shared knowledge",
       "summary": "The World Bank Group's mission is to improve shared prosperity across the planet....",
       "url": "https://www.databricks.com/blog/how-world-bank-group-uses-databricks-eradicate-poverty-through-shared-knowledge",
@@ -167,6 +216,19 @@
       "image": null
     },
     {
+      "title": "AWS Secrets Manager adds managed external secrets support for Datadog vended keys and Snowflake Programmatic Access Tokens",
+      "summary": "AWS Secrets Manager now extends its managed external secrets capability to include Datadog Keys and Snowflake Programmatic Access Tokens (PATs). Managed external secrets enable customers to automatically rotate third-party credentials directly from AWS Secrets Manager by offering first-class integration with supported third-party services. With this launch, you can manage rotation for three types ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-managed-external-secrets-datadog-snowflake/",
+      "date": "2026-05-22T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "How security teams can report cyber risk to boards",
       "summary": "USE CASECyber Risk Quantification & Executive Reporting IntelligenceCyber risk quantification...",
       "url": "https://www.databricks.com/blog/how-security-teams-can-report-cyber-risk-boards",
@@ -188,6 +250,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "date": "2026-05-22T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -408,17 +481,6 @@
       "image": null
     },
     {
-      "title": "From \"What Happened?\" to \"What Will Happen?\"",
-      "summary": "Business intelligence has always been about answering questions. For most organizations,...",
-      "url": "https://www.databricks.com/blog/what-happened-what-will-happen",
-      "date": "2026-05-21T09:50:51+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Ericsson Scales AI Across the Enterprise with a Business Data Fabric and SAP",
       "summary": "MADRID — The company is moving from AI experimentation to enterprise-wide execution.",
       "url": "https://news.sap.com/2026/05/ericsson-scales-ai-across-enterprise-business-data-fabric-sap/",
@@ -467,19 +529,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp"
     },
     {
-      "title": "AWS Security Hub now uncovers identity risks from unused access",
-      "summary": "Today, AWS Security Hub brings identity risk into the same unified console where central security teams already manage threats, exposures, and posture findings. Security Hub now detects unused IAM permissions, roles, and credentials across your AWS organization, helping central security teams identify and reduce identity risk at scale. Until now, managing identity risk across hundreds of accounts ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-unused-access/",
-      "date": "2026-05-20T20:20:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "100 things we announced at I/O 2026",
       "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
@@ -499,47 +548,6 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon DocumentDB (with MongoDB compatibility) Serverless is now available on DocumentDB 8.0",
-      "summary": "Amazon DocumentDB (with MongoDB compatibility) Serverless, an on-demand, auto-scaling configuration for DocumentDB, is now available on version 8.0. Amazon DocumentDB Serverless automatically scales capacity up or down in fine-grained increments based on your application's demand, offering up to 90% cost savings compared to provisioning for peak capacity. DocumentDB 8.0 improves query latency by u",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/5/docdb8-serverless",
-      "date": "2026-05-20T18:17:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Security Hub Extended expands to 21 curated partner solutions across 9 categories",
-      "summary": "AWS Security Hub Extended plan now includes 21 curated partner solutions across 9 security categories, adding SentinelOne (endpoint), CyberArk (identity), Sublime (email), Varonis (data security), LayerX (browser), Native Security (cloud), and Zenity (AI security). With these additions, you have more flexibility to select the solutions that best fit your enterprise security requirements. All solut",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-extended/",
-      "date": "2026-05-20T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 12,
-      "tags": [
-        "cloud",
-        "security",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio now supports data quality rule authoring and evaluation",
-      "summary": "Amazon SageMaker Unified Studio now supports data quality rule authoring and evaluation, powered by AWS Glue Data Quality. Data engineers, analysts, and data scientists can define data quality rules, run ruleset evaluations, and view results directly within SageMaker Unified Studio for both data at rest in catalog tables and data in transit within Visual ETL jobs. This helps you catch data quality",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-quality",
-      "date": "2026-05-20T17:42:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -563,19 +571,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Unlock seamless and cost-effective marketing campaigns with Lakebase",
-      "summary": "Recently, Deichmann published a customer story describing how Lakebase enabled seamless...",
-      "url": "https://www.databricks.com/blog/unlock-seamless-and-cost-effective-marketing-campaigns-lakebase",
-      "date": "2026-05-20T16:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [
-        "data"
-      ],
-      "image": null
     },
     {
       "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
@@ -602,17 +597,6 @@
       "image": null
     },
     {
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "date": "2026-05-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
@@ -620,6 +604,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "date": "2026-05-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1027,24 +1022,13 @@
       "image": null
     },
     {
-      "title": "How sales teams use Codex",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "title": "How data science teams use Codex",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "date": "2026-05-15T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How business operations teams use Codex",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1073,13 +1057,24 @@
       "image": null
     },
     {
-      "title": "How data science teams use Codex",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "title": "How business operations teams use Codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "date": "2026-05-15T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 2,
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How sales teams use Codex",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "date": "2026-05-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1103,19 +1098,6 @@
       "category": "github",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-      "url": "https://openai.com/index/sea-david-chen",
-      "date": "2026-05-14T20:30:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -1863,6 +1845,17 @@
       "image": null
     },
     {
+      "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment",
+      "summary": "Azure API Management provides a single, Azure-native platform to govern everything from traditional APIs to AI models, tools, and agents. The post Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
+      "date": "2026-04-28T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
       "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
@@ -1957,19 +1950,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available",
-      "summary": "From first draft to final polish, Copilot acts as a true collaborator, taking action while you stay in control. The post Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
-      "date": "2026-04-23T00:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     }
   ]
 }
