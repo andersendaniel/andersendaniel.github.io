@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-23T07:27:42.140087+00:00",
+  "generated": "2026-05-23T11:57:44.705659+00:00",
   "sources": 21,
   "articles": [
     {
@@ -122,6 +122,19 @@
       "image": null
     },
     {
+      "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
+      "summary": "With Cilium-based cross-cluster networking, we are delivering a managed, high-performance network that can span your entire fleet. The post Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
+      "date": "2026-05-22T17:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 16,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "Amazon WorkSpaces Personal now supports WorkSpace Migration for Linux WorkSpaces",
       "summary": "Amazon WorkSpaces now supports the WorkSpace Migration feature for all Linux operating systems that Amazon WorkSpaces offers. This allows customers to seamlessly migrate WorkSpaces from one Linux operating system to another, automating the process to migrate to newer operating system versions or to move from one Linux operating system to another. When customers migrate their WorkSpaces from one op",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-linux-migration",
@@ -168,6 +181,19 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale",
+      "summary": "Azure NetApp Files is redefining what’s possible for EDA in the cloud—delivering scalable, high-performance storage that supports massive concurrency, low latency, and consistent production performance. With independent benchmark validation and real-world adoption, organizations can now run EDA workloads at scale without traditional storage bottlenecks. The post Azure NetApp Files for EDA workload",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
+      "date": "2026-05-22T15:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
     },
     {
       "title": "How World Bank Group uses databricks to eradicate poverty through shared knowledge",
@@ -569,6 +595,19 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
+      "summary": "Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads. The post Azure IaaS: Deploy high-performance workloads with a system-level approach appeared first on",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
+      "date": "2026-05-20T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
     },
     {
       "title": "Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI",
@@ -1777,20 +1816,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/nemotron-labs-openclaw-1920x1080-1.jpg"
     },
     {
-      "title": "Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM",
-      "summary": "As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key protection into Azure, extending cryptographic trust from silicon to services through verifiable and transparent design. The post Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM ap",
-      "url": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
-      "date": "2026-04-30T18:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 3,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "What Google Cloud announced in AI this month",
       "summary": "Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. We hosted Google Cloud Next in Las Vegas on April 22, announcing incredible innovations from Gemini Enterprise Agent Platform to our eight-generation TPUs. We also expanded the Gemini Enterprise app in coll",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
@@ -1830,17 +1855,6 @@
       "image": null
     },
     {
-      "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment",
-      "summary": "Azure API Management provides a single, Azure-native platform to govern everything from traditional APIs to AI models, tools, and agents. The post Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
-      "date": "2026-04-28T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
       "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
@@ -1850,19 +1864,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
-      "summary": "Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations. The post Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local appeared first on Microsoft Azure Blog .",
-      "url": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
-      "date": "2026-04-27T18:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
     },
     {
       "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
