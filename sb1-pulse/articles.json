@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-23T11:57:44.705659+00:00",
+  "generated": "2026-05-23T17:57:03.633754+00:00",
   "sources": 21,
   "articles": [
     {
@@ -1936,19 +1936,6 @@
         "security"
       ],
       "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjduMEPWkG_wwO64NLFbqReZSDPQTMk1t-TXI7EcNHNLHxGkNDsCj_c8TTUK981qqXDO-FAuHS2q1QsbGm974lYZ9GSSlD9wIkQUvxCOKEFrgAYYa86E0AC0JvWTxuFAJ0PL1ArEU1syhWTVcNVYz2a3N2SubkXKspyY3pqtqku-90AwK0cftheXw6nDdHW=s72-c"
-    },
-    {
-      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-      "summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "date": "2026-04-23T12:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp"
     }
   ]
 }
