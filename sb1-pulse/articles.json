@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-23T00:01:25.685858+00:00",
+  "generated": "2026-05-23T07:27:42.140087+00:00",
   "sources": 21,
   "articles": [
     {
@@ -13,6 +13,17 @@
       "tags": [
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "Scaling for MHHS: how Octopus Energy achieved a 50x cost reduction in margin data engineering",
+      "summary": "The energy transition has a data problemThe UK's energy grid is in the middle of...",
+      "url": "https://www.databricks.com/blog/scaling-mhhs-how-octopus-energy-achieved-50x-cost-reduction-margin-data-engineering",
+      "date": "2026-05-23T00:40:09+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -468,19 +479,6 @@
       "image": null
     },
     {
-      "title": "You’ve built the media products, now make them personalized",
-      "summary": "USE CASEDigital Product Analytics, Audience Engagement Optimization, & PersonalizationMost...",
-      "url": "https://www.databricks.com/blog/youve-built-media-products-now-make-them-personalized",
-      "date": "2026-05-21T09:56:44+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Ericsson Scales AI Across the Enterprise with a Business Data Fabric and SAP",
       "summary": "MADRID — The company is moving from AI experimentation to enterprise-wide execution.",
       "url": "https://news.sap.com/2026/05/ericsson-scales-ai-across-enterprise-business-data-fabric-sap/",
@@ -571,19 +569,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
-      "summary": "Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads. The post Azure IaaS: Deploy high-performance workloads with a system-level approach appeared first on",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
-      "date": "2026-05-20T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
     },
     {
       "title": "Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI",
@@ -1865,6 +1850,19 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
+      "summary": "Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations. The post Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local appeared first on Microsoft Azure Blog .",
+      "url": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
+      "date": "2026-04-27T18:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
     },
     {
       "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
