@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-23T17:57:03.633754+00:00",
+  "generated": "2026-05-23T23:53:20.399726+00:00",
   "sources": 21,
   "articles": [
     {
@@ -1923,19 +1923,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GCNEXT2026_0422_085831-8501_ALI.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "AI threats in the wild: The current state of prompt injections on the web",
-      "summary": "Posted by Thomas Brunner, Yu-Han Liu, Moni Pande At Google, our Threat Intelligence teams are dedicated to staying ahead of real-world adversarial activity, proactively monitoring emerging threats before they can impact users. Right now, Indirect Prompt Injection (IPI) is a top priority for the security community, anticipating it as a primary attack vector for adversaries to target and compromise ",
-      "url": "http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html",
-      "date": "2026-04-23T21:38:00+00:00",
-      "source": "Google Security",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "security"
-      ],
-      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjduMEPWkG_wwO64NLFbqReZSDPQTMk1t-TXI7EcNHNLHxGkNDsCj_c8TTUK981qqXDO-FAuHS2q1QsbGm974lYZ9GSSlD9wIkQUvxCOKEFrgAYYa86E0AC0JvWTxuFAJ0PL1ArEU1syhWTVcNVYz2a3N2SubkXKspyY3pqtqku-90AwK0cftheXw6nDdHW=s72-c"
     }
   ]
 }
