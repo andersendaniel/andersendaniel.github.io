@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-24T17:55:48.809787+00:00",
+  "generated": "2026-05-24T23:56:09.963873+00:00",
   "sources": 21,
   "articles": [
     {
@@ -1899,30 +1899,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://lh3.googleusercontent.com/3q6uiTEWOv5PKJQYWgYLxCgohyndMqdWTFiwFDbxSzk-tW0HeannPdF7kvqR2hmE_tvSeryfw4IvG7gwuZ11rBgIYGvapEQvHO9RRJXw4JCqyme6uA=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "date": "2026-04-24T19:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 13,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "7 highlights from Google Cloud Next ‘26",
-      "summary": "Wide view of a large audience in a purple-lit arena looking at a main stage screen displaying \"Google Cloud NEXT\".",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-next-26-recap/",
-      "date": "2026-04-24T18:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GCNEXT2026_0422_085831-8501_ALI.max-600x600.format-webp.webp"
     }
   ]
 }
