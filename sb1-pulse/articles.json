@@ -1,7 +1,53 @@
 {
-  "generated": "2026-05-26T13:51:36.005203+00:00",
+  "generated": "2026-05-26T19:14:01.706907+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How Salesforce Built a World-Class Partner Ecosystem: The 7-Step Blueprint",
+      "summary": "Start by evaluating fit, then build an economic model that is profitable for both you and partners.",
+      "url": "https://www.salesforce.com/blog/sales/salesforce-partner-ecosystem/",
+      "date": "2026-05-26T18:38:18+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing the Data 360 MCP Server — Your Unified Data, Ready for Any Agent",
+      "summary": "Turn all your Data into Context Every Agent Can Put to Work. Today, Salesforce is announcing that the Data 360 MCP Server is now available in Developer Preview — a significant step forward…",
+      "url": "https://www.salesforce.com/blog/introducing-the-data-360-mcp-server-your-unified-data-ready-for-any-agent/",
+      "date": "2026-05-26T17:47:38+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The Next Era of Business AI",
+      "summary": "Without context, AI cannot deliver on its promise.",
+      "url": "https://news.sap.com/2026/05/the-next-era-of-business-ai/",
+      "date": "2026-05-26T17:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Ending the “easy vs. enterprise” compromise with Storefront Next for B2C Commerce",
+      "summary": "As businesses rush to adopt agentic commerce, development teams are typically up against one of two predicaments. Some struggle with commerce platforms they have outgrown. What was once an ‘easy’, lightweight solution has…",
+      "url": "https://www.salesforce.com/blog/storefront-next/",
+      "date": "2026-05-26T14:50:25+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 6,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
     {
       "title": "SAP Helps Boost Grupo UMA’s Motorcycle Production",
       "summary": "Working with SAP, UMA established global models and automated operations across finance, production, and logistics.",
@@ -78,6 +124,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio adds interactive interface for managing Feature Store in IAM Domains",
+      "summary": "Amazon SageMaker Unified Studio IAM domains now includes an interactive interface for creating and managing feature groups in SageMaker Feature Store, eliminating the need to write code for common feature management tasks. This launch makes feature management accessible to data scientists, ML engineers, and business analysts from a single collaborative environment. Features are the inputs to ML mo",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-feature-store/",
+      "date": "2026-05-22T20:07:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -251,7 +308,7 @@
       "image": null
     },
     {
-      "title": "How World Bank Group uses databricks to eradicate poverty through shared knowledge",
+      "title": "How World Bank Group uses Databricks to eradicate poverty through shared knowledge",
       "summary": "The World Bank Group's mission is to improve shared prosperity across the planet....",
       "url": "https://www.databricks.com/blog/how-world-bank-group-uses-databricks-eradicate-poverty-through-shared-knowledge",
       "date": "2026-05-22T15:00:00+00:00",
@@ -476,20 +533,6 @@
       "image": null
     },
     {
-      "title": "Beyond the Funnel: Selling in the Age of Agentic AI",
-      "summary": "From SDR to Strategic Partner: How Jinhee Baek is shaping the future of the agentic enterprise in Korea’s digital-native market.",
-      "url": "https://www.salesforce.com/blog/beyond-the-funnel-agentic-ai-sales-korea/",
-      "date": "2026-05-21T15:49:54+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 18,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "Transforming industries with conversational AI: Partner solutions built on Databricks Genie",
       "summary": "In the era of data intelligence, the value of information is only as good as its...",
       "url": "https://www.databricks.com/blog/transforming-industries-conversational-ai-partner-solutions-built-databricks-genie",
@@ -521,19 +564,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/gfn-thursday-5-14-nv-blog-1280x680-logo-1.jpg"
-    },
-    {
-      "title": "How Founders Are Moving Boldly Into The Agentic Enterprise: Startup Summit Insights",
-      "summary": "Salesforce's Startup Summit offers a front-row seat to watch the agentic playbook being written.",
-      "url": "https://www.salesforce.com/blog/small-business/annual-startup-summit-insights/",
-      "date": "2026-05-21T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 4,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     },
     {
       "title": "AdventHealth advances whole-person care with OpenAI",
@@ -573,26 +603,13 @@
       "image": null
     },
     {
-      "title": "Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server",
-      "summary": "Amazon Relational Database Service (Amazon RDS) Custom for SQL Server now supports the latest General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for SQL Server 2019 CU32+GDR KB5084816 (RDS version 15.00.4465.1.v1) and SQL Server 2022 CU24+GDR KB5083252 (RDS version 16.00.4250.1.v1). The GDR updates address vulnerabilities described in CVE-2026-32167 ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-custom-sql-server-latest-gdr-updates-microsoft-sql-server",
-      "date": "2026-05-21T07:22:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Bedrock expands support for request-level usage attribution",
-      "summary": "Amazon Bedrock customers can now attribute model inference usage to specific teams, applications, environments, and experiments at the individual request level on the InvokeModel and InvokeModelWithResponseStream APIs. This gives customers fine-grained visibility into how their Amazon Bedrock usage is distributed across their organization, helping them understand consumption patterns, optimize spe",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-request-level-usage-attribution/",
-      "date": "2026-05-20T23:34:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 16,
+      "title": "Investigation update: GitHub Enterprise Server signing key rotation",
+      "summary": "GitHub Enterprise Server customers need to take immediate action. The post Investigation update: GitHub Enterprise Server signing key rotation appeared first on The GitHub Blog .",
+      "url": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
+      "date": "2026-05-20T21:07:38+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 4,
       "tags": [],
       "image": null
     },
@@ -617,17 +634,6 @@
       "relevance": 13,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Asking For a Friend: What Exactly is an AI Moat?",
-      "summary": "Learn about competitive advantages that protect your tech investment and make it more valuable",
-      "url": "https://www.salesforce.com/blog/ai-moat/",
-      "date": "2026-05-20T19:22:57+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "A new experiment brings better group meetings to Google Beam",
@@ -1235,17 +1241,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "SAP SuccessFactors Innovations Define a New Era of Autonomous HCM",
-      "summary": "AI requires a fundamental rethinking of how work gets done, grounded in data, systems, and processes.",
-      "url": "https://news.sap.com/2026/05/sap-successfactors-innovations-new-era-autonomous-hcm/",
-      "date": "2026-05-14T06:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 3,
       "tags": [],
       "image": null
     },
