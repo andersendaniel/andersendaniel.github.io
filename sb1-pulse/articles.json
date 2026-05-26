@@ -1,7 +1,18 @@
 {
-  "generated": "2026-05-26T08:29:08.120596+00:00",
+  "generated": "2026-05-26T13:51:36.005203+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "SAP Helps Boost Grupo UMA’s Motorcycle Production",
+      "summary": "Working with SAP, UMA established global models and automated operations across finance, production, and logistics.",
+      "url": "https://news.sap.com/2026/05/sap-boost-grupo-uma-motorcycle-production/",
+      "date": "2026-05-26T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
       "summary": "There’s something genuinely energizing about working with startups — something I’ve been doing intensely for more than two years now. Startups operate at a different frequency: the urgency is real, the constraints are tight, and the stakes are personal. Helping them navigate the challenge of proving their business model requires not just technical depth but […]",
@@ -612,17 +623,6 @@
       "summary": "Learn about competitive advantages that protect your tech investment and make it more valuable",
       "url": "https://www.salesforce.com/blog/ai-moat/",
       "date": "2026-05-20T19:22:57+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Readiness Starts at the Kitchen Table: Modernizing the Military Family Experience",
-      "summary": "In national defense, “readiness” is a term usually reserved for maintenance cycles, ammunition counts, and grueling certification exercises. We measure it in hours to deploy and percentages of mission-capable aircraft. But there is…",
-      "url": "https://www.salesforce.com/blog/military-defense-hr-transformation/",
-      "date": "2026-05-20T17:30:04+00:00",
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 1,
@@ -1247,19 +1247,6 @@
       "category": "sap",
       "relevance": 3,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "SAP Unveils Business AI Platform to Power the Autonomous Enterprise",
-      "summary": "A bold new vision from SAP will enable customers to use agentic AI accurately, securely, and at scale.",
-      "url": "https://news.sap.com/2026/05/sap-sapphire-keynote-business-ai-platform-power-autonomous-enterprise/",
-      "date": "2026-05-13T16:01:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 18,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
