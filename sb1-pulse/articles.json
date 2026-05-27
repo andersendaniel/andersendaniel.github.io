@@ -1,7 +1,81 @@
 {
-  "generated": "2026-05-27T14:24:25.474438+00:00",
+  "generated": "2026-05-27T19:21:20.078058+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Agentforce Life Sciences: June 2026 Newsletter",
+      "summary": "A Note from our General Manager Welcome to the first edition of the Agentforce Life Sciences newsletter. I’m thrilled to launch this new forum for sharing customer stories, industry innovation, and the latest…",
+      "url": "https://www.salesforce.com/blog/agentforce-life-sciences-june-2026-newsletter/",
+      "date": "2026-05-27T17:55:01+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Meet Our Newest AWS Heroes – May 2026",
+      "summary": "We’re excited to welcome four outstanding community leaders as our newest AWS Heroes. These individuals embody the spirit of collaboration and knowledge sharing that makes the AWS community thrive. From building AI-powered tools that help fellow builders navigate AWS re:Invent, to leading some of the largest AWS communities in Latin America, to sharing deep cloud […]",
+      "url": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/",
+      "date": "2026-05-27T16:15:05+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AI Factories: The New Infrastructure of Intelligence",
+      "summary": "AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per watt and cost per token become the economics that matter.",
+      "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
+      "date": "2026-05-27T16:00:36+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 17,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/AI_v001-scaled.png"
+    },
+    {
+      "title": "How the lakebase architecture stays resilient to cloud failures",
+      "summary": "In the last year, agents have strained the limits of cloud infrastructure with new...",
+      "url": "https://www.databricks.com/blog/how-lakebase-architecture-stays-resilient-cloud-failures",
+      "date": "2026-05-27T15:15:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Introducing Always-On pricing: automatic savings for Databricks Lakebase",
+      "summary": "Most managed operational databases force you into a corner: choose \"Serverless\" for...",
+      "url": "https://www.databricks.com/blog/introducing-always-pricing-automatic-savings-databricks-lakebase",
+      "date": "2026-05-27T15:15:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker HyperPod Slurm clusters now support specifying minimum capacity requirements with continuous provisioning",
+      "summary": "Amazon SageMaker HyperPod now supports minimum capacity requirements (MinCount) for clusters using Slurm orchestration with continuous provisioning. With continuous provisioning , HyperPod provisions clusters with available partial capacity so you can start your AI/ML jobs quickly, while continuing to provision remaining instances asynchronously in the background. While this provides flexibility, ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-mincount/",
+      "date": "2026-05-27T15:06:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Announcing Lakebase Change Data Feed (CDF)",
       "summary": "Moving data from your operational database has traditionally meant setting up and...",
@@ -45,6 +119,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 7,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Election information and safeguards in 2026",
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "date": "2026-05-27T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -107,6 +192,19 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "What Does Salesforce Do?",
+      "summary": "Let’s explore what Salesforce does, the ways it helps strengthen customer relationships, and how the world’s #1 agentic CRM helps businesses become agentic enterprises.",
+      "url": "https://www.salesforce.com/blog/what-does-salesforce-do/",
+      "date": "2026-05-26T18:32:28+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 4,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -332,17 +430,6 @@
       "image": null
     },
     {
-      "title": "We Debunk 5 Misconceptions About Email Marketing",
-      "summary": "No, email is not perfect, but many of its challenges are solvable if you go about it the right way. Here's how.",
-      "url": "https://www.salesforce.com/blog/email-marketing-misconceptions/",
-      "date": "2026-05-22T18:50:53+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon SageMaker adds business metadata and governance in IAM-based domains",
       "summary": "Amazon SageMaker Unified Studio now supports business context, metadata and data governance capabilities in IAM-based domains. With this launch, customers using Amazon SageMaker IAM-based domains can add business context to their AWS Glue Data Catalog tables, including business names, descriptions, and README documentation. They can use AI-generated metadata to produce business names and descripti",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/",
@@ -463,49 +550,14 @@
       "image": null
     },
     {
-      "title": "Top 7 Financial Blogs For Small Business Owners",
-      "summary": "Make better financial decisions with this curated list of blogs tailored specifically for your growing business.",
-      "url": "https://www.salesforce.com/blog/small-business/financial-blogs-for-entrepreneurs/",
-      "date": "2026-05-22T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "date": "2026-05-22T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 6,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Clean Rooms now supports mutable payment configurations for collaborations",
-      "summary": "AWS Clean Rooms now supports mutable fine-grained payment configurations for collaboration members. This capability offers customers greater flexibility and control over payment responsibilities as they develop new use cases with their partners. With this launch, customers can specify which partners are authorized to pay for specific cost types after a collaboration is created—including SQL querie",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-clean-rooms-mutable-payments",
-      "date": "2026-05-22T12:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Databricks Genie democratizes data access in financial services",
-      "summary": "USE CASEData Democratization & AI-Powered Business IntelligenceFinancial services...",
-      "url": "https://www.databricks.com/blog/how-databricks-genie-democratizes-data-access-financial-services",
-      "date": "2026-05-22T10:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Using observability data to prevent incidents",
-      "summary": "USE CASEPlatform Reliability Intelligence & Engineering MetricsHow Engineering Teams...",
-      "url": "https://www.databricks.com/blog/using-observability-data-prevent-incidents",
-      "date": "2026-05-22T10:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -516,17 +568,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "date": "2026-05-22T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 6,
       "tags": [],
       "image": null
     },
@@ -686,6 +727,17 @@
       "image": null
     },
     {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "date": "2026-05-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "How Ramp engineers accelerate code review with Codex",
       "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "url": "https://openai.com/index/ramp",
@@ -704,17 +756,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "date": "2026-05-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1122,24 +1163,13 @@
       "image": null
     },
     {
-      "title": "How business operations teams use Codex",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "title": "How sales teams use Codex",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "date": "2026-05-15T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -1648,17 +1678,6 @@
       "image": null
     },
     {
-      "title": "NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises",
-      "summary": "Enterprise AI has learned to generate. It has learned to reason. Now companies are asking the next question: How should AI act? Early agent systems have shown what’s possible, moving beyond simple prompts to take on more complex tasks. The next step is bringing those capabilities into enterprise environments — where agents must operate with […]",
-      "url": "https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/",
-      "date": "2026-05-05T17:00:40+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 17,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26-servicenow-jhh-bill-KLUB1672-3-scaled.jpg"
-    },
-    {
       "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
@@ -1824,19 +1843,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
-      "summary": "Late March took me to Seattle for the Specialist Tech Conference, one of the most energizing gatherings of AWS specialists from around the world. It was an incredible opportunity to connect with peers, exchange experiences, and go deep on the latest advancements in Generative AI and Amazon Bedrock — and a powerful reminder of something […]",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/",
-      "date": "2026-04-27T15:01:28+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 25,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     }
   ]
 }
