@@ -1,7 +1,91 @@
 {
-  "generated": "2026-05-27T19:21:20.078058+00:00",
+  "generated": "2026-05-27T23:57:28.970003+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "SageMaker Notebook Instances now support P5.4xl instance types",
+      "summary": "We are pleased to announce general availability of Amazon EC2 P5.4xl instances on SageMaker notebook instances. Amazon EC2 P5.4xl instances are powered by NVIDIA H100 Tensor Core GPUs and deliver high performance in Amazon EC2 for deep learning (DL) and high performance computing (HPC) applications. They help you accelerate your time to solution by up to 4x compared to previous-generation GPU-base",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/p5-4xl-new-instance-launch-sagemaker-notebook-instances/",
+      "date": "2026-05-27T20:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "SageMaker Notebook Instances now support P5en.48xl instance types",
+      "summary": "We are pleased to announce general availability of Amazon EC2 P5en.48xl instances on SageMaker notebook instances. Amazon EC2 P5en instances feature 8 H200 GPUs which have 1.7x GPU memory size and 1.4x GPU memory bandwidth than H100 GPUs featured in P5 instances. P5en instances pair the H200 GPUs with high performance custom 4 th Generation Intel Xeon Scalable processors, enabling Gen5 PCIe betwee",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/p5en-new-instance-launch-sagemaker-notebook-instances/",
+      "date": "2026-05-27T20:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Reliable LLM Inference at Scale",
+      "summary": "At Databricks, we’ve built a unique inference platform that serves every frontier...",
+      "url": "https://www.databricks.com/blog/reliable-llm-inference-scale",
+      "date": "2026-05-27T20:20:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 15,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EMR now supports Apache Spark 4.0.2 in general availability",
+      "summary": "Amazon EMR now supports Apache Spark 4.0.2 across all three deployment models. With Spark 4.0.2, you can build and maintain data pipelines more easily with ANSI SQL and VARIANT data types, enforce fine-grained access control (FGAC) at the row level or column level, strengthen compliance and governance frameworks with Apache Iceberg v3 table format, and deploy new real-time applications faster with",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-apache-spark/",
+      "date": "2026-05-27T20:17:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "BI Serving Pointers; Maximizing for Performance and TCO",
+      "summary": "Your BI dashboards are slow, and tuning them is costing too much time and money.It's...",
+      "url": "https://www.databricks.com/blog/bi-serving-pointers-maximizing-performance-and-tco",
+      "date": "2026-05-27T20:15:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Glue large and memory optimized workers now available in Europe (Spain) Region",
+      "summary": "AWS Glue now offers large and memory-optimized workers in the AWS Europe (Spain) Region, giving customers in this region more power to handle complex data processing workloads. The new additions include two general compute workers (G.12X and G.16X) as well as four memory-optimized workers (R.1X, R.2X, R.4X, and R.8X). With these options, you can now tackle more complex transforms, aggregations, jo",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-larger-memory-intensive-workers-spain",
+      "date": "2026-05-27T20:10:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Snowflake to Acquire Natoma to Bring Governed Agentic Access to the Enterprise",
+      "summary": "Snowflake plans to acquire Natoma to bring governed agentic access to the enterprise, helping organizations connect AI agents to enterprise apps with stronger identity, policy, audit, and security controls.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-acquire-natoma-governed-agentic-access",
+      "date": "2026-05-27T19:22:50+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 22,
+      "tags": [
+        "ai",
+        "security"
+      ],
+      "image": null
+    },
     {
       "title": "Agentforce Life Sciences: June 2026 Newsletter",
       "summary": "A Note from our General Manager Welcome to the first edition of the Agentforce Life Sciences newsletter. I’m thrilled to launch this new forum for sharing customer stories, industry innovation, and the latest…",
@@ -11,6 +95,19 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Connect Customer now uses generative AI to automatically evaluate self-service interactions",
+      "summary": "Amazon Connect Customer now enables managers to use generative AI to automatically evaluate self-service interactions, and get aggregated insights to help improve customer experience. Managers can define custom evaluation criteria in natural language within evaluation forms — such as \"Were all of the customer issues resolved by the AI agent?\" — which generative AI uses to help assess the quality o",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-gen-AI-evaluations-self-service",
+      "date": "2026-05-27T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 25,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -90,6 +187,17 @@
       "image": null
     },
     {
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "url": "https://openai.com/index/cisco",
+      "date": "2026-05-27T11:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "The Autonomous Enterprise: Better Decisions in Motion",
       "summary": "How do you move fast enough to capture opportunity without putting fulfillment, margin, or customer trust at risk?",
       "url": "https://news.sap.com/2026/05/autonomous-enterprise-better-decisions-in-motion/",
@@ -97,6 +205,17 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 16,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Backup adds OTP verification for Multi-party approval on logically air-gapped vaults",
+      "summary": "AWS Backup now requires one-time password (OTP) verification when approvers vote on Multi-party approval actions for logically air-gapped vaults. When an approver votes on an Multi-party approval request, they must enter a six-digit code sent to their registered email address in AWS IAM Identity Center. This ensures that only verified approvers can authorize protected vault operations, adding an a",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-backup-otp-multi-party-approval-lag/",
+      "date": "2026-05-27T10:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -120,6 +239,20 @@
       "category": "databricks",
       "relevance": 7,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "url": "https://openai.com/index/warp",
+      "date": "2026-05-27T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 20,
+      "tags": [
+        "ai",
+        "developer"
+      ],
       "image": null
     },
     {
@@ -225,6 +358,17 @@
       "date": "2026-05-26T17:00:00+00:00",
       "source": "SAP News",
       "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems",
+      "summary": "We’re introducing SilverTorch, a reimagining of recommendation systems that unifies all retrieval components for user generated content under a unified architecture. SilverTorch shows up to 23.7x higher throughput compared to the state-of-the-art approaches. It’s also showing 20.9x more compute cost efficiency compared to a CPU-based solution while also improving accuracy. Our research paper, “Sil",
+      "url": "https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/",
+      "date": "2026-05-26T16:00:01+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -403,46 +547,6 @@
       "image": null
     },
     {
-      "title": "Observability for any agent, anywhere: Production-ready tracing with OpenTelemetry & Unity Catalog on Databricks",
-      "summary": "Why AI Tracing Breaks Traditional ObservabilityAs AI applications move into production...",
-      "url": "https://www.databricks.com/blog/observability-any-agent-anywhere-production-ready-tracing-opentelemetry-unity-catalog",
-      "date": "2026-05-22T19:20:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "New agentic migration assessment capabilities now available with AWS Transform",
-      "summary": "AWS Transform now offers advanced migration assessment capabilities including what-if scenarios, customizable assumptions, flexible file format support, and multiple new total cost of ownership (TCO) assessment features. These latest features let you quickly build a migration business case and accelerate your migration decisions. You can start your migration assessment with whatever data you have ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform",
-      "date": "2026-05-22T18:58:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "ai",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker adds business metadata and governance in IAM-based domains",
-      "summary": "Amazon SageMaker Unified Studio now supports business context, metadata and data governance capabilities in IAM-based domains. With this launch, customers using Amazon SageMaker IAM-based domains can add business context to their AWS Glue Data Catalog tables, including business names, descriptions, and README documentation. They can use AI-generated metadata to produce business names and descripti",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/",
-      "date": "2026-05-22T18:24:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
       "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
@@ -452,17 +556,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "AWS Security Agent adds verification scripts for pentest findings",
-      "summary": "AWS Security Agent now generates verification scripts for penetration test findings, enabling security teams to independently reproduce and validate discovered vulnerabilities. Previously, teams manually followed reproduction steps from finding details. Now, AWS Security Agent automatically generates ready-to-run scripts for each confirmed finding. Teams download the script, configure environment ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent/",
-      "date": "2026-05-22T17:21:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
@@ -478,17 +571,6 @@
       "image": null
     },
     {
-      "title": "Amazon WorkSpaces Personal now supports WorkSpace Migration for Linux WorkSpaces",
-      "summary": "Amazon WorkSpaces now supports the WorkSpace Migration feature for all Linux operating systems that Amazon WorkSpaces offers. This allows customers to seamlessly migrate WorkSpaces from one Linux operating system to another, automating the process to migrate to newer operating system versions or to move from one Linux operating system to another. When customers migrate their WorkSpaces from one op",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-linux-migration",
-      "date": "2026-05-22T16:24:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 12,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
       "summary": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
@@ -499,17 +581,6 @@
       "tags": [
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon Keyspaces (for Apache Cassandra) expands to Asia Pacific (Malaysia) and Asia Pacific (Thailand) Regions",
-      "summary": "Amazon Keyspaces (for Apache Cassandra) is now available in the Asia Pacific (Malaysia) and Asia Pacific (Thailand) Regions, allowing customers in Asia Pacific Region to build Cassandra-compatible applications with lower latency while keeping their data within the Region to meet data residency requirements. Amazon Keyspaces (for Apache Cassandra) is a scalable, highly available, and managed Apache",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-keyspaces-malaysia-thailand/",
-      "date": "2026-05-22T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -539,13 +610,13 @@
       "image": null
     },
     {
-      "title": "How World Bank Group uses Databricks to eradicate poverty through shared knowledge",
-      "summary": "The World Bank Group's mission is to improve shared prosperity across the planet....",
-      "url": "https://www.databricks.com/blog/how-world-bank-group-uses-databricks-eradicate-poverty-through-shared-knowledge",
-      "date": "2026-05-22T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 13,
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "date": "2026-05-22T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -557,17 +628,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "date": "2026-05-22T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -727,17 +787,6 @@
       "image": null
     },
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "date": "2026-05-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How Ramp engineers accelerate code review with Codex",
       "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "url": "https://openai.com/index/ramp",
@@ -745,6 +794,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "date": "2026-05-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1147,28 +1207,6 @@
       "date": "2026-05-15T06:00:00+00:00",
       "source": "SAP News",
       "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How data science teams use Codex",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How sales teams use Codex",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -1647,19 +1685,6 @@
       "category": "snowflake",
       "relevance": 5,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Snowflake Openflow & Cortex Code: AI-Driven Data Integration",
-      "summary": "Build and troubleshoot Snowflake Openflow pipelines faster with Cortex Code, Snowflake's AI agent for data integration and CDC. Get started today.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-openflow-cortex-code-integration",
-      "date": "2026-05-05T19:47:11+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 15,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
