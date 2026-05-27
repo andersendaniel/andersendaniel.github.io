@@ -1,0 +1,1254 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sporveien — Prioritering av data- og AI use cases</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root {
+    /* Sopra Steria brand */
+    --brand-gradient-start: #9f06ce;
+    --brand-gradient-mid: #d9236e;
+    --brand-gradient-end: #f76824;
+    --brand-gradient: linear-gradient(90deg, #9f06ce 0%, #d9236e 50%, #f76824 100%);
+    --brand-purple-dark: #4c1c86;
+    --brand-purple-light: #b455b6;
+    --brand-red: #c1203c;
+    --brand-orange: #e47a1d;
+    --brand-bg-white: #ffffff;
+    --brand-bg-purple: #f6f1fa;
+    --brand-bg-grey: #f6f6f6;
+    --brand-text-dark: #0e0e0e;
+    --brand-text-light: #f7f7f7;
+    --brand-text-muted: #666666;
+    --font-primary: Tahoma, Geneva, Verdana, sans-serif;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+    --shadow-md: 0 4px 12px rgba(76, 28, 134, 0.10);
+    --radius: 6px;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-primary);
+    color: var(--brand-text-dark);
+    background: var(--brand-bg-grey);
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  /* ===== Header ===== */
+  header {
+    background: var(--brand-bg-white);
+    border-bottom: 1px solid #e5e5e5;
+    position: relative;
+  }
+  .header-inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 24px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+  }
+  .header-left h1 {
+    margin: 0 0 4px 0;
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--brand-purple-dark);
+  }
+  .header-left .subtitle {
+    margin: 0;
+    font-size: 13px;
+    color: var(--brand-text-muted);
+  }
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .classification {
+    color: var(--brand-red);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+  }
+  .gradient-bar {
+    height: 6px;
+    background: var(--brand-gradient);
+  }
+
+  /* ===== Layout ===== */
+  main {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 32px 40px 80px;
+  }
+
+  .section {
+    background: var(--brand-bg-white);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-sm);
+    margin-bottom: 24px;
+    overflow: hidden;
+  }
+  .section-header {
+    padding: 18px 24px;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .section-header h2 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--brand-purple-dark);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .section-body {
+    padding: 24px;
+  }
+
+  /* ===== Framework intro ===== */
+  .framework-intro {
+    background: var(--brand-bg-purple);
+    border-left: 4px solid var(--brand-purple-dark);
+    padding: 20px 24px;
+    margin-bottom: 16px;
+    border-radius: var(--radius);
+  }
+  .framework-intro p {
+    margin: 0 0 8px 0;
+    font-size: 13px;
+  }
+  .framework-intro p:last-child { margin: 0; }
+
+  /* Horisontal scroll-wrapper for innhold som ikke skal kollapse på smale skjermer */
+  .h-scroll {
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 4px;
+  }
+  .h-scroll::-webkit-scrollbar { height: 10px; }
+  .h-scroll::-webkit-scrollbar-track { background: var(--brand-bg-grey); border-radius: 5px; }
+  .h-scroll::-webkit-scrollbar-thumb {
+    background: linear-gradient(90deg, #9f06ce, #d9236e, #f76824);
+    border-radius: 5px;
+  }
+  .h-scroll::-webkit-scrollbar-thumb:hover { opacity: 0.85; }
+
+  .dimensions-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(300px, 1fr));
+    gap: 16px;
+    margin-top: 16px;
+    min-width: 920px;
+  }
+  .dimension-card {
+    border: 1px solid #e5e5e5;
+    border-radius: var(--radius);
+    padding: 16px;
+    background: var(--brand-bg-white);
+    position: relative;
+    overflow: hidden;
+  }
+  .dimension-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+  }
+  .dimension-card.verdi::before { background: var(--brand-purple-dark); }
+  .dimension-card.realiserbarhet::before { background: var(--brand-orange); }
+  .dimension-card.gjenbrukbarhet::before { background: var(--brand-red); }
+
+  .dimension-card h3 {
+    margin: 0 0 6px 0;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--brand-text-dark);
+  }
+  .dimension-card .weight {
+    font-size: 11px;
+    color: var(--brand-text-muted);
+    margin-bottom: 8px;
+  }
+  .dimension-card p {
+    margin: 0 0 8px 0;
+    font-size: 12px;
+    color: var(--brand-text-dark);
+  }
+  .dimension-card ul {
+    margin: 0;
+    padding-left: 16px;
+    font-size: 11px;
+    color: var(--brand-text-muted);
+  }
+  .dimension-card ul li { margin-bottom: 2px; }
+
+  /* ===== Form ===== */
+  .form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .form-group { display: flex; flex-direction: column; }
+  .form-group.full { grid-column: 1 / -1; }
+  .form-group label {
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--brand-text-dark);
+    margin-bottom: 6px;
+  }
+  .form-group label .hint {
+    font-weight: 400;
+    color: var(--brand-text-muted);
+    font-size: 11px;
+    margin-left: 6px;
+  }
+  .form-group input[type="text"],
+  .form-group textarea,
+  .form-group select {
+    padding: 8px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: var(--font-primary);
+    font-size: 13px;
+    color: var(--brand-text-dark);
+    background: var(--brand-bg-white);
+  }
+  .form-group input:focus,
+  .form-group textarea:focus,
+  .form-group select:focus {
+    outline: none;
+    border-color: var(--brand-purple-dark);
+    box-shadow: 0 0 0 2px rgba(76, 28, 134, 0.15);
+  }
+  .form-group textarea { resize: vertical; min-height: 60px; }
+
+  /* Score slider */
+  .score-row {
+    display: grid;
+    grid-template-columns: 200px 1fr 60px;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 0;
+  }
+  .score-row .score-label {
+    font-size: 12px;
+    font-weight: 700;
+  }
+  .score-row .score-label .sub {
+    display: block;
+    font-weight: 400;
+    color: var(--brand-text-muted);
+    font-size: 10px;
+  }
+  .score-row input[type="range"] {
+    width: 100%;
+    accent-color: var(--brand-purple-dark);
+  }
+  .score-row .score-value {
+    text-align: center;
+    font-weight: 700;
+    font-size: 18px;
+    color: var(--brand-purple-dark);
+    background: var(--brand-bg-purple);
+    border-radius: 4px;
+    padding: 4px 0;
+  }
+
+  .form-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid #eee;
+  }
+
+  /* ===== Buttons ===== */
+  .btn {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    font-family: var(--font-primary);
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    letter-spacing: 0.3px;
+  }
+  .btn-primary {
+    background: var(--brand-purple-dark);
+    color: var(--brand-text-light);
+  }
+  .btn-primary:hover { background: #3a1568; }
+  .btn-secondary {
+    background: var(--brand-bg-white);
+    color: var(--brand-purple-dark);
+    border: 1px solid var(--brand-purple-dark);
+  }
+  .btn-secondary:hover { background: var(--brand-bg-purple); }
+  .btn-danger {
+    background: transparent;
+    color: var(--brand-red);
+    border: 1px solid transparent;
+  }
+  .btn-danger:hover { background: rgba(193, 32, 60, 0.08); }
+  .btn-small {
+    padding: 4px 10px;
+    font-size: 11px;
+  }
+
+  /* ===== Table ===== */
+  .table-wrap { overflow-x: auto; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+  }
+  thead th {
+    text-align: left;
+    padding: 10px 12px;
+    background: var(--brand-bg-purple);
+    color: var(--brand-purple-dark);
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    border-bottom: 2px solid var(--brand-purple-dark);
+  }
+  tbody td {
+    padding: 10px 12px;
+    border-bottom: 1px solid #eee;
+    vertical-align: middle;
+  }
+  tbody tr:hover { background: var(--brand-bg-grey); cursor: pointer; }
+  tbody tr.selected { background: var(--brand-bg-purple); }
+  .uc-name { font-weight: 700; color: var(--brand-text-dark); }
+  .uc-area { color: var(--brand-text-muted); font-size: 11px; }
+  .score-badge {
+    display: inline-block;
+    min-width: 24px;
+    padding: 2px 6px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+  }
+  .score-badge.verdi { background: var(--brand-purple-dark); }
+  .score-badge.realiserbarhet { background: var(--brand-orange); }
+  .score-badge.gjenbrukbarhet { background: var(--brand-red); }
+  .score-badge.total { background: linear-gradient(90deg, #4c1c86, #b455b6); }
+  .horizon-pill {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+  .horizon-pill.kort { background: #e6f7ed; color: #1d6b3a; }
+  .horizon-pill.mellom { background: #fff4e0; color: #8a5a00; }
+  .horizon-pill.lang { background: #fde7eb; color: #871423; }
+
+  /* ===== Visualizations ===== */
+  .viz-grid {
+    display: grid;
+    grid-template-columns: minmax(560px, 1.4fr) minmax(420px, 1fr);
+    gap: 24px;
+    min-width: 1020px;
+  }
+  .viz-box {
+    background: var(--brand-bg-white);
+    border: 1px solid #eee;
+    border-radius: var(--radius);
+    padding: 20px;
+  }
+  .viz-box h3 {
+    margin: 0 0 4px 0;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--brand-purple-dark);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .viz-box .viz-sub {
+    margin: 0 0 16px 0;
+    font-size: 11px;
+    color: var(--brand-text-muted);
+  }
+  .chart-container {
+    position: relative;
+    width: 100%;
+  }
+  #matrixChart { height: 480px !important; }
+  #radarChart { height: 380px !important; }
+
+  .quadrant-legend {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+    margin-top: 14px;
+    font-size: 10px;
+  }
+  .qbox {
+    padding: 6px 8px;
+    border-radius: 4px;
+    border-left: 3px solid;
+  }
+  .qbox b { display: block; font-size: 11px; margin-bottom: 2px; }
+  .qbox.q1 { background: #f0fbf3; border-color: #1d6b3a; color: #155026; }
+  .qbox.q2 { background: #f7f0fb; border-color: var(--brand-purple-dark); color: #3a1568; }
+  .qbox.q3 { background: #fffaf0; border-color: var(--brand-orange); color: #8a5a00; }
+  .qbox.q4 { background: #fdf0f2; border-color: var(--brand-red); color: #871423; }
+
+  /* ===== Empty / utility ===== */
+  .empty-state {
+    padding: 40px 20px;
+    text-align: center;
+    color: var(--brand-text-muted);
+    font-size: 13px;
+  }
+  .toolbar {
+    display: flex;
+    gap: 8px;
+  }
+  .stats-row {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 16px;
+    min-width: 800px;
+  }
+  .stat-card {
+    flex: 1;
+    background: var(--brand-bg-white);
+    border: 1px solid #eee;
+    border-radius: var(--radius);
+    padding: 14px 16px;
+    border-top: 3px solid var(--brand-purple-dark);
+  }
+  .stat-card .stat-label {
+    font-size: 10px;
+    color: var(--brand-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 4px;
+  }
+  .stat-card .stat-value {
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--brand-purple-dark);
+  }
+
+  /* ===== Footer ===== */
+  footer {
+    background: var(--brand-bg-white);
+    border-top: 1px solid #e5e5e5;
+    margin-top: 40px;
+  }
+  .footer-inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 16px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 11px;
+    color: var(--brand-text-muted);
+  }
+  .footer-gradient {
+    height: 6px;
+    background: var(--brand-gradient);
+  }
+
+  /* ===== Responsive =====
+     Vi BEHOLDER kolonneoppsettet selv på smale skjermer og bruker horisontal
+     scroll i stedet, slik at radar-diagram og 2x2-matrise alltid forblir
+     fullt synlige uten å bli klemt sammen. */
+  @media (max-width: 1024px) {
+    .header-inner, main, .footer-inner { padding-left: 20px; padding-right: 20px; }
+  }
+  @media (max-width: 720px) {
+    .header-inner { flex-wrap: wrap; gap: 12px; }
+    .footer-inner { flex-wrap: wrap; gap: 8px; font-size: 10px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="header-left">
+      <h1>Prioritering av data- og AI use cases</h1>
+      <p class="subtitle">Strukturert vurdering av forretningsverdi, realiserbarhet og gjenbrukbarhet — utviklet for Sporveien</p>
+    </div>
+    <div class="header-right">
+      <span class="classification">C2 — Restricted use</span>
+      <svg viewBox="-0.8 -0.8 210.7 28.2" height="28" style="height: 28px; width: auto;">
+        <path d="m 93.93555,3.87305 c -2.05603,-0.034 -3.66537,0.52567 -4.10937,1.98047 -0.9184,3.00608 5.02226,6.23193 7.82226,7.76953 0.6016,0.32864 0.85932,0.12359 0.47852,-0.31641 -1.7696,-2.03647 -4.28638,-6.04679 -0.73438,-8.40039 0.1728,-0.11392 0.38347,-0.24343 0.57227,-0.35351 l 0.0566,-0.0312 -0.0566,-0.01 C 96.56445,4.12766 95.16917,3.89327 93.93555,3.87287 Z m 19.10352,8.90625 c -0.30825,-0.0604 -0.38371,0.1368 -0.0957,0.4668 1.7664,2.03616 4.28762,6.04551 0.73243,8.40039 v -0.002 c -0.1696,0.11392 -0.37636,0.2441 -0.56836,0.35546 l -0.0586,0.0332 0.0586,0.008 c 3.73115,1.02368 7.42435,0.98521 8.13475,-1.34375 0.9184,-3.00608 -5.0191,-6.23126 -7.82225,-7.76758 -0.1496,-0.0822 -0.27811,-0.13025 -0.38086,-0.15039 z" style="fill:#f67200"/>
+        <path d="m 187.91019,0 c -1.1296,0 -2.045,0.91561 -2.045,2.04297 0,1.12768 0.9154,2.04297 2.045,2.04297 1.1264,0 2.039,-0.91529 2.039,-2.04297 0,-1.12736 -0.9126,-2.04297 -2.039,-2.04297 z m -42.0606,1.92383 v 3.90625 h -3.1426 V 8.4629 h 3.1426 V 16.75 c 0,1.8976 0.3738,5.35743 5.1738,5.35743 1.2032,0 1.974,-0.0829 3.0332,-0.22657 v -2.74414 c 0,0 -1.0936,0.2793 -2.0664,0.2793 -2.5376,0 -3.0918,-1.04072 -3.0918,-3.02344 V 8.4629 h 5.0176 V 5.83008 h -5.0176 V 1.92383 Z M 163.48439,5.5 c -5.0432,0 -8.8184,3.27988 -8.8184,8.38868 v 0.1289 c 0,4.98272 3.7956,8.19922 9.3028,8.19922 2.6464,0 5.1198,-0.66157 7.3886,-2.83789 l -2.2383,-1.96484 c 0,0 -1.919,2.0039 -5.1542,2.0039 -3.0048,0 -5.9171,-1.90322 -6.0547,-4.42578 l 13.9589,-0.0586 c 0.07,-0.63136 0.07,-1.32617 0.07,-1.32617 0,-4.44608 -3.4438,-8.10743 -8.455,-8.10743 z m 36.7402,0.0996 c -3.4464,0 -8.414,2.08513 -8.414,8.22657 0,6.08352 4.4685,8.35742 8.3789,8.35742 3.8976,0 5.8515,-2.16602 5.8515,-2.16602 l 0.1582,2.16211 h 2.8574 V 5.8164 h -2.8515 l -0.1641,2.0293 c 0,0 -1.8964,-2.2461 -5.8164,-2.2461 z m -66.9551,0.0117 c -3.2928,0 -6.8281,1.24571 -6.8281,4.58203 0,2.88864 2.6269,3.7872 6.9629,4.60352 2.896,0.54368 5.5684,0.82025 5.5684,2.38281 0,0.98496 -1.3152,2.24805 -4.6016,2.24805 -2.3328,0 -4.6882,-0.48995 -5.4082,-2.15234 l -2.8086,1.17968 c 1.152,2.56608 4.2076,3.89453 7.75,3.89453 7.0752,0 8.4414,-3.36335 8.4414,-5.27343 0,-3.18112 -3.1658,-4.09437 -6.3242,-4.65821 -3.1424,-0.56128 -6.2324,-0.95301 -6.2324,-2.41797 0,-0.95392 0.9504,-1.79687 3.6992,-1.79687 2.0448,0 4.403,0.47519 5.043,1.92383 l 2.8964,-1.21875 c -1.1072,-2.22624 -4.3886,-3.29688 -8.1582,-3.29688 z m 49.6836,0.1875 c -2.5015,-0.023 -4.3419,0.73427 -5.8203,2.27539 l -0.164,-2.25195 h -2.959 V 22.1699 h 3.123 v -8.47266 c 0,-2.36224 1.9032,-5.35745 6.9336,-5.07617 V 5.85544 c -0.3852,-0.0352 -0.7559,-0.0533 -1.1133,-0.0566 z m 3.3926,0.0137 v 16.33399 h 3.1231 V 5.8125 Z m 14.0098,2.51758 c 3.0272,0 5.6855,1.71672 5.6855,5.4668 0,3.74752 -2.3391,5.62109 -5.6543,5.62109 -1.7376,0 -5.4004,-1.108 -5.4004,-5.55664 0,-4.52 3.654,-5.53125 5.3692,-5.53125 z m -36.8301,0.0859 c 2.7456,0 4.9824,1.85115 4.9824,4.07227 h -10.5469 c 0.1952,-2.2576 2.6237,-4.07227 5.5645,-4.07227 z" style="fill:#231f20"/>
+        <path d="m 26.56055,5.59766 c -4.176,0 -9.12109,2.08775 -9.12109,8.23047 0,6.08224 4.44909,8.44531 9.12109,8.44531 4.6752,0 9.12305,-2.36307 9.12305,-8.44531 0,-6.14272 -4.94385,-8.23047 -9.12305,-8.23047 z m 19.62109,0.002 c -3.92,0 -5.8164,2.2461 -5.8164,2.2461 l -0.16406,-2.0293 h -2.85157 v 20.76367 h 3.01563 v -6.88281 c 0,0 1.93921,2.48633 5.84961,2.48633 3.9136,0 8.38086,-1.88638 8.38086,-8.35742 0,-6.4688 -4.96767,-8.22657 -8.41407,-8.22657 z m 28.57422,0 c -3.4496,0 -8.41406,2.08513 -8.41406,8.22657 0,6.08352 4.46851,8.35742 8.37891,8.35742 3.8976,0 5.85156,-2.16602 5.85156,-2.16602 l 0.16602,2.16211 h 2.8457 V 5.81646 h -2.85156 l -0.16016,2.0293 c 0,0 -1.89961,-2.2461 -5.81641,-2.2461 z M 7.11719,5.61136 c -3.296,0 -6.83203,1.24571 -6.83203,4.58203 0,2.88864 2.6276,3.7872 6.9668,4.60352 2.896,0.54368 5.5664,0.82025 5.5664,2.38281 0,0.98496 -1.31516,2.24805 -4.60156,2.24805 -2.3328,0 -4.69016,-0.48995 -5.41016,-2.15234 L 0,18.45511 c 1.1488,2.56608 4.2076,3.89453 7.75,3.89453 7.072,0 8.43946,-3.36335 8.43946,-5.27343 0,-3.18112 -3.16512,-4.09437 -6.32032,-4.65821 -3.1456,-0.56128 -6.23437,-0.95301 -6.23437,-2.41797 0,-0.95392 0.94847,-1.79687 3.69726,-1.79687 2.048,0 4.40493,0.47519 5.04493,1.92383 L 15.27735,8.90824 C 14.16695,6.682 10.88679,5.61136 7.11719,5.61136 Z m 58.33789,0.1875 c -2.50215,-0.023 -4.34471,0.73427 -5.82031,2.27539 L 59.47266,5.8223 h -2.96484 v 16.34766 h 3.12695 V 13.6973 c 0,-2.36224 1.90515,-5.35745 6.93555,-5.07617 V 5.8555 C 66.18512,5.8203 65.81253,5.8022 65.45508,5.7989 Z m 9.43164,2.53125 c 3.0272,0 5.68555,1.71672 5.68555,5.4668 0,3.74752 -2.3391,5.62109 -5.6543,5.62109 -1.7408,0 -5.40039,-1.108 -5.40039,-5.55664 0,-4.52 3.65074,-5.53125 5.36914,-5.53125 z m -28.83593,0.002 c 1.71519,0 5.37304,0.67425 5.37304,5.52929 0,4.85376 -3.6667,5.55664 -5.4043,5.55664 -3.31519,0 -5.65429,-1.87357 -5.65429,-5.62109 0,-3.75008 2.65835,-5.46484 5.68555,-5.46484 z m -19.49024,0.0918 c 2.1984,0 5.94531,0.91622 5.94531,5.4375 0,4.44864 -3.37891,5.55664 -5.94531,5.55664 -2.5632,0 -5.94922,-1.108 -5.94922,-5.55664 0,-4.52128 3.75402,-5.4375 5.94922,-5.4375 z" style="fill:#231f20"/>
+        <path d="m 111.01172,1.56836 c -8.2944,0 -12.99219,2.95313 -12.99219,2.95313 5.5072,1.03616 16.39889,6.57422 19.89646,6.57422 1.36,0 2.0137,-1.32205 2.0137,-2.89453 0,-1.8352 -0.653,-3.83195 -1.8594,-5.01563 -1.1424,-1.1264 -3.84577,-1.61719 -7.05857,-1.61719 z M 93.1543,15.45508 c -1.36,0 -2.01172,1.32273 -2.01172,2.89649 0,1.8352 0.65227,3.83066 1.85547,5.01562 1.1456,1.12512 3.8497,1.61914 7.0625,1.61914 8.2912,0 12.99219,-2.95508 12.99219,-2.95508 -5.5072,-1.03616 -16.40084,-6.57617 -19.89844,-6.57617 z" style="fill:#de1823"/>
+      </svg>
+    </div>
+  </div>
+  <div class="gradient-bar"></div>
+</header>
+
+<main>
+
+  <!-- =========== RAMMEVERK =========== -->
+  <section class="section">
+    <div class="section-header">
+      <h2>Rammeverket: VRG-modellen</h2>
+    </div>
+    <div class="section-body">
+      <div class="framework-intro">
+        <p><strong>VRG-modellen</strong> (Verdi · Realiserbarhet · Gjenbrukbarhet) er en pragmatisk scoringsmodell for å prioritere data- og AI-use cases. Modellen er basert på etablert praksis fra Gartner, McKinsey og Sopra Sterias egne erfaringer, og er tilpasset Sporveiens kontekst som leverandør av kritisk infrastruktur og kollektivtransport.</p>
+        <p>Hver use case skåres på en skala fra <strong>1 (lavest)</strong> til <strong>5 (høyest)</strong> på tre dimensjoner. Totalscoren vektes <strong>40% verdi, 35% realiserbarhet og 25% gjenbrukbarhet</strong> — vektingen reflekterer at verdi alltid er fundamentet, men at en plattform-tenking premieres for å unngå punktløsninger.</p>
+      </div>
+
+      <div class="h-scroll">
+      <div class="dimensions-grid">
+        <div class="dimension-card verdi">
+          <h3>1. Forretningsverdi</h3>
+          <div class="weight">Vekt: 40% — hvor mye er denne use casen verdt?</div>
+          <p>Samlet effekt på Sporveiens kjernemål: økonomi, kundeopplevelse, sikkerhet og samfunnsoppdrag.</p>
+          <ul>
+            <li>Kostnadsbesparelse / effektivisering</li>
+            <li>Forbedret kundeopplevelse / punktlighet</li>
+            <li>Strategisk verdi og konkurransefortrinn</li>
+            <li>Bidrag til samfunnsoppdrag (HMS, miljø)</li>
+            <li>Risikoreduksjon (drift, sikkerhet)</li>
+          </ul>
+        </div>
+        <div class="dimension-card realiserbarhet">
+          <h3>2. Realiserbarhet &amp; tid</h3>
+          <div class="weight">Vekt: 35% — hvor raskt og enkelt kan vi levere?</div>
+          <p>Hvor moden er teknologi, data og organisasjon for å realisere use casen — og hvor lang tid tar det.</p>
+          <ul>
+            <li>Tilgjengelig og kvalitetssikret data</li>
+            <li>Moden teknologi og kompetanse</li>
+            <li>Organisatorisk endringskapasitet</li>
+            <li>Regulatorisk klarhet (sikkerhet, personvern)</li>
+            <li>Avhengigheter til andre initiativ</li>
+          </ul>
+        </div>
+        <div class="dimension-card gjenbrukbarhet">
+          <h3>3. Gjenbrukbarhet</h3>
+          <div class="weight">Vekt: 25% — hvor mye plattform bygger vi?</div>
+          <p>Hvor mye av leveransen kan brukes på nytt og muliggjør andre use cases — premierer plattform-tenking.</p>
+          <ul>
+            <li>Datagrunnlag som tilgjengeliggjøres bredt</li>
+            <li>Modeller og features som kan deles</li>
+            <li>Plattformkomponenter og integrasjoner</li>
+            <li>Prosesser, mønstre og styringsmodell</li>
+            <li>Læring og kompetanse for organisasjonen</li>
+          </ul>
+        </div>
+      </div>
+
+      </div>
+
+      <div style="margin-top:20px; padding:14px 16px; background:var(--brand-bg-grey); border-radius:var(--radius); font-size:12px;">
+        <strong>Tidshorisont</strong> utledes automatisk fra realiserbarhetsscoren:
+        <span style="margin-left:8px"><span class="horizon-pill kort">Kort sikt</span> 0–6 mnd (score 4–5)</span>
+        <span style="margin-left:8px"><span class="horizon-pill mellom">Mellomlang</span> 6–18 mnd (score 3)</span>
+        <span style="margin-left:8px"><span class="horizon-pill lang">Lang sikt</span> 18+ mnd (score 1–2)</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========== STATS =========== -->
+  <div class="h-scroll">
+    <div class="stats-row" id="statsRow"></div>
+  </div>
+
+  <!-- =========== FORM =========== -->
+  <section class="section">
+    <div class="section-header">
+      <h2 id="formTitle">Legg til use case</h2>
+      <button type="button" class="btn btn-secondary btn-small" id="resetFormBtn">Tøm skjema</button>
+    </div>
+    <div class="section-body">
+      <form id="useCaseForm">
+        <input type="hidden" id="ucId">
+        <div class="form-grid">
+          <div class="form-group">
+            <label>Navn på use case <span class="hint">påkrevd</span></label>
+            <input type="text" id="ucName" required maxlength="100" placeholder="F.eks. Prediktivt vedlikehold av T-banespor">
+          </div>
+          <div class="form-group">
+            <label>Område / eierskap <span class="hint">f.eks. Drift, HR, Kundeservice</span></label>
+            <input type="text" id="ucArea" maxlength="60" placeholder="F.eks. Infrastruktur T-bane">
+          </div>
+          <div class="form-group full">
+            <label>Kort beskrivelse <span class="hint">2–3 setninger om problem og løsning</span></label>
+            <textarea id="ucDescription" maxlength="500" placeholder="Hva er problemet vi løser, og hvordan?"></textarea>
+          </div>
+        </div>
+
+        <div style="margin-top:20px; padding:16px; background:var(--brand-bg-grey); border-radius:var(--radius);">
+          <div style="font-size:12px; font-weight:700; margin-bottom:8px; color:var(--brand-purple-dark); text-transform:uppercase; letter-spacing:0.5px;">Scoring (1–5)</div>
+
+          <div class="score-row">
+            <div class="score-label">Forretningsverdi
+              <span class="sub">1 = marginal, 5 = transformativ</span>
+            </div>
+            <input type="range" id="ucValue" min="1" max="5" step="1" value="3">
+            <div class="score-value" id="ucValueOut">3</div>
+          </div>
+          <div class="score-row">
+            <div class="score-label">Realiserbarhet / tid
+              <span class="sub">1 = krevende/lang sikt, 5 = enkelt/kort sikt</span>
+            </div>
+            <input type="range" id="ucFeas" min="1" max="5" step="1" value="3">
+            <div class="score-value" id="ucFeasOut">3</div>
+          </div>
+          <div class="score-row">
+            <div class="score-label">Gjenbrukbarhet
+              <span class="sub">1 = engangsbruk, 5 = plattformelement</span>
+            </div>
+            <input type="range" id="ucReuse" min="1" max="5" step="1" value="3">
+            <div class="score-value" id="ucReuseOut">3</div>
+          </div>
+        </div>
+
+        <div class="form-actions">
+          <button type="button" class="btn btn-secondary" id="cancelEditBtn" style="display:none;">Avbryt redigering</button>
+          <button type="submit" class="btn btn-primary" id="submitBtn">Lagre use case</button>
+        </div>
+      </form>
+    </div>
+  </section>
+
+  <!-- =========== VISUALISERINGER =========== -->
+  <section class="section">
+    <div class="section-header">
+      <h2>Visualiseringer</h2>
+      <div style="font-size:11px; color:var(--brand-text-muted)">Klikk en use case i tabellen for å se radardiagrammet</div>
+    </div>
+    <div class="section-body">
+      <div class="h-scroll">
+      <div class="viz-grid">
+        <div class="viz-box">
+          <h3>Prioriteringsmatrise (2×2)</h3>
+          <p class="viz-sub">Forretningsverdi vs realiserbarhet. Boblestørrelse = gjenbrukbarhet.</p>
+          <div class="chart-container"><canvas id="matrixChart"></canvas></div>
+          <div class="quadrant-legend">
+            <div class="qbox q1"><b>Quick wins (øvre høyre)</b>Høy verdi, høy realiserbarhet — start her, lever raskt.</div>
+            <div class="qbox q2"><b>Strategiske satsinger (øvre venstre)</b>Høy verdi, krevende — krever investering og roadmap.</div>
+            <div class="qbox q3"><b>Fyllmasse (nedre høyre)</b>Lav verdi, enkelt — utfør om kapasitet, ikke prioriter.</div>
+            <div class="qbox q4"><b>Unngå / utsett (nedre venstre)</b>Lav verdi, krevende — fjern fra portefølje.</div>
+          </div>
+        </div>
+        <div class="viz-box">
+          <h3>Radardiagram</h3>
+          <p class="viz-sub" id="radarSubtitle">Velg en use case i tabellen under for å se profil.</p>
+          <div class="chart-container"><canvas id="radarChart"></canvas></div>
+          <div id="radarMeta" style="margin-top:14px; font-size:12px; color:var(--brand-text-dark); min-height:60px;"></div>
+        </div>
+      </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========== TABELL =========== -->
+  <section class="section">
+    <div class="section-header">
+      <h2>Use case-portefølje (<span id="ucCount">0</span>)</h2>
+      <div class="toolbar">
+        <button type="button" class="btn btn-secondary btn-small" id="exportBtn">Eksporter JSON</button>
+        <button type="button" class="btn btn-secondary btn-small" id="importBtn">Importer JSON</button>
+        <button type="button" class="btn btn-secondary btn-small" id="sampleBtn">Last eksempeldata</button>
+        <button type="button" class="btn btn-danger btn-small" id="clearAllBtn">Slett alt</button>
+        <input type="file" id="importFile" accept="application/json" style="display:none;">
+      </div>
+    </div>
+    <div class="section-body" style="padding:0;">
+      <div class="table-wrap">
+        <table id="ucTable">
+          <thead>
+            <tr>
+              <th>Navn / område</th>
+              <th>Verdi</th>
+              <th>Real.</th>
+              <th>Gjenbr.</th>
+              <th>Total</th>
+              <th>Horisont</th>
+              <th style="text-align:right;">Handling</th>
+            </tr>
+          </thead>
+          <tbody id="ucTbody"></tbody>
+        </table>
+      </div>
+      <div id="emptyState" class="empty-state">Ingen use cases registrert ennå. Bruk skjemaet over — eller klikk «Last eksempeldata» for å komme i gang.</div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <span class="classification">C2 — Restricted use</span>
+    <span>Sporveien · Data- og AI-strategi · Levert av Sopra Steria</span>
+    <span id="lastSaved">Data lagres lokalt i nettleseren</span>
+  </div>
+  <div class="footer-gradient"></div>
+</footer>
+
+<script>
+// ============================================
+//  DATA & STORAGE
+// ============================================
+const STORAGE_KEY = 'sporveien-vrg-usecases-v1';
+const WEIGHTS = { value: 0.40, feasibility: 0.35, reuse: 0.25 };
+
+let useCases = [];
+let selectedId = null;
+let editingId = null;
+let matrixChart = null;
+let radarChart = null;
+
+function loadFromStorage() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (raw) useCases = JSON.parse(raw);
+  } catch (e) {
+    console.warn('Kunne ikke lese lagret data', e);
+    useCases = [];
+  }
+}
+
+function saveToStorage() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(useCases));
+  document.getElementById('lastSaved').textContent =
+    'Sist lagret: ' + new Date().toLocaleTimeString('nb-NO', {hour:'2-digit', minute:'2-digit'});
+}
+
+function genId() {
+  return 'uc_' + Date.now().toString(36) + Math.random().toString(36).slice(2,7);
+}
+
+function totalScore(uc) {
+  return (uc.value * WEIGHTS.value) + (uc.feasibility * WEIGHTS.feasibility) + (uc.reuse * WEIGHTS.reuse);
+}
+
+function horizonFor(feas) {
+  if (feas >= 4) return { key: 'kort', label: 'Kort sikt' };
+  if (feas >= 3) return { key: 'mellom', label: 'Mellomlang' };
+  return { key: 'lang', label: 'Lang sikt' };
+}
+
+// ============================================
+//  FORM HANDLING
+// ============================================
+function bindSliders() {
+  ['ucValue','ucFeas','ucReuse'].forEach(id => {
+    const el = document.getElementById(id);
+    const out = document.getElementById(id + 'Out');
+    el.addEventListener('input', () => out.textContent = el.value);
+  });
+}
+
+function resetForm() {
+  document.getElementById('useCaseForm').reset();
+  document.getElementById('ucId').value = '';
+  ['ucValue','ucFeas','ucReuse'].forEach(id => {
+    document.getElementById(id).value = 3;
+    document.getElementById(id + 'Out').textContent = '3';
+  });
+  editingId = null;
+  document.getElementById('formTitle').textContent = 'Legg til use case';
+  document.getElementById('submitBtn').textContent = 'Lagre use case';
+  document.getElementById('cancelEditBtn').style.display = 'none';
+}
+
+function loadIntoForm(uc) {
+  editingId = uc.id;
+  document.getElementById('ucId').value = uc.id;
+  document.getElementById('ucName').value = uc.name;
+  document.getElementById('ucArea').value = uc.area || '';
+  document.getElementById('ucDescription').value = uc.description || '';
+  document.getElementById('ucValue').value = uc.value;
+  document.getElementById('ucValueOut').textContent = uc.value;
+  document.getElementById('ucFeas').value = uc.feasibility;
+  document.getElementById('ucFeasOut').textContent = uc.feasibility;
+  document.getElementById('ucReuse').value = uc.reuse;
+  document.getElementById('ucReuseOut').textContent = uc.reuse;
+  document.getElementById('formTitle').textContent = 'Rediger use case';
+  document.getElementById('submitBtn').textContent = 'Oppdater use case';
+  document.getElementById('cancelEditBtn').style.display = 'inline-block';
+  window.scrollTo({ top: document.querySelector('#useCaseForm').getBoundingClientRect().top + window.scrollY - 80, behavior: 'smooth' });
+}
+
+document.getElementById('useCaseForm').addEventListener('submit', (e) => {
+  e.preventDefault();
+  const name = document.getElementById('ucName').value.trim();
+  if (!name) return;
+
+  const data = {
+    name,
+    area: document.getElementById('ucArea').value.trim(),
+    description: document.getElementById('ucDescription').value.trim(),
+    value: parseInt(document.getElementById('ucValue').value, 10),
+    feasibility: parseInt(document.getElementById('ucFeas').value, 10),
+    reuse: parseInt(document.getElementById('ucReuse').value, 10)
+  };
+
+  if (editingId) {
+    const idx = useCases.findIndex(u => u.id === editingId);
+    if (idx >= 0) useCases[idx] = { ...useCases[idx], ...data, updatedAt: Date.now() };
+  } else {
+    useCases.push({ id: genId(), createdAt: Date.now(), updatedAt: Date.now(), ...data });
+  }
+
+  saveToStorage();
+  resetForm();
+  render();
+});
+
+document.getElementById('resetFormBtn').addEventListener('click', resetForm);
+document.getElementById('cancelEditBtn').addEventListener('click', resetForm);
+
+// ============================================
+//  RENDER TABLE
+// ============================================
+function render() {
+  renderStats();
+  renderTable();
+  renderMatrix();
+  renderRadar();
+}
+
+function renderStats() {
+  const row = document.getElementById('statsRow');
+  const n = useCases.length;
+  const avg = n ? (useCases.reduce((s,u) => s + totalScore(u), 0) / n).toFixed(2) : '–';
+  const quickWins = useCases.filter(u => u.value >= 4 && u.feasibility >= 4).length;
+  const strategic = useCases.filter(u => u.value >= 4 && u.feasibility <= 3).length;
+  row.innerHTML = `
+    <div class="stat-card">
+      <div class="stat-label">Antall use cases</div>
+      <div class="stat-value">${n}</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Gjennomsnittlig score</div>
+      <div class="stat-value">${avg}</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Quick wins (V≥4, R≥4)</div>
+      <div class="stat-value">${quickWins}</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Strategiske satsinger</div>
+      <div class="stat-value">${strategic}</div>
+    </div>
+  `;
+}
+
+function renderTable() {
+  const tbody = document.getElementById('ucTbody');
+  const empty = document.getElementById('emptyState');
+  document.getElementById('ucCount').textContent = useCases.length;
+
+  if (useCases.length === 0) {
+    tbody.innerHTML = '';
+    empty.style.display = 'block';
+    return;
+  }
+  empty.style.display = 'none';
+
+  const sorted = [...useCases].sort((a,b) => totalScore(b) - totalScore(a));
+
+  tbody.innerHTML = sorted.map(uc => {
+    const t = totalScore(uc);
+    const h = horizonFor(uc.feasibility);
+    const sel = uc.id === selectedId ? ' class="selected"' : '';
+    return `<tr${sel} data-id="${uc.id}">
+      <td>
+        <div class="uc-name">${escapeHtml(uc.name)}</div>
+        <div class="uc-area">${escapeHtml(uc.area || '—')}</div>
+      </td>
+      <td><span class="score-badge verdi">${uc.value}</span></td>
+      <td><span class="score-badge realiserbarhet">${uc.feasibility}</span></td>
+      <td><span class="score-badge gjenbrukbarhet">${uc.reuse}</span></td>
+      <td><span class="score-badge total">${t.toFixed(2)}</span></td>
+      <td><span class="horizon-pill ${h.key}">${h.label}</span></td>
+      <td style="text-align:right; white-space:nowrap;">
+        <button type="button" class="btn btn-secondary btn-small" data-action="edit" data-id="${uc.id}">Rediger</button>
+        <button type="button" class="btn btn-danger btn-small" data-action="del" data-id="${uc.id}">Slett</button>
+      </td>
+    </tr>`;
+  }).join('');
+}
+
+document.getElementById('ucTbody').addEventListener('click', (e) => {
+  const btn = e.target.closest('button[data-action]');
+  if (btn) {
+    e.stopPropagation();
+    const id = btn.dataset.id;
+    const uc = useCases.find(u => u.id === id);
+    if (!uc) return;
+    if (btn.dataset.action === 'edit') {
+      loadIntoForm(uc);
+    } else if (btn.dataset.action === 'del') {
+      if (confirm(`Slette «${uc.name}»?`)) {
+        useCases = useCases.filter(u => u.id !== id);
+        if (selectedId === id) selectedId = null;
+        if (editingId === id) resetForm();
+        saveToStorage();
+        render();
+      }
+    }
+    return;
+  }
+  const tr = e.target.closest('tr[data-id]');
+  if (tr) {
+    selectedId = tr.dataset.id;
+    render();
+  }
+});
+
+// ============================================
+//  CHARTS
+// ============================================
+function renderMatrix() {
+  const ctx = document.getElementById('matrixChart').getContext('2d');
+  const data = useCases.map(uc => ({
+    x: uc.feasibility,
+    y: uc.value,
+    r: 6 + (uc.reuse * 4),
+    label: uc.name,
+    reuse: uc.reuse,
+    id: uc.id
+  }));
+
+  const colors = useCases.map(uc =>
+    uc.id === selectedId ? 'rgba(247, 104, 36, 0.85)' : 'rgba(76, 28, 134, 0.55)'
+  );
+  const borderColors = useCases.map(uc =>
+    uc.id === selectedId ? '#f76824' : '#4c1c86'
+  );
+
+  if (matrixChart) matrixChart.destroy();
+  matrixChart = new Chart(ctx, {
+    type: 'bubble',
+    data: {
+      datasets: [{
+        label: 'Use cases',
+        data,
+        backgroundColor: colors,
+        borderColor: borderColors,
+        borderWidth: 2
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      onClick: (evt, els) => {
+        if (els.length > 0) {
+          const idx = els[0].index;
+          selectedId = data[idx].id;
+          render();
+        }
+      },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            label: (c) => {
+              const d = c.raw;
+              return [
+                d.label,
+                `Verdi: ${d.y}  ·  Realiserbarhet: ${d.x}  ·  Gjenbruk: ${d.reuse}`
+              ];
+            }
+          },
+          backgroundColor: 'rgba(14,14,14,0.9)',
+          titleFont: { family: 'Tahoma', size: 12, weight: 'bold' },
+          bodyFont: { family: 'Tahoma', size: 11 }
+        },
+        annotation: false
+      },
+      scales: {
+        x: {
+          min: 0.5, max: 5.5,
+          title: { display: true, text: 'Realiserbarhet / tid →', font: { family: 'Tahoma', size: 12, weight: 'bold' }, color: '#4c1c86' },
+          ticks: { stepSize: 1, font: { family: 'Tahoma' } },
+          grid: { color: (ctx) => ctx.tick.value === 3 ? '#999' : '#eee', lineWidth: (ctx) => ctx.tick.value === 3 ? 2 : 1 }
+        },
+        y: {
+          min: 0.5, max: 5.5,
+          title: { display: true, text: 'Forretningsverdi →', font: { family: 'Tahoma', size: 12, weight: 'bold' }, color: '#4c1c86' },
+          ticks: { stepSize: 1, font: { family: 'Tahoma' } },
+          grid: { color: (ctx) => ctx.tick.value === 3 ? '#999' : '#eee', lineWidth: (ctx) => ctx.tick.value === 3 ? 2 : 1 }
+        }
+      }
+    },
+    plugins: [{
+      id: 'quadrantBg',
+      beforeDraw: (chart) => {
+        const { ctx, chartArea, scales } = chart;
+        if (!chartArea) return;
+        const xMid = scales.x.getPixelForValue(3);
+        const yMid = scales.y.getPixelForValue(3);
+        // Q1: high value, high feas (top-right) - green tint
+        ctx.fillStyle = 'rgba(29, 107, 58, 0.06)';
+        ctx.fillRect(xMid, chartArea.top, chartArea.right - xMid, yMid - chartArea.top);
+        // Q2: high value, low feas (top-left) - purple tint
+        ctx.fillStyle = 'rgba(76, 28, 134, 0.06)';
+        ctx.fillRect(chartArea.left, chartArea.top, xMid - chartArea.left, yMid - chartArea.top);
+        // Q3: low value, high feas (bottom-right) - orange tint
+        ctx.fillStyle = 'rgba(228, 122, 29, 0.06)';
+        ctx.fillRect(xMid, yMid, chartArea.right - xMid, chartArea.bottom - yMid);
+        // Q4: low value, low feas (bottom-left) - red tint
+        ctx.fillStyle = 'rgba(193, 32, 60, 0.06)';
+        ctx.fillRect(chartArea.left, yMid, xMid - chartArea.left, chartArea.bottom - yMid);
+
+        // Labels in corners
+        ctx.font = 'bold 10px Tahoma';
+        ctx.fillStyle = 'rgba(29, 107, 58, 0.6)';
+        ctx.textAlign = 'right';
+        ctx.fillText('QUICK WINS', chartArea.right - 8, chartArea.top + 14);
+        ctx.fillStyle = 'rgba(76, 28, 134, 0.6)';
+        ctx.textAlign = 'left';
+        ctx.fillText('STRATEGISKE SATSINGER', chartArea.left + 8, chartArea.top + 14);
+        ctx.fillStyle = 'rgba(228, 122, 29, 0.7)';
+        ctx.textAlign = 'right';
+        ctx.fillText('FYLLMASSE', chartArea.right - 8, chartArea.bottom - 8);
+        ctx.fillStyle = 'rgba(193, 32, 60, 0.7)';
+        ctx.textAlign = 'left';
+        ctx.fillText('UNNGÅ / UTSETT', chartArea.left + 8, chartArea.bottom - 8);
+      }
+    }, {
+      id: 'pointLabels',
+      afterDatasetsDraw: (chart) => {
+        const { ctx } = chart;
+        const meta = chart.getDatasetMeta(0);
+        meta.data.forEach((point, i) => {
+          const d = chart.data.datasets[0].data[i];
+          if (!d) return;
+          const label = d.label.length > 28 ? d.label.slice(0,26) + '…' : d.label;
+          ctx.font = '11px Tahoma';
+          ctx.fillStyle = '#0e0e0e';
+          ctx.textAlign = 'center';
+          ctx.fillText(label, point.x, point.y - point.options.radius - 6);
+        });
+      }
+    }]
+  });
+}
+
+function renderRadar() {
+  const ctx = document.getElementById('radarChart').getContext('2d');
+  const sub = document.getElementById('radarSubtitle');
+  const meta = document.getElementById('radarMeta');
+
+  const uc = useCases.find(u => u.id === selectedId);
+
+  if (radarChart) radarChart.destroy();
+
+  if (!uc) {
+    sub.textContent = 'Velg en use case i tabellen under for å se profil.';
+    meta.innerHTML = '';
+    radarChart = new Chart(ctx, {
+      type: 'radar',
+      data: {
+        labels: ['Forretningsverdi', 'Realiserbarhet / tid', 'Gjenbrukbarhet'],
+        datasets: [{
+          label: 'Ingen valgt',
+          data: [0, 0, 0],
+          backgroundColor: 'rgba(76, 28, 134, 0.05)',
+          borderColor: 'rgba(76, 28, 134, 0.2)',
+          borderWidth: 1
+        }]
+      },
+      options: radarOptions()
+    });
+    return;
+  }
+
+  sub.innerHTML = `<strong style="color:var(--brand-text-dark)">${escapeHtml(uc.name)}</strong>${uc.area ? ' · ' + escapeHtml(uc.area) : ''}`;
+  const h = horizonFor(uc.feasibility);
+  const t = totalScore(uc).toFixed(2);
+  meta.innerHTML = `
+    <div style="display:flex; gap:14px; flex-wrap:wrap; margin-bottom:8px;">
+      <span><strong>Totalscore:</strong> <span class="score-badge total">${t}</span></span>
+      <span><strong>Horisont:</strong> <span class="horizon-pill ${h.key}">${h.label}</span></span>
+    </div>
+    ${uc.description ? `<div style="color:var(--brand-text-muted); font-size:12px;">${escapeHtml(uc.description)}</div>` : ''}
+  `;
+
+  radarChart = new Chart(ctx, {
+    type: 'radar',
+    data: {
+      labels: ['Forretningsverdi', 'Realiserbarhet / tid', 'Gjenbrukbarhet'],
+      datasets: [{
+        label: uc.name,
+        data: [uc.value, uc.feasibility, uc.reuse],
+        backgroundColor: 'rgba(76, 28, 134, 0.20)',
+        borderColor: '#4c1c86',
+        borderWidth: 2,
+        pointBackgroundColor: ['#4c1c86', '#e47a1d', '#c1203c'],
+        pointBorderColor: '#fff',
+        pointBorderWidth: 2,
+        pointRadius: 6
+      }]
+    },
+    options: radarOptions()
+  });
+}
+
+function radarOptions() {
+  return {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        backgroundColor: 'rgba(14,14,14,0.9)',
+        bodyFont: { family: 'Tahoma', size: 11 }
+      }
+    },
+    scales: {
+      r: {
+        min: 0,
+        max: 5,
+        ticks: { stepSize: 1, font: { family: 'Tahoma', size: 10 }, color: '#666', backdropColor: 'transparent' },
+        pointLabels: { font: { family: 'Tahoma', size: 12, weight: 'bold' }, color: '#4c1c86' },
+        grid: { color: '#e5e5e5' },
+        angleLines: { color: '#e5e5e5' }
+      }
+    }
+  };
+}
+
+// ============================================
+//  UTILITIES
+// ============================================
+function escapeHtml(s) {
+  if (s == null) return '';
+  return String(s).replace(/[&<>"']/g, c => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[c]));
+}
+
+// ============================================
+//  IMPORT / EXPORT / SAMPLE / CLEAR
+// ============================================
+document.getElementById('exportBtn').addEventListener('click', () => {
+  const blob = new Blob([JSON.stringify(useCases, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `sporveien-use-cases-${new Date().toISOString().slice(0,10)}.json`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+});
+
+document.getElementById('importBtn').addEventListener('click', () => {
+  document.getElementById('importFile').click();
+});
+
+document.getElementById('importFile').addEventListener('change', (e) => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = (ev) => {
+    try {
+      const data = JSON.parse(ev.target.result);
+      if (!Array.isArray(data)) throw new Error('Forventet en JSON-liste');
+      const valid = data.filter(d => d && typeof d.name === 'string').map(d => ({
+        id: d.id || genId(),
+        name: d.name,
+        area: d.area || '',
+        description: d.description || '',
+        value: clamp(parseInt(d.value, 10) || 3, 1, 5),
+        feasibility: clamp(parseInt(d.feasibility, 10) || 3, 1, 5),
+        reuse: clamp(parseInt(d.reuse, 10) || 3, 1, 5),
+        createdAt: d.createdAt || Date.now(),
+        updatedAt: Date.now()
+      }));
+      if (confirm(`Importere ${valid.length} use case(s)? Erstatter eksisterende data.`)) {
+        useCases = valid;
+        saveToStorage();
+        render();
+      }
+    } catch (err) {
+      alert('Klarte ikke å lese filen: ' + err.message);
+    }
+    e.target.value = '';
+  };
+  reader.readAsText(file);
+});
+
+function clamp(n, min, max) { return Math.max(min, Math.min(max, n)); }
+
+document.getElementById('sampleBtn').addEventListener('click', () => {
+  if (useCases.length > 0 && !confirm('Erstatte eksisterende data med eksempeldata?')) return;
+  useCases = sampleData();
+  saveToStorage();
+  render();
+});
+
+document.getElementById('clearAllBtn').addEventListener('click', () => {
+  if (useCases.length === 0) return;
+  if (confirm('Slette ALLE use cases? Dette kan ikke angres.')) {
+    useCases = [];
+    selectedId = null;
+    resetForm();
+    saveToStorage();
+    render();
+  }
+});
+
+function sampleData() {
+  const now = Date.now();
+  return [
+    { id: genId(), name: 'Prediktivt vedlikehold T-banespor', area: 'Infrastruktur T-bane',
+      description: 'Bruke sensordata og ML for å forutse skinneslitasje og redusere uplanlagt nedetid.',
+      value: 5, feasibility: 3, reuse: 4, createdAt: now, updatedAt: now },
+    { id: genId(), name: 'AI-assistert kundeservice (chatbot)', area: 'Kundeservice',
+      description: 'Selvbetjent svar på vanlige kundehenvendelser om billetter, ruter og forsinkelser.',
+      value: 4, feasibility: 5, reuse: 3, createdAt: now, updatedAt: now },
+    { id: genId(), name: 'Sanntids passasjerflyt-prognose', area: 'Trafikkstyring',
+      description: 'Prognoser for trengsel på linjer og stasjoner basert på billett- og sensordata.',
+      value: 4, feasibility: 3, reuse: 5, createdAt: now, updatedAt: now },
+    { id: genId(), name: 'Energioptimalisering trikkenett', area: 'Drift & miljø',
+      description: 'Redusere energiforbruk ved smartere kjøreprofiler og lastbalansering.',
+      value: 4, feasibility: 2, reuse: 3, createdAt: now, updatedAt: now },
+    { id: genId(), name: 'Automatisert avviksrapportering HMS', area: 'HMS',
+      description: 'NLP-basert kategorisering og oppsummering av HMS-rapporter for raskere oppfølging.',
+      value: 3, feasibility: 4, reuse: 4, createdAt: now, updatedAt: now },
+    { id: genId(), name: 'Dynamisk vognkapasitet-planlegging', area: 'Vognleder',
+      description: 'Optimere vognsammensetning per avgang basert på prognostisert etterspørsel.',
+      value: 5, feasibility: 2, reuse: 3, createdAt: now, updatedAt: now },
+    { id: genId(), name: 'GenAI for intern dokumentsøk', area: 'IT / kunnskap',
+      description: 'Semantisk søk i prosedyrer, tekniske manualer og styrende dokumenter.',
+      value: 3, feasibility: 5, reuse: 5, createdAt: now, updatedAt: now },
+    { id: genId(), name: 'Billettsvindel-deteksjon', area: 'Inntekt',
+      description: 'Mønstergjenkjenning for å identifisere misbruk av billett- og rabattordninger.',
+      value: 2, feasibility: 4, reuse: 2, createdAt: now, updatedAt: now }
+  ];
+}
+
+// ============================================
+//  INIT
+// ============================================
+bindSliders();
+loadFromStorage();
+render();
+</script>
+</body>
+</html>
