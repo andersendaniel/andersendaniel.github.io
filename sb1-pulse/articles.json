@@ -1,7 +1,66 @@
 {
-  "generated": "2026-05-27T08:36:48.476383+00:00",
+  "generated": "2026-05-27T14:24:25.474438+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Announcing Lakebase Change Data Feed (CDF)",
+      "summary": "Moving data from your operational database has traditionally meant setting up and...",
+      "url": "https://www.databricks.com/blog/announcing-lakebase-change-data-feed-cdf",
+      "date": "2026-05-27T13:11:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Autonomous Enterprise: Better Decisions in Motion",
+      "summary": "How do you move fast enough to capture opportunity without putting fulfillment, margin, or customer trust at risk?",
+      "url": "https://news.sap.com/2026/05/autonomous-enterprise-better-decisions-in-motion/",
+      "date": "2026-05-27T10:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 16,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Building self-improving tax agents with Codex",
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "date": "2026-05-27T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Building a FHIR-native health data platform on Databricks Lakebase",
+      "summary": "Healthcare data lives in dozens of systems, EHRs, claims, labs, pharmacy, SDoH, each...",
+      "url": "https://www.databricks.com/blog/building-fhir-native-health-data-platform-databricks-lakebase",
+      "date": "2026-05-27T01:14:56+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 7,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 X8i instances are now available in additional regions",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the Asia Pacific (Singapore), Asia Pacific (Sydney) and AWS GovCloud (US-West) regions. These instances are powered by custom Intel Xeon 6 processors available only on AWS. X8i instances are SAP-certified and deliver the highest performance and fastest memory bandwidth among comparable Intel processors in the ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-SIN-SYD-PDT-region/",
+      "date": "2026-05-26T21:58:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
       "summary": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark results published by Phoronix today show that the NVIDIA Vera CPU meets this need. For this first public look, the benchmark scope […]",
@@ -450,33 +509,6 @@
       "image": null
     },
     {
-      "title": "AWS Secrets Manager adds managed external secrets support for Datadog vended keys and Snowflake Programmatic Access Tokens",
-      "summary": "AWS Secrets Manager now extends its managed external secrets capability to include Datadog Keys and Snowflake Programmatic Access Tokens (PATs). Managed external secrets enable customers to automatically rotate third-party credentials directly from AWS Secrets Manager by offering first-class integration with supported third-party services. With this launch, you can manage rotation for three types ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-managed-external-secrets-datadog-snowflake/",
-      "date": "2026-05-22T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "How security teams can report cyber risk to boards",
-      "summary": "USE CASECyber Risk Quantification & Executive Reporting IntelligenceCyber risk quantification...",
-      "url": "https://www.databricks.com/blog/how-security-teams-can-report-cyber-risk-boards",
-      "date": "2026-05-22T05:20:23+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "security",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "How Virgin Atlantic ships faster with Codex",
       "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "url": "https://openai.com/index/virgin-atlantic",
@@ -496,19 +528,6 @@
       "category": "openai",
       "relevance": 6,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AI Agents Are Shopping. Is Your Brand Getting Noticed?",
-      "summary": "Agents and LLMs are revolutionizing the shopping experience. Try these 3 tips to help your brand stay on AI's radar.",
-      "url": "https://www.salesforce.com/blog/tips-to-win-agentic-commerce/",
-      "date": "2026-05-21T20:53:25+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 25,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -550,17 +569,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Transforming industries with conversational AI: Partner solutions built on Databricks Genie",
-      "summary": "In the era of data intelligence, the value of information is only as good as its...",
-      "url": "https://www.databricks.com/blog/transforming-industries-conversational-ai-partner-solutions-built-databricks-genie",
-      "date": "2026-05-21T14:25:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -1103,13 +1111,13 @@
       "image": null
     },
     {
-      "title": "How sales teams use Codex",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "title": "How data science teams use Codex",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "date": "2026-05-15T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 1,
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1133,19 +1141,6 @@
       "category": "openai",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "url": "https://openai.com/index/databricks",
-      "date": "2026-05-15T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 23,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -1237,17 +1232,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Why AI Raises the Stakes for Customer Experience",
-      "summary": "Autonomous CX makes it possible to understand customers, respond faster, and earn loyalty over time.",
-      "url": "https://news.sap.com/2026/05/autonomous-cx-why-ai-raises-stakes-for-customer-experience/",
-      "date": "2026-05-14T06:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1853,17 +1837,6 @@
         "ai"
       ],
       "image": null
-    },
-    {
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "summary": "A web next to a laptop",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "date": "2026-04-27T13:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 13,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp"
     }
   ]
 }
