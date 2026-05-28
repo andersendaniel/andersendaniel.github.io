@@ -1,7 +1,187 @@
 {
-  "generated": "2026-05-28T14:34:56.291865+00:00",
+  "generated": "2026-05-28T19:33:58.903965+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How enterprise leaders are scaling AI agents across their organization",
+      "summary": "Dee Fitzgerald (CDO, Danone), Prem Natarajan (EVP, Chief Scientist, Capital One),...",
+      "url": "https://www.databricks.com/blog/how-enterprise-leaders-are-scaling-ai-agents-across-their-organization",
+      "date": "2026-05-28T19:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 19,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey",
+      "summary": "AWS launches the next generation of AWS Resilience Hub with a significantly expanded experience that brings together a new application model, dependency discovery assessment, generative AI-powered failure mode analysis, modular resilience policies, and organization-wide reporting.",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/",
+      "date": "2026-05-28T19:29:55+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications",
+      "summary": "AWS rebuilt Amazon OpenSearch Serverless from the ground up for agentic AI and dynamic workloads. Get instant autoscaling and up to 60% cost savings.",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/",
+      "date": "2026-05-28T18:26:16+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 17,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
+      "summary": "The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen. The post Still a developer. Just outside. Our latest GitHub Shop collection is here. appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
+      "date": "2026-05-28T18:18:43+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Can Language Models Remember What They Learn?",
+      "summary": "Post-training methods (RLVR, On-policy distillation) are Episode-local Language models are getting better at learning from feedback during post-training. In reinforcement learning with verifiable rewards (RLVR), a model tries a problem, a verifier checks…",
+      "url": "https://www.salesforce.com/blog/procedural-memory-distillation/",
+      "date": "2026-05-28T17:21:17+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Announcing Claude Opus 4.8 on Snowflake Cortex AI",
+      "summary": "Claude Opus 4.8 is now available on Snowflake Cortex AI, bringing advanced reasoning and agentic capabilities with Snowflake’s secure governed AI platform",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-opus-4-8-snowflake-cortex-ai",
+      "date": "2026-05-28T17:16:35+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Beyond the Vibe in Financial Services Series",
+      "summary": "Part 1 of 3: The Vibe Coding Trap and the Regulatory Reality",
+      "url": "https://www.salesforce.com/blog/beyond-the-vibe-in-financial-services-series-part-1/",
+      "date": "2026-05-28T17:06:34+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 12,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Retail Predictive Analytics for Like-for-Like Growth",
+      "summary": "Explore how retail and consumer goods leaders use AI, store intelligence and supply chain analytics to drive like-for-like growth in 2026.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/retail-like-for-like-growth-ai-data-trends-2026",
+      "date": "2026-05-28T16:00:18+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Organizations emits CloudTrail events for account membership changes",
+      "summary": "AWS Organizations now automatically emits CloudTrail events to your management account whenever accounts join or leave your organization. These new events—AccountJoinedOrganization and AccountDepartedOrganization—provide security teams and cloud administrators with enhanced visibility into organizational membership changes, helping detect unauthorized activities and potential security incidents th",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail/",
+      "date": "2026-05-28T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Connect Customer expands generative AI-powered post-contact summaries to eight new languages",
+      "summary": "Amazon Connect Customer now supports generative AI-powered post-contact summaries in eight additional language families: Portuguese, French, Italian, German, Spanish, Chinese, Japanese, and Korean. Post-contact summaries also now support non-US variations of English, including British English, Australian English, and other regional locales, ensuring summaries reflect locally appropriate spelling a",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-summary-languages/",
+      "date": "2026-05-28T15:21:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Claude Opus 4.8 is now available on AWS",
+      "summary": "AWS now offers Claude Opus 4.8 -- Anthropic's most capable generally available model to date -- delivering meaningful advances across agentic coding, professional knowledge work, and long-running autonomous tasks for developers and enterprises building production AI applications. Claude Opus 4.8 can perform longer autonomous runs, deeper reasoning, and consistency to be trusted with production wor",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws/",
+      "date": "2026-05-28T15:16:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "DynamoDB Streams now supports AWS PrivateLink for FIPS endpoints in AWS GovCloud (US) Regions",
+      "summary": "Amazon DynamoDB Streams now supports AWS PrivateLink for FIPS (Federal Information Processing Standard) endpoints in AWS GovCloud (US) Regions. DynamoDB Streams captures time-ordered sequences of item-level modifications in DynamoDB tables, enabling real-time data processing and event-driven architectures. This enhancement allows government agencies and organizations with federal compliance requir",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-dynamodb-streams-privatelink-fips-govcloud/",
+      "date": "2026-05-28T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "date": "2026-05-28T15:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "How We Used Cortex Code to Turn Finance Variance Analysis into a Live, Intelligent Workflow",
+      "summary": "How Cortex Code turned finance variance analysis into a live workflow See how FP&A replaced a fragile budget vs. actual workbook with a governed Snowflake app that updates during close, accelerates commentary, and reduces manual rebuilds.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/finance-variance-analysis-workflow",
+      "date": "2026-05-28T15:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Build a Semantic Layer Your AI Agents Can Reason Over",
+      "summary": "Learn how to use Salesforce Data 360 to build a governed semantic foundation that humans and agents can both rely on.",
+      "url": "https://www.salesforce.com/blog/semantic-layer-ai-agents-data-360/",
+      "date": "2026-05-28T14:54:14+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Forging a Future-Ready Government: Charlottesville’s Digital Transformation",
       "summary": "Instead of just managing the present, the City of Charlottesville decided to build the future.",
@@ -47,6 +227,17 @@
       "image": null
     },
     {
+      "title": "OpenAI’s Frontier Governance Framework",
+      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "date": "2026-05-28T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances",
       "summary": "We are pleased to announce general availability of Amazon EC2 P6-B200 instances in AWS US East (N. Virginia) on SageMaker notebook instances. Amazon EC2 P6-B200 instances are powered by 8 NVIDIA Blackwell GPUs with 1440 GB of high-bandwidth GPU memory and 5th Generation Intel Xeon processors (Emerald Rapids). These instances deliver up to 2x better performance compared to P5en instances for AI tra",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances/",
@@ -57,6 +248,28 @@
       "tags": [
         "automation"
       ],
+      "image": null
+    },
+    {
+      "title": "Announcing Region Expansion of P5.48xl instances on SageMaker Notebook Instances",
+      "summary": "We are pleased to announce general availability of Amazon EC2 P5.48xl instances in Asia Pacific (Tokyo) on SageMaker notebook instances. Amazon EC2 P5.48xl instances are powered by NVIDIA H100 Tensor Core GPUs and deliver high performance in Amazon EC2 for deep learning (DL) and high performance computing (HPC) applications. They help you accelerate your time to solution by up to 4x compared to pr",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/p5-48xl-region-expansion-sagemaker-notebook-instances/",
+      "date": "2026-05-27T23:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Announcing Region Expansion of P4de instances on SageMaker Notebook Instances",
+      "summary": "We are pleased to announce general availability of Amazon EC2 P4de instances in Asia Pacific (Tokyo) on SageMaker notebook instances. Amazon EC2 P4de instances are powered by 8 NVIDIA A100 GPUs with 80GB high-performance HBM2e GPU memory, 2X higher than the GPUs in our current P4d instances. The new P4de instances provide a total of 640GB of GPU memory, which provide up to 60% better ML training p",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/p4de-region-expansion-sagemaker-notebook-instances/",
+      "date": "2026-05-27T23:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -86,13 +299,13 @@
       "image": null
     },
     {
-      "title": "SageMaker Notebook Instances now support P5.4xl instance types",
-      "summary": "We are pleased to announce general availability of Amazon EC2 P5.4xl instances on SageMaker notebook instances. Amazon EC2 P5.4xl instances are powered by NVIDIA H100 Tensor Core GPUs and deliver high performance in Amazon EC2 for deep learning (DL) and high performance computing (HPC) applications. They help you accelerate your time to solution by up to 4x compared to previous-generation GPU-base",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/p5-4xl-new-instance-launch-sagemaker-notebook-instances/",
-      "date": "2026-05-27T20:30:00+00:00",
+      "title": "AWS Elemental Inference now supports Smart Subtitles for automated live captioning",
+      "summary": "AWS Elemental Inference now supports smart subtitles, a new AI-powered feature that automatically generates real-time subtitles for live video streams. Smart subtitles use advanced speech recognition to transcribe spoken audio and deliver Timed Text Markup Language (TTML)-formatted subtitles with low latency, helping broadcasters and streamers provide accessible content to viewers without manual c",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/elemental-inference-subtitles",
+      "date": "2026-05-27T21:00:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
-      "relevance": 5,
+      "relevance": 6,
       "tags": [],
       "image": null
     },
@@ -104,6 +317,17 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "SageMaker Notebook Instances now support P5.4xl instance types",
+      "summary": "We are pleased to announce general availability of Amazon EC2 P5.4xl instances on SageMaker notebook instances. Amazon EC2 P5.4xl instances are powered by NVIDIA H100 Tensor Core GPUs and deliver high performance in Amazon EC2 for deep learning (DL) and high performance computing (HPC) applications. They help you accelerate your time to solution by up to 4x compared to previous-generation GPU-base",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/p5-4xl-new-instance-launch-sagemaker-notebook-instances/",
+      "date": "2026-05-27T20:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -246,28 +470,6 @@
       "image": null
     },
     {
-      "title": "Amazon SageMaker HyperPod Slurm clusters now support specifying minimum capacity requirements with continuous provisioning",
-      "summary": "Amazon SageMaker HyperPod now supports minimum capacity requirements (MinCount) for clusters using Slurm orchestration with continuous provisioning. With continuous provisioning , HyperPod provisions clusters with available partial capacity so you can start your AI/ML jobs quickly, while continuing to provision remaining instances asynchronously in the background. While this provides flexibility, ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-mincount/",
-      "date": "2026-05-27T15:06:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Aurora MySQL now supports integration with Kiro Powers",
-      "summary": "Today, AWS announces that Amazon Aurora MySQL-Compatible Edition now supports integration with Kiro Powers , enabling developers to build Aurora MySQL-backed applications faster with AI agent assistance. Kiro Powers is a repository of curated and pre-packaged Model Context Protocol (MCP) servers, steering files, and hooks that have been validated by Kiro partners to accelerate specialized software",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-mysql-kiro-powers/",
-      "date": "2026-05-27T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 16,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Announcing Lakebase Change Data Feed (CDF)",
       "summary": "Moving data from your operational database has traditionally meant setting up and...",
       "url": "https://www.databricks.com/blog/announcing-lakebase-change-data-feed-cdf",
@@ -299,17 +501,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 16,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Backup adds OTP verification for Multi-party approval on logically air-gapped vaults",
-      "summary": "AWS Backup now requires one-time password (OTP) verification when approvers vote on Multi-party approval actions for logically air-gapped vaults. When an approver votes on an Multi-party approval request, they must enter a six-digit code sent to their registered email address in AWS IAM Identity Center. This ensures that only verified approvers can authorize protected vault operations, adding an a",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-backup-otp-multi-party-approval-lag/",
-      "date": "2026-05-27T10:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -361,19 +552,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 X8i instances are now available in additional regions",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the Asia Pacific (Singapore), Asia Pacific (Sydney) and AWS GovCloud (US-West) regions. These instances are powered by custom Intel Xeon 6 processors available only on AWS. X8i instances are SAP-certified and deliver the highest performance and fastest memory bandwidth among comparable Intel processors in the ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-SIN-SYD-PDT-region/",
-      "date": "2026-05-26T21:58:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
       "summary": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark results published by Phoronix today show that the NVIDIA Vera CPU meets this need. For this first public look, the benchmark scope […]",
       "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
@@ -395,19 +573,6 @@
       "category": "databricks",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS now supports ENA Express for Multi-AZ replication",
-      "summary": "Amazon RDS Multi-AZ instances now use ENA Express for replication traffic between Availability Zones. ENA Express uses AWS's Scalable Reliable Datagram (SRD) protocol to optimize network performance by delivering up to 25 Gbps single-flow bandwidth for cross-AZ replication traffic leveraging advanced congestion control and multi-pathing capabilities, and reducing latency variability for Multi-AZ d",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ/",
-      "date": "2026-05-26T19:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -435,17 +600,6 @@
       "image": null
     },
     {
-      "title": "Introducing the Data 360 MCP Server — Your Unified Data, Ready for Any Agent",
-      "summary": "Turn all your Data into Context Every Agent Can Put to Work. Today, Salesforce is announcing that the Data 360 MCP Server is now available in Developer Preview — a significant step forward…",
-      "url": "https://www.salesforce.com/blog/introducing-the-data-360-mcp-server-your-unified-data-ready-for-any-agent/",
-      "date": "2026-05-26T17:47:38+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The Next Era of Business AI",
       "summary": "Without context, AI cannot deliver on its promise.",
       "url": "https://news.sap.com/2026/05/the-next-era-of-business-ai/",
@@ -464,56 +618,6 @@
       "source": "Meta Engineering",
       "category": "meta",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region",
-      "summary": "Starting today, Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The M8i and M8i-flex instances offer up to 15% better price-performance, and 2.5x more memory ba",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east/",
-      "date": "2026-05-26T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud (US-East) Region",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the AWS GovCloud (US-East) Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The R8i and R8i-flex instances offer up to 15% better price-perfo",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-r8i-r8i-flex-govcloud-east/",
-      "date": "2026-05-26T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Ending the “easy vs. enterprise” compromise with Storefront Next for B2C Commerce",
-      "summary": "As businesses rush to adopt agentic commerce, development teams are typically up against one of two predicaments. Some struggle with commerce platforms they have outgrown. What was once an ‘easy’, lightweight solution has…",
-      "url": "https://www.salesforce.com/blog/storefront-next/",
-      "date": "2026-05-26T14:50:25+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 6,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon VPC IPAM now supports tags on IPAM pool allocations",
-      "summary": "Amazon VPC IP Address Manager (IPAM) now supports tags on IPAM pool allocations, enabling customers to organize, govern, and control access to individual IP address allocations using the same tagging workflows they use across other AWS resources. Amazon VPC IP Address Manager (IPAM) helps customers plan, track, and monitor IP addresses across their AWS environments. With this launch, customers can",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-ipam-tags/",
-      "date": "2026-05-26T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
       "tags": [],
       "image": null
     },
@@ -597,17 +701,6 @@
       "image": null
     },
     {
-      "title": "Accelerating LLM Inference with Prompt Caching for Open‑Source Models on Databricks",
-      "summary": "Why Prompt Caching MattersLarge language model (LLM) inference often involves repeated...",
-      "url": "https://www.databricks.com/blog/accelerating-llm-inference-prompt-caching-open-source-models-databricks",
-      "date": "2026-05-22T20:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 27,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
       "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
@@ -671,17 +764,6 @@
       "image": null
     },
     {
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "date": "2026-05-22T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -689,6 +771,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "date": "2026-05-22T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -848,13 +941,13 @@
       "image": null
     },
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "date": "2026-05-20T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 2,
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -870,13 +963,13 @@
       "image": null
     },
     {
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "date": "2026-05-20T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 1,
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1204,17 +1297,6 @@
       "image": "https://lh3.googleusercontent.com/iLgzjfK9faS-SQePs9fq0zjKGOVGpcyS0J0wQ3SS7llJjJhzz214LUtuy82bJIjweaMRiRWcLMDhPxdP1Z2VitCvWEQyMpY8xLFekP2RG255e2td=w528-h297-n-nu-rw-lo"
     },
     {
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "date": "2026-05-16T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Gemini 3.5: frontier intelligence with action",
       "summary": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
       "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
@@ -1304,19 +1386,6 @@
       "relevance": 9,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Enabling Autonomous Spend Management with AI and Connected Processes",
-      "summary": "AI and unified workflows fundamentally change decision-making across the spend life cycle.",
-      "url": "https://news.sap.com/2026/05/enabling-autonomous-spend-management-ai-connected-processes/",
-      "date": "2026-05-14T16:00:15+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 5,
-      "tags": [
-        "automation"
       ],
       "image": null
     },
@@ -1549,17 +1618,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp"
     },
     {
-      "title": "SAP and Snowflake Unleash a New Era of Enterprise AI with Zero-Copy Integration",
-      "summary": "Snowflake announces the next milestone in the groundbreaking partnership with SAP with the general availability of their joint offerings.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/sap-snowflake-zero-copy-integration-enterprise-ai",
-      "date": "2026-05-11T12:55:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The new AI-powered Google Finance is expanding to Europe.",
       "summary": "A screenshot of the AI-powered experience on Google Finance.",
       "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
@@ -1591,19 +1649,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Snowflake Startup Spotlight: TestGorilla",
-      "summary": "Learn how TestGorilla aims to help recruiters find job candidates and candidates showcase their skills with a combination of research, data and AI at scale.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-spotlight-testgorilla",
-      "date": "2026-05-07T19:17:40+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
     },
     {
       "title": "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission",
@@ -1639,20 +1684,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Snowflake and Veeva Unlock Agentic AI in Life Sciences",
-      "summary": "See how Snowflake and Veeva connect Vault data to power secure analytics, agentic AI, and cross-functional insights across life sciences.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-veeva-agentic-ai-life-sciences",
-      "date": "2026-05-06T16:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 18,
-      "tags": [
-        "ai",
-        "data"
-      ],
-      "image": null
     },
     {
       "title": "The AWS MCP Server is now generally available",
@@ -1847,31 +1878,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://lh3.googleusercontent.com/z2sN_eil5tgap-Ji1W_4l1xnbfLRghzxdXzyCMdnKFVW1xTfgm0o8bpg9pNwE4RcHTR2QGEGhGx7LFn7Q6bg-LEPBW20d4Djo3Erii8PBYYrWz36=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Top announcements of the What’s Next with AWS, 2026",
-      "summary": "At the \"What's Next with AWS\" 2026 event, AWS launched Amazon Quick—an AI assistant for work with a desktop app and expanded integrations—and expanded Amazon Connect into four agentic AI solutions for supply chain, hiring, customer experience, and healthcare. AWS also expended its partnership with OpenAI, bringing models like GPT-5.5, Codex, and Managed Agents to Amazon Bedrock in limited preview.",
-      "url": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-whats-next-with-aws-2026/",
-      "date": "2026-04-28T18:11:39+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 39,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-      "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
-      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-      "date": "2026-04-28T16:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
     }
   ]
 }
