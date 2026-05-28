@@ -1,7 +1,46 @@
 {
-  "generated": "2026-05-27T23:57:28.970003+00:00",
+  "generated": "2026-05-28T08:39:36.596199+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances",
+      "summary": "We are pleased to announce general availability of Amazon EC2 P6-B200 instances in AWS US East (N. Virginia) on SageMaker notebook instances. Amazon EC2 P6-B200 instances are powered by 8 NVIDIA Blackwell GPUs with 1440 GB of high-bandwidth GPU memory and 5th Generation Intel Xeon processors (Emerald Rapids). These instances deliver up to 2x better performance compared to P5en instances for AI tra",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances/",
+      "date": "2026-05-27T23:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Snowflake Completes IRAP Protected Assessment on Google Cloud Platform",
+      "summary": "Snowflake has completed an InfoSec Registered Assessors Program (IRAP) assessment for its deployment in the Google Cloud Platform (GCP) Melbourne region to align with the Australian Government’s Protected level control requirements.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/irap-protected-google-cloud",
+      "date": "2026-05-27T22:21:01+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock expands support for Service Quotas",
+      "summary": "Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Amazon Bedrock customers can now view inference quotas for the bedrock-mantle endpoint through AWS Service Quotas. This gives customers a familiar, consistent way to track limits for this ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/5/amazon-bedrock-service-quotas/",
+      "date": "2026-05-27T21:41:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 43,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
     {
       "title": "SageMaker Notebook Instances now support P5.4xl instance types",
       "summary": "We are pleased to announce general availability of Amazon EC2 P5.4xl instances on SageMaker notebook instances. Amazon EC2 P5.4xl instances are powered by NVIDIA H100 Tensor Core GPUs and deliver high performance in Amazon EC2 for deep learning (DL) and high performance computing (HPC) applications. They help you accelerate your time to solution by up to 4x compared to previous-generation GPU-base",
@@ -174,6 +213,17 @@
       "image": null
     },
     {
+      "title": "Amazon Aurora MySQL now supports integration with Kiro Powers",
+      "summary": "Today, AWS announces that Amazon Aurora MySQL-Compatible Edition now supports integration with Kiro Powers , enabling developers to build Aurora MySQL-backed applications faster with AI agent assistance. Kiro Powers is a repository of curated and pre-packaged Model Context Protocol (MCP) servers, steering files, and hooks that have been validated by Kiro partners to accelerate specialized software",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-mysql-kiro-powers/",
+      "date": "2026-05-27T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 16,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Announcing Lakebase Change Data Feed (CDF)",
       "summary": "Moving data from your operational database has traditionally meant setting up and...",
       "url": "https://www.databricks.com/blog/announcing-lakebase-change-data-feed-cdf",
@@ -242,6 +292,17 @@
       "image": null
     },
     {
+      "title": "Election information and safeguards in 2026",
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "date": "2026-05-27T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "url": "https://openai.com/index/warp",
@@ -253,17 +314,6 @@
         "ai",
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "Election information and safeguards in 2026",
-      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "date": "2026-05-27T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -374,9 +424,9 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud (US-East) Region",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the AWS GovCloud (US-East) Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The R8i and R8i-flex instances offer up to 15% better price-perfo",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-r8i-r8i-flex-govcloud-east/",
+      "title": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region",
+      "summary": "Starting today, Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The M8i and M8i-flex instances offer up to 15% better price-performance, and 2.5x more memory ba",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east/",
       "date": "2026-05-26T16:00:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
@@ -387,9 +437,9 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region",
-      "summary": "Starting today, Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The M8i and M8i-flex instances offer up to 15% better price-performance, and 2.5x more memory ba",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east/",
+      "title": "Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud (US-East) Region",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the AWS GovCloud (US-East) Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The R8i and R8i-flex instances offer up to 15% better price-perfo",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-r8i-r8i-flex-govcloud-east/",
       "date": "2026-05-26T16:00:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
@@ -430,17 +480,6 @@
       "date": "2026-05-26T11:15:00+00:00",
       "source": "SAP News",
       "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon GuardDuty Malware Protection for AWS Backup supports Amazon S3 continuous backups",
-      "summary": "Amazon GuardDuty Malware Protection for AWS Backup is now available for Amazon S3 continuous backups. You can now scan your S3 continuous backups for malware and identify clean points in time across your entire backup timeline for safe recovery. You can enable full or incremental malware scans for S3 continuous backups within your backup plan, and run on-demand scans up to any restorable point in ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-guardduty-aws-backup-s3-continuous/",
-      "date": "2026-05-26T10:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -514,17 +553,6 @@
       "image": null
     },
     {
-      "title": "Amazon SageMaker Unified Studio adds interactive interface for managing Feature Store in IAM Domains",
-      "summary": "Amazon SageMaker Unified Studio IAM domains now includes an interactive interface for creating and managing feature groups in SageMaker Feature Store, eliminating the need to write code for common feature management tasks. This launch makes feature management accessible to data scientists, ML engineers, and business analysts from a single collaborative environment. Features are the inputs to ML mo",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-feature-store/",
-      "date": "2026-05-22T20:07:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Accelerating LLM Inference with Prompt Caching for Open‑Source Models on Databricks",
       "summary": "Why Prompt Caching MattersLarge language model (LLM) inference often involves repeated...",
       "url": "https://www.databricks.com/blog/accelerating-llm-inference-prompt-caching-open-source-models-databricks",
@@ -532,17 +560,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 27,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker expands domain management across domain types",
-      "summary": "Amazon SageMaker Unified Studio now provides domain management experience for Identity Center and IAM-based domains outside of AWS console, allows administrators and data management teams to create and manage projects, configure workforce identity, manage users and permissions, and set networking properties for projects. Previously, this was only available for IAM based domains. With this launch, ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/",
-      "date": "2026-05-22T19:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
       "tags": [],
       "image": null
     },
@@ -798,17 +815,6 @@
       "image": null
     },
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "date": "2026-05-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The next phase of OpenAI’s Education for Countries",
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -816,6 +822,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "date": "2026-05-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1675,17 +1692,6 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/UNlyTVoqkmAoTzbbF4QRoPXr-X-QBkXeVpcHxIjte0y5mn_f6ZYHVsynQswOhGLJx-7hnbwt1NcTOQDQoCbum3-l8wPPP5dC6kw0tGmBQAw60nEHog=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "AI Transformation and Governance Inside Snowflake’s Ecosystem",
-      "summary": "Explore how Snowflake is approaching AI transformation as a governance challenge, using its partner ecosystem to deliver faster enterprise outcomes.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/inside-the-boardroom-ecosystem-operating-system",
-      "date": "2026-05-05T20:07:16+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 5,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)",
