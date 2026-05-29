@@ -1,7 +1,122 @@
 {
-  "generated": "2026-05-29T13:55:46.711908+00:00",
+  "generated": "2026-05-29T19:30:19.887124+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "date": "2026-05-29T19:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Design Headless AI Experiences on Salesforce",
+      "summary": "Learn a composition framework that helps you match the right AI experience to the right user, without leaving your platform's governance umbrella.",
+      "url": "https://www.salesforce.com/blog/design-headless-ai-experiences/",
+      "date": "2026-05-29T18:37:09+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Databricks at SIGMOD 2026",
+      "summary": "Databricks continues to lead the way in engineering innovation, consistently pushing...",
+      "url": "https://www.databricks.com/blog/databricks-sigmod-2026",
+      "date": "2026-05-29T18:28:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Connect Customer now supports scheduling tasks up to 90 days in advance",
+      "summary": "Amazon Connect Customer now supports scheduling tasks up to 90 days in advance, helping organizations plan, route, and track long-running follow-up work. For example, an insurance team managing an auto repair claim can schedule future tasks for an adjuster visit, parts availability check, and repair completion follow-up, with each task routed to the right team at the right time with relevant claim",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-tasks-90day-schedule",
+      "date": "2026-05-29T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "summary": "Gemini Omni & Gemini 3.5 hero",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "date": "2026-05-29T17:30:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 13,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Insights from Slalom: Federal agencies should reconsider Snowflake as a cloud data platform",
+      "summary": "Learn why federal agencies should reconsider Snowflake as a cloud data platform for AI readiness, governance, cost control, and secure data sharing.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/federal-agencies-reconsider-snowflake",
+      "date": "2026-05-29T17:05:09+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 8,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Shield Advanced introduces DDoS attack flow logs",
+      "summary": "AWS Shield Advanced announces distributed denial-of-service (DDoS) attack flow logs, giving you packet-level visibility into traffic hitting Shield Advanced protected resources during a DDoS attack. The log data is published to Amazon S3, Amazon CloudWatch Logs, or Amazon Data Firehose, for forensic analysis and compliance purposes. The DDoS attack flow logs, capture critical packet-level details,",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-shield-ddos/",
+      "date": "2026-05-29T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> May 25 - May 29 Anthro",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "date": "2026-05-29T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "What is the MCP Server and What Does it Mean for Your Marketing?",
+      "summary": "Learn how the new Agentforce Marketing feature is bridging the gap between imagination and innovation",
+      "url": "https://www.salesforce.com/blog/marketing-mcp-server/",
+      "date": "2026-05-29T15:14:13+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Winning under CMS TEAM: Building the learning health system to realize success in VBC today and tomorrow",
+      "summary": "Starting January 1, 2026, over 700 hospitals across the United States faced a new...",
+      "url": "https://www.databricks.com/blog/winning-under-cms-team-building-learning-health-system-realize-success-vbc-today-and-tomorrow",
+      "date": "2026-05-29T13:53:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Connections for Small Business: Hands-on Learning for Marketers",
       "summary": "Learn how Salesforce Connections sessions will help build AI strategies and skills for every marketer.",
@@ -25,6 +140,68 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp"
     },
     {
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "date": "2026-05-29T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "url": "https://openai.com/index/braintrust",
+      "date": "2026-05-29T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS for Oracle now supports April 2026 Release Update and Supplemental Patch Bundle",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports the Oracle April 2026 Release Update (RU) for Oracle Database versions 19c and 21c, and the corresponding Supplemental Patch Bundle for Oracle Database version 19c. We recommend upgrading to the April 2026 RU as it includes security updates for Oracle database products. Starting with April 2026 releases, the Oracle Spatial Pat",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-oracle-supports-april-2026-release-update-supplemental-patch-bundle",
+      "date": "2026-05-29T07:49:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Oracle Database@AWS is now available in twenty AWS Regions",
+      "summary": "Oracle Database@AWS is now generally available in eight additional AWS Regions: EU-Central-2 (Zurich), EU-South-1 (Milan), EU-South-2 (Spain), EU-West-3 (Paris), AP-Northeast-3 (Osaka), AP-Southeast-1 (Singapore), AP-Southeast-4 (Melbourne) and SA-East-1 (Sao Paulo). Oracle Database@AWS enables customers to access Oracle Cloud Infrastructure (OCI) managed Oracle Exadata systems within AWS data cen",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/oracle-database-aws-available-twenty-regions/",
+      "date": "2026-05-29T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon S3 Tables are now available in two additional AWS Regions",
+      "summary": "Amazon S3 Tables are now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions. Amazon S3 Tables deliver the first cloud object store with built-in Apache Iceberg support, streamlining tabular data storage at scale. S3 Tables automatically perform continual table maintenance to optimize query efficiency and reduce storage costs as your data lake grows and evolves. Because S",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions/",
+      "date": "2026-05-29T04:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 15,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "Strengthening societal resilience with Rosalind Biodefense",
       "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
       "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
@@ -42,6 +219,17 @@
       "date": "2026-05-29T01:41:49+00:00",
       "source": "Salesforce Blog",
       "category": "salesforce",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "date": "2026-05-29T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
       "relevance": 2,
       "tags": [],
       "image": null
@@ -369,17 +557,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/gfn-thursday-5-28-nv-blog-1280x680-logo-1.jpg"
     },
     {
-      "title": "From the Farm to Flows: How One Trailblazer Built a Tech Career from Scratch",
-      "summary": "Kacie Molina had no formal education and almost no tech exposure. Through Talent Stacker, Trailhead, and the Trailblazer Community, she transformed curiosity into a Salesforce career and discovered opportunities she once thought were impossible.",
-      "url": "https://www.salesforce.com/blog/trailblazer-kacie-molina/",
-      "date": "2026-05-28T12:17:32+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How Endava builds an agentic organization with Codex",
       "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
       "url": "https://openai.com/index/endava",
@@ -415,41 +592,6 @@
       "image": null
     },
     {
-      "title": "Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances",
-      "summary": "We are pleased to announce general availability of Amazon EC2 P6-B200 instances in AWS US East (N. Virginia) on SageMaker notebook instances. Amazon EC2 P6-B200 instances are powered by 8 NVIDIA Blackwell GPUs with 1440 GB of high-bandwidth GPU memory and 5th Generation Intel Xeon processors (Emerald Rapids). These instances deliver up to 2x better performance compared to P5en instances for AI tra",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances/",
-      "date": "2026-05-27T23:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "Announcing Region Expansion of P5.48xl instances on SageMaker Notebook Instances",
-      "summary": "We are pleased to announce general availability of Amazon EC2 P5.48xl instances in Asia Pacific (Tokyo) on SageMaker notebook instances. Amazon EC2 P5.48xl instances are powered by NVIDIA H100 Tensor Core GPUs and deliver high performance in Amazon EC2 for deep learning (DL) and high performance computing (HPC) applications. They help you accelerate your time to solution by up to 4x compared to pr",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/p5-48xl-region-expansion-sagemaker-notebook-instances/",
-      "date": "2026-05-27T23:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Announcing Region Expansion of P4de instances on SageMaker Notebook Instances",
-      "summary": "We are pleased to announce general availability of Amazon EC2 P4de instances in Asia Pacific (Tokyo) on SageMaker notebook instances. Amazon EC2 P4de instances are powered by 8 NVIDIA A100 GPUs with 80GB high-performance HBM2e GPU memory, 2X higher than the GPUs in our current P4d instances. The new P4de instances provide a total of 640GB of GPU memory, which provide up to 60% better ML training p",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/p4de-region-expansion-sagemaker-notebook-instances/",
-      "date": "2026-05-27T23:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Snowflake Completes IRAP Protected Assessment on Google Cloud Platform",
       "summary": "Snowflake has completed an InfoSec Registered Assessors Program (IRAP) assessment for its deployment in the Google Cloud Platform (GCP) Melbourne region to align with the Australian Government’s Protected level control requirements.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/irap-protected-google-cloud",
@@ -459,19 +601,6 @@
       "relevance": 2,
       "tags": [
         "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Bedrock expands support for Service Quotas",
-      "summary": "Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Amazon Bedrock customers can now view inference quotas for the bedrock-mantle endpoint through AWS Service Quotas. This gives customers a familiar, consistent way to track limits for this ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/5/amazon-bedrock-service-quotas/",
-      "date": "2026-05-27T21:41:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 43,
-      "tags": [
-        "ai"
       ],
       "image": null
     },
@@ -511,17 +640,6 @@
         "ai",
         "security"
       ],
-      "image": null
-    },
-    {
-      "title": "Agentforce Life Sciences: June 2026 Newsletter",
-      "summary": "A Note from our General Manager Welcome to the first edition of the Agentforce Life Sciences newsletter. I’m thrilled to launch this new forum for sharing customer stories, industry innovation, and the latest…",
-      "url": "https://www.salesforce.com/blog/agentforce-life-sciences-june-2026-newsletter/",
-      "date": "2026-05-27T17:55:01+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -672,17 +790,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Vera-CPU_Tray_Open-34_Wide_R6C-FNL-5260651-1.jpg"
     },
     {
-      "title": "AI readiness in telecommunications",
-      "summary": "The AI adoption challenge in telcosAccording to NVIDIA's 2025 State of AI in Telecommunications report...",
-      "url": "https://www.databricks.com/blog/ai-readiness-telecommunications",
-      "date": "2026-05-26T21:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The Next Era of Business AI",
       "summary": "Without context, AI cannot deliver on its promise.",
       "url": "https://news.sap.com/2026/05/the-next-era-of-business-ai/",
@@ -760,19 +867,6 @@
       "image": null
     },
     {
-      "title": "Pharma launch analytics: How to compress the first 90 days and win the three years that follow",
-      "summary": "USE CASECommercial Launch Intelligence & Market Access AnalyticsPharmaceutical companies...",
-      "url": "https://www.databricks.com/blog/pharma-launch-analytics-how-compress-first-90-days-and-win-three-years-follow",
-      "date": "2026-05-23T02:15:31+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
       "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
@@ -808,19 +902,6 @@
         "developer"
       ],
       "image": null
-    },
-    {
-      "title": "What’s new with Google Cloud",
-      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> May 18 - May 22 Chines",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "date": "2026-05-22T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
       "title": "Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale",
@@ -1013,39 +1094,6 @@
       "image": null
     },
     {
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "date": "2026-05-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "url": "https://openai.com/index/ramp",
-      "date": "2026-05-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "date": "2026-05-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
       "summary": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud. Launched at Google I/O last year, the community […]",
       "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/",
@@ -1084,17 +1132,6 @@
         "developer"
       ],
       "image": null
-    },
-    {
-      "title": "I/O 2026",
-      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-      "date": "2026-05-19T17:45:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif"
     },
     {
       "title": "How AI Mode is changing the way people search in the U.S.",
@@ -1163,6 +1200,17 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/I_O_26_Header_1_AYohnR4.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "I/O 2026",
+      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif"
     },
     {
       "title": "Making it easier to understand how content was created and edited",
@@ -1522,19 +1570,6 @@
       "image": null
     },
     {
-      "title": "Data Governance in Healthcare for Trustworthy AI",
-      "summary": "Learn why trustworthy AI in healthcare depends on governed data, auditability, lineage and human oversight — and how Snowflake supports that foundation.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/data-governance-in-healthcare-trustworthy-ai",
-      "date": "2026-05-12T16:20:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine",
       "summary": "Amazon Redshift RG instances, powered by AWS Graviton, run data warehouse and data lake workloads up to 2.4x as fast as RA3 instances at 30% lower price per vCPU. Its integrated data lake query engine supports open table formats such as Apache Iceberg.",
       "url": "https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine/",
@@ -1848,17 +1883,6 @@
         "security"
       ],
       "image": null
-    },
-    {
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "summary": "Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-      "date": "2026-05-04T15:30:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 14,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp"
     },
     {
       "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
