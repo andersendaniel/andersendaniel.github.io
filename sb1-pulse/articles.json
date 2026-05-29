@@ -1,7 +1,40 @@
 {
-  "generated": "2026-05-29T08:39:16.180322+00:00",
+  "generated": "2026-05-29T13:55:46.711908+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Connections for Small Business: Hands-on Learning for Marketers",
+      "summary": "Learn how Salesforce Connections sessions will help build AI strategies and skills for every marketer.",
+      "url": "https://www.salesforce.com/blog/small-business/connections-for-growing-businesses/",
+      "date": "2026-05-29T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "date": "2026-05-29T12:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "date": "2026-05-29T03:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Model Cards for AI Model Transparency",
       "summary": "At Salesforce, we take seriously our mission to create and deliver AI technology that is responsible, accountable, transparent, empowering, and inclusive. These principles ensure that our AI is safe, ethical, and engenders trust.",
@@ -360,17 +393,6 @@
       "image": null
     },
     {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "url": "https://openai.com/index/mufg",
-      "date": "2026-05-28T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 33,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI’s Frontier Governance Framework",
       "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
@@ -378,6 +400,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "url": "https://openai.com/index/mufg",
+      "date": "2026-05-28T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 33,
       "tags": [],
       "image": null
     },
@@ -980,17 +1013,6 @@
       "image": null
     },
     {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "url": "https://openai.com/index/ramp",
-      "date": "2026-05-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The next phase of OpenAI’s Education for Countries",
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -998,6 +1020,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "url": "https://openai.com/index/ramp",
+      "date": "2026-05-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -1024,17 +1057,6 @@
         "cloud"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/google-cloud-nvidia-1920x1080-1.jpg"
-    },
-    {
-      "title": "Introducing OpenAI for Singapore",
-      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "date": "2026-05-19T20:30:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Azure Files Entra-Only identities: Advancing cloud-native identity and security",
@@ -1357,17 +1379,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 17,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Certification in the AI Era: From Knowledge to Capability",
-      "summary": "Success depends on how effectively professionals can apply their knowledge alongside AI.",
-      "url": "https://news.sap.com/2026/05/certification-ai-era-knowledge-capability/",
-      "date": "2026-05-15T06:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
