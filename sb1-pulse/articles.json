@@ -1,7 +1,18 @@
 {
-  "generated": "2026-05-29T00:06:53.788403+00:00",
+  "generated": "2026-05-29T08:39:16.180322+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Model Cards for AI Model Transparency",
+      "summary": "At Salesforce, we take seriously our mission to create and deliver AI technology that is responsible, accountable, transparent, empowering, and inclusive. These principles ensure that our AI is safe, ethical, and engenders trust.",
+      "url": "https://www.salesforce.com/blog/model-cards-for-ai-model-transparency/",
+      "date": "2026-05-29T01:41:49+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "B2C Commerce May Release: Merchandising, Product Management, and Payment Efficiency",
       "summary": "Running a digital storefront means juggling more than your shoppers ever see behind the scenes: managing product data, curating search results, configuring checkout, and more. This month’s release is designed to increase speed…",
@@ -69,7 +80,7 @@
       "image": null
     },
     {
-      "title": "Unity Catalog and the next era of Apache Iceberg™",
+      "title": "Advancing Apache Iceberg on Databricks: Iceberg v3 GA, Open Sharing, and Unified Governance",
       "summary": "The next phase of the open lakehouse will be defined by the catalog. Open table formats...",
       "url": "https://www.databricks.com/blog/unity-catalog-and-next-era-apache-icebergtm",
       "date": "2026-05-28T18:58:09+00:00",
@@ -346,6 +357,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "url": "https://openai.com/index/mufg",
+      "date": "2026-05-28T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 33,
+      "tags": [],
       "image": null
     },
     {
@@ -781,17 +803,6 @@
       "image": null
     },
     {
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "date": "2026-05-22T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -799,6 +810,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "date": "2026-05-22T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -958,6 +980,17 @@
       "image": null
     },
     {
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "url": "https://openai.com/index/ramp",
+      "date": "2026-05-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "The next phase of OpenAI’s Education for Countries",
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -976,17 +1009,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "url": "https://openai.com/index/ramp",
-      "date": "2026-05-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -1141,17 +1163,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "date": "2026-05-19T10:45:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
