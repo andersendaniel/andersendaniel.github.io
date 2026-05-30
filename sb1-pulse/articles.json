@@ -1,7 +1,18 @@
 {
-  "generated": "2026-05-30T00:04:39.222272+00:00",
+  "generated": "2026-05-30T07:36:48.432141+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "The Metadata Hub: Unify Your Data Estate",
+      "summary": "Discover how a Metadata Hub unifies your data estate. Learn how Snowflake Horizon Catalog enables cross-platform governance controls without data migration.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-horizon-metadata-hub",
+      "date": "2026-05-29T22:18:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Enabling Evolutionary Database Development: database branching with Lakebase",
       "summary": "Why this series existsThe methodology described in Evolutionary Database Design and...",
@@ -144,19 +155,6 @@
       "image": null
     },
     {
-      "title": "AWS Interconnect - multicloud now offers a free 500 Mbps tier",
-      "summary": "AWS Interconnect - multicloud now offers a free 500 Mbps multicloud Interconnect, making it easier to privately connect your workloads on AWS and other public clouds. Customers have been adopting multicloud strategies while migrating more applications to the cloud. With AWS Interconnect - multicloud, AWS simplified the way cloud services providers (CSPs) offer managed, highly-resilient, private co",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-interconnect-multicloud-offers-free-500-mbps-tier",
-      "date": "2026-05-29T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Amazon Redshift Serverless now offers 4-RPU Minimum Capacity in 7 additional AWS Regions",
       "summary": "Amazon Redshift now allows you to get started with Amazon Redshift Serverless with a lower data warehouse base capacity configuration of 4 Redshift Processing Units (RPUs) in the Asia Pacific (Hong Kong), Asia Pacific (Seoul), Canada (Central), Europe (London), South America (Sao Paulo), AWS GovCloud (US-East), and AWS GovCloud (US-West) regions. Amazon Redshift Serverless measures data warehouse ",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-serverless-4-rpu-seven-regions/",
@@ -167,6 +165,19 @@
       "tags": [
         "cloud",
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Interconnect - multicloud now offers a free 500 Mbps tier",
+      "summary": "AWS Interconnect - multicloud now offers a free 500 Mbps multicloud Interconnect, making it easier to privately connect your workloads on AWS and other public clouds. Customers have been adopting multicloud strategies while migrating more applications to the cloud. With AWS Interconnect - multicloud, AWS simplified the way cloud services providers (CSPs) offer managed, highly-resilient, private co",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-interconnect-multicloud-offers-free-500-mbps-tier",
+      "date": "2026-05-29T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -750,6 +761,17 @@
       "image": null
     },
     {
+      "title": "Election information and safeguards in 2026",
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "date": "2026-05-27T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "url": "https://openai.com/index/warp",
@@ -761,17 +783,6 @@
         "ai",
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "Election information and safeguards in 2026",
-      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "date": "2026-05-27T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1544,17 +1555,6 @@
         "developer"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/rtx-ai-garage-hermes.jpeg"
-    },
-    {
-      "title": "AI agent backup protection for enterprise data",
-      "summary": "Learn how AI agent backup protection helps reduce risk from autonomous mistakes with immutable backups, disaster recovery, and stronger data resilience.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agent-backup-protection",
-      "date": "2026-05-12T18:00:43+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 18,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
