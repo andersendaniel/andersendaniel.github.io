@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-30T12:02:43.553873+00:00",
+  "generated": "2026-05-30T18:00:54.865179+00:00",
   "sources": 21,
   "articles": [
     {
@@ -178,6 +178,20 @@
       "relevance": 5,
       "tags": [
         "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
+      "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
+      "date": "2026-05-29T14:46:32+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "developer"
       ],
       "image": null
     },
@@ -376,6 +390,17 @@
       "image": null
     },
     {
+      "title": "Introducing Microsoft 365 Business with Copilot: The new standard for small business",
+      "summary": "On July 1, we're introducing new Microsoft 365 SKUs with Copilot built-in, designed to fit into the way small businesses already work. The post Introducing Microsoft 365 Business with Copilot: The new standard for small business appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/",
+      "date": "2026-05-28T19:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 12,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Advancing Apache Iceberg on Databricks: Iceberg v3 GA, Open Sharing, and Unified Governance",
       "summary": "The next phase of the open lakehouse will be defined by the catalog. Open table formats...",
       "url": "https://www.databricks.com/blog/unity-catalog-and-next-era-apache-icebergtm",
@@ -508,6 +533,17 @@
         "ai",
         "developer"
       ],
+      "image": null
+    },
+    {
+      "title": "Introducing a new design for Microsoft 365 Copilot",
+      "summary": "We’ve redesigned the Copilot app and how Copilot shows up across Microsoft 365 apps to better move with it: cleaner, faster, and in the flow of your work. The post Introducing a new design for Microsoft 365 Copilot appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/",
+      "date": "2026-05-28T15:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 12,
+      "tags": [],
       "image": null
     },
     {
@@ -818,6 +854,19 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
+      "summary": "Learn what’s new in Copilot Studio, May 2026: computer-using agents are now generally available, plus redesigned workflows and Work IQ extensibility. The post New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
+      "date": "2026-05-26T16:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 21,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -1869,20 +1918,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp"
     },
     {
-      "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
-      "summary": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously. The post Azure IaaS: Defense in depth built on secure-by-design principles appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
-      "date": "2026-05-04T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 8,
-      "tags": [
-        "cloud",
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
       "summary": "The HSM-based Backup Key Vault Meta’s HSM-based Backup Key Vault provides the foundation for end-to-end encrypted backups for WhatsApp and Messenger. The system allows people to protect their backed-up message history with a recovery code, ensuring that the recovery code is stored in tamper-resistant hardware security modules (HSMs) and is inaccessible to Meta, cloud storage [...] Read More... The",
       "url": "https://engineering.fb.com/2026/05/01/security/meta-strengthening-end-to-end-encrypted-backups/",
@@ -1903,31 +1938,6 @@
       "relevance": 2,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "What Google Cloud announced in AI this month",
-      "summary": "Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. We hosted Google Cloud Next in Las Vegas on April 22, announcing incredible innovations from Gemini Enterprise Agent Platform to our eight-generation TPUs. We also expanded the Gemini Enterprise app in coll",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "date": "2026-04-30T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 20,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
-    },
-    {
-      "title": "Enabling a new model for healthcare with AI co-clinician",
-      "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
-      "url": "https://deepmind.google/blog/ai-co-clinician/",
-      "date": "2026-04-30T12:14:15+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://lh3.googleusercontent.com/z2sN_eil5tgap-Ji1W_4l1xnbfLRghzxdXzyCMdnKFVW1xTfgm0o8bpg9pNwE4RcHTR2QGEGhGx7LFn7Q6bg-LEPBW20d4Djo3Erii8PBYYrWz36=w528-h297-n-nu-rw-lo"
     }
   ]
 }
