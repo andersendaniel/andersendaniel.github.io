@@ -1,7 +1,44 @@
 {
-  "generated": "2026-05-29T19:30:19.887124+00:00",
+  "generated": "2026-05-30T00:04:39.222272+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Enabling Evolutionary Database Development: database branching with Lakebase",
+      "summary": "Why this series existsThe methodology described in Evolutionary Database Design and...",
+      "url": "https://www.databricks.com/blog/enabling-evolutionary-database-development-database-branching-lakebase",
+      "date": "2026-05-29T22:04:37+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon SES now offers inbox placement metrics and blocklist monitoring",
+      "summary": "Today, Amazon Simple Email Service (SES) launched a new set of deliverability features that help customers get more information about their outbound sending deliverability performance and reputation. Customers can now see the percentage of messages that are placed in recipient spam folders based on samples of industry data, as well as see when their domains and IPs are listed on public email sende",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ses-global-deliverability/",
+      "date": "2026-05-29T21:48:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS End User Messaging RCS for Business now available in 20 additional countries",
+      "summary": "AWS End User Messaging now supports RCS for Business messaging in 20 additional countries, bringing the total to 22. Businesses can now send verified, branded RCS messages to customers in Austria, Brazil, Colombia, Czech Republic, Denmark, Dominican Republic, France, Germany, Guatemala, Italy, Mexico, Netherlands, Norway, Peru, Poland, Singapore, Slovakia, Spain, Sweden, and the United Kingdom, in",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rcs-countries/",
+      "date": "2026-05-29T20:23:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
       "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
@@ -104,6 +141,33 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Interconnect - multicloud now offers a free 500 Mbps tier",
+      "summary": "AWS Interconnect - multicloud now offers a free 500 Mbps multicloud Interconnect, making it easier to privately connect your workloads on AWS and other public clouds. Customers have been adopting multicloud strategies while migrating more applications to the cloud. With AWS Interconnect - multicloud, AWS simplified the way cloud services providers (CSPs) offer managed, highly-resilient, private co",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-interconnect-multicloud-offers-free-500-mbps-tier",
+      "date": "2026-05-29T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Redshift Serverless now offers 4-RPU Minimum Capacity in 7 additional AWS Regions",
+      "summary": "Amazon Redshift now allows you to get started with Amazon Redshift Serverless with a lower data warehouse base capacity configuration of 4 Redshift Processing Units (RPUs) in the Asia Pacific (Hong Kong), Asia Pacific (Seoul), Canada (Central), Europe (London), South America (Sao Paulo), AWS GovCloud (US-East), and AWS GovCloud (US-West) regions. Amazon Redshift Serverless measures data warehouse ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-serverless-4-rpu-seven-regions/",
+      "date": "2026-05-29T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 10,
+      "tags": [
+        "cloud",
+        "data"
+      ],
       "image": null
     },
     {
@@ -436,48 +500,6 @@
       "image": null
     },
     {
-      "title": "DynamoDB Streams now supports AWS PrivateLink for FIPS endpoints in AWS GovCloud (US) Regions",
-      "summary": "Amazon DynamoDB Streams now supports AWS PrivateLink for FIPS (Federal Information Processing Standard) endpoints in AWS GovCloud (US) Regions. DynamoDB Streams captures time-ordered sequences of item-level modifications in DynamoDB tables, enabling real-time data processing and event-driven architectures. This enhancement allows government agencies and organizations with federal compliance requir",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-dynamodb-streams-privatelink-fips-govcloud/",
-      "date": "2026-05-28T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon WorkSpaces Applications adds support for Windows Desktop OS",
-      "summary": "Amazon WorkSpaces Applications now supports the ability to set up streaming resources powered by Windows Desktop operating systems using Bring Your Own License (BYOL). Customers can now bring their existing Windows Desktop licenses to support their eligible Microsoft 365 Apps for enterprise, delivering a consistent and familiar desktop experience as users move between on-premises and virtual deskt",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-windows-desktop-OS/",
-      "date": "2026-05-28T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "The next generation of Amazon OpenSearch Serverless is now generally available",
-      "summary": "Today, AWS announced the general availability of the next generation of Amazon OpenSearch Serverless, a fully managed search and vector engine designed for customers building agents. The next generation of OpenSearch Serverless auto scales 20x faster than its predecessor and provisions resources in seconds to meet the demands of even the most unpredictable agentic workflows. With scale-to-zero and",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-serverless-next-generation-generally-available/",
-      "date": "2026-05-28T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 9,
-      "tags": [
-        "ai",
-        "cloud",
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "Catch up on 12 major I/O 2026 moments",
       "summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
@@ -497,19 +519,6 @@
       "category": "snowflake",
       "relevance": 4,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS IoT Core now supports direct messaging for point-to-point communication",
-      "summary": "AWS IoT Core now supports the ability to send point-to-point messages to any connected device, providing better visibility into message delivery and lower messaging cost. AWS IoT Core is a fully managed service that securely connects IoT devices to the AWS cloud, and enables bi-directional messaging between IoT devices and cloud services. Previously, sending messages to a single IoT device require",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-direct-messaging/",
-      "date": "2026-05-28T14:56:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -737,17 +746,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Building a FHIR-native health data platform on Databricks Lakebase",
-      "summary": "Healthcare data lives in dozens of systems, EHRs, claims, labs, pharmacy, SDoH, each...",
-      "url": "https://www.databricks.com/blog/building-fhir-native-health-data-platform-databricks-lakebase",
-      "date": "2026-05-27T01:14:56+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 7,
       "tags": [],
       "image": null
     },
