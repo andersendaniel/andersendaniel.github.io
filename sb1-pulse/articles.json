@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-31T12:08:05.864501+00:00",
+  "generated": "2026-05-31T17:57:11.567799+00:00",
   "sources": 21,
   "articles": [
     {
@@ -376,17 +376,6 @@
       "image": null
     },
     {
-      "title": "Introducing Microsoft 365 Business with Copilot: The new standard for small business",
-      "summary": "On July 1, we're introducing new Microsoft 365 SKUs with Copilot built-in, designed to fit into the way small businesses already work. The post Introducing Microsoft 365 Business with Copilot: The new standard for small business appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/",
-      "date": "2026-05-28T19:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 12,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Advancing Apache Iceberg on Databricks: Iceberg v3 GA, Open Sharing, and Unified Governance",
       "summary": "The next phase of the open lakehouse will be defined by the catalog. Open table formats...",
       "url": "https://www.databricks.com/blog/unity-catalog-and-next-era-apache-icebergtm",
@@ -519,17 +508,6 @@
         "ai",
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "Introducing a new design for Microsoft 365 Copilot",
-      "summary": "We’ve redesigned the Copilot app and how Copilot shows up across Microsoft 365 apps to better move with it: cleaner, faster, and in the flow of your work. The post Introducing a new design for Microsoft 365 Copilot appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/",
-      "date": "2026-05-28T15:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 12,
-      "tags": [],
       "image": null
     },
     {
@@ -840,19 +818,6 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
-      "summary": "Learn what’s new in Copilot Studio, May 2026: computer-using agents are now generally available, plus redesigned workflows and Work IQ extensibility. The post New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
-      "date": "2026-05-26T16:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 21,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -1915,28 +1880,6 @@
         "cloud",
         "security"
       ],
-      "image": null
-    },
-    {
-      "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
-      "summary": "The HSM-based Backup Key Vault Meta’s HSM-based Backup Key Vault provides the foundation for end-to-end encrypted backups for WhatsApp and Messenger. The system allows people to protect their backed-up message history with a recovery code, ensuring that the recovery code is stored in tamper-resistant hardware security modules (HSMs) and is inaccessible to Meta, cloud storage [...] Read More... The",
-      "url": "https://engineering.fb.com/2026/05/01/security/meta-strengthening-end-to-end-encrypted-backups/",
-      "date": "2026-05-01T16:00:58+00:00",
-      "source": "Meta Engineering",
-      "category": "meta",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
-      "summary": "Microsoft Agent 365 helps you take control of agent sprawl as your control plane to observe, govern, and secure agents and their interactions. The post Microsoft Agent 365, now generally available, expands capabilities and integrations appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
-      "date": "2026-05-01T15:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [],
       "image": null
     }
   ]
