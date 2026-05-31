@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-30T23:57:47.187274+00:00",
+  "generated": "2026-05-31T08:11:17.636900+00:00",
   "sources": 21,
   "articles": [
     {
@@ -178,6 +178,20 @@
       "relevance": 5,
       "tags": [
         "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
+      "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
+      "date": "2026-05-29T14:46:32+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "developer"
       ],
       "image": null
     },
@@ -1867,20 +1881,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
-      "summary": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously. The post Azure IaaS: Defense in depth built on secure-by-design principles appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
-      "date": "2026-05-04T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 8,
-      "tags": [
-        "cloud",
-        "security"
-      ],
-      "image": null
     },
     {
       "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
