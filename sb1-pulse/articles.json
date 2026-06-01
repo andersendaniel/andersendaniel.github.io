@@ -1,7 +1,137 @@
 {
-  "generated": "2026-06-01T16:37:42.668473+00:00",
+  "generated": "2026-06-01T20:52:58.606207+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Industry Insider: 5 Martech Trends to Watch This Summer",
+      "summary": "Shifts in data strategy, AI adoption and platform consolidation are reshaping how brands act on customer data in the moment. Here's what you can do about it.",
+      "url": "https://www.salesforce.com/blog/martech-trends/",
+      "date": "2026-06-01T19:02:19+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Quick Research now supports customer managed keys",
+      "summary": "Amazon Quick Research now enables customers to encrypt their data using customer-managed keys (CMK) through AWS Key Management Service (KMS). This enhancement allows organizations with strict security and compliance requirements to manage their own encryption keys. With customer-managed keys, you gain enhanced security control and comprehensive audit capabilities through AWS CloudTrail integration",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys",
+      "date": "2026-06-01T18:27:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud",
+        "security",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker adds permissions boundaries for SCP compliance",
+      "summary": "Amazon SageMaker Unified Studio now supports custom IAM permissions boundaries, so organizations that enforce Service Control Policies (SCPs) requiring permissions boundaries on all IAM roles can adopt SageMaker Unified Studio without modifying their security posture. When a user creates a project, SageMaker Unified Studio provisions three IAM roles: a project user role, an Amazon Bedrock service ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-scp/",
+      "date": "2026-06-01T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
+      "summary": "Amazon Bedrock AgentCore Identity now allows customers the ability to reference existing AWS Secrets Manager secret ARNs directly in AgentCore Identity Credential Providers. Previously, AgentCore Identity used a service-managed secret approach, where secrets were created and managed by the service on the customer's behalf. This approach prevented customers from applying resource tags on create, en",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/",
+      "date": "2026-06-01T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 16,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region",
+      "summary": "Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The M8i and M8i-flex instances offer up to 15% better price-performance, and 2.5x more memor",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8i-m8i-flex-new-zealand/",
+      "date": "2026-06-01T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 M8azn instances are now available in Europe (Ireland) Region",
+      "summary": "Starting today, Amazon EC2 M8azn instances are now available in Europe (Ireland) Region. These general purpose high-frequency high-network instances are powered by fifth generation AMD EPYC (formerly code named Turin) processors and offer the highest maximum CPU frequency, 5GHz in the cloud. M8azn instances offer up to 2x compute performance compared to previous generation M5zn instances, and up t",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8azn-europe-ireland/",
+      "date": "2026-06-01T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports EFA-only network interfaces",
+      "summary": "Amazon SageMaker HyperPod now supports EFA-only network interfaces for cluster instance groups, enabling you to configure dedicated Elastic Fabric Adapter (EFA) devices without the traditional Elastic Network Adapter (ENA) for IP networking. SageMaker HyperPod is a purpose-built infrastructure for AI/ML model development that provides a resilient, high-performance environment with built-in fault t",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-efa-only/",
+      "date": "2026-06-01T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now offers troubleshooting skills for AI coding assistants",
+      "summary": "Amazon SageMaker HyperPod now provides troubleshooting skills that bring expert-level AI/ML cluster diagnostics directly into AI coding assistants such as Claude Code, Cursor, and Kiro. SageMaker HyperPod is a purpose-built infrastructure for developing, training, and deploying foundation models at scale. It provides a resilient and performant environment with built-in fault tolerance, and automat",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-troubleshooting-skills/",
+      "date": "2026-06-01T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 26,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "How we used Gemini to build Google I/O 2026",
+      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "date": "2026-06-01T16:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 13,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "What Google Cloud announced in AI this month",
+      "summary": "Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. We’ve had a busy month! Between announcing Gemini Spark and Gemini 3.5 at Google I/O – and unveiling Google AI Threat Defense, our latest AI-powered cybersecurity solution, we had a lot to share with Google",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "date": "2026-06-01T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 19,
+      "tags": [
+        "cloud",
+        "security"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
+    },
     {
       "title": "5 Ways to Minimize Context Rot in Enterprise Agentforce Agents",
       "summary": "Long conversations break AI agents. These five Agentforce design patterns keep yours reliable at scale.",
@@ -10,6 +140,17 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 17,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Direct Connect now supports VIF Rate Limiters to help prevent network congestion",
+      "summary": "AWS Direct Connect now supports Virtual Interface (VIF) Rate Limiters on dedicated connections, which help you prevent network congestion caused by unexpected traffic spikes on a VIF which can potentially consume all available bandwidth, impacting workloads on other VIFs on the same connection. With VIF Rate Limiters, you can set a maximum bandwidth allocation for up to 10 VIFs on a dedicated conn",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-direct-connect-now-supports-vif-rate-limiters/",
+      "date": "2026-06-01T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -36,6 +177,20 @@
       "image": null
     },
     {
+      "title": "Amazon Bedrock adds Amazon CloudWatch metrics for OpenAI- and Anthropic-compatible APIs",
+      "summary": "Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Amazon Bedrock customers can now monitor inference traffic to the bedrock-mantle endpoint with Amazon CloudWatch metrics, the same way they already do for the bedrock-runtime endpoint and ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-supports-cloudwatch-metrics-bedrock-mantle-endpoint/",
+      "date": "2026-06-01T13:38:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 45,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "AI Agent Culture: What Does it Mean For Your Lean Team?",
       "summary": "Supercharge your entire workflow by welcoming digital assistants to your team to do the heavy lifting for you.",
       "url": "https://www.salesforce.com/blog/small-business/ai-agent-culture/",
@@ -55,6 +210,30 @@
       "category": "sap",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon SES now supports tenant-level suppression lists",
+      "summary": "Amazon Simple Email Service (Amazon SES) now supports tenant-level suppression lists, allowing email senders to isolate bounces and complaints per tenant. Previously, all tenants in an account shared a single suppression list, meaning one tenant's email issues caused emails for other tenants to be suppressed. With this feature, each tenant maintains a separate suppression list, ensuring that bounc",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ses-tenant-level-suppression-lists/",
+      "date": "2026-06-01T12:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "date": "2026-06-01T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -166,6 +345,17 @@
       "tags": [
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "AI Doesn't Scale Until You Stop Calling It Innovation",
+      "summary": "Most enterprises have a team that deals with AI. Fewer have AI fully operationalized....",
+      "url": "https://www.databricks.com/blog/ai-doesnt-scale-until-you-stop-calling-it-innovation",
+      "date": "2026-05-29T21:43:56+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 7,
+      "tags": [],
       "image": null
     },
     {
@@ -298,33 +488,6 @@
       "image": null
     },
     {
-      "title": "AWS Interconnect - multicloud now offers a free 500 Mbps tier",
-      "summary": "AWS Interconnect - multicloud now offers a free 500 Mbps multicloud Interconnect, making it easier to privately connect your workloads on AWS and other public clouds. Customers have been adopting multicloud strategies while migrating more applications to the cloud. With AWS Interconnect - multicloud, AWS simplified the way cloud services providers (CSPs) offer managed, highly-resilient, private co",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-interconnect-multicloud-offers-free-500-mbps-tier",
-      "date": "2026-05-29T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
-      "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
-      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
-      "date": "2026-05-29T14:46:32+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 19,
-      "tags": [
-        "ai",
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "Winning under CMS TEAM: Building the learning health system to realize success in VBC today and tomorrow",
       "summary": "Starting January 1, 2026, over 700 hospitals across the United States faced a new...",
       "url": "https://www.databricks.com/blog/winning-under-cms-team-building-learning-health-system-realize-success-vbc-today-and-tomorrow",
@@ -380,46 +543,6 @@
       "image": null
     },
     {
-      "title": "Amazon RDS for Oracle now supports April 2026 Release Update and Supplemental Patch Bundle",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports the Oracle April 2026 Release Update (RU) for Oracle Database versions 19c and 21c, and the corresponding Supplemental Patch Bundle for Oracle Database version 19c. We recommend upgrading to the April 2026 RU as it includes security updates for Oracle database products. Starting with April 2026 releases, the Oracle Spatial Pat",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-oracle-supports-april-2026-release-update-supplemental-patch-bundle",
-      "date": "2026-05-29T07:49:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Oracle Database@AWS is now available in twenty AWS Regions",
-      "summary": "Oracle Database@AWS is now generally available in eight additional AWS Regions: EU-Central-2 (Zurich), EU-South-1 (Milan), EU-South-2 (Spain), EU-West-3 (Paris), AP-Northeast-3 (Osaka), AP-Southeast-1 (Singapore), AP-Southeast-4 (Melbourne) and SA-East-1 (Sao Paulo). Oracle Database@AWS enables customers to access Oracle Cloud Infrastructure (OCI) managed Oracle Exadata systems within AWS data cen",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/oracle-database-aws-available-twenty-regions/",
-      "date": "2026-05-29T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon S3 Tables are now available in two additional AWS Regions",
-      "summary": "Amazon S3 Tables are now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions. Amazon S3 Tables deliver the first cloud object store with built-in Apache Iceberg support, streamlining tabular data storage at scale. S3 Tables automatically perform continual table maintenance to optimize query efficiency and reduce storage costs as your data lake grows and evolves. Because S",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions/",
-      "date": "2026-05-29T04:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 15,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Strengthening societal resilience with Rosalind Biodefense",
       "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
       "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
@@ -464,28 +587,6 @@
       "image": null
     },
     {
-      "title": "Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget",
-      "summary": "Today, AWS Billing and Cost Management (BCM) announces support for Budgets widgets in BCM Dashboards, giving you the flexibility to customize your cost management console with the views that matter most to your organization. You can now monitor AWS Budgets alongside Cost Explorer reports and Savings Plans and Reserved Instance coverage and utilization reports, all in a single, tailored dashboard. ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards",
-      "date": "2026-05-28T20:57:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS IoT Core adds APIs for MQTT connection management",
-      "summary": "Today, AWS IoT Core launches two new MQTT connection management APIs, GetConnection and ListSubscriptions, enabling you to easily access MQTT client connection and subscription information for your Internet of Things (IoT) devices. These APIs help you troubleshoot connectivity issues, monitor client behavior, and audit connection patterns across your device fleet. The GetConnection API gives you v",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-apis-mqtt/",
-      "date": "2026-05-28T20:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How We Use Data Detect to Secure the Heart of Salesforce",
       "summary": "Using our \"Customer Zero\" philosophy, we were able to automate data security and find hidden PII at a massive scale.",
       "url": "https://www.salesforce.com/blog/data-detect-customer-zero/",
@@ -515,17 +616,6 @@
       "source": "AWS Blog",
       "category": "aws",
       "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Introducing Microsoft 365 Business with Copilot: The new standard for small business",
-      "summary": "On July 1, we're introducing new Microsoft 365 SKUs with Copilot built-in, designed to fit into the way small businesses already work. The post Introducing Microsoft 365 Business with Copilot: The new standard for small business appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/",
-      "date": "2026-05-28T19:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 12,
       "tags": [],
       "image": null
     },
@@ -570,17 +660,6 @@
       "image": null
     },
     {
-      "title": "Can Language Models Remember What They Learn?",
-      "summary": "Post-training methods (RLVR, On-policy distillation) are Episode-local Language models are getting better at learning from feedback during post-training. In reinforcement learning with verifiable rewards (RLVR), a model tries a problem, a verifier checks…",
-      "url": "https://www.salesforce.com/blog/procedural-memory-distillation/",
-      "date": "2026-05-28T17:21:17+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Announcing Claude Opus 4.8 on Snowflake Cortex AI",
       "summary": "Claude Opus 4.8 is now available on Snowflake Cortex AI, bringing advanced reasoning and agentic capabilities with Snowflake’s secure governed AI platform",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-opus-4-8-snowflake-cortex-ai",
@@ -601,66 +680,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Organizations emits CloudTrail events for account membership changes",
-      "summary": "AWS Organizations now automatically emits CloudTrail events to your management account whenever accounts join or leave your organization. These new events—AccountJoinedOrganization and AccountDepartedOrganization—provide security teams and cloud administrators with enhanced visibility into organizational membership changes, helping detect unauthorized activities and potential security incidents th",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail/",
-      "date": "2026-05-28T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS announces general availability of the next generation of AWS Resilience Hub",
-      "summary": "Today, AWS announces the general availability of the next generation of AWS Resilience Hub, a central location in the AWS console that helps platform engineering and site reliability teams assess and strengthen the resilience of their critical workloads running on AWS. This new update expands on AWS Resilience Hub’s existing experience for meeting resilience objectives by introducing a new applica",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-next-gen-aws-resilience-hub/",
-      "date": "2026-05-28T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Connect Customer expands generative AI-powered post-contact summaries to eight new languages",
-      "summary": "Amazon Connect Customer now supports generative AI-powered post-contact summaries in eight additional language families: Portuguese, French, Italian, German, Spanish, Chinese, Japanese, and Korean. Post-contact summaries also now support non-US variations of English, including British English, Australian English, and other regional locales, ensuring summaries reflect locally appropriate spelling a",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-summary-languages/",
-      "date": "2026-05-28T15:21:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Claude Opus 4.8 is now available on AWS",
-      "summary": "AWS now offers Claude Opus 4.8 -- Anthropic's most capable generally available model to date -- delivering meaningful advances across agentic coding, professional knowledge work, and long-running autonomous tasks for developers and enterprises building production AI applications. Claude Opus 4.8 can perform longer autonomous runs, deeper reasoning, and consistency to be trusted with production wor",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws/",
-      "date": "2026-05-28T15:16:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 19,
-      "tags": [
-        "ai",
-        "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "Introducing a new design for Microsoft 365 Copilot",
-      "summary": "We’ve redesigned the Copilot app and how Copilot shows up across Microsoft 365 apps to better move with it: cleaner, faster, and in the flow of your work. The post Introducing a new design for Microsoft 365 Copilot appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/",
-      "date": "2026-05-28T15:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 12,
       "tags": [],
       "image": null
     },
@@ -733,17 +752,6 @@
       "image": null
     },
     {
-      "title": "OpenAI’s Frontier Governance Framework",
-      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "date": "2026-05-28T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "MUFG aims to become AI-native with OpenAI",
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "url": "https://openai.com/index/mufg",
@@ -751,6 +759,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 33,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "OpenAI’s Frontier Governance Framework",
+      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "date": "2026-05-28T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -845,19 +864,6 @@
       "image": null
     },
     {
-      "title": "Introducing Always-On pricing: automatic savings for Databricks Lakebase",
-      "summary": "Most managed operational databases force you into a corner: choose \"Serverless\" for...",
-      "url": "https://www.databricks.com/blog/introducing-always-pricing-automatic-savings-databricks-lakebase",
-      "date": "2026-05-27T15:15:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
       "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
       "url": "https://openai.com/index/cisco",
@@ -948,19 +954,6 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
-      "summary": "Learn what’s new in Copilot Studio, May 2026: computer-using agents are now generally available, plus redesigned workflows and Work IQ extensibility. The post New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
-      "date": "2026-05-26T16:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 21,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -1069,17 +1062,6 @@
       "image": null
     },
     {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "date": "2026-05-22T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How Virgin Atlantic ships faster with Codex",
       "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "url": "https://openai.com/index/virgin-atlantic",
@@ -1087,6 +1069,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "date": "2026-05-22T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 6,
       "tags": [],
       "image": null
     },
@@ -1152,17 +1145,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/gfn-thursday-5-14-nv-blog-1280x680-logo-1.jpg"
-    },
-    {
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "url": "https://openai.com/index/adventhealth",
-      "date": "2026-05-21T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 29,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Ericsson Scales AI Across the Enterprise with a Business Data Fabric and SAP",
@@ -1925,11 +1907,27 @@
       "summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
       "date": "2026-05-04T17:00:00+00:00",
-      "source": "Google AI",
+      "source": "Google Cloud",
       "category": "google",
-      "relevance": 1,
-      "tags": [],
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
+      "summary": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously. The post Azure IaaS: Defense in depth built on secure-by-design principles appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
+      "date": "2026-05-04T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 8,
+      "tags": [
+        "cloud",
+        "security"
+      ],
+      "image": null
     }
   ]
 }
