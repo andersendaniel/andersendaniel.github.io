@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-01T16:36:36.147001+00:00",
+  "generated": "2026-06-01T16:37:42.668473+00:00",
   "sources": 21,
   "articles": [
     {
@@ -311,6 +311,20 @@
       "image": null
     },
     {
+      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
+      "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
+      "date": "2026-05-29T14:46:32+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
       "title": "Winning under CMS TEAM: Building the learning health system to realize success in VBC today and tomorrow",
       "summary": "Starting January 1, 2026, over 700 hospitals across the United States faced a new...",
       "url": "https://www.databricks.com/blog/winning-under-cms-team-building-learning-health-system-realize-success-vbc-today-and-tomorrow",
@@ -505,6 +519,17 @@
       "image": null
     },
     {
+      "title": "Introducing Microsoft 365 Business with Copilot: The new standard for small business",
+      "summary": "On July 1, we're introducing new Microsoft 365 SKUs with Copilot built-in, designed to fit into the way small businesses already work. The post Introducing Microsoft 365 Business with Copilot: The new standard for small business appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/",
+      "date": "2026-05-28T19:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 12,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Advancing Apache Iceberg on Databricks: Iceberg v3 GA, Open Sharing, and Unified Governance",
       "summary": "The next phase of the open lakehouse will be defined by the catalog. Open table formats...",
       "url": "https://www.databricks.com/blog/unity-catalog-and-next-era-apache-icebergtm",
@@ -626,6 +651,17 @@
         "ai",
         "developer"
       ],
+      "image": null
+    },
+    {
+      "title": "Introducing a new design for Microsoft 365 Copilot",
+      "summary": "We’ve redesigned the Copilot app and how Copilot shows up across Microsoft 365 apps to better move with it: cleaner, faster, and in the flow of your work. The post Introducing a new design for Microsoft 365 Copilot appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/",
+      "date": "2026-05-28T15:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 12,
+      "tags": [],
       "image": null
     },
     {
@@ -912,6 +948,19 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
+      "summary": "Learn what’s new in Copilot Studio, May 2026: computer-using agents are now generally available, plus redesigned workflows and Work IQ extensibility. The post New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
+      "date": "2026-05-26T16:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 21,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -1881,20 +1930,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
-      "summary": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously. The post Azure IaaS: Defense in depth built on secure-by-design principles appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
-      "date": "2026-05-04T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 8,
-      "tags": [
-        "cloud",
-        "security"
-      ],
-      "image": null
     }
   ]
 }
