@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-31T17:57:11.567799+00:00",
+  "generated": "2026-06-01T00:02:33.314905+00:00",
   "sources": 21,
   "articles": [
     {
@@ -761,17 +761,6 @@
       "image": null
     },
     {
-      "title": "Election information and safeguards in 2026",
-      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "date": "2026-05-27T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "url": "https://openai.com/index/warp",
@@ -783,6 +772,17 @@
         "ai",
         "developer"
       ],
+      "image": null
+    },
+    {
+      "title": "Election information and safeguards in 2026",
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "date": "2026-05-27T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -926,17 +926,6 @@
       "image": null
     },
     {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "date": "2026-05-22T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How Virgin Atlantic ships faster with Codex",
       "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "url": "https://openai.com/index/virgin-atlantic",
@@ -944,6 +933,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "date": "2026-05-22T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 6,
       "tags": [],
       "image": null
     },
