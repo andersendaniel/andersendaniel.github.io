@@ -1,7 +1,73 @@
 {
-  "generated": "2026-06-01T10:14:56.825599+00:00",
+  "generated": "2026-06-01T16:36:36.147001+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "5 Ways to Minimize Context Rot in Enterprise Agentforce Agents",
+      "summary": "Long conversations break AI agents. These five Agentforce design patterns keep yours reliable at scale.",
+      "url": "https://www.salesforce.com/blog/context-rot/",
+      "date": "2026-06-01T15:43:57+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 17,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Debunking 8 data layout myths: why Liquid Clustering outperforms partitioning",
+      "summary": "IntroductionLaying out data is one of the oldest problems in computing. For over...",
+      "url": "https://www.databricks.com/blog/debunking-8-data-layout-myths-why-liquid-clustering-outperforms-partitioning",
+      "date": "2026-06-01T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)",
+      "summary": "In my last Week in Review post, I shared what I’d been hearing from customers in the AI-Driven Development Lifecycle (AI-DLC) workshops I’ve been delivering. Last week I was back at it, this time in Denver for a two-day AI-DLC workshop, where I helped facilitate 17 teams to deliver nearly 20 separate use cases in […]",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/",
+      "date": "2026-06-01T14:25:33+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AI Agent Culture: What Does it Mean For Your Lean Team?",
+      "summary": "Supercharge your entire workflow by welcoming digital assistants to your team to do the heavy lifting for you.",
+      "url": "https://www.salesforce.com/blog/small-business/ai-agent-culture/",
+      "date": "2026-06-01T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 17,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How E.ON Is Building the Digital Backbone of the Energy Transition",
+      "summary": "For an energy company, technological change creates a responsibility to adopt innovation in a controlled, resilient, and purpose‑driven way.",
+      "url": "https://news.sap.com/2026/06/how-e-on-building-digital-backbone-energy-transition/",
+      "date": "2026-06-01T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Direct Procurement Roundtable: Customer Journeys, Product Direction, and the Reality of AI",
+      "summary": "Senior procurement leaders from automotive, industrial manufacturing, aerospace, and defense organizations shared their realities.",
+      "url": "https://news.sap.com/2026/06/direct-procurement-roundtable-customer-journeys-product-direction-ai/",
+      "date": "2026-06-01T10:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
       "summary": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and developers scaling agentic AI applications. NVIDIA AI Clouds are a growing ecosystem of purpose-built clouds serving the exploding token demand behind today’s most popular AI applications. […]",
@@ -503,17 +569,6 @@
       "image": null
     },
     {
-      "title": "Beyond the Vibe in Financial Services Series",
-      "summary": "Part 1 of 3: The Vibe Coding Trap and the Regulatory Reality",
-      "url": "https://www.salesforce.com/blog/beyond-the-vibe-in-financial-services-series-part-1/",
-      "date": "2026-05-28T17:06:34+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 12,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Retail Predictive Analytics for Like-for-Like Growth",
       "summary": "Explore how retail and consumer goods leaders use AI, store intelligence and supply chain analytics to drive like-for-like growth in 2026.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/retail-like-for-like-growth-ai-data-trends-2026",
@@ -592,17 +647,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Build a Semantic Layer Your AI Agents Can Reason Over",
-      "summary": "Learn how to use Salesforce Data 360 to build a governed semantic foundation that humans and agents can both rely on.",
-      "url": "https://www.salesforce.com/blog/semantic-layer-ai-agents-data-360/",
-      "date": "2026-05-28T14:54:14+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -778,19 +822,6 @@
       "image": null
     },
     {
-      "title": "Announcing Lakebase Change Data Feed (CDF)",
-      "summary": "Moving data from your operational database has traditionally meant setting up and...",
-      "url": "https://www.databricks.com/blog/announcing-lakebase-change-data-feed-cdf",
-      "date": "2026-05-27T13:11:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
       "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
       "url": "https://openai.com/index/cisco",
@@ -824,6 +855,17 @@
       "image": null
     },
     {
+      "title": "Election information and safeguards in 2026",
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "date": "2026-05-27T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "url": "https://openai.com/index/warp",
@@ -835,17 +877,6 @@
         "ai",
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "Election information and safeguards in 2026",
-      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "date": "2026-05-27T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -989,17 +1020,6 @@
       "image": null
     },
     {
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "date": "2026-05-22T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -1007,6 +1027,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "date": "2026-05-22T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1477,28 +1508,6 @@
       "source": "GitHub Blog",
       "category": "github",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Making AI Value Real Today",
-      "summary": "At SAP Sapphire, SAP executives and customers presented the Autonomous Enterprise as the path to real AI value for customers.",
-      "url": "https://news.sap.com/2026/05/sap-sapphire-keynote-customers-making-ai-value-real-today/",
-      "date": "2026-05-15T13:05:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The Path to the Autonomous Enterprise: SAP Announces New Sustainability AI Agents",
-      "summary": "With the Autonomous Enterprise, leaders can deliver sustainable outcomes at scale.",
-      "url": "https://news.sap.com/2026/05/autonomous-enterprise-new-sustainability-ai-agents/",
-      "date": "2026-05-15T06:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 17,
       "tags": [],
       "image": null
     },
