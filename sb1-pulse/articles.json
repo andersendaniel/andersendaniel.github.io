@@ -1,7 +1,138 @@
 {
-  "generated": "2026-06-02T14:48:10.892922+00:00",
+  "generated": "2026-06-02T20:05:25.467809+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Connect AI to Your Data: Simplify the Entire Development Lifecycle",
+      "summary": "Discover how Snowflake Summit 2026 redefines data development for AI. Learn about Datastream, zero-copy integrations and self-managing pipelines.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/data-development-simple-as-prompt",
+      "date": "2026-06-02T23:56:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 3,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Interoperable Lakehouse: Agency Over Your Data",
+      "summary": "Achieve true agency over your data with the Snowflake Interoperable Lakehouse. Unify storage, governance, and semantics with managed Apache Iceberg.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/interoperable-lakehouse-architecture",
+      "date": "2026-06-02T22:19:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+      "summary": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]",
+      "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+      "date": "2026-06-02T19:00:08+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 17,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-corp-blog-microsoft-1280x680-4999350.png"
+    },
+    {
+      "title": "GitHub Copilot app: The agent-native desktop experience",
+      "summary": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+      "date": "2026-06-02T17:30:03+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 12,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Announcing the new Work IQ APIs",
+      "summary": "Work IQ is a new intelligence layer for Microsoft 365, designed to understand how work gets done across your organizations. The post Announcing the new Work IQ APIs appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/announcing-the-new-work-iq-apis/",
+      "date": "2026-06-02T17:00:15+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Deadline Cloud now supports persistent storage for Service Managed Fleets",
+      "summary": "AWS Deadline Cloud now supports persistent storage for Service-Managed Fleets (SMF), allowing you to maintain data across worker lifecycle events. AWS Deadline Cloud is a fully managed service that makes it easy for teams to run compute-intensive workloads in the cloud for visual effects, animation, product design, simulation, and gaming. Previously, Deadline Cloud SMF workers relied only on ephem",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/persistent-storage",
+      "date": "2026-06-02T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker Studio now sets up in seconds with model customization ready from the start",
+      "summary": "Amazon SageMaker Studio quick setup now completes in under twenty seconds, reduced from over two minutes. Whether you are building ML pipelines, exploring data, developing with notebooks, or fine-tuning foundation models, you can go from sign-in to a fully configured Studio environment almost instantly. As part of this streamlined setup, newly created Studio environments now come with serverless m",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/quick-setup-model-customization-sagemaker-studio/",
+      "date": "2026-06-02T16:23:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 30,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon ElastiCache for Valkey now supports durability",
+      "summary": "Today, AWS announces durability support for Amazon ElastiCache. Durability enables you to use ElastiCache for workloads that require microsecond read latency but cannot tolerate data loss. With durability support, ElastiCache now stores data durably across multiple Availability Zones (AZs) using a Multi-AZ transactional log to enable fast failover, database recovery, and node restarts to prevent d",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/durability-amazon-elasticache",
+      "date": "2026-06-02T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Query Tags: The Context Your Warehouse Queries Have Been Missing",
+      "summary": "Databricks SQL logs key attributes of every query automatically: who ran it, on which...",
+      "url": "https://www.databricks.com/blog/query-tags-context-your-warehouse-queries-have-been-missing",
+      "date": "2026-06-02T14:32:33+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Cost and Usage Report 2.0 now supports Athena and Redshift integration",
+      "summary": "AWS today announced that AWS Cost and Usage Report 2.0 (CUR 2.0) provides new integration options with AWS Athena and AWS Redshift. This capability allows customers to analyze the data from their AWS CUR 2.0 in Amazon Simple Storage Service (Amazon S3) using standard SQL without building custom data warehouse solutions, bringing feature parity with CUR 1.0 integration options. With this launch, wh",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cur2.0-athena-redshift/",
+      "date": "2026-06-02T13:40:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Customer Trust in An AI World: If You Build It, They Will Come",
       "summary": "Learn how your SMB can win long-term loyalty by being open about your smart tools.",
@@ -9,6 +140,97 @@
       "date": "2026-06-02T13:00:00+00:00",
       "source": "Salesforce Blog",
       "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Set the Foundation for Trusted AI",
+      "summary": "Learn how Snowflake makes enterprise AI deployable with confidence, including consistent context and governance controls through Horizon Context and Horizon Catalog, AI security enhancements and workload-aware Adaptive Compute.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/trusted-data-trusted-ai",
+      "date": "2026-06-02T12:50:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Snowflake CoCo: AI Coding Agent for the Modern Data Stack",
+      "summary": "Snowflake CoCo is the AI coding agent built for data teams, with desktop, mobile, Slack, cloud agents, and async APIs grounded in governed enterprise data.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-coco-ai-coding-agent-modern-data-stack",
+      "date": "2026-06-02T12:50:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 8,
+      "tags": [
+        "data",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Snowflake CoWork: The Personal Work Agent for Every Knowledge Worker",
+      "summary": "Snowflake CoWork (formerly Snowflake Intelligence) is a personal work agent for knowledge workers, combining deep business context, automation and governed actions across enterprise systems.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-cowork-personal-work-agent",
+      "date": "2026-06-02T12:50:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 8,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Snowflake for AI: Put Enterprise AI to Work",
+      "summary": "Explore Snowflake for AI and see how Snowflake CoWork (formerly Snowflake Intelligence) helps enterprises deploy AI agents, train models, automate workflows, and govern AI at scale.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-for-ai-enterprise-ai-platform",
+      "date": "2026-06-02T12:50:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 22,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Snowflake Horizon Context: The Governed Context Layer for AI, BI and Apps",
+      "summary": "Discover Horizon Context, a new capability within Horizon Catalog that delivers a connected, governed semantic foundation with active context for AI and BI.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/horizon-context-governed-context",
+      "date": "2026-06-02T12:50:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Celebrating the 2026 Snowflake Partner Award Winners",
+      "summary": "Discover top partners in the Snowflake ecosystem being recognized for innovation, delivering measurable customer value and demonstrating true excellence in their fields.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/2026-summit-partner-awards",
+      "date": "2026-06-02T12:50:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Defending Your Enterprise at the Speed of AI",
+      "summary": "Learn how to safely accelerate your AI agents from pilot to production with Snowflake’s built-in, enterprise-grade AI security controls.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/enterprise-ai-security",
+      "date": "2026-06-02T12:50:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 18,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "url": "https://openai.com/index/travelers",
+      "date": "2026-06-02T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -28,8 +250,32 @@
       "image": null
     },
     {
+      "title": "Codex for every role, tool, and workflow",
+      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "date": "2026-06-02T09:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS for SQL Server supports Bring Your Own Media",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server launches Bring Your Own Media (BYOM) for Microsoft SQL Server. With BYOM, customers who migrate SQL Server applications from on-premises environments can adopt a managed database service on AWS and reuse their existing Microsoft SQL Server licenses, including Software Assurance, through Microsoft's License Mobility program. Amazon RDS ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-bring-your-own-media/",
+      "date": "2026-06-02T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Advancing youth safety and opportunity through global leadership",
-      "summary": "OpenAI calls for global action on youth AI safety through a dedicated AI Safety Institute",
+      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
       "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
       "date": "2026-06-02T07:00:00+00:00",
       "source": "OpenAI Blog",
@@ -185,6 +431,19 @@
       "image": null
     },
     {
+      "title": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
+      "summary": "Amazon Bedrock AgentCore Identity now allows customers the ability to reference existing AWS Secrets Manager secret ARNs directly in AgentCore Identity Credential Providers. Previously, AgentCore Identity used a service-managed secret approach, where secrets were created and managed by the service on the customer's behalf. This approach prevented customers from applying resource tags on create, en",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/",
+      "date": "2026-06-01T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 16,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
       "title": "Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region",
       "summary": "Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The M8i and M8i-flex instances offer up to 15% better price-performance, and 2.5x more memor",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8i-m8i-flex-new-zealand/",
@@ -207,19 +466,6 @@
       "relevance": 6,
       "tags": [
         "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
-      "summary": "Amazon Bedrock AgentCore Identity now allows customers the ability to reference existing AWS Secrets Manager secret ARNs directly in AgentCore Identity Credential Providers. Previously, AgentCore Identity used a service-managed secret approach, where secrets were created and managed by the service on the customer's behalf. This approach prevented customers from applying resource tags on create, en",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/",
-      "date": "2026-06-01T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 16,
-      "tags": [
-        "ai"
       ],
       "image": null
     },
@@ -287,17 +533,6 @@
       "image": null
     },
     {
-      "title": "AWS Direct Connect now supports VIF Rate Limiters to help prevent network congestion",
-      "summary": "AWS Direct Connect now supports Virtual Interface (VIF) Rate Limiters on dedicated connections, which help you prevent network congestion caused by unexpected traffic spikes on a VIF which can potentially consume all available bandwidth, impacting workloads on other VIFs on the same connection. With VIF Rate Limiters, you can set a maximum bandwidth allocation for up to 10 VIFs on a dedicated conn",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-direct-connect-now-supports-vif-rate-limiters/",
-      "date": "2026-06-01T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Debunking 8 data layout myths: why Liquid Clustering outperforms partitioning",
       "summary": "IntroductionLaying out data is one of the oldest problems in computing. For over...",
       "url": "https://www.databricks.com/blog/debunking-8-data-layout-myths-why-liquid-clustering-outperforms-partitioning",
@@ -320,33 +555,6 @@
       "image": null
     },
     {
-      "title": "Amazon Bedrock adds Amazon CloudWatch metrics for OpenAI- and Anthropic-compatible APIs",
-      "summary": "Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Amazon Bedrock customers can now monitor inference traffic to the bedrock-mantle endpoint with Amazon CloudWatch metrics, the same way they already do for the bedrock-runtime endpoint and ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-supports-cloudwatch-metrics-bedrock-mantle-endpoint/",
-      "date": "2026-06-01T13:38:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 45,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "GPT-5.5, GPT-5.4, and Codex from OpenAI are now generally available on Amazon Bedrock",
-      "summary": "You can now use GPT-5.5 and GPT-5.4 in production workloads on Amazon Bedrock and build with Codex for AI-powered software development, with the same security, governance, and operational controls you already use across AWS. GPT-5.5 is the most capable model from OpenAI, excelling at agentic coding, data analysis, and multi-step autonomous tasks. It runs on the Bedrock next-generation inference en",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-openai-models-codex-generally-available/",
-      "date": "2026-06-01T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 29,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "AI Agent Culture: What Does it Mean For Your Lean Team?",
       "summary": "Supercharge your entire workflow by welcoming digital assistants to your team to do the heavy lifting for you.",
       "url": "https://www.salesforce.com/blog/small-business/ai-agent-culture/",
@@ -364,17 +572,6 @@
       "date": "2026-06-01T12:15:00+00:00",
       "source": "SAP News",
       "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SES now supports tenant-level suppression lists",
-      "summary": "Amazon Simple Email Service (Amazon SES) now supports tenant-level suppression lists, allowing email senders to isolate bounces and complaints per tenant. Previously, all tenants in an account shared a single suppression list, meaning one tenant's email issues caused emails for other tenants to be suppressed. With this feature, each tenant maintains a separate suppression list, ensuring that bounc",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ses-tenant-level-suppression-lists/",
-      "date": "2026-06-01T12:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -476,17 +673,6 @@
         "developer"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/computex-2026-nv-blog-1280x680-1.jpg"
-    },
-    {
-      "title": "Amazon Inspector launches improved agent-based scanning for EC2",
-      "summary": "Amazon Inspector now offers improved agent-based EC2 scanning with the new Inspector VM Scanner, delivering expanded detection coverage and reduced CPU utilization on your EC2 instances. Security teams can now detect vulnerabilities across a broader range of software and applications on their agent-based EC2 instances, including WordPress, Apache HTTP Server, Python packages, and Ruby gems, while ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-ec2-agent-scanning-improvements",
-      "date": "2026-05-31T14:15:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "The Metadata Hub: Unify Your Data Estate",
@@ -738,6 +924,17 @@
       "image": null
     },
     {
+      "title": "Introducing Microsoft 365 Business with Copilot: The new standard for small business",
+      "summary": "On July 1, we're introducing new Microsoft 365 SKUs with Copilot built-in, designed to fit into the way small businesses already work. The post Introducing Microsoft 365 Business with Copilot: The new standard for small business appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/",
+      "date": "2026-05-28T19:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 12,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Advancing Apache Iceberg on Databricks: Iceberg v3 GA, Open Sharing, and Unified Governance",
       "summary": "The next phase of the open lakehouse will be defined by the catalog. Open table formats...",
       "url": "https://www.databricks.com/blog/unity-catalog-and-next-era-apache-icebergtm",
@@ -802,6 +999,17 @@
       "image": null
     },
     {
+      "title": "Introducing a new design for Microsoft 365 Copilot",
+      "summary": "We’ve redesigned the Copilot app and how Copilot shows up across Microsoft 365 apps to better move with it: cleaner, faster, and in the flow of your work. The post Introducing a new design for Microsoft 365 Copilot appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/",
+      "date": "2026-05-28T15:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 12,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Catch up on 12 major I/O 2026 moments",
       "summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
@@ -811,17 +1019,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "How We Used Cortex Code to Turn Finance Variance Analysis into a Live, Intelligent Workflow",
-      "summary": "How Cortex Code turned finance variance analysis into a live workflow See how FP&A replaced a fragile budget vs. actual workbook with a governed Snowflake app that updates during close, accelerates commentary, and reduces manual rebuilds.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/finance-variance-analysis-workflow",
-      "date": "2026-05-28T15:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 4,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Forging a Future-Ready Government: Charlottesville’s Digital Transformation",
@@ -870,17 +1067,6 @@
       "image": null
     },
     {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "url": "https://openai.com/index/mufg",
-      "date": "2026-05-28T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 33,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI’s Frontier Governance Framework",
       "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
@@ -892,16 +1078,14 @@
       "image": null
     },
     {
-      "title": "Snowflake Completes IRAP Protected Assessment on Google Cloud Platform",
-      "summary": "Snowflake has completed an InfoSec Registered Assessors Program (IRAP) assessment for its deployment in the Google Cloud Platform (GCP) Melbourne region to align with the Australian Government’s Protected level control requirements.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/irap-protected-google-cloud",
-      "date": "2026-05-27T22:21:01+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "url": "https://openai.com/index/mufg",
+      "date": "2026-05-28T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 33,
+      "tags": [],
       "image": null
     },
     {
@@ -925,20 +1109,6 @@
       "relevance": 1,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Snowflake to Acquire Natoma to Bring Governed Agentic Access to the Enterprise",
-      "summary": "Snowflake plans to acquire Natoma to bring governed agentic access to the enterprise, helping organizations connect AI agents to enterprise apps with stronger identity, policy, audit, and security controls.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-acquire-natoma-governed-agentic-access",
-      "date": "2026-05-27T19:22:50+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 22,
-      "tags": [
-        "ai",
-        "security"
       ],
       "image": null
     },
@@ -969,19 +1139,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/AI_v001-scaled.png"
     },
     {
-      "title": "How the lakebase architecture stays resilient to cloud failures",
-      "summary": "In the last year, agents have strained the limits of cloud infrastructure with new...",
-      "url": "https://www.databricks.com/blog/how-lakebase-architecture-stays-resilient-cloud-failures",
-      "date": "2026-05-27T15:15:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
       "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
       "url": "https://openai.com/index/cisco",
@@ -1000,28 +1157,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 16,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Building self-improving tax agents with Codex",
-      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "date": "2026-05-27T07:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Election information and safeguards in 2026",
-      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "date": "2026-05-27T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1058,6 +1193,19 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
+      "summary": "Learn what’s new in Copilot Studio, May 2026: computer-using agents are now generally available, plus redesigned workflows and Work IQ extensibility. The post New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
+      "date": "2026-05-26T16:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 21,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -1183,30 +1331,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26gtc-tpe-keynote-GM_05466-1-scaled.jpg"
     },
     {
-      "title": "Agentic AI in Financial Services: How Nasdaq eVestment Drives Faster Investment Insights",
-      "summary": "Discover how Nasdaq eVestment uses agentic AI, Snowflake Cortex and trusted institutional data to help asset managers accelerate prospecting, improve win rates and drive faster investment insights.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-ai-financial-services-nasdaq-evestment",
-      "date": "2026-05-21T15:52:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 26,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Breaking Down Data Silos: A New Path to Making AI-Driven Government a Reality",
-      "summary": "The U.S. General Services Administration (GSA) announced a new OneGov agreement with Snowflake, to empower federal workers to break down data silos, enhance mission effectiveness and accelerate IT modernization.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/gsa-agreement-ai-driven-government",
-      "date": "2026-05-21T13:55:40+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle",
       "summary": "The mission begins now. GeForce NOW is dialing up the action with a blockbuster mix of spy thrills, high-speed racing and member rewards — plus eight new games joining the cloud this week, all ready to stream instantly. Leading the drop: the 007 First Light Ultimate Membership Bundle, which brings a brand-new way to jump […]",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/",
@@ -1326,19 +1450,6 @@
       "image": null
     },
     {
-      "title": "dbt Fusion Is Now Available on Snowflake",
-      "summary": "Accelerate builds with dbt Fusion on Snowflake. Support for dbt Core 1.11.5, native Task orchestration, and GitHub Actions CI/CD. No extra cost.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/dbt-fusion-available-snowflake",
-      "date": "2026-05-19T18:50:17+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
-      "tags": [
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "How AI Mode is changing the way people search in the U.S.",
       "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
@@ -1431,17 +1542,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FINAL_SOCIAL_HERO_laWfMt0.max-600x600.format-webp.webp"
     },
     {
-      "title": "Multimodal Analytics: Decode Video, Audio and Images",
-      "summary": "Learn how multimodal analytics with Snowflake Cortex AI turns video, audio, images and documents into structured insights for faster decisions.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/multimodal-analytics-ai-video-audio-images",
-      "date": "2026-05-19T16:38:12+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Blackstone will create a new TPU cloud in a joint venture with Google.",
       "summary": "Blackstone announced a joint venture with Google to create a new TPU cloud.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/",
@@ -1453,20 +1553,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blackstone_Google_logo_lockup.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
-      "summary": "Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs — while enterprise data queries are up to 3x faster with the Vera CPU. And 5,000 enterprises like Lilly, Samsung and Honeywell are running AI workloads on Dell AI Factories […]",
-      "url": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/",
-      "date": "2026-05-18T22:28:59+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 19,
-      "tags": [
-        "ai",
-        "data"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26-dtw-keynote-jhh-dell-CG3A2688_Option2-scaled.jpg"
     },
     {
       "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
@@ -1596,41 +1682,6 @@
       "date": "2026-05-14T22:03:39+00:00",
       "source": "AWS Blog",
       "category": "aws",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "GitHub availability report: April 2026",
-      "summary": "In April, we experienced 10 incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: April 2026 appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-april-2026/",
-      "date": "2026-05-14T22:02:43+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Cortex Code for FP&A: Faster Insight",
-      "summary": "Learn how Cortex Code helps FP&A move from static reporting to near real-time insight with governed data, faster workflows, and connected finance apps.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/cortex-code-fpa-real-time-insight",
-      "date": "2026-05-14T16:30:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 9,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Semantic Layer in Financial Services AI Risk",
-      "summary": "AI in financial services depends on a reliable semantic layer. Learn why inconsistent definitions create risk, drift and governance gaps.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/semantic-layer-ai-risk-finance",
-      "date": "2026-05-14T16:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
       "relevance": 13,
       "tags": [],
       "image": null
