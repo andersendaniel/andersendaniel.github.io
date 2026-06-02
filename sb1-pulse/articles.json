@@ -1,7 +1,55 @@
 {
-  "generated": "2026-06-02T00:09:37.780354+00:00",
+  "generated": "2026-06-02T09:03:21.660811+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+      "summary": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems. Siloed systems prevent institutions from developing a unified understanding of consumers’ financial behavior. As enterprise datasets keep growing, so does the gap between wha",
+      "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
+      "date": "2026-06-02T06:00:36+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 31,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/fsi-press-new-payments-kv-1920x1080-5150250-1.jpg"
+    },
+    {
+      "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+      "summary": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin, a substantial performance gain on Jetson AGX Orin 32GB module and Multi-Instance GPU (MIG) support on NVIDIA Jetson […]",
+      "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
+      "date": "2026-06-02T02:00:40+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/robotics-press-jetson-agentic-ready-cptx26-1920x1080-5180550.jpg"
+    },
+    {
+      "title": "Meet the Snowflake 2026 Data Drivers Award Winners",
+      "summary": "Discover the individuals and organizations being recognized for using the Snowflake AI Data Cloud to innovate, revolutionize and grow.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/data-drivers-awards-2026",
+      "date": "2026-06-02T02:00:36+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Codex is becoming a productivity tool for everyone",
+      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "date": "2026-06-02T02:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 11,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
     {
       "title": "AWS HealthOmics now supports Nextflow version pinning at run time",
       "summary": "AWS HealthOmics now allows customers to specify the Nextflow engine version at run time via the StartRun API, enabling customers to pin runs to a specific Nextflow version for controlled migration. With this launch, customers can select from supported Nextflow versions (22.04, 23.10, 24.10, 25.10, 26.04) through the new engine-settings parameter, giving explicit control at the point of execution. ",
@@ -783,17 +831,6 @@
       "image": null
     },
     {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "url": "https://openai.com/index/mufg",
-      "date": "2026-05-28T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 33,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI’s Frontier Governance Framework",
       "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
@@ -801,6 +838,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "url": "https://openai.com/index/mufg",
+      "date": "2026-05-28T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 33,
       "tags": [],
       "image": null
     },
@@ -928,6 +976,17 @@
       "image": null
     },
     {
+      "title": "Election information and safeguards in 2026",
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "date": "2026-05-27T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "url": "https://openai.com/index/warp",
@@ -939,17 +998,6 @@
         "ai",
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "Election information and safeguards in 2026",
-      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "date": "2026-05-27T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -985,19 +1033,6 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
-      "summary": "Learn what’s new in Copilot Studio, May 2026: computer-using agents are now generally available, plus redesigned workflows and Work IQ extensibility. The post New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
-      "date": "2026-05-26T16:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 21,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -1041,17 +1076,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "date": "2026-05-25T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -1431,19 +1455,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26-dtw-keynote-jhh-dell-CG3A2688_Option2-scaled.jpg"
     },
     {
-      "title": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs",
-      "summary": "The first NVIDIA Vera CPUs arrived at three of the world's leading AI labs on Friday — Anthropic in San Francisco, OpenAI in Mission Bay, SpaceXAI in Palo Alto — followed by a delivery to Oracle Cloud Infrastructure in Santa Clara on Monday. NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck hand-delivered them.",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-      "date": "2026-05-18T21:48:17+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Vera-CPU_Tray_Open-34_Wide_R6C-FNL-5260651.jpg"
-    },
-    {
       "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
       "summary": "Just a year ago, we launched AWS Transform for .NET, Mainframe and VMware workloads, the first agentic AI service purpose-built for modernizing enterprise applications at scale. At re:Invent 2025, we introduced AWS Transform custom, which enables organizations to modernize and transform code at scale using AWS-managed and custom transformations. You can upgrade language versions, migrate […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/",
@@ -1611,17 +1622,6 @@
       "image": null
     },
     {
-      "title": "Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW",
-      "summary": "Editor’s note: The Gaijin single sign-on feature is now up and running. Dive masks on — Subnautica 2 is making a splash on GeForce NOW day-and-date with launch, so members can plunge into the title’s brand-new alien ocean from almost any device. It leads 11 new games joining the cloud this week. A limited-time HITMAN […]",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/",
-      "date": "2026-05-14T13:00:08+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/gfn-thursday-5-14-nv-blog-1280x680-logo.jpg"
-    },
-    {
       "title": "From commit to cloud: Powering what’s next for PostgreSQL",
       "summary": "PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility. The post From commit to cloud: Powering what’s ne",
       "url": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
@@ -1632,17 +1632,6 @@
       "tags": [
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Retail Customer Analytics: Modern Customer 360",
-      "summary": "Explore how a modern customer 360 uses retail customer analytics, AI and real-time personalization to help brands win cautious consumers.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/retail-customer-analytics-customer-360",
-      "date": "2026-05-13T16:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 9,
-      "tags": [],
       "image": null
     },
     {
