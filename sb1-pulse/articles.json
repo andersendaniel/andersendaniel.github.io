@@ -1,7 +1,43 @@
 {
-  "generated": "2026-06-02T09:03:21.660811+00:00",
+  "generated": "2026-06-02T14:48:10.892922+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Customer Trust in An AI World: If You Build It, They Will Come",
+      "summary": "Learn how your SMB can win long-term loyalty by being open about your smart tools.",
+      "url": "https://www.salesforce.com/blog/small-business/customer-trust-with-ai/",
+      "date": "2026-06-02T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "From Campus to Career: SAP Empowers Academia to Prepare Students for the Age of Agentic AI",
+      "summary": "SAP is helping higher ed keep pace with the rapid adoption of agentic AI in industry and prepare graduates for a changing job market.",
+      "url": "https://news.sap.com/2026/06/sap-academia-prepare-students-agentic-ai/",
+      "date": "2026-06-02T10:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 14,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "summary": "OpenAI calls for global action on youth AI safety through a dedicated AI Safety Institute",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "date": "2026-06-02T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
       "summary": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems. Siloed systems prevent institutions from developing a unified understanding of consumers’ financial behavior. As enterprise datasets keep growing, so does the gap between wha",
@@ -149,19 +185,6 @@
       "image": null
     },
     {
-      "title": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
-      "summary": "Amazon Bedrock AgentCore Identity now allows customers the ability to reference existing AWS Secrets Manager secret ARNs directly in AgentCore Identity Credential Providers. Previously, AgentCore Identity used a service-managed secret approach, where secrets were created and managed by the service on the customer's behalf. This approach prevented customers from applying resource tags on create, en",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/",
-      "date": "2026-06-01T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 16,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region",
       "summary": "Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The M8i and M8i-flex instances offer up to 15% better price-performance, and 2.5x more memor",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8i-m8i-flex-new-zealand/",
@@ -184,6 +207,19 @@
       "relevance": 6,
       "tags": [
         "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
+      "summary": "Amazon Bedrock AgentCore Identity now allows customers the ability to reference existing AWS Secrets Manager secret ARNs directly in AgentCore Identity Credential Providers. Previously, AgentCore Identity used a service-managed secret approach, where secrets were created and managed by the service on the customer's behalf. This approach prevented customers from applying resource tags on create, en",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/",
+      "date": "2026-06-01T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 16,
+      "tags": [
+        "ai"
       ],
       "image": null
     },
@@ -567,6 +603,20 @@
       "image": null
     },
     {
+      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
+      "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
+      "date": "2026-05-29T14:46:32+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
       "title": "Winning under CMS TEAM: Building the learning health system to realize success in VBC today and tomorrow",
       "summary": "Starting January 1, 2026, over 700 hospitals across the United States faced a new...",
       "url": "https://www.databricks.com/blog/winning-under-cms-team-building-learning-health-system-realize-success-vbc-today-and-tomorrow",
@@ -662,17 +712,6 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How We Use Data Detect to Secure the Heart of Salesforce",
-      "summary": "Using our \"Customer Zero\" philosophy, we were able to automate data security and find hidden PII at a massive scale.",
-      "url": "https://www.salesforce.com/blog/data-detect-customer-zero/",
-      "date": "2026-05-28T19:39:41+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -831,17 +870,6 @@
       "image": null
     },
     {
-      "title": "OpenAI’s Frontier Governance Framework",
-      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "date": "2026-05-28T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "MUFG aims to become AI-native with OpenAI",
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "url": "https://openai.com/index/mufg",
@@ -849,6 +877,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 33,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "OpenAI’s Frontier Governance Framework",
+      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "date": "2026-05-28T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -984,20 +1023,6 @@
       "category": "openai",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "url": "https://openai.com/index/warp",
-      "date": "2026-05-27T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 20,
-      "tags": [
-        "ai",
-        "developer"
-      ],
       "image": null
     },
     {
@@ -1412,17 +1437,6 @@
       "date": "2026-05-19T16:38:12+00:00",
       "source": "Snowflake Blog",
       "category": "snowflake",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The AI Race Is Being Fought in the Wrong Place",
-      "summary": "As AI moves from insight to action, enterprise context becomes the differentiator.",
-      "url": "https://news.sap.com/2026/05/ai-race-being-fought-in-wrong-place/",
-      "date": "2026-05-19T08:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
       "relevance": 5,
       "tags": [],
       "image": null
@@ -1925,20 +1939,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
-      "summary": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously. The post Azure IaaS: Defense in depth built on secure-by-design principles appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
-      "date": "2026-05-04T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 8,
-      "tags": [
-        "cloud",
-        "security"
-      ],
-      "image": null
     }
   ]
 }
