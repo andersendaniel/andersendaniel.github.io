@@ -1,7 +1,88 @@
 {
-  "generated": "2026-06-03T15:26:19.303690+00:00",
+  "generated": "2026-06-03T20:15:23.360899+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "AWS Step Functions adds AgentCore-powered agentic reasoning step",
+      "summary": "AWS Step Functions now enables you to add AI agent reasoning steps to your workflow through an optimized integration with the managed harness (currently in preview) in Amazon Bedrock AgentCore. AWS Step Functions is a visual workflow service that orchestrates AWS services with built-in error handling, parallel execution, and human approval steps. The AgentCore harness lets you declare an agent thr",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-agentcore/",
+      "date": "2026-06-03T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 30,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "OpenAI GPT-5.4 generally available on Amazon Bedrock in AWS GovCloud (US-West)",
+      "summary": "Amazon Bedrock now supports GPT‑5.4 from OpenAI in AWS GovCloud (US-West) — giving government and regulated industry customers access to OpenAI's most capable frontier model for professional work, backed by the enterprise-grade security and goverment compliance scope of AWS GovCloud (US). GPT‑5.4 supports native computer-use capabilities, and deep reasoning across coding, documents, and multi-step",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/GPT54-available-in-aws-govcloud-us-west/",
+      "date": "2026-06-03T19:58:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 32,
+      "tags": [
+        "ai",
+        "cloud",
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "The New Era of Facilities Management: From Cost Center to Growth Engine",
+      "summary": "It’s time to move away from fragmented, system-centered tools. When we anchor operations as a unified enterprise, facilities can be transformed into predictable engines for business growth.",
+      "url": "https://www.salesforce.com/blog/field-service-facilities/",
+      "date": "2026-06-03T18:25:08+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "ARC Region switch adds Amazon Aurora scaling and Amazon Neptune global database failover",
+      "summary": "Amazon Application Recovery Controller (ARC) Region switch helps customers orchestrate the failover of their multi-Region applications to achieve a bounded recovery time in the event of a Regional impairment. Today, we are announcing three new execution blocks — the Amazon Aurora serverless scaling execution block, the Amazon Aurora provisioned scaling execution block, and the Amazon Neptune globa",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/region-switch-aurora-scaling-neptune-failover/",
+      "date": "2026-06-03T17:44:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Keyspaces (for Apache Cassandra) now provides CDC iterator position",
+      "summary": "Amazon Keyspaces (for Apache Cassandra) now returns an iterator position in the GetRecords response for change data capture (CDC) streams, indicating whether a consumer has reached the tip of the stream or whether additional records may be available. Amazon Keyspaces is a scalable, serverless, and managed Apache Cassandra-compatible database service that lets customers run Cassandra workloads on A",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/keyspaces-cdc-iterator-position/",
+      "date": "2026-06-03T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio now supports a localized experience in twelve languages",
+      "summary": "Amazon SageMaker Unified Studio enhanced its global accessibility by introducing support for twelve languages across the user interface. Supported languages include English (American), Chinese (Simplified and Traditional), French, German, Indonesian, Italian, Japanese, Korean, Portuguese (Brazilian), Spanish, and Turkish. With this launch, data engineers, analysts, and data scientists across globa",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/sagemaker-localization",
+      "date": "2026-06-03T15:26:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
       "summary": "What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before. What makes an autonomous vehicle system safe isn’t just that it can reason through a situation — it’s that […]",
@@ -23,6 +104,33 @@
       "relevance": 19,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cvpr-product-blog-still-1920x1080-1.jpg"
+    },
+    {
+      "title": "Amazon SageMaker AI launches multi-turn reinforcement learning for AI agent model customization",
+      "summary": "Amazon SageMaker AI now offers multi-turn reinforcement learning (RL), a new serverless model customization technique for fine-tuning models on multi-step, agentic tasks. SageMaker AI model customization lets you adapt foundation models using techniques such as supervised fine-tuning, reinforcement learning from verifiable rewards (RLVR), and reinforcement learning from AI feedback (RLAIF), withou",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/multi-turn-reinforcement-learning-on-sagemaker-ai/",
+      "date": "2026-06-03T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 30,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Config now supports 9 new resource types",
+      "summary": "AWS Config now supports 9 additional AWS resource types across key services including Amazon Bedrock, Amazon Bedrock AgentCore, and Amazon SageMaker. This expansion provides greater coverage over your AWS environment, enabling you to more effectively discover, assess, audit, and remediate an even broader range of resources. With this launch, if you have enabled recording for all resource types, th",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-config-new-resource-types",
+      "date": "2026-06-03T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 12,
+      "tags": [
+        "ai"
+      ],
+      "image": null
     },
     {
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
@@ -65,6 +173,39 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "OpenAI public policy agenda",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "date": "2026-06-03T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "date": "2026-06-03T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS for Db2 launches support for IBM Db2 v12.1 and Db2 Community Edition",
+      "summary": "Amazon RDS for Db2 now supports IBM Db2 v12.1. With Db2 v12.1, RDS now supports Db2 Standard, Db2 Advanced, and Db2 Community Edition. Db2 Community Edition provides all the features available in Standard and Advanced Editions, with no commercial software licensing charges for development and test applications. This allows you to easily start developing and testing Db2 applications with a managed ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-db2-v12-community-edition",
+      "date": "2026-06-03T07:11:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -401,19 +542,6 @@
       "image": null
     },
     {
-      "title": "Amazon RDS for SQL Server supports Bring Your Own Media",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server launches Bring Your Own Media (BYOM) for Microsoft SQL Server. With BYOM, customers who migrate SQL Server applications from on-premises environments can adopt a managed database service on AWS and reuse their existing Microsoft SQL Server licenses, including Software Assurance, through Microsoft's License Mobility program. Amazon RDS ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-bring-your-own-media/",
-      "date": "2026-06-02T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Advancing youth safety and opportunity through global leadership",
       "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
       "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
@@ -434,6 +562,19 @@
       "relevance": 31,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/fsi-press-new-payments-kv-1920x1080-5150250-1.jpg"
+    },
+    {
+      "title": "Introducing Cross-Engine ABAC",
+      "summary": "In December, we shared our vision for completing the lakehouse: open storage, open...",
+      "url": "https://www.databricks.com/blog/introducing-cross-engine-abac",
+      "date": "2026-06-02T03:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
     },
     {
       "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
@@ -473,28 +614,6 @@
       "image": null
     },
     {
-      "title": "AWS HealthOmics now supports Nextflow version pinning at run time",
-      "summary": "AWS HealthOmics now allows customers to specify the Nextflow engine version at run time via the StartRun API, enabling customers to pin runs to a specific Nextflow version for controlled migration. With this launch, customers can select from supported Nextflow versions (22.04, 23.10, 24.10, 25.10, 26.04) through the new engine-settings parameter, giving explicit control at the point of execution. ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-pinning-at-runtime/",
-      "date": "2026-06-01T23:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS HealthOmics now supports Nextflow version 26.04",
-      "summary": "AWS HealthOmics now supports Nextflow version 26.04, enabling customers to take advantage of new Nextflow features and enhancements: record types, the strict syntax parser, workflow output summaries, and agent logging mode. AWS HealthOmics is a HIPAA-eligible service that helps healthcare and life sciences customers accelerate scientific breakthroughs at scale with fully managed bioinformatics wor",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-26-04/",
-      "date": "2026-06-01T23:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
       "summary": "OpenAI frontier models GPT-5.5 and GPT-5.4, and Codex, the OpenAI coding agent, are now generally available on Amazon Bedrock. Deploy frontier models on Bedrock's high performance inference engine with built-in security, governance, and pay-per-token pricing.",
       "url": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
@@ -519,47 +638,6 @@
       "image": null
     },
     {
-      "title": "Quick Research now supports customer managed keys",
-      "summary": "Amazon Quick Research now enables customers to encrypt their data using customer-managed keys (CMK) through AWS Key Management Service (KMS). This enhancement allows organizations with strict security and compliance requirements to manage their own encryption keys. With customer-managed keys, you gain enhanced security control and comprehensive audit capabilities through AWS CloudTrail integration",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys",
-      "date": "2026-06-01T18:27:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud",
-        "security",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Quick now supports VPC connectivity for MCP connections",
-      "summary": "Amazon Quick now enables enterprise customers to connect their privately hosted Model Context Protocol (MCP) servers to Quick through Amazon Virtual Private Cloud (VPC). Amazon Quick is an AI assistant that turns questions into answers, answers into actions, and actions into outcomes for you and your entire team. Previously, Quick's MCP support was limited to third-party hosted servers accessible ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-vpc-mcp/",
-      "date": "2026-06-01T17:26:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker adds permissions boundaries for SCP compliance",
-      "summary": "Amazon SageMaker Unified Studio now supports custom IAM permissions boundaries, so organizations that enforce Service Control Policies (SCPs) requiring permissions boundaries on all IAM roles can adopt SageMaker Unified Studio without modifying their security posture. When a user creates a project, SageMaker Unified Studio provisions three IAM roles: a project user role, an Amazon Bedrock service ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-scp/",
-      "date": "2026-06-01T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 13,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "Our views on AI policy and political advocacy",
       "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
       "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
@@ -568,32 +646,6 @@
       "category": "openai",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS PCS now provides a production-ready Deep Learning AMI",
-      "summary": "Today, AWS Parallel Computing Service (AWS PCS) launches PCS-ready DLAMI, an AWS-maintained Amazon Machine Image built on the Deep Learning Base GPU AMI (Ubuntu 24.04). It provides a production-quality foundation for AI/ML training and high performance computing (HPC), with core infrastructure components pre-installed and tested for compatibility. AWS PCS is a managed service that makes it easier ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-pcs-deep-learning-ami/",
-      "date": "2026-06-01T16:07:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region",
-      "summary": "Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The M8i and M8i-flex instances offer up to 15% better price-performance, and 2.5x more memor",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8i-m8i-flex-new-zealand/",
-      "date": "2026-06-01T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -914,17 +966,6 @@
       "image": null
     },
     {
-      "title": "Connections for Small Business: Hands-on Learning for Marketers",
-      "summary": "Learn how Salesforce Connections sessions will help build AI strategies and skills for every marketer.",
-      "url": "https://www.salesforce.com/blog/small-business/connections-for-growing-businesses/",
-      "date": "2026-05-29T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Check out real-life AI prototypes from the Futures Lab.",
       "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
@@ -1010,19 +1051,6 @@
       "category": "microsoft",
       "relevance": 12,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Advancing Apache Iceberg on Databricks: Iceberg v3 GA, Open Sharing, and Unified Governance",
-      "summary": "The next phase of the open lakehouse will be defined by the catalog. Open table formats...",
-      "url": "https://www.databricks.com/blog/unity-catalog-and-next-era-apache-icebergtm",
-      "date": "2026-05-28T18:58:09+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -1156,17 +1184,6 @@
       "image": null
     },
     {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "url": "https://openai.com/index/mufg",
-      "date": "2026-05-28T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 33,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Meet Our Newest AWS Heroes – May 2026",
       "summary": "We’re excited to welcome four outstanding community leaders as our newest AWS Heroes. These individuals embody the spirit of collaboration and knowledge sharing that makes the AWS community thrive. From building AI-powered tools that help fellow builders navigate AWS re:Invent, to leading some of the largest AWS communities in Latin America, to sharing deep cloud […]",
       "url": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/",
@@ -1191,17 +1208,6 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/AI_v001-scaled.png"
-    },
-    {
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-      "url": "https://openai.com/index/cisco",
-      "date": "2026-05-27T11:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 5,
-      "tags": [],
-      "image": null
     },
     {
       "title": "The Autonomous Enterprise: Better Decisions in Motion",
@@ -1959,30 +1965,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-05_11.20.04_.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
-      "summary": "Last week, I took some time off in York, England, often described as the most haunted city in the country. I wandered through the ruins of abbeys that have stood for nearly a thousand years, walked along medieval walls, and spent an evening on a ghost tour hearing stories passed down through centuries. There’s something […]",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026/",
-      "date": "2026-05-04T17:05:41+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The latest AI news we announced in April 2026",
-      "summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "date": "2026-05-04T17:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp"
     }
   ]
 }
