@@ -1,7 +1,73 @@
 {
-  "generated": "2026-06-03T09:22:49.395277+00:00",
+  "generated": "2026-06-03T15:26:19.303690+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+      "summary": "What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before. What makes an autonomous vehicle system safe isn’t just that it can reason through a situation — it’s that […]",
+      "url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+      "date": "2026-06-03T15:00:57+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/CVPR_blog_still-scaled.png"
+    },
+    {
+      "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+      "summary": "At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physical AI research isn’t simply developing stronger models. It’s building a full workflow around them — reconstructing real-world scenes, generating edge-case scenarios, training policies, evaluating […]",
+      "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
+      "date": "2026-06-03T15:00:35+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 19,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cvpr-product-blog-still-1920x1080-1.jpg"
+    },
+    {
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "date": "2026-06-03T13:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Top 10 Free Email Marketing Tools For Small Businesses and Startups",
+      "summary": "Free email marketing features are now available to small teams, and we've put together the top list of tools.",
+      "url": "https://www.salesforce.com/blog/small-business/free-email-marketing-tools-for-startups/",
+      "date": "2026-06-03T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Scaling Enterprise Conversational Intelligence: Cross-industry Technology and Functional Solutions Powered by Databricks Genie",
+      "summary": "As we explored in our first blog, Databricks Genie is redefining industry-specific...",
+      "url": "https://www.databricks.com/blog/cross-industry-technology-and-functional-genie-partner-solutions",
+      "date": "2026-06-03T11:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Victrola Puts a Modern Spin on Growth in the Public Cloud",
+      "summary": "Victrola moved from SAP ECC to SAP Cloud ERP, highlighting the strategic, operational, and cultural factors involved in transforming a growing retail company.",
+      "url": "https://news.sap.com/2026/06/victrola-puts-modern-spin-public-cloud-growth/",
+      "date": "2026-06-03T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Meet Agentforce Coworker: your AI teammate everywhere. And it actually does the work.",
       "summary": "It’s 8:47 a.m. A top-tier customer wants a custom renewal proposal — based on their case history, account data, and usage metrics — by end of day. You know exactly what to do.…",
@@ -903,17 +969,6 @@
       "image": null
     },
     {
-      "title": "Model Cards for AI Model Transparency",
-      "summary": "At Salesforce, we take seriously our mission to create and deliver AI technology that is responsible, accountable, transparent, empowering, and inclusive. These principles ensure that our AI is safe, ethical, and engenders trust.",
-      "url": "https://www.salesforce.com/blog/model-cards-for-ai-model-transparency/",
-      "date": "2026-05-29T01:41:49+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "A shared playbook for trustworthy third party evaluations",
       "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
       "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
@@ -1108,17 +1163,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 33,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Reliable LLM Inference at Scale",
-      "summary": "At Databricks, we’ve built a unique inference platform that serves every frontier...",
-      "url": "https://www.databricks.com/blog/reliable-llm-inference-scale",
-      "date": "2026-05-27T20:20:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 15,
       "tags": [],
       "image": null
     },
@@ -1326,32 +1370,6 @@
       "image": null
     },
     {
-      "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
-      "summary": "At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthroughs shaping every industry, covering topics spanning AI factories and scaling infrastructure to agentic and physical AI and more.",
-      "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
-      "date": "2026-05-21T16:00:17+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 3,
-      "tags": [
-        "ai",
-        "automation",
-        "developer"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26gtc-tpe-keynote-GM_05466-1-scaled.jpg"
-    },
-    {
-      "title": "License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle",
-      "summary": "The mission begins now. GeForce NOW is dialing up the action with a blockbuster mix of spy thrills, high-speed racing and member rewards — plus eight new games joining the cloud this week, all ready to stream instantly. Leading the drop: the 007 First Light Ultimate Membership Bundle, which brings a brand-new way to jump […]",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/",
-      "date": "2026-05-21T13:00:22+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/gfn-thursday-5-14-nv-blog-1280x680-logo-1.jpg"
-    },
-    {
       "title": "Ericsson Scales AI Across the Enterprise with a Business Data Fabric and SAP",
       "summary": "MADRID — The company is moving from AI experimentation to enterprise-wide execution.",
       "url": "https://news.sap.com/2026/05/ericsson-scales-ai-across-enterprise-business-data-fabric-sap/",
@@ -1419,17 +1437,6 @@
       "tags": [
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI",
-      "summary": "MADRID — The global leader in automotive seating and interior systems, has successfully deployed an autonomous intralogistics model.",
-      "url": "https://news.sap.com/2026/05/martur-fompak-international-throughput-efficiency-intelligent-robotics-joule-embodied-ai/",
-      "date": "2026-05-20T08:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -1915,17 +1922,6 @@
         "automation"
       ],
       "image": null
-    },
-    {
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "date": "2026-05-05T16:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
     },
     {
       "title": "Copilot Cowork: From conversation to action across skills, integrations, and devices",
