@@ -1,7 +1,68 @@
 {
-  "generated": "2026-06-04T08:44:37.796227+00:00",
+  "generated": "2026-06-04T13:56:05.643129+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
+      "summary": "June’s forecast with GeForce NOW: 100% chance of gaming. GeForce NOW is lining up new adventures for the month, from big-name blockbusters to quirky indies ready for the spotlight. Members can dive into fresh worlds, squad up in new playlists and discover “just one more run” favorites — all streaming from the cloud, no downloads […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/",
+      "date": "2026-06-04T13:00:27+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-4-nv-blog-1280x680-logo-1.jpg"
+    },
+    {
+      "title": "AI Adoption For Startups: Ready Your Team for the Fast-Track",
+      "summary": "These AI adoption tips will help your team understand how easy it is use smart tools.",
+      "url": "https://www.salesforce.com/blog/small-business/ai-adoption-for-startups/",
+      "date": "2026-06-04T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Autonomous Supply Chain: Why Agentic AI Is Rewriting the Operating Model",
+      "summary": "Agentic AI is a critical enabler of a more autonomous supply chain operating model.",
+      "url": "https://news.sap.com/2026/06/autonomous-supply-chain-why-agentic-ai-is-rewriting-the-operating-model/",
+      "date": "2026-06-04T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "url": "https://openai.com/index/endava-frontiers",
+      "date": "2026-06-04T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 33,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "How Applied Materials Is Driving Transformation of the Finance Function with SAP Taulia",
+      "summary": "It now has a system that is agile, resilient, and focused on maintaining mutually beneficial relationships with its global supplier ecosystem.",
+      "url": "https://news.sap.com/2026/06/applied-materials-finance-transformation-sap-taulia/",
+      "date": "2026-06-04T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
       "summary": "Amazon Cognito now offers multi-Region replication that automatically synchronizes user data, credentials, and pool configurations to a secondary AWS Region, enabling uninterrupted authentication during regional failovers without forced password resets—plus new support for customer managed KMS keys for encryption control.",
@@ -269,17 +330,6 @@
       "image": null
     },
     {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "date": "2026-06-03T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI public policy agenda",
       "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
       "url": "https://openai.com/index/public-policy-agenda",
@@ -287,6 +337,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "date": "2026-06-03T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -391,6 +452,17 @@
       "image": null
     },
     {
+      "title": "AI alone won’t change your business. The system running it will.",
+      "summary": "We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack. The post AI alone won’t change your business. The system running it will. appeared first on Microsoft Azure Blog .",
+      "url": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+      "date": "2026-06-02T19:15:57+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
       "summary": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]",
       "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
@@ -403,6 +475,20 @@
         "cloud"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-corp-blog-microsoft-1280x680-4999350.png"
+    },
+    {
+      "title": "Announcing Microsoft Discovery general availability and Microsoft Discovery app preview",
+      "summary": "At Microsoft Build, we are announcing that Microsoft Discovery is now generally available for all organizations, providing a comprehensive platform for building and governing agentic AI workflows. The post Announcing Microsoft Discovery general availability and Microsoft Discovery app preview appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/",
+      "date": "2026-06-02T18:15:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 18,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
     },
     {
       "title": "GitHub Copilot app: The agent-native desktop experience",
@@ -426,6 +512,57 @@
       "source": "Microsoft 365",
       "category": "microsoft",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases",
+      "summary": "Microsoft Build 2026 highlights advancements in app development with Microsoft Fabric and Microsoft Databases, emphasizing a unified data and AI platform for scalable, agentic applications. The post Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/",
+      "date": "2026-06-02T16:59:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/4009252-OneLake-Foundry-Integration-Demo"
+    },
+    {
+      "title": "New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads",
+      "summary": "We are announcing the early access preview for Azure Cobalt 200 Arm-based Virtual Machines (VMs), designed for Linux-based agentic AI workloads. The post New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/",
+      "date": "2026-06-02T16:30:09+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval",
+      "summary": "Build smarter agents with Microsoft Foundry IQ, unifying enterprise and external data into a secure, scalable knowledge layer for faster, higher-quality answers. The post Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval appeared first on Microsoft Azure Blog .",
+      "url": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
+      "date": "2026-06-02T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 9,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry",
+      "summary": "Microsoft Foundry helps teams move beyond model access to operate AI at scale—selecting, evaluating, optimizing, and governing models across the full lifecycle. The post A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "url": "https://devblogs.microsoft.com/foundry/build-2026-foundry-models/",
+      "date": "2026-06-02T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
       "tags": [],
       "image": null
     },
@@ -958,17 +1095,6 @@
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
-      "title": "What is the MCP Server and What Does it Mean for Your Marketing?",
-      "summary": "Learn how the new Agentforce Marketing feature is bridging the gap between imagination and innovation",
-      "url": "https://www.salesforce.com/blog/marketing-mcp-server/",
-      "date": "2026-05-29T15:14:13+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
       "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
       "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
@@ -1034,17 +1160,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "date": "2026-05-29T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1214,19 +1329,6 @@
       "image": null
     },
     {
-      "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
-      "summary": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark results published by Phoronix today show that the NVIDIA Vera CPU meets this need. For this first public look, the benchmark scope […]",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
-      "date": "2026-05-26T21:15:15+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Vera-CPU_Tray_Open-34_Wide_R6C-FNL-5260651-1.jpg"
-    },
-    {
       "title": "The Next Era of Business AI",
       "summary": "Without context, AI cannot deliver on its promise.",
       "url": "https://news.sap.com/2026/05/the-next-era-of-business-ai/",
@@ -1369,19 +1471,6 @@
       "image": null
     },
     {
-      "title": "Ericsson Scales AI Across the Enterprise with a Business Data Fabric and SAP",
-      "summary": "MADRID — The company is moving from AI experimentation to enterprise-wide execution.",
-      "url": "https://news.sap.com/2026/05/ericsson-scales-ai-across-enterprise-business-data-fabric-sap/",
-      "date": "2026-05-21T08:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Investigation update: GitHub Enterprise Server signing key rotation",
       "summary": "GitHub Enterprise Server customers need to take immediate action. The post Investigation update: GitHub Enterprise Server signing key rotation appeared first on The GitHub Blog .",
       "url": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
@@ -1435,20 +1524,6 @@
       "relevance": 2,
       "tags": [
         "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Azure Files Entra-Only identities: Advancing cloud-native identity and security",
-      "summary": "We are excited to announce the general availability (GA) of Entra-Only identities for Azure Files SMB. With native Microsoft Entra ID authentication, organizations can now grant secure, identity-based access to SMB file shares using cloud-native-only identities. The post Azure Files Entra-Only identities: Advancing cloud-native identity and security appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/",
-      "date": "2026-05-19T19:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 7,
-      "tags": [
-        "cloud",
-        "security"
       ],
       "image": null
     },
@@ -1690,19 +1765,6 @@
       "image": null
     },
     {
-      "title": "From commit to cloud: Powering what’s next for PostgreSQL",
-      "summary": "PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility. The post From commit to cloud: Powering what’s ne",
-      "url": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
-      "date": "2026-05-13T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Reel Friends: Building Social Discovery that Scales to Billions",
       "summary": "On its face the new Friend Bubbles feature looks simple enough. It highlights Reels your friends have watched and reacted to. But sometimes the features that seem the most straightforward require the deepest engineering work. On this episode of the Meta Tech Podcast, Pascal Hartig chats with Subasree and Joseph, two software engineers from the Facebook [...] Read More... The post Reel Friends: Bui",
       "url": "https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/",
@@ -1710,17 +1772,6 @@
       "source": "Meta Engineering",
       "category": "meta",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
-      "summary": "Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure. The post Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026 appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
-      "date": "2026-05-12T18:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 6,
       "tags": [],
       "image": null
     },
@@ -1764,17 +1815,6 @@
       "image": "https://lh3.googleusercontent.com/8kFWTjhROuwZK6kVFk-ol13YlKLABvppqzVl9LIhYyY3NP4Z8Y0i2ubSuVIfgmknluXTgYmTMAzRR21CxJPbgSK5m37ARzv26S8TPX5QhNWG6wq11Q=w528-h297-n-nu-rw-lo"
     },
     {
-      "title": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift",
-      "summary": "Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance. The post Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
-      "date": "2026-05-11T19:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "New and improved: Agent governance, intelligent workflows, and connected app experiences",
       "summary": "See what's new in Copilot Studio, April 2026: updates to workflows, increased control over agent operations, and an expanded agent usage estimator. The post New and improved: Agent governance, intelligent workflows, and connected app experiences appeared first on Microsoft 365 Blog .",
       "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-agent-governance-intelligent-workflows-and-connected-app-experiences/",
@@ -1798,17 +1838,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026",
-      "summary": "AI is reshaping application development. Explore key trends from Cosmos DB Conf 2026 and how teams are building scalable, AI-native applications with Azure Cosmos DB. The post Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026 appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/",
-      "date": "2026-05-11T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -1882,19 +1911,6 @@
       "image": null
     },
     {
-      "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
-      "summary": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
-      "date": "2026-05-06T14:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 7,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
       "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
@@ -1921,43 +1937,6 @@
         "automation"
       ],
       "image": null
-    },
-    {
-      "title": "Copilot Cowork: From conversation to action across skills, integrations, and devices",
-      "summary": "Today, we’re announcing additional capabilities in Cowork to expand on what it can make possible for you. The post Copilot Cowork: From conversation to action across skills, integrations, and devices appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/",
-      "date": "2026-05-05T10:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Microsoft 365 Copilot, human agency, and the opportunity for every organization",
-      "summary": "As AI and agents take on more of the execution, people have more agency than ever to unlock their ambition, direct what gets done, and own the outcomes. The post Microsoft 365 Copilot, human agency, and the opportunity for every organization appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/microsoft-365-copilot-human-agency-and-the-opportunity-for-every-organization/",
-      "date": "2026-05-05T10:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Here’s how we’re helping Belgium's farmers save water with AI.",
-      "summary": "Agrow’s technology platform integrates climate, water and soil data from satellite and thermal imagery to provide precise irrigation and fertilization recommendations.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/heres-how-were-helping-belgiums-farmers-save-water-with-ai/",
-      "date": "2026-05-05T09:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 4,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-05_11.20.04_.max-600x600.format-webp.webp"
     }
   ]
 }
