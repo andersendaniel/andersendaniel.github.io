@@ -1,7 +1,40 @@
 {
-  "generated": "2026-06-05T00:01:36.077795+00:00",
+  "generated": "2026-06-05T08:40:51.959505+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
+      "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Stay tuned here for live […]",
+      "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
+      "date": "2026-06-05T05:38:37+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/IMG_1519-1-scaled.jpg"
+    },
+    {
+      "title": "LGND AI is the 2026 Snowflake Startup Challenge winner",
+      "summary": "Learn how LGND is working to make Earth imagery queryable and expand its use in AI, agents, apps and more.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-challenge-2026-winner",
+      "date": "2026-06-05T01:33:52+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker Data Agent integrates business context into conversations",
+      "summary": "Amazon SageMaker Data Agent now integrates with SageMaker Catalog business context and metadata, enabling data practitioners to discover datasets and generate more accurate SQL and Python code using business terminology instead of cryptic technical table names. This integration allows the Data Agent to leverage the business context that companies have invested months curating in their SageMaker Ca",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent-bdc/",
+      "date": "2026-06-04T21:51:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Amazon Cognito now supports multi-Region replication",
       "summary": "Amazon Cognito now supports multi-Region replication, enabling you to synchronize user and machine identity data — including credentials, user pool configurations, and federation setups — to a secondary user pool in a standby Region you designate in near real-time. This capability helps you improve the resilience of your authentication system by providing a standby replica that can accept traffic ",
@@ -347,20 +380,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cvpr-product-blog-still-1920x1080-1.jpg"
     },
     {
-      "title": "Amazon SageMaker AI launches multi-turn reinforcement learning for AI agent model customization",
-      "summary": "Amazon SageMaker AI now offers multi-turn reinforcement learning (RL), a new serverless model customization technique for fine-tuning models on multi-step, agentic tasks. SageMaker AI model customization lets you adapt foundation models using techniques such as supervised fine-tuning, reinforcement learning from verifiable rewards (RLVR), and reinforcement learning from AI feedback (RLAIF), withou",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/multi-turn-reinforcement-learning-on-sagemaker-ai/",
-      "date": "2026-06-03T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 30,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Introducing new capabilities to GPT-Rosalind",
       "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
       "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
@@ -427,17 +446,6 @@
       "image": null
     },
     {
-      "title": "OpenAI public policy agenda",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "date": "2026-06-03T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "A blueprint for democratic governance of frontier AI",
       "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
       "url": "https://openai.com/index/frontier-safety-blueprint",
@@ -445,6 +453,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "OpenAI public policy agenda",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "date": "2026-06-03T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -627,6 +646,30 @@
       "image": null
     },
     {
+      "title": "AI in Defense: How Artificial Intelligence Is Reshaping National Security",
+      "summary": "The integration of artificial intelligence into defense is no longer a future consideration — it is happening now, ...",
+      "url": "https://www.databricks.com/blog/ai-in-defense-industry",
+      "date": "2026-06-02T14:52:32+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 9,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Data Governance Architecture: A Complete Blueprint for Modern Organizations",
+      "summary": "Organizations that invest in robust data governance achieve measurable improvements in data quality...",
+      "url": "https://www.databricks.com/blog/data-governance-architecture",
+      "date": "2026-06-02T14:37:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Query Tags: The Context Your Warehouse Queries Have Been Missing",
       "summary": "Databricks SQL logs key attributes of every query automatically: who ran it, on which...",
       "url": "https://www.databricks.com/blog/query-tags-context-your-warehouse-queries-have-been-missing",
@@ -727,6 +770,30 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 18,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Practical Data Warehouse Design and Architecture Guide",
+      "summary": "This guide is written for data engineers, architects, analytics engineers, and technical...",
+      "url": "https://www.databricks.com/blog/data-warehouse-design",
+      "date": "2026-06-02T12:46:59+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AI Governance Maturity Model: Matrix, Assessment, and Roadmap",
+      "summary": "What Is an AI Governance Maturity Model?An AI governance maturity model is a structured...",
+      "url": "https://www.databricks.com/blog/ai-governance-maturity-model",
+      "date": "2026-06-02T12:21:25+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
       "tags": [],
       "image": null
     },
@@ -839,17 +906,6 @@
       "image": null
     },
     {
-      "title": "Personalizing Genie Code with instructions, skills, memory, and MCP",
-      "summary": "Genie Code works best when it understands how your team actually operates: your coding...",
-      "url": "https://www.databricks.com/blog/personalizing-genie-code-instructions-skills-memory-and-mcp",
-      "date": "2026-06-01T23:45:22+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
       "summary": "OpenAI frontier models GPT-5.5 and GPT-5.4, and Codex, the OpenAI coding agent, are now generally available on Amazon Bedrock. Deploy frontier models on Bedrock's high performance inference engine with built-in security, governance, and pay-per-token pricing.",
       "url": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
@@ -917,17 +973,6 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 17,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Debunking 8 data layout myths: why Liquid Clustering outperforms partitioning",
-      "summary": "IntroductionLaying out data is one of the oldest problems in computing. For over...",
-      "url": "https://www.databricks.com/blog/debunking-8-data-layout-myths-why-liquid-clustering-outperforms-partitioning",
-      "date": "2026-06-01T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1074,30 +1119,6 @@
       "image": null
     },
     {
-      "title": "Enabling Evolutionary Database Development: database branching with Lakebase",
-      "summary": "Why this series existsThe methodology described in Evolutionary Database Design and...",
-      "url": "https://www.databricks.com/blog/enabling-evolutionary-database-development-database-branching-lakebase",
-      "date": "2026-05-29T22:04:37+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AI Doesn't Scale Until You Stop Calling It Innovation",
-      "summary": "Most enterprises have a team that deals with AI. Fewer have AI fully operationalized....",
-      "url": "https://www.databricks.com/blog/ai-doesnt-scale-until-you-stop-calling-it-innovation",
-      "date": "2026-05-29T21:43:56+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 7,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
       "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
@@ -1240,19 +1261,6 @@
       "image": null
     },
     {
-      "title": "Announcing Claude Opus 4.8 on Snowflake Cortex AI",
-      "summary": "Claude Opus 4.8 is now available on Snowflake Cortex AI, bringing advanced reasoning and agentic capabilities with Snowflake’s secure governed AI platform",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-opus-4-8-snowflake-cortex-ai",
-      "date": "2026-05-28T17:16:35+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Introducing a new design for Microsoft 365 Copilot",
       "summary": "We’ve redesigned the Copilot app and how Copilot shows up across Microsoft 365 apps to better move with it: cleaner, faster, and in the flow of your work. The post Introducing a new design for Microsoft 365 Copilot appeared first on Microsoft 365 Blog .",
       "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/",
@@ -1319,19 +1327,6 @@
         "cloud"
       ],
       "image": null
-    },
-    {
-      "title": "AI Factories: The New Infrastructure of Intelligence",
-      "summary": "AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per watt and cost per token become the economics that matter.",
-      "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
-      "date": "2026-05-27T16:00:36+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 17,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/AI_v001-scaled.png"
     },
     {
       "title": "The Autonomous Enterprise: Better Decisions in Motion",
