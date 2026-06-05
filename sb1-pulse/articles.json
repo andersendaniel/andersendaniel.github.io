@@ -1,7 +1,42 @@
 {
-  "generated": "2026-06-05T08:40:51.959505+00:00",
+  "generated": "2026-06-05T13:50:51.910480+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Still Running Agentic Pilots? Here’s What 5 Companies Did to Ship AI Agents to Production",
+      "summary": "Five companies. Five decisions. One pattern separating the teams that shipped AI agents from the ones still refining their demos.",
+      "url": "https://www.salesforce.com/blog/ai-agent-production-tips/",
+      "date": "2026-06-05T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "7 Tips to Create a Clickable Newsletter (With or Without AI)",
+      "summary": "Build an email newsletter campaign that grabs more attention.",
+      "url": "https://www.salesforce.com/blog/small-business/how-to-create-a-newsletter/",
+      "date": "2026-06-05T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AI as a Game Changer for the Energy and Utilities Industry",
+      "summary": "At the SAP for Energy & Utilities Conference, AI was an omnipresent topic.",
+      "url": "https://news.sap.com/2026/06/ai-game-changer-energy-utilities-industry/",
+      "date": "2026-06-05T10:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
       "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Stay tuned here for live […]",
@@ -1130,17 +1165,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp"
     },
     {
-      "title": "Design Headless AI Experiences on Salesforce",
-      "summary": "Learn a composition framework that helps you match the right AI experience to the right user, without leaving your platform's governance umbrella.",
-      "url": "https://www.salesforce.com/blog/design-headless-ai-experiences/",
-      "date": "2026-05-29T18:37:09+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
       "summary": "Gemini Omni & Gemini 3.5 hero",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
@@ -1909,19 +1933,6 @@
       "relevance": 14,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-      "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "date": "2026-05-06T10:43:49+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 12,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://lh3.googleusercontent.com/UNlyTVoqkmAoTzbbF4QRoPXr-X-QBkXeVpcHxIjte0y5mn_f6ZYHVsynQswOhGLJx-7hnbwt1NcTOQDQoCbum3-l8wPPP5dC6kw0tGmBQAw60nEHog=w528-h297-n-nu-rw-lo"
     }
   ]
 }
