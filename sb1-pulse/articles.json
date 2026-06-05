@@ -1,7 +1,44 @@
 {
-  "generated": "2026-06-05T13:50:51.910480+00:00",
+  "generated": "2026-06-05T18:56:34.500634+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jun 1 - Jun 5 Modeling",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "date": "2026-06-05T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "The latest AI news we announced in May 2026",
+      "summary": "May AI recap",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "date": "2026-06-05T14:45:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Enabling Evolutionary Database Development: database branching with Lakebase, continued",
+      "summary": "This series revisits the methodolgy of Evolutionary Database Design, twenty years...",
+      "url": "https://www.databricks.com/blog/enabling-evolutionary-database-development-database-branching-lakebase-part-2",
+      "date": "2026-06-05T13:35:15+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Still Running Agentic Pilots? Here’s What 5 Companies Did to Ship AI Agents to Production",
       "summary": "Five companies. Five decisions. One pattern separating the teams that shipped AI agents from the ones still refining their demos.",
@@ -27,6 +64,17 @@
       "image": null
     },
     {
+      "title": "Data + AI Summit 2026: Insider’s Guide for Financial Services Leaders",
+      "summary": "Let's be honest: most industry conferences are a lot of badge-scanning and rubber...",
+      "url": "https://www.databricks.com/blog/data-ai-summit-2026-insiders-guide-financial-services-leaders",
+      "date": "2026-06-05T13:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "AI as a Game Changer for the Energy and Utilities Industry",
       "summary": "At the SAP for Energy & Utilities Conference, AI was an omnipresent topic.",
       "url": "https://news.sap.com/2026/06/ai-game-changer-energy-utilities-industry/",
@@ -35,6 +83,20 @@
       "category": "sap",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "The AWS MCP Server now supports cross-account and cross-role access",
+      "summary": "Today, AWS announced cross-account and cross-role access for the AWS Model Context Protocol (MCP) Server, part of the Agent Toolkit for AWS . This feature allows developers using AI coding agents like Kiro, Claude Code, or Codex to work across multiple AWS accounts and AWS Identity and Access Management (IAM) roles within a single session, with no restarts required. Previously, switching profiles ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-mcp-server/",
+      "date": "2026-06-05T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "developer"
+      ],
       "image": null
     },
     {
@@ -106,6 +168,19 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 5,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Deadline Cloud now supports plugin sync for service-managed fleets",
+      "summary": "AWS Deadline Cloud now gives you an easier way to deliver plugins to cloud workers when using service-managed fleets. AWS Deadline Cloud is a fully managed service that helps teams run compute-intensive workloads in the cloud for visual effects, animation, product design, simulation, and gaming. Previously, deploying plugins to cloud workers required custom scripting or manual configuration for ea",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/plugin-sync",
+      "date": "2026-06-04T16:13:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
       "tags": [
         "cloud"
       ],
@@ -366,33 +441,6 @@
       "image": null
     },
     {
-      "title": "Amazon Keyspaces (for Apache Cassandra) now provides CDC iterator position",
-      "summary": "Amazon Keyspaces (for Apache Cassandra) now returns an iterator position in the GetRecords response for change data capture (CDC) streams, indicating whether a consumer has reached the tip of the stream or whether additional records may be available. Amazon Keyspaces is a scalable, serverless, and managed Apache Cassandra-compatible database service that lets customers run Cassandra workloads on A",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/keyspaces-cdc-iterator-position/",
-      "date": "2026-06-03T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio now supports a localized experience in twelve languages",
-      "summary": "Amazon SageMaker Unified Studio enhanced its global accessibility by introducing support for twelve languages across the user interface. Supported languages include English (American), Chinese (Simplified and Traditional), French, German, Indonesian, Italian, Japanese, Korean, Portuguese (Brazilian), Spanish, and Turkish. With this launch, data engineers, analysts, and data scientists across globa",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/sagemaker-localization",
-      "date": "2026-06-03T15:26:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
       "summary": "What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before. What makes an autonomous vehicle system safe isn’t just that it can reason through a situation — it’s that […]",
       "url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
@@ -481,17 +529,6 @@
       "image": null
     },
     {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "date": "2026-06-03T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI public policy agenda",
       "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
       "url": "https://openai.com/index/public-policy-agenda",
@@ -499,6 +536,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "date": "2026-06-03T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -619,6 +667,21 @@
       "image": null
     },
     {
+      "title": "Agentic BI: A Practical Guide for BI Teams and Business Users",
+      "summary": "Agentic BI is reshaping how organizations move from raw data to business decisions...",
+      "url": "https://www.databricks.com/blog/what-is-agentic-bi",
+      "date": "2026-06-02T17:07:16+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "ai",
+        "data",
+        "automation"
+      ],
+      "image": null
+    },
+    {
       "title": "Announcing the new Work IQ APIs",
       "summary": "Work IQ is a new intelligence layer for Microsoft 365, designed to understand how work gets done across your organizations. The post Announcing the new Work IQ APIs appeared first on Microsoft 365 Blog .",
       "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/announcing-the-new-work-iq-apis/",
@@ -642,6 +705,19 @@
         "data"
       ],
       "image": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/4009252-OneLake-Foundry-Integration-Demo"
+    },
+    {
+      "title": "Data Science vs Data Analytics: Compare Careers, Skills, and Degrees",
+      "summary": "Data science vs data analytics is one of the most frequently considered questions among working professionals...",
+      "url": "https://www.databricks.com/blog/data-science-vs-data-analytics",
+      "date": "2026-06-02T16:49:30+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
     },
     {
       "title": "New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads",
@@ -702,19 +778,6 @@
       "category": "databricks",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Query Tags: The Context Your Warehouse Queries Have Been Missing",
-      "summary": "Databricks SQL logs key attributes of every query automatically: who ran it, on which...",
-      "url": "https://www.databricks.com/blog/query-tags-context-your-warehouse-queries-have-been-missing",
-      "date": "2026-06-02T14:32:33+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -809,30 +872,6 @@
       "image": null
     },
     {
-      "title": "Practical Data Warehouse Design and Architecture Guide",
-      "summary": "This guide is written for data engineers, architects, analytics engineers, and technical...",
-      "url": "https://www.databricks.com/blog/data-warehouse-design",
-      "date": "2026-06-02T12:46:59+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AI Governance Maturity Model: Matrix, Assessment, and Roadmap",
-      "summary": "What Is an AI Governance Maturity Model?An AI governance maturity model is a structured...",
-      "url": "https://www.databricks.com/blog/ai-governance-maturity-model",
-      "date": "2026-06-02T12:21:25+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
       "url": "https://openai.com/index/travelers",
@@ -889,19 +928,6 @@
       "relevance": 31,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/fsi-press-new-payments-kv-1920x1080-5150250-1.jpg"
-    },
-    {
-      "title": "Introducing Cross-Engine ABAC",
-      "summary": "In December, we shared our vision for completing the lakehouse: open storage, open...",
-      "url": "https://www.databricks.com/blog/introducing-cross-engine-abac",
-      "date": "2026-06-02T03:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
     },
     {
       "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
@@ -1019,17 +1045,6 @@
       "source": "AWS Blog",
       "category": "aws",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AI Agent Culture: What Does it Mean For Your Lean Team?",
-      "summary": "Supercharge your entire workflow by welcoming digital assistants to your team to do the heavy lifting for you.",
-      "url": "https://www.salesforce.com/blog/small-business/ai-agent-culture/",
-      "date": "2026-06-01T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 17,
       "tags": [],
       "image": null
     },
@@ -1185,19 +1200,6 @@
       "relevance": 8,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "What’s new with Google Cloud",
-      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> May 25 - May 29 Anthro",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "date": "2026-05-29T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
       "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
@@ -1911,28 +1913,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/alphaevolve_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "5 gardening tips you can try right in Search",
-      "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
-      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "date": "2026-05-06T16:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "The AWS MCP Server is now generally available",
-      "summary": "AWS announces the general availability of the AWS MCP Server, a managed remote Model Context Protocol (MCP) server that gives AI agents and coding assistants secure, authenticated access to all AWS services. The AWS MCP Server is part of the Agent Toolkit for AWS, a suite of tooling that includes the MCP Server, skills, and plugins that help coding agents build more effectively and efficiently on ",
-      "url": "https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/",
-      "date": "2026-05-06T15:36:44+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [],
-      "image": null
     }
   ]
 }
