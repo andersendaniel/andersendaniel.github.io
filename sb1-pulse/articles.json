@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04T19:20:44.984987+00:00",
+  "generated": "2026-06-05T00:01:36.077795+00:00",
   "sources": 21,
   "articles": [
     {
@@ -13,6 +13,33 @@
       "tags": [
         "security",
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Databases on Vercel now available in additional AWS Regions",
+      "summary": "Amazon Aurora PostgreSQL , Amazon Aurora DSQL , and Amazon DynamoDB serverless databases are now available on Vercel Marketplace and v0 by Vercel in additional AWS Regions, offering you more flexibility to build applications with Vercel and AWS databases from the Regions of your choice. To get started, you can describe your idea in v0 using natural language. The tool automatically generates a spec",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/",
+      "date": "2026-06-04T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EKS Capabilities now supports Amazon CloudWatch Vended Logs",
+      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) Capabilities can now be configured as log delivery sources using Amazon CloudWatch Vended Logs. This enables customers to monitor and troubleshoot their EKS Capabilities for Argo CD, AWS Controllers for Kubernetes (ACK), and kro (Kubernetes Resource Orchestrator) by monitoring logs collected from the managed controllers that run in AWS-managed infrast",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-capabilities-logging",
+      "date": "2026-06-04T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -107,6 +134,43 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon MQ is now available in the AWS European Sovereign Cloud (Germany) Region",
+      "summary": "You can now deploy Amazon MQ for RabbitMQ in the AWS European Sovereign Cloud (Germany) Region. This new independent cloud for Europe is located entirely within the EU, designed to help customers in regulated industries and public sector organizations meet their sovereignty requirements. Amazon MQ is a managed message broker service that makes it easy to set up and operate message brokers in the c",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mq-eur-sov-cloud",
+      "date": "2026-06-04T08:05:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock launches a redesigned console optimized for OpenAI- and Anthropic-compatible APIs",
+      "summary": "Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Today, Amazon Bedrock introduces a console experience designed for how customers actually build with foundation models: experiment, iterate, and scale. This is the same Amazon Bedrock serv",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-redesigned-console-optimized-openai-anthropic-compatible-apis/",
+      "date": "2026-06-04T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 43,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Biodefense in the Intelligence Age",
+      "summary": "An action plan for AI-powered biological resilience",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "date": "2026-06-04T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -297,32 +361,6 @@
       "image": null
     },
     {
-      "title": "Amazon ECS Managed Instances now supports AWS Trainium and AWS Inferentia",
-      "summary": "Amazon Elastic Container Service ( Amazon ECS ) Managed Instances now supports AWS Trainium and AWS Inferentia , purpose-built AI accelerators designed to deliver scalable performance and cost efficiency for training and inference across a broad range of generative AI workloads. Amazon ECS Managed Instances is a fully managed compute option designed to eliminate infrastructure management overhead ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-managed-instances-neuron",
-      "date": "2026-06-03T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Config now supports 9 new resource types",
-      "summary": "AWS Config now supports 9 additional AWS resource types across key services including Amazon Bedrock, Amazon Bedrock AgentCore, and Amazon SageMaker. This expansion provides greater coverage over your AWS environment, enabling you to more effectively discover, assess, audit, and remediate an even broader range of resources. With this launch, if you have enabled recording for all resource types, th",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-config-new-resource-types",
-      "date": "2026-06-03T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 12,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Introducing new capabilities to GPT-Rosalind",
       "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
       "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
@@ -389,17 +427,6 @@
       "image": null
     },
     {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "date": "2026-06-03T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI public policy agenda",
       "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
       "url": "https://openai.com/index/public-policy-agenda",
@@ -411,27 +438,14 @@
       "image": null
     },
     {
-      "title": "Amazon RDS for Db2 launches support for IBM Db2 v12.1 and Db2 Community Edition",
-      "summary": "Amazon RDS for Db2 now supports IBM Db2 v12.1. With Db2 v12.1, RDS now supports Db2 Standard, Db2 Advanced, and Db2 Community Edition. Db2 Community Edition provides all the features available in Standard and Advanced Editions, with no commercial software licensing charges for development and test applications. This allows you to easily start developing and testing Db2 applications with a managed ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-db2-v12-community-edition",
-      "date": "2026-06-03T07:11:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
+      "title": "A blueprint for democratic governance of frontier AI",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "date": "2026-06-03T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS IoT Core adds new logs to troubleshoot connectivity and authentication",
-      "summary": "AWS IoT Core now provides two new Amazon CloudWatch Log event types that help you troubleshoot device connectivity issues and authentication errors across your Internet of Things (IoT) fleet. The new Ping log event type is emitted when devices send MQTT Keep-alive messages, and it enables you to identify connections or devices that were unable to keep the connection alive. The new Connection.AuthN",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-core-ping-auth-logs/",
-      "date": "2026-06-03T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -825,6 +839,17 @@
       "image": null
     },
     {
+      "title": "Personalizing Genie Code with instructions, skills, memory, and MCP",
+      "summary": "Genie Code works best when it understands how your team actually operates: your coding...",
+      "url": "https://www.databricks.com/blog/personalizing-genie-code-instructions-skills-memory-and-mcp",
+      "date": "2026-06-01T23:45:22+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
       "summary": "OpenAI frontier models GPT-5.5 and GPT-5.4, and Codex, the OpenAI coding agent, are now generally available on Amazon Bedrock. Deploy frontier models on Bedrock's high performance inference engine with built-in security, governance, and pay-per-token pricing.",
       "url": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
@@ -1095,17 +1120,6 @@
       "image": null
     },
     {
-      "title": "Databricks at SIGMOD 2026",
-      "summary": "Databricks continues to lead the way in engineering innovation, consistently pushing...",
-      "url": "https://www.databricks.com/blog/databricks-sigmod-2026",
-      "date": "2026-05-29T18:28:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
       "summary": "Gemini Omni & Gemini 3.5 hero",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
@@ -1173,17 +1187,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-      "url": "https://openai.com/index/braintrust",
-      "date": "2026-05-29T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
