@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-06T07:43:30.111934+00:00",
+  "generated": "2026-06-06T12:04:17.214368+00:00",
   "sources": 21,
   "articles": [
     {
@@ -199,20 +199,6 @@
       "image": null
     },
     {
-      "title": "Amazon Cognito now supports multi-Region replication",
-      "summary": "Amazon Cognito now supports multi-Region replication, enabling you to synchronize user and machine identity data — including credentials, user pool configurations, and federation setups — to a secondary user pool in a standby Region you designate in near real-time. This capability helps you improve the resilience of your authentication system by providing a standby replica that can accept traffic ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/",
-      "date": "2026-06-04T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 9,
-      "tags": [
-        "security",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "AWS Databases on Vercel now available in additional AWS Regions",
       "summary": "Amazon Aurora PostgreSQL , Amazon Aurora DSQL , and Amazon DynamoDB serverless databases are now available on Vercel Marketplace and v0 by Vercel in additional AWS Regions, offering you more flexibility to build applications with Vercel and AWS databases from the Regions of your choice. To get started, you can describe your idea in v0 using natural language. The tool automatically generates a spec",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/",
@@ -222,6 +208,20 @@
       "relevance": 6,
       "tags": [
         "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Cognito now supports multi-Region replication",
+      "summary": "Amazon Cognito now supports multi-Region replication, enabling you to synchronize user and machine identity data — including credentials, user pool configurations, and federation setups — to a secondary user pool in a standby Region you designate in near real-time. This capability helps you improve the resilience of your authentication system by providing a standby replica that can accept traffic ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/",
+      "date": "2026-06-04T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 9,
+      "tags": [
+        "security",
         "data"
       ],
       "image": null
