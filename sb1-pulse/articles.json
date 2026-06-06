@@ -1,7 +1,62 @@
 {
-  "generated": "2026-06-05T18:56:34.500634+00:00",
+  "generated": "2026-06-06T00:02:25.969134+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions",
+      "summary": "Amazon Bedrock AgentCore Runtime now supports interactive shells through a new InvokeAgentRuntimeCommandShell API, opening a persistent, PTY-backed terminal directly into a running agent session over WebSocket. This complements the existing InvokeAgentRuntimeCommand API for one-shot execution, giving developers a full terminal experience inside an isolated microVM with colors, tab completion, Ctrl",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/",
+      "date": "2026-06-05T22:25:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Simplified permissions for Amazon S3 Tables and Iceberg materialized views are now available in AWS GovCloud (US) Regions",
+      "summary": "AWS Glue Data Catalog now supports AWS IAM-based authorization for Amazon S3 Tables and Apache Iceberg materialized views. With IAM-based authorization, you can define all necessary permissions across storage, catalog, and query engines in a single IAM policy. This capability simplifies the integration of S3 Tables or materialized views with any AWS Analytics service, including Amazon Athena, Amaz",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/gdc-s3tables-simplified-permissions-in-aws-govcloud/",
+      "date": "2026-06-05T21:11:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 8,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon OpenSearch UI is now available in GovCloud regions",
+      "summary": "Amazon OpenSearch Service expands its modernized operational analytics experience to GovCloud regions, including AWS GovCloud (US-East) and AWS GovCloud (US-West), enabling users to gain insights across data spanning managed domains and serverless collections from a single endpoint. The expansion includes Workspaces to enhance collaboration and productivity, allowing teams to create dedicated spac",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ui-govcloud-region",
+      "date": "2026-06-05T20:40:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
+      "summary": "You can use the new console experience on Amazon Bedrock to browse and compare the latest AI models side by side, organize work into projects with streamlined evaluation workflows, and access project-aware live documentation with auto-prefilled code snippets ready to copy and run.",
+      "url": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/",
+      "date": "2026-06-05T19:15:11+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 31,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
     {
       "title": "What’s new with Google Cloud",
       "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jun 1 - Jun 5 Modeling",
@@ -14,6 +69,17 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "Amazon ECS with AWS Fargate now supports 32vCPU compute configurations",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) with AWS Fargate now supports 32vCPU compute configurations, enabling customers to run more demanding applications with greater flexibility and performance. AWS Fargate offers 32vCPU tasks with the following memory configurations: 60 GiB, 120 GiB, or 244 GiB, for both x86-based and ARM-based workloads on Linux. These new task sizes extend Amazon ECS’s ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-fargate-32vcpu",
+      "date": "2026-06-05T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
     },
     {
       "title": "The latest AI news we announced in May 2026",
@@ -375,34 +441,6 @@
       "image": null
     },
     {
-      "title": "AWS Step Functions adds AgentCore-powered agentic reasoning step",
-      "summary": "AWS Step Functions now enables you to add AI agent reasoning steps to your workflow through an optimized integration with the managed harness (currently in preview) in Amazon Bedrock AgentCore. AWS Step Functions is a visual workflow service that orchestrates AWS services with built-in error handling, parallel execution, and human approval steps. The AgentCore harness lets you declare an agent thr",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-agentcore/",
-      "date": "2026-06-03T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 30,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "OpenAI GPT-5.4 generally available on Amazon Bedrock in AWS GovCloud (US-West)",
-      "summary": "Amazon Bedrock now supports GPT-5.4 from OpenAI in AWS GovCloud (US-West). Government and regulated industry customers can use GPT-5.4 for complex reasoning, coding, document analysis, and multi-step workflows while benefiting from the security, governance, and operational controls of Amazon Bedrock. GPT-5.4 runs on Amazon Bedrock’s next-generation inference engine, built for high performance, rel",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/GPT54-available-in-aws-govcloud-us-west/",
-      "date": "2026-06-03T19:58:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 32,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "The New Era of Facilities Management: From Cost Center to Growth Engine",
       "summary": "It’s time to move away from fragmented, system-centered tools. When we anchor operations as a unified enterprise, facilities can be transformed into predictable engines for business growth.",
       "url": "https://www.salesforce.com/blog/field-service-facilities/",
@@ -414,17 +452,14 @@
       "image": null
     },
     {
-      "title": "ARC Region switch adds Amazon Aurora scaling and Amazon Neptune global database failover",
-      "summary": "Amazon Application Recovery Controller (ARC) Region switch helps customers orchestrate the failover of their multi-Region applications to achieve a bounded recovery time in the event of a Regional impairment. Today, we are announcing three new execution blocks — the Amazon Aurora serverless scaling execution block, the Amazon Aurora provisioned scaling execution block, and the Amazon Neptune globa",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/region-switch-aurora-scaling-neptune-failover/",
-      "date": "2026-06-03T17:44:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud",
-        "data"
-      ],
+      "title": "Bring Databricks into Kiro IDE with the AI Dev Kit Power",
+      "summary": "Why this mattersAI-assisted development falls apart the moment the assistant has to guess at column names, table layouts...",
+      "url": "https://www.databricks.com/blog/bring-databricks-kiro-ide-ai-dev-kit-power",
+      "date": "2026-06-03T17:43:20+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
       "image": null
     },
     {
@@ -770,17 +805,6 @@
       "image": null
     },
     {
-      "title": "Data Governance Architecture: A Complete Blueprint for Modern Organizations",
-      "summary": "Organizations that invest in robust data governance achieve measurable improvements in data quality...",
-      "url": "https://www.databricks.com/blog/data-governance-architecture",
-      "date": "2026-06-02T14:37:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Customer Trust in An AI World: If You Build It, They Will Come",
       "summary": "Learn how your SMB can win long-term loyalty by being open about your smart tools.",
       "url": "https://www.salesforce.com/blog/small-business/customer-trust-with-ai/",
@@ -1025,17 +1049,6 @@
         "security"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
-    },
-    {
-      "title": "5 Ways to Minimize Context Rot in Enterprise Agentforce Agents",
-      "summary": "Long conversations break AI agents. These five Agentforce design patterns keep yours reliable at scale.",
-      "url": "https://www.salesforce.com/blog/context-rot/",
-      "date": "2026-06-01T15:43:57+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 17,
-      "tags": [],
-      "image": null
     },
     {
       "title": "AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)",
