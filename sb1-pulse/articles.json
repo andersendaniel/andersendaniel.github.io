@@ -1,7 +1,18 @@
 {
-  "generated": "2026-06-06T23:59:33.195504+00:00",
+  "generated": "2026-06-07T08:20:50.613399+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+      "summary": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming community. Leading game developers — […]",
+      "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+      "date": "2026-06-07T07:00:15+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 14,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/jhh-t1-group-photo-1920x1080-1.jpg"
+    },
     {
       "title": "Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions",
       "summary": "Amazon Bedrock AgentCore Runtime now supports interactive shells through a new InvokeAgentRuntimeCommandShell API, opening a persistent, PTY-backed terminal directly into a running agent session over WebSocket. This complements the existing InvokeAgentRuntimeCommand API for one-shot execution, giving developers a full terminal experience inside an isolated microVM with colors, tab completion, Ctrl",
@@ -1342,17 +1353,6 @@
       "relevance": 4,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/ICRA2026Blog-scaled.jpg"
-    },
-    {
-      "title": "The Name’s Gaming … Cloud Gaming: ‘007 First Light’ Launches on GeForce NOW",
-      "summary": "License to stream, shaken and stirred. GeForce NOW is dialing up the espionage with the launch of 007 First Light, letting members slip into James Bond’s reimagined origin story from almost any device — no tux or preloads required. For a limited time, the game is included with the purchase of a 12‑month GeForce NOW […]",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/",
-      "date": "2026-05-28T13:00:37+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/gfn-thursday-5-28-nv-blog-1280x680-logo-1.jpg"
     },
     {
       "title": "Meet Our Newest AWS Heroes – May 2026",
