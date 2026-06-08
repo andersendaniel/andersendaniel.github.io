@@ -1,7 +1,32 @@
 {
-  "generated": "2026-06-08T00:02:20.544557+00:00",
+  "generated": "2026-06-08T09:20:22.252807+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+      "summary": "A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker. At this year’s event, NVIDIA and its partners are showcasing how that commitment is producing real momentum across the nation’s infrastructure, startups […]",
+      "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+      "date": "2026-06-08T06:00:57+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/london-tech-week-2026-key-visual.jpeg"
+    },
+    {
+      "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+      "summary": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, validate and deploy AI-based applications across its key businesses. The collaboration brings […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+      "date": "2026-06-08T03:00:50+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 4,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/kr-visit-lg-group-1920x1080-no-credit.png"
+    },
     {
       "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
       "summary": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s full-stack accelerated computing platforms with Doosan Group’s capabilities in industrial automation, ",
@@ -196,7 +221,7 @@
       "category": "nvidia",
       "relevance": 1,
       "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/IMG_1519-1-scaled.jpg"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/사진자료4-scaled.jpeg"
     },
     {
       "title": "LGND AI is the 2026 Snowflake Startup Challenge winner",
@@ -221,20 +246,6 @@
       "image": null
     },
     {
-      "title": "Amazon Cognito now supports multi-Region replication",
-      "summary": "Amazon Cognito now supports multi-Region replication, enabling you to synchronize user and machine identity data — including credentials, user pool configurations, and federation setups — to a secondary user pool in a standby Region you designate in near real-time. This capability helps you improve the resilience of your authentication system by providing a standby replica that can accept traffic ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/",
-      "date": "2026-06-04T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 9,
-      "tags": [
-        "security",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "AWS Databases on Vercel now available in additional AWS Regions",
       "summary": "Amazon Aurora PostgreSQL , Amazon Aurora DSQL , and Amazon DynamoDB serverless databases are now available on Vercel Marketplace and v0 by Vercel in additional AWS Regions, offering you more flexibility to build applications with Vercel and AWS databases from the Regions of your choice. To get started, you can describe your idea in v0 using natural language. The tool automatically generates a spec",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/",
@@ -244,6 +255,20 @@
       "relevance": 6,
       "tags": [
         "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Cognito now supports multi-Region replication",
+      "summary": "Amazon Cognito now supports multi-Region replication, enabling you to synchronize user and machine identity data — including credentials, user pool configurations, and federation setups — to a secondary user pool in a standby Region you designate in near real-time. This capability helps you improve the resilience of your authentication system by providing a standby replica that can accept traffic ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/",
+      "date": "2026-06-04T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 9,
+      "tags": [
+        "security",
         "data"
       ],
       "image": null
@@ -1166,31 +1191,6 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Taiwan-AI-Infra-blog-KV-still.jpg"
-    },
-    {
-      "title": "How Cosmos 3 Helps Physical AI Think Before It Acts",
-      "summary": "",
-      "url": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
-      "date": "2026-06-01T04:45:07+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Featured-image.png"
-    },
-    {
-      "title": "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark",
-      "summary": "Personal agents are exploding in popularity, with open source projects like OpenClaw and Hermes seeing rapid adoption by AI developer communities on GitHub. Built to adapt to individual preferences and workflows, these agents can interact with applications, generate content, automate repetitive processes and manage multi-step tasks — all while running locally on device. Today at […]",
-      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/",
-      "date": "2026-06-01T04:30:11+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 20,
-      "tags": [
-        "automation",
-        "developer"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/computex-2026-nv-blog-1280x680-1.jpg"
     },
     {
       "title": "The Metadata Hub: Unify Your Data Estate",
