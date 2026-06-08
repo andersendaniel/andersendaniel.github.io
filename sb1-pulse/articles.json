@@ -1,7 +1,71 @@
 {
-  "generated": "2026-06-08T14:45:03.014438+00:00",
+  "generated": "2026-06-08T19:18:26.859677+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Transforming solar and wind maintenance reports with Genie and AI agents",
+      "summary": "From maintenance PDFs to actionable insights with AI agentsOperations and maintenance...",
+      "url": "https://www.databricks.com/blog/transforming-solar-and-wind-maintenance-reports-genie-and-ai-agents",
+      "date": "2026-06-08T18:15:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Application Migration Service is now AWS Transform MGN",
+      "summary": "AWS Application Migration Service (MGN) is now available as AWS Transform MGN . This name change reflects MGN's role as the proven replication engine powering AWS Transform, the agentic migration service. You can choose between two rehosting experiences. Use the AWS Transform MGN console for direct control over replication and cutover. Or use the AWS Transform agentic workflow, where an agent hand",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand/",
+      "date": "2026-06-08T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Deploy Snowpark Python via Snowflake CoCo",
+      "summary": "Discover how Snowflake CoCo helps developers deploy Snowpark Python pipelines to production with a single prompt. Start automating your workflow today.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/deploy-snowpark-python-snowflake-coco",
+      "date": "2026-06-08T16:28:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Summer ’26 Release Architect Highlights: Sharing, Security, and Agentic Integration",
+      "summary": "Understand the critical changes, platform shifts, and agentic design patterns architects need to act on now.",
+      "url": "https://www.salesforce.com/blog/summer-26-release-architect-highlights/",
+      "date": "2026-06-08T16:15:09+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 3,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Redshift reduces manual snapshot cost for Serverless and RG instances",
+      "summary": "Amazon Redshift announces a new billing model for manual snapshots on Amazon Redshift Serverless and Amazon Redshift RG instances. With this enhancement, Amazon Redshift now meters manual snapshot storage based on the unique data blocks stored across your snapshots rather than the total size of each individual snapshot. This results in lower manual snapshot costs for customers who maintain multipl",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-incremental-manual-snapshots/",
+      "date": "2026-06-08T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Beyond the Vibe in Financial Services Series Part 2",
       "summary": "Semantic Data and the Power of Prebuilt Agents",
@@ -47,6 +111,21 @@
       "image": null
     },
     {
+      "title": "Amazon OpenSearch Serverless now supports Agentic Search",
+      "summary": "Amazon OpenSearch Serverless now offers Agentic Search — a capability that lets users query their data using natural language. Users simply describe what they are looking for, and the system interprets intent, plans the optimal search strategy, generates the appropriate DSL (domain-specific language) query, and returns results with a transparent explanation of its reasoning. Users can ask \"Find av",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-search/",
+      "date": "2026-06-08T06:58:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "ai",
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
       "summary": "A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker. At this year’s event, NVIDIA and its partners are showcasing how that commitment is producing real momentum across the nation’s infrastructure, startups […]",
       "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
@@ -70,6 +149,17 @@
         "data"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/kr-visit-lg-group-1920x1080-no-credit.png"
+    },
+    {
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "date": "2026-06-08T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
     },
     {
       "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
@@ -301,20 +391,6 @@
       "image": null
     },
     {
-      "title": "AWS Databases on Vercel now available in additional AWS Regions",
-      "summary": "Amazon Aurora PostgreSQL , Amazon Aurora DSQL , and Amazon DynamoDB serverless databases are now available on Vercel Marketplace and v0 by Vercel in additional AWS Regions, offering you more flexibility to build applications with Vercel and AWS databases from the Regions of your choice. To get started, you can describe your idea in v0 using natural language. The tool automatically generates a spec",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/",
-      "date": "2026-06-04T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Amazon Cognito now supports multi-Region replication",
       "summary": "Amazon Cognito now supports multi-Region replication, enabling you to synchronize user and machine identity data — including credentials, user pool configurations, and federation setups — to a secondary user pool in a standby Region you designate in near real-time. This capability helps you improve the resilience of your authentication system by providing a standby replica that can accept traffic ",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/",
@@ -324,6 +400,20 @@
       "relevance": 9,
       "tags": [
         "security",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Databases on Vercel now available in additional AWS Regions",
+      "summary": "Amazon Aurora PostgreSQL , Amazon Aurora DSQL , and Amazon DynamoDB serverless databases are now available on Vercel Marketplace and v0 by Vercel in additional AWS Regions, offering you more flexibility to build applications with Vercel and AWS databases from the Regions of your choice. To get started, you can describe your idea in v0 using natural language. The tool automatically generates a spec",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/",
+      "date": "2026-06-04T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud",
         "data"
       ],
       "image": null
@@ -497,28 +587,6 @@
       "image": null
     },
     {
-      "title": "AWS IoT Device Management adds MQTT session data to connectivity status API",
-      "summary": "AWS IoT Device Management adds MQTT session data to connectivity status API, enabling you to troubleshoot connectivity issues and audit connection patterns across your Internet of things (IoT) device fleet. This launch brings AWS IoT Device Management's existing connectivity status API to full parity with AWS IoT Core's recently launched GetConnection API , enabling you to retrieve detailed connec",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-device-management-mqtt/",
-      "date": "2026-06-03T21:15:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker Data Agent now supports conversation history",
-      "summary": "Amazon SageMaker Data Agent, available in SageMaker Unified Studio now supports conversation history, enabling data practitioners to maintain continuity across analytical sessions. Data analysts and data scientists can now seamlessly reference previous agent-generated code, resume multi-step analyses, and review past troubleshooting interactions within their notebooks and Query Editor workflows. W",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent/",
-      "date": "2026-06-03T20:26:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 18,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Apache Spark Real-Time Mode for Gaming: A Better Way to Do Real-Time Sessionization",
       "summary": "In the gaming industry, every millisecond counts. To drive in-game personalization,...",
       "url": "https://www.databricks.com/blog/apache-spark-real-time-mode-gaming-better-way-do-real-time-sessionization",
@@ -526,30 +594,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio now supports notebook scheduling",
-      "summary": "Amazon SageMaker Unified Studio now enables you to schedule, parameterize, and orchestrate notebook runs directly from the notebook interface without managing external orchestration infrastructure. This makes it easier for customers to take notebooks from experimentation to production, automating recurring workloads such as daily reports, data quality checks, and model retraining. You can trigger ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio/",
-      "date": "2026-06-03T20:13:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "The New Era of Facilities Management: From Cost Center to Growth Engine",
-      "summary": "It’s time to move away from fragmented, system-centered tools. When we anchor operations as a unified enterprise, facilities can be transformed into predictable engines for business growth.",
-      "url": "https://www.salesforce.com/blog/field-service-facilities/",
-      "date": "2026-06-03T18:25:08+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 4,
       "tags": [],
       "image": null
     },
@@ -622,17 +666,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
     },
     {
-      "title": "Top 10 Free Email Marketing Tools For Small Businesses and Startups",
-      "summary": "Free email marketing features are now available to small teams, and we've put together the top list of tools.",
-      "url": "https://www.salesforce.com/blog/small-business/free-email-marketing-tools-for-startups/",
-      "date": "2026-06-03T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
       "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
       "url": "https://openai.com/index/wasmer",
@@ -666,17 +699,6 @@
       "image": null
     },
     {
-      "title": "OpenAI public policy agenda",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "date": "2026-06-03T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "A blueprint for democratic governance of frontier AI",
       "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
       "url": "https://openai.com/index/frontier-safety-blueprint",
@@ -684,6 +706,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "OpenAI public policy agenda",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "date": "2026-06-03T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -831,19 +864,6 @@
         "data"
       ],
       "image": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/4009252-OneLake-Foundry-Integration-Demo"
-    },
-    {
-      "title": "Data Science vs Data Analytics: Compare Careers, Skills, and Degrees",
-      "summary": "Data science vs data analytics is one of the most frequently considered questions among working professionals...",
-      "url": "https://www.databricks.com/blog/data-science-vs-data-analytics",
-      "date": "2026-06-02T16:49:30+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
     },
     {
       "title": "New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads",
@@ -1235,17 +1255,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"
     },
     {
-      "title": "Insights from Slalom: Federal agencies should reconsider Snowflake as a cloud data platform",
-      "summary": "Learn why federal agencies should reconsider Snowflake as a cloud data platform for AI readiness, governance, cost control, and secure data sharing.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/federal-agencies-reconsider-snowflake",
-      "date": "2026-05-29T17:05:09+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 8,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
       "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
       "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
@@ -1269,17 +1278,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "date": "2026-05-29T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey",
