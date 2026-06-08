@@ -1,7 +1,51 @@
 {
-  "generated": "2026-06-08T09:20:22.252807+00:00",
+  "generated": "2026-06-08T14:45:03.014438+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Beyond the Vibe in Financial Services Series Part 2",
+      "summary": "Semantic Data and the Power of Prebuilt Agents",
+      "url": "https://www.salesforce.com/blog/beyond-the-vibe-in-financial-services-series-part-2/",
+      "date": "2026-06-08T13:56:22+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Why Salesforce Shifted to Headless IT Operations (And Ditched the Browser)",
+      "summary": "Here’s how Salesforce uses headless IT operations to eliminate browser friction and automate engineering workflows.",
+      "url": "https://www.salesforce.com/blog/salesforce-headless-it-operations/",
+      "date": "2026-06-08T12:43:15+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The Future of Hiring at SAP: SAP Runs SmartRecruiters",
+      "summary": "SAP uses its own software to operate its global enterprise. In this case, we’re adopting SmartRecruiters for SAP SuccessFactors to revamp the entire hiring process.",
+      "url": "https://news.sap.com/2026/06/future-of-hiring-sap-runs-smartrecruiters/",
+      "date": "2026-06-08T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "SAP’s AI-Native North Star Architecture: Technical Backbone of the Autonomous Enterprise",
+      "summary": "Data was the moat of the last decade; context is the moat of the next.",
+      "url": "https://news.sap.com/2026/06/sap-ai-native-north-star-architecture-technical-backbone-autonomous-enterprise/",
+      "date": "2026-06-08T10:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
       "summary": "A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker. At this year’s event, NVIDIA and its partners are showcasing how that commitment is producing real momentum across the nation’s infrastructure, startups […]",
@@ -241,6 +285,17 @@
       "date": "2026-06-04T21:51:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Your guide to the Telecommunications Industry Experience at Data and AI Summit 2026",
+      "summary": "Telecommunications operators are facing a structural shift. You can see it on the...",
+      "url": "https://www.databricks.com/blog/your-guide-telecommunications-industry-experience-data-and-ai-summit-2026",
+      "date": "2026-06-04T18:28:39+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
       "relevance": 2,
       "tags": [],
       "image": null
@@ -611,17 +666,6 @@
       "image": null
     },
     {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "date": "2026-06-03T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI public policy agenda",
       "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
       "url": "https://openai.com/index/public-policy-agenda",
@@ -633,12 +677,12 @@
       "image": null
     },
     {
-      "title": "Meet Agentforce Coworker: your AI teammate everywhere. And it actually does the work.",
-      "summary": "It’s 8:47 a.m. A top-tier customer wants a custom renewal proposal — based on their case history, account data, and usage metrics — by end of day. You know exactly what to do.…",
-      "url": "https://www.salesforce.com/blog/agentforce-coworker-salesforce-ai-teammate/",
-      "date": "2026-06-03T00:31:05+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "date": "2026-06-03T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
       "relevance": 2,
       "tags": [],
       "image": null
@@ -839,30 +883,6 @@
       "image": null
     },
     {
-      "title": "AI in Defense: How Artificial Intelligence Is Reshaping National Security",
-      "summary": "The integration of artificial intelligence into defense is no longer a future consideration — it is happening now, ...",
-      "url": "https://www.databricks.com/blog/ai-in-defense-industry",
-      "date": "2026-06-02T14:52:32+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 9,
-      "tags": [
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "Customer Trust in An AI World: If You Build It, They Will Come",
-      "summary": "Learn how your SMB can win long-term loyalty by being open about your smart tools.",
-      "url": "https://www.salesforce.com/blog/small-business/customer-trust-with-ai/",
-      "date": "2026-06-02T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Set the Foundation for Trusted AI",
       "summary": "Learn how Snowflake makes enterprise AI deployable with confidence, including consistent context and governance controls through Horizon Context and Horizon Catalog, AI security enhancements and workload-aware Adaptive Compute.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/trusted-data-trusted-ai",
@@ -1048,17 +1068,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Industry Insider: 5 Martech Trends to Watch This Summer",
-      "summary": "Shifts in data strategy, AI adoption and platform consolidation are reshaping how brands act on customer data in the moment. Here's what you can do about it.",
-      "url": "https://www.salesforce.com/blog/martech-trends/",
-      "date": "2026-06-01T19:02:19+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 4,
-      "tags": [],
       "image": null
     },
     {
@@ -1414,17 +1423,6 @@
       "image": null
     },
     {
-      "title": "SAP Helps Boost Grupo UMA’s Motorcycle Production",
-      "summary": "Working with SAP, UMA established global models and automated operations across finance, production, and logistics.",
-      "url": "https://news.sap.com/2026/05/sap-boost-grupo-uma-motorcycle-production/",
-      "date": "2026-05-26T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
       "summary": "There’s something genuinely energizing about working with startups — something I’ve been doing intensely for more than two years now. Startups operate at a different frequency: the urgency is real, the constraints are tight, and the stakes are personal. Helping them navigate the challenge of proving their business model requires not just technical depth but […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/",
@@ -1442,17 +1440,6 @@
       "date": "2026-05-25T16:00:00+00:00",
       "source": "GitHub Blog",
       "category": "github",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "SAP Signavio Marks Fourth Consecutive Year as a Leader in a Gartner® Magic Quadrant™ and First Acknowledgement in Process Intelligence Platforms Category",
-      "summary": "SAP Signavio has been recognized as a Leader in the newly-created process intelligence platforms category.",
-      "url": "https://news.sap.com/2026/05/sap-signavio-gartner-magic-quadrant-process-intelligence-platforms/",
-      "date": "2026-05-25T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
       "relevance": 1,
       "tags": [],
       "image": null
