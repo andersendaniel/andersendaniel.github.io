@@ -1,7 +1,18 @@
 {
-  "generated": "2026-06-07T18:00:41.515541+00:00",
+  "generated": "2026-06-08T00:02:20.544557+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+      "summary": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s full-stack accelerated computing platforms with Doosan Group’s capabilities in industrial automation, ",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+      "date": "2026-06-07T23:00:36+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 7,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/kr-visit-blog-doosan-robotics-1920x1080-noncredit.jpg"
+    },
     {
       "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
       "summary": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming community. Leading game developers — […]",
@@ -1342,17 +1353,6 @@
       "relevance": 4,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "NVIDIA Research Advances Robotics From Simulation to the Real World",
-      "summary": "Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in the real world. At the International Conference on Robotics and Automation (ICRA), eight of NVIDIA Research’s 28 accepted papers show how simulation-to-real transfer is becoming a foundation for that shift, helping robots perceive, reason, plan and […]",
-      "url": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
-      "date": "2026-05-28T13:00:51+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 4,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/ICRA2026Blog-scaled.jpg"
     },
     {
       "title": "Meet Our Newest AWS Heroes – May 2026",
