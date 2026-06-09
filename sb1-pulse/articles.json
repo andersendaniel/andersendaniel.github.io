@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-09T08:28:19.788005+00:00",
+  "generated": "2026-06-09T13:41:26.301253+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "SAP Receives VS-NfD Authorization to Use for SAP Cloud Infrastructure",
+      "summary": "WALLDORF — This will enable security-critical SAP and customer applications to run in the cloud.",
+      "url": "https://news.sap.com/2026/06/vs-nfd-authorization-sap-cloud-infrastructure/",
+      "date": "2026-06-09T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "How the SAP Tool Chain Fuels Fast Growth at Harbour Energy",
+      "summary": "The company scales like a major, but stays agile like a startup.",
+      "url": "https://news.sap.com/2026/06/harbour-energy-sap-tool-chain-fuels-growth/",
+      "date": "2026-06-09T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "AWS Cost Explorer launches intelligent cost explanations powered by Amazon Q",
       "summary": "AWS Cost Explorer now supports 'Analyze with Amazon Q', a new capability that delivers comprehensive cost explanations for any report you configure in Cost Explorer. With a single button click you now can receive detailed analysis from Amazon Q Developer covering your cost trends, top cost drivers, and anomalies. All analysis uses your exact filters and time-period and provides guidance to discove",
@@ -211,6 +235,19 @@
       "relevance": 13,
       "tags": [],
       "image": null
+    },
+    {
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "date": "2026-06-08T13:04:59+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://lh3.googleusercontent.com/5g2RQPPxqVGuOzfaYj1-8r_6B-Ytp79c9mpWXzBIrk2vUhtxZmA7bMywH41h-8b0EJAdW_K4l7kqHZlfS-QTFk8kFB5MA2bgxZ4hxbuAiOuDIn3ohA=w528-h297-n-nu-rw-lo"
     },
     {
       "title": "Why Salesforce Shifted to Headless IT Operations (And Ditched the Browser)",
@@ -506,17 +543,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-4-nv-blog-1280x680-logo-1.jpg"
     },
     {
-      "title": "AI Adoption For Startups: Ready Your Team for the Fast-Track",
-      "summary": "These AI adoption tips will help your team understand how easy it is use smart tools.",
-      "url": "https://www.salesforce.com/blog/small-business/ai-adoption-for-startups/",
-      "date": "2026-06-04T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Autonomous Supply Chain: Why Agentic AI Is Rewriting the Operating Model",
       "summary": "Agentic AI is a critical enabler of a more autonomous supply chain operating model.",
       "url": "https://news.sap.com/2026/06/autonomous-supply-chain-why-agentic-ai-is-rewriting-the-operating-model/",
@@ -699,17 +725,6 @@
       "image": null
     },
     {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "date": "2026-06-03T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI public policy agenda",
       "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
       "url": "https://openai.com/index/public-policy-agenda",
@@ -717,6 +732,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "date": "2026-06-03T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1079,7 +1105,7 @@
     },
     {
       "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
-      "summary": "OpenAI frontier models GPT-5.5 and GPT-5.4, and Codex, the OpenAI coding agent, are now generally available on Amazon Bedrock. Deploy frontier models on Bedrock's high performance inference engine with built-in security, governance, and pay-per-token pricing.",
+      "summary": "OpenAI frontier models GPT-5.5 and GPT-5.4, and Codex, the OpenAI coding agent, are available on Amazon Bedrock. Deploy frontier models on Bedrock's high performance inference engine with built-in security, governance, and pay-per-token pricing.",
       "url": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
       "date": "2026-06-01T21:33:28+00:00",
       "source": "AWS Blog",
@@ -1348,28 +1374,6 @@
       "tags": [
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "The Autonomous Enterprise: Better Decisions in Motion",
-      "summary": "How do you move fast enough to capture opportunity without putting fulfillment, margin, or customer trust at risk?",
-      "url": "https://news.sap.com/2026/05/autonomous-enterprise-better-decisions-in-motion/",
-      "date": "2026-05-27T10:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 16,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The Next Era of Business AI",
-      "summary": "Without context, AI cannot deliver on its promise.",
-      "url": "https://news.sap.com/2026/05/the-next-era-of-business-ai/",
-      "date": "2026-05-26T17:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
