@@ -1,7 +1,153 @@
 {
-  "generated": "2026-06-09T13:41:26.301253+00:00",
+  "generated": "2026-06-09T19:10:40.509393+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "High Value Work: The New ROI of AI",
+      "summary": "Speed and efficiency matter, but the greatest impact comes when humans have time to innovate, think, and nourish relationships.",
+      "url": "https://www.salesforce.com/blog/high-value-work/",
+      "date": "2026-06-09T18:29:13+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
+      "summary": "AWS announces the availability of Claude Fable 5 on Amazon Bedrock and Claude Platform on AWS. Claude Fable 5 makes Mythos-level capabilities available to all customers, with strong safeguards designed to make it safe for broader use.",
+      "url": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/",
+      "date": "2026-06-09T17:40:31+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 26,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Announcing the winners of the 2026 Databricks Customer Awards",
+      "summary": "The 2026 Databricks Customer Awards recognize organizations and leaders who are using...",
+      "url": "https://www.databricks.com/blog/announcing-winners-2026-databricks-customer-awards",
+      "date": "2026-06-09T17:30:24+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Announcing the 2026 Databricks Customer Awards Industry winners",
+      "summary": "Every industry has its own unique challenges. The Databricks Customer Awards Industry...",
+      "url": "https://www.databricks.com/blog/announcing-2026-databricks-customer-awards-industry-winners",
+      "date": "2026-06-09T17:30:20+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
+      "summary": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
+      "date": "2026-06-09T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 16,
+      "tags": [
+        "ai",
+        "automation",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS FinOps Agent is now available in preview",
+      "summary": "Today, AWS announces the preview of AWS FinOps Agent, a frontier agent for FinOps practitioners and engineering teams that answers cost questions, surfaces optimization opportunities, automatically investigates cost anomalies, and runs recurring FinOps workflows on a schedule you define. With the AWS FinOps Agent, you can ask questions about your AWS costs and generate cloud cost reports for finan",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/",
+      "date": "2026-06-09T15:28:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "date": "2026-06-09T15:16:25+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 17,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Summer ‘26 Release: Top Development & Security Features",
+      "summary": "Explore the most impactful new tools for AI-assisted coding, headless development, and proactive threat detection.",
+      "url": "https://www.salesforce.com/blog/platform-summer-26-release/",
+      "date": "2026-06-09T15:10:36+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "How the Salesforce Certification Lifecycle Empowers Your Career Success",
+      "summary": "This post explores the full lifecycle of Salesforce certifications—including creation, maintenance, and retirement—to ensure they remain relevant for your career. Key updates are also included, which are the retirement of 24 certifications on…",
+      "url": "https://www.salesforce.com/blog/salesforce-certification-lifecycle/",
+      "date": "2026-06-09T15:10:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS announces Claude Fable 5, the first generally available Mythos-class model",
+      "summary": "Claude Fable 5 is generally available on AWS and makes Mythos-level capabilities available to all customers, with strong safeguards designed to make it safe for broader use. Fable 5 is state-of-the-art on nearly all tested benchmarks and delivers a step-change in autonomous knowledge work and coding for developers and enterprises building production AI applications. Claude Mythos 5, the same model",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-fable-5-aws/",
+      "date": "2026-06-09T14:15:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 19,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "date": "2026-06-09T14:10:19+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Powering the future of robotics in Europe",
+      "summary": "",
+      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "date": "2026-06-09T14:02:33+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "SAP Receives VS-NfD Authorization to Use for SAP Cloud Infrastructure",
       "summary": "WALLDORF — This will enable security-critical SAP and customer applications to run in the cloud.",
@@ -24,6 +170,19 @@
       "category": "sap",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Run Interactive Workloads on Amazon EMR Serverless with Spark Connect",
+      "summary": "Amazon EMR Serverless now supports interactive sessions with Spark Connect, enabling you to develop and run Apache Spark applications from managed notebooks in Amazon SageMaker Unified Studio, as well as your favorite notebook environments and IDEs such as Jupyter and Visual Studio Code. You can also monitor and debug active and completed sessions in the EMR console, and get granular cost and usag",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-spark-connect",
+      "date": "2026-06-09T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -201,20 +360,6 @@
       "image": null
     },
     {
-      "title": "Amazon Redshift reduces manual snapshot cost for Serverless and RG instances",
-      "summary": "Amazon Redshift announces a new billing model for manual snapshots on Amazon Redshift Serverless and Amazon Redshift RG instances. With this enhancement, Amazon Redshift now meters manual snapshot storage based on the unique data blocks stored across your snapshots rather than the total size of each individual snapshot. This results in lower manual snapshot costs for customers who maintain multipl",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-incremental-manual-snapshots/",
-      "date": "2026-06-08T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Confidential submission of draft S-1 to the SEC",
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
       "url": "https://openai.com/index/openai-submits-confidential-s-1",
@@ -233,6 +378,17 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Enterprise Data Strategy Roadmap for Business Outcomes",
+      "summary": "An enterprise data strategy is the organizational blueprint that connects data assets to specific business outcomes...",
+      "url": "https://www.databricks.com/blog/enterprise-data-strategy",
+      "date": "2026-06-08T13:45:45+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -280,19 +436,6 @@
       "category": "sap",
       "relevance": 6,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS for SQL Server migration cost assessment capabilities now available in AWS Transform",
-      "summary": "Amazon RDS for SQL Server now offers TCO assessment in AWS Transform, so you can estimate costs when migrating on-premises SQL Server databases to RDS for SQL Server. Using AI-powered agents, AWS Transform analyzes your on-premises SQL Server environment and provides optimal database instance recommendations that meet your workload requirements and reduce cost. With AI-powered what-if analysis, yo",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-sql-server-cost-assessment-aws-transform/",
-      "date": "2026-06-08T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -365,20 +508,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/jhh-t1-group-photo-1920x1080-1.jpg"
     },
     {
-      "title": "Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions",
-      "summary": "Amazon Bedrock AgentCore Runtime now supports interactive shells through a new InvokeAgentRuntimeCommandShell API, opening a persistent, PTY-backed terminal directly into a running agent session over WebSocket. This complements the existing InvokeAgentRuntimeCommand API for one-shot execution, giving developers a full terminal experience inside an isolated microVM with colors, tab completion, Ctrl",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/",
-      "date": "2026-06-05T22:25:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [
-        "ai",
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
       "summary": "You can use the new console experience on Amazon Bedrock to browse and compare the latest AI models side by side, organize work into projects with streamlined evaluation workflows, and access project-aware live documentation with auto-prefilled code snippets ready to copy and run.",
       "url": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/",
@@ -426,30 +555,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Still Running Agentic Pilots? Here’s What 5 Companies Did to Ship AI Agents to Production",
-      "summary": "Five companies. Five decisions. One pattern separating the teams that shipped AI agents from the ones still refining their demos.",
-      "url": "https://www.salesforce.com/blog/ai-agent-production-tips/",
-      "date": "2026-06-05T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "7 Tips to Create a Clickable Newsletter (With or Without AI)",
-      "summary": "Build an email newsletter campaign that grabs more attention.",
-      "url": "https://www.salesforce.com/blog/small-business/how-to-create-a-newsletter/",
-      "date": "2026-06-05T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -703,23 +808,23 @@
       "image": null
     },
     {
-      "title": "Scaling Enterprise Conversational Intelligence: Cross-industry Technology and Functional Solutions Powered by Databricks Genie",
-      "summary": "As we explored in our first blog, Databricks Genie is redefining industry-specific...",
-      "url": "https://www.databricks.com/blog/cross-industry-technology-and-functional-genie-partner-solutions",
-      "date": "2026-06-03T11:45:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Victrola Puts a Modern Spin on Growth in the Public Cloud",
       "summary": "Victrola moved from SAP ECC to SAP Cloud ERP, highlighting the strategic, operational, and cultural factors involved in transforming a growing retail company.",
       "url": "https://news.sap.com/2026/06/victrola-puts-modern-spin-public-cloud-growth/",
       "date": "2026-06-03T11:15:00+00:00",
       "source": "SAP News",
       "category": "sap",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "date": "2026-06-03T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
       "relevance": 2,
       "tags": [],
       "image": null
@@ -732,17 +837,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "date": "2026-06-03T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -784,19 +878,6 @@
         "automation"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/industrial-ai-engineers-kv-1920x1080-2.jpg"
-    },
-    {
-      "title": "Beyond parsing X12: Closing the gap for revenue cycle workflows in healthcare",
-      "summary": "It’s Monday at 8 AM. A medical biller opens her queue.Over the weekend, Friday’s...",
-      "url": "https://www.databricks.com/blog/beyond-parsing-x12-closing-gap-revenue-cycle-workflows-healthcare",
-      "date": "2026-06-02T19:28:55+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
     },
     {
       "title": "AI alone won’t change your business. The system running it will.",
@@ -848,21 +929,6 @@
       "tags": [
         "ai",
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "Agentic BI: A Practical Guide for BI Teams and Business Users",
-      "summary": "Agentic BI is reshaping how organizations move from raw data to business decisions...",
-      "url": "https://www.databricks.com/blog/what-is-agentic-bi",
-      "date": "2026-06-02T17:07:16+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "ai",
-        "data",
-        "automation"
       ],
       "image": null
     },
@@ -1657,19 +1723,6 @@
       "relevance": 30,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Take your local GitHub sessions anywhere",
-      "summary": "Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub sessions anywhere appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
-      "date": "2026-05-18T16:54:53+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 13,
-      "tags": [
-        "developer"
       ],
       "image": null
     },
