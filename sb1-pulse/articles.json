@@ -1,7 +1,51 @@
 {
-  "generated": "2026-06-10T08:45:08.288869+00:00",
+  "generated": "2026-06-10T14:20:07.565500+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Business Travel Holds Steady as Travel Costs Rise",
+      "summary": "According to SAP Concur data, companies around the world largely maintained their travel activity despite higher prices.",
+      "url": "https://news.sap.com/2026/06/business-travel-holds-steady-as-travel-costs-rise/",
+      "date": "2026-06-10T13:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Announcing the Databricks storage ecosystem: Governing the enterprise data estate, wherever it lives",
+      "summary": "The Data That Can't MoveFor years, the enterprise data strategy was simple: move...",
+      "url": "https://www.databricks.com/blog/announcing-databricks-storage-ecosystem-governing-enterprise-data-estate-wherever-it-lives",
+      "date": "2026-06-10T12:03:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing the Autonomous Enterprise Podcast from SAP",
+      "summary": "Tune in for conversations and insights around turning AI into meaningful business impact.",
+      "url": "https://news.sap.com/2026/06/introducing-autonomous-enterprise-podcast-series/",
+      "date": "2026-06-10T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "From Reactive to Proactive: How Agentforce is Redefining Autonomous Lead Qualification At Siemens",
+      "summary": "Agentforce enables proactive AI agents to qualify leads autonomously, driving the sales pipeline while maintaining customer trust and scaling sales operations",
+      "url": "https://www.salesforce.com/blog/autonomous-lead-qualification-agentforce/",
+      "date": "2026-06-10T09:44:36+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Modern BSA/AML compliance on Databricks",
       "summary": "The anti-money laundering (AML) function in financial services has historically been...",
@@ -16,6 +60,17 @@
       "image": null
     },
     {
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "url": "https://openai.com/index/lseg",
+      "date": "2026-06-10T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
       "summary": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging […]",
       "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
@@ -27,6 +82,17 @@
         "cloud"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nvidia-confidential-computing-apple-pcc.jpeg"
+    },
+    {
+      "title": "Amazon FSx for OpenZFS Intelligent-Tiering storage class is now available in 8 additional AWS Regions",
+      "summary": "You can now create Amazon FSx for OpenZFS file systems with the Intelligent-Tiering storage class in 8 additional AWS Regions across the US, Europe, Asia Pacific, and South America. FSx Intelligent-Tiering is built for general-purpose file workloads such as file shares, archives, media libraries, and migrations from on-premises HDD storage. It automatically moves your data across three storage tie",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-fsx-openzfs/",
+      "date": "2026-06-09T20:52:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [],
+      "image": null
     },
     {
       "title": "Announcing Claude Fable 5 on Snowflake Cortex AI",
@@ -396,17 +462,6 @@
       "image": null
     },
     {
-      "title": "AWS Lambda Managed Instances expands to additional AWS Regions",
-      "summary": "AWS Lambda Managed Instances (LMI) is now available in all commercial AWS Regions, except Israel (Tel Aviv), Middle East (Bahrain), Middle East (UAE), and Asia Pacific (Auckland). LMI lets you run Lambda functions on managed Amazon EC2 instances, giving you access to specialized compute configurations and EC2 pricing advantages while maintaining Lambda's operational simplicity. LMI fully manages i",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-region-expansion/",
-      "date": "2026-06-08T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AWS Application Migration Service is now AWS Transform MGN",
       "summary": "AWS Application Migration Service (MGN) is now available as AWS Transform MGN . This name change reflects MGN's role as the proven replication engine powering AWS Transform, the agentic migration service. You can choose between two rehosting experiences. Use the AWS Transform MGN console for direct control over replication and cutover. Or use the AWS Transform agentic workflow, where an agent hand",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand/",
@@ -490,17 +545,6 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/5g2RQPPxqVGuOzfaYj1-8r_6B-Ytp79c9mpWXzBIrk2vUhtxZmA7bMywH41h-8b0EJAdW_K4l7kqHZlfS-QTFk8kFB5MA2bgxZ4hxbuAiOuDIn3ohA=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Why Salesforce Shifted to Headless IT Operations (And Ditched the Browser)",
-      "summary": "Here’s how Salesforce uses headless IT operations to eliminate browser friction and automate engineering workflows.",
-      "url": "https://www.salesforce.com/blog/salesforce-headless-it-operations/",
-      "date": "2026-06-08T12:43:15+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 4,
-      "tags": [],
-      "image": null
     },
     {
       "title": "The Future of Hiring at SAP: SAP Runs SmartRecruiters",
@@ -710,17 +754,6 @@
       "image": null
     },
     {
-      "title": "3x Faster Search: Parallel Test-Time Scaling with Instructed-Retriever-1",
-      "summary": "Today we’re announcing a major update that makes Agent Bricks Knowledge Assistant both faster and higher quality. ...",
-      "url": "https://www.databricks.com/blog/3x-faster-search-parallel-test-time-scaling-instructed-retriever-1",
-      "date": "2026-06-04T13:31:40+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
       "summary": "June’s forecast with GeForce NOW: 100% chance of gaming. GeForce NOW is lining up new adventures for the month, from big-name blockbusters to quirky indies ready for the spotlight. Members can dive into fresh worlds, squad up in new playlists and discover “just one more run” favorites — all streaming from the cloud, no downloads […]",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/",
@@ -883,17 +916,6 @@
       "image": null
     },
     {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "date": "2026-06-03T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI public policy agenda",
       "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
       "url": "https://openai.com/index/public-policy-agenda",
@@ -901,6 +923,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "date": "2026-06-03T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1164,17 +1197,6 @@
       "image": null
     },
     {
-      "title": "Codex for every role, tool, and workflow",
-      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "date": "2026-06-02T09:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
       "summary": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems. Siloed systems prevent institutions from developing a unified understanding of consumers’ financial behavior. As enterprise datasets keep growing, so does the gap between wha",
       "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
@@ -1422,17 +1444,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Forging a Future-Ready Government: Charlottesville’s Digital Transformation",
-      "summary": "Instead of just managing the present, the City of Charlottesville decided to build the future.",
-      "url": "https://news.sap.com/2026/05/future-ready-government-charlottesvilles-digital-transformation/",
-      "date": "2026-05-28T13:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 4,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Meet Our Newest AWS Heroes – May 2026",
