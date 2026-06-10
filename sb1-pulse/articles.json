@@ -1,7 +1,20 @@
 {
-  "generated": "2026-06-10T00:07:20.843863+00:00",
+  "generated": "2026-06-10T08:45:08.288869+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Modern BSA/AML compliance on Databricks",
+      "summary": "The anti-money laundering (AML) function in financial services has historically been...",
+      "url": "https://www.databricks.com/blog/modern-bsaaml-compliance-databricks",
+      "date": "2026-06-10T00:45:01+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 25,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
     {
       "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
       "summary": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging […]",
@@ -296,6 +309,17 @@
       "image": null
     },
     {
+      "title": "Industrial policy for the Intelligence Age",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "date": "2026-06-09T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
       "summary": "This week, the AWS IoT Device SDK for Swift reached general availability. As a member of the Swift Server Workgroup (SSWG), this one caught my attention. The SDK brings production-ready MQTT 5 connectivity, Device Shadow, Jobs, and fleet provisioning to Swift developers on macOS, iOS, tvOS, and Linux. I’m curious to see what you will build with it. […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
@@ -372,6 +396,17 @@
       "image": null
     },
     {
+      "title": "AWS Lambda Managed Instances expands to additional AWS Regions",
+      "summary": "AWS Lambda Managed Instances (LMI) is now available in all commercial AWS Regions, except Israel (Tel Aviv), Middle East (Bahrain), Middle East (UAE), and Asia Pacific (Auckland). LMI lets you run Lambda functions on managed Amazon EC2 instances, giving you access to specialized compute configurations and EC2 pricing advantages while maintaining Lambda's operational simplicity. LMI fully manages i",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-region-expansion/",
+      "date": "2026-06-08T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "AWS Application Migration Service is now AWS Transform MGN",
       "summary": "AWS Application Migration Service (MGN) is now available as AWS Transform MGN . This name change reflects MGN's role as the proven replication engine powering AWS Transform, the agentic migration service. You can choose between two rehosting experiences. Use the AWS Transform MGN console for direct control over replication and cutover. Or use the AWS Transform agentic workflow, where an agent hand",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand/",
@@ -383,17 +418,6 @@
         "ai",
         "automation"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon Aurora DSQL now supports the JSONB data type with compression",
-      "summary": "Amazon Aurora DSQL introduces support for the PostgreSQL JSONB data type with optional compression. You can now use code and tools that depend on PostgreSQL's JSONB type with Aurora DSQL, making it easier to store semi-structured data alongside relational data. You can use the JSONB data type when creating or modifying tables to store semi-structured data such as system configuration metadata, API",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-dsql-supports-jsonb/",
-      "date": "2026-06-08T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -780,17 +804,6 @@
       "image": null
     },
     {
-      "title": "Apache Spark Real-Time Mode for Gaming: A Better Way to Do Real-Time Sessionization",
-      "summary": "In the gaming industry, every millisecond counts. To drive in-game personalization,...",
-      "url": "https://www.databricks.com/blog/apache-spark-real-time-mode-gaming-better-way-do-real-time-sessionization",
-      "date": "2026-06-03T20:25:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Lights Out, Systems On: Validating Instant Power Loss Readiness",
       "summary": "We’re introducing Instantaneous PowerLoss Storm, a new testing paradigm within Meta’s infrastructure for handling and mitigating instant or zero-notice power loss in our data centers. We’re sharing: how we built readiness to tolerate instant failures into our existing systems with defense-in-depth strategies; tradeoffs made in implementing it, and how we validated our readiness. Disaster preparedn",
       "url": "https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/",
@@ -1158,17 +1171,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "date": "2026-06-02T07:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1912,17 +1914,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "summary": "A screenshot of the AI-powered experience on Google Finance.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-      "date": "2026-05-11T06:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 5,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp"
     }
   ]
 }
