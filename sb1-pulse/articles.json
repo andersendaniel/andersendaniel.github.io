@@ -1,7 +1,116 @@
 {
-  "generated": "2026-06-10T14:20:07.565500+00:00",
+  "generated": "2026-06-10T19:30:44.283068+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "AI Data Engineering: New Smart Pipelines in Snowflake",
+      "summary": "Discover new AI tools for data engineering announced at Snowflake Summit 2026. Learn how Snowflake CoCo and smart pipelines accelerate your workflows.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-smart-pipelines-whats-new",
+      "date": "2026-06-10T19:01:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
+      "summary": "Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud. Rather than generating text one word at a time, DiffusionGemma generates multiple words in parallel to o",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
+      "date": "2026-06-10T16:15:20+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 4,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/diffusiongemma-nv-blog-1280x680-1.jpg"
+    },
+    {
+      "title": "Give GitHub Copilot CLI real code intelligence with language servers",
+      "summary": "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
+      "date": "2026-06-10T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 12,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "AI Serving Platform That Adapts to Your Model",
+      "summary": "Challenges of Running Custom Model InferencesWhen you deploy a machine learning model to production...",
+      "url": "https://www.databricks.com/blog/ai-serving-platform-adapts-your-model",
+      "date": "2026-06-10T15:52:14+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 9,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors",
+      "summary": "AWS launches Amazon EC2 M9g and M9gd instances, powered by AWS Graviton5 processors. AWS Graviton5 is most powerful, and most energy eﬃcient processor AWS has ever built, and oﬀers up to 25% better compute performance compared to Graviton4-based instances.",
+      "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+      "date": "2026-06-10T15:04:30+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 M9g and M9gd general purpose instances are now available",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M9g and M9gd instances , powered by AWS Graviton5 processors, are generally available. AWS Graviton5 processors are the fifth generation of custom-designed AWS processors, delivering the best price performance for general purpose workloads running on Amazon EC2 . ​​M9g instances serve a broad range of general-purpose workloads including app",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available",
+      "date": "2026-06-10T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Hybrid Tables Just Got Up to 8x Faster",
+      "summary": "Snowflake Hybrid Tables now attain up to 8x higher throughput, 10x faster batch performance and up to 40% cost savings (based on internal benchmarks) with no code changes required. See how teams are running transactional and analytical workloads together on Snowflake.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/hybrid-tables-performance-improvements",
+      "date": "2026-06-10T15:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 P6-B200 instances are now available in the AWS GovCloud (US-East) Region",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in AWS GovCloud (US-East) Region. These instances offer up to 2x performance compared to P5en instances for AI training and inference. P6-B200 instances feature 8 Blackwell GPUs with 1440 GB of high-bandwidth GPU memory and a 60% increase in GPU memory bandwidth compared t",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-aws-govcloud/",
+      "date": "2026-06-10T14:32:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Cost and Usage Report 2.0 now supports table configurations update",
+      "summary": "AWS today announces that AWS Cost and Usage Report 2.0 (CUR 2.0) now supports updates to data table configurations via the AWS Management Console and SDK/CLI. This capability allows customers to modify their existing exports to take advantage of new CUR 2.0 features without having to delete and recreate their exports. Previously, customers configured CUR 2.0 exports with specific table settings — ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-usage-report/",
+      "date": "2026-06-10T13:33:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Business Travel Holds Steady as Travel Costs Rise",
       "summary": "According to SAP Concur data, companies around the world largely maintained their travel activity despite higher prices.",
@@ -257,6 +366,19 @@
       "image": null
     },
     {
+      "title": "Announcing metal-48xl and metal-96xl for Amazon EC2 network/EBS instances",
+      "summary": "AWS is announcing the general availability of metal-48xl and metal-96xl sizes for Amazon Elastic Compute Cloud (Amazon EC2) M8in, M8ib, M8idn, M8idb, R8in, R8ib, R8idn, and R8idb instances. These instances are powered by custom sixth generation Intel Xeon Scalable processors, available only on AWS and feature the latest sixth generation AWS Nitro cards. These instances deliver up to 43% better com",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+      "date": "2026-06-09T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "AWS announces Claude Fable 5, the first generally available Mythos-class model",
       "summary": "Claude Fable 5 is generally available on AWS and makes Mythos-level capabilities available to all customers, with strong safeguards designed to make it safe for broader use. Fable 5 is state-of-the-art on nearly all tested benchmarks and delivers a step-change in autonomous knowledge work and coding for developers and enterprises building production AI applications. Claude Mythos 5, the same model",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-fable-5-aws/",
@@ -436,46 +558,6 @@
       "image": null
     },
     {
-      "title": "Amazon CloudWatch Logs Insights adds 23 new query commands and functions",
-      "summary": "Amazon CloudWatch Logs Insights query language now supports 23 new commands and functions that give you new ways to query, parse, transform, and analyze your logs. Customers analyzing logs in CloudWatch Logs Insights often need to do conditional processing, string conversions, process IP addresses, parse different file formats, and execute complex stats commands. With this launch, CloudWatch Logs ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights-new/",
-      "date": "2026-06-08T17:50:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "PostgreSQL 19 Beta 1 is now available in Amazon RDS Database Preview Environment",
-      "summary": "Amazon RDS for PostgreSQL 19 Beta 1 is now available in the Amazon RDS Database Preview Environment , allowing you to evaluate the pre-release of PostgreSQL 19 on Amazon RDS for PostgreSQL. You can deploy PostgreSQL 19 Beta 1 in the Amazon RDS Database Preview Environment that has the benefits of a fully managed database. PostgreSQL 19 adds native graph query support via SQL Property Graph Queries",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/postgresql-19-beta-1-amazon-rds-database-preview-environment/",
-      "date": "2026-06-08T17:03:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Application Migration Service is now AWS Transform MGN",
-      "summary": "AWS Application Migration Service (MGN) is now available as AWS Transform MGN . This name change reflects MGN's role as the proven replication engine powering AWS Transform, the agentic migration service. You can choose between two rehosting experiences. Use the AWS Transform MGN console for direct control over replication and cutover. Or use the AWS Transform agentic workflow, where an agent hand",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand/",
-      "date": "2026-06-08T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "Deploy Snowpark Python via Snowflake CoCo",
       "summary": "Discover how Snowflake CoCo helps developers deploy Snowpark Python pipelines to production with a single prompt. Start automating your workflow today.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/deploy-snowpark-python-snowflake-coco",
@@ -508,17 +590,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Beyond the Vibe in Financial Services Series Part 2",
-      "summary": "Semantic Data and the Power of Prebuilt Agents",
-      "url": "https://www.salesforce.com/blog/beyond-the-vibe-in-financial-services-series-part-2/",
-      "date": "2026-06-08T13:56:22+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -728,17 +799,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Your guide to the Telecommunications Industry Experience at Data and AI Summit 2026",
-      "summary": "Telecommunications operators are facing a structural shift. You can see it on the...",
-      "url": "https://www.databricks.com/blog/your-guide-telecommunications-industry-experience-data-and-ai-summit-2026",
-      "date": "2026-06-04T18:28:39+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1161,17 +1221,6 @@
       "image": null
     },
     {
-      "title": "Defending Your Enterprise at the Speed of AI",
-      "summary": "Learn how to safely accelerate your AI agents from pilot to production with Snowflake’s built-in, enterprise-grade AI security controls.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/enterprise-ai-security",
-      "date": "2026-06-02T12:50:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 18,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
       "url": "https://openai.com/index/travelers",
@@ -1219,17 +1268,6 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/robotics-press-jetson-agentic-ready-cptx26-1920x1080-5180550.jpg"
-    },
-    {
-      "title": "Meet the Snowflake 2026 Data Drivers Award Winners",
-      "summary": "Discover the individuals and organizations being recognized for using the Snowflake AI Data Cloud to innovate, revolutionize and grow.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/data-drivers-awards-2026",
-      "date": "2026-06-02T02:00:36+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 3,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
@@ -1301,31 +1339,6 @@
       "relevance": 1,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
-      "summary": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and developers scaling agentic AI applications. NVIDIA AI Clouds are a growing ecosystem of purpose-built clouds serving the exploding token demand behind today’s most popular AI applications. […]",
-      "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
-      "date": "2026-06-01T05:00:56+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 19,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/partner-social-ncp-ai-factory-announcement-1920x1080-1.jpg"
-    },
-    {
-      "title": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
-      "summary": "As factories move from isolated automation to plant-wide intelligence, manufacturers need AI systems that can connect live machine signals, quality systems, work instructions and operational alerts into a unified decision layer. Today at GTC Taipei at COMPUTEX, NVIDIA announced the NVIDIA Factory Operations Blueprint (FOX) — a reference design for building an autonomous factory manager […]",
-      "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
-      "date": "2026-06-01T05:00:47+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 5,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/robotics-factory-ai-computer-1280x680-5259650.jpg"
     },
     {
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
@@ -1565,17 +1578,6 @@
       "tags": [
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "Investigation update: GitHub Enterprise Server signing key rotation",
-      "summary": "GitHub Enterprise Server customers need to take immediate action. The post Investigation update: GitHub Enterprise Server signing key rotation appeared first on The GitHub Blog .",
-      "url": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
-      "date": "2026-05-20T21:07:38+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 4,
-      "tags": [],
       "image": null
     },
     {
@@ -1886,45 +1888,6 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/8kFWTjhROuwZK6kVFk-ol13YlKLABvppqzVl9LIhYyY3NP4Z8Y0i2ubSuVIfgmknluXTgYmTMAzRR21CxJPbgSK5m37ARzv26S8TPX5QhNWG6wq11Q=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "New and improved: Agent governance, intelligent workflows, and connected app experiences",
-      "summary": "See what's new in Copilot Studio, April 2026: updates to workflows, increased control over agent operations, and an expanded agent usage estimator. The post New and improved: Agent governance, intelligent workflows, and connected app experiences appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-agent-governance-intelligent-workflows-and-connected-app-experiences/",
-      "date": "2026-05-11T17:25:12+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 16,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more (May 11, 2026)",
-      "summary": "My most exciting news of last week: Amazon Bedrock AgentCore previewed the first managed payment capabilities enabling AI agents to autonomously access and pay for APIs, MCP servers, web content, and other agents. Built in partnership with Coinbase and Stripe, it removes the undifferentiated heavy lifting of building customized systems for billing, credential management, and […]",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agentcore-payments-agent-toolkit-for-aws-and-more-may-11-2026/",
-      "date": "2026-05-11T16:08:26+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 38,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Read our new report on AI-powered threats and our latest defenses.",
-      "summary": "Learn more about how outside attackers are misusing AI, and what Google is doing to stop it.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/",
-      "date": "2026-05-11T15:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp"
     }
   ]
 }
