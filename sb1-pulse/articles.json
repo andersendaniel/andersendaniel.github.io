@@ -1,7 +1,47 @@
 {
-  "generated": "2026-06-09T19:10:40.509393+00:00",
+  "generated": "2026-06-10T00:07:20.843863+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+      "summary": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+      "date": "2026-06-09T22:34:27+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 17,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nvidia-confidential-computing-apple-pcc.jpeg"
+    },
+    {
+      "title": "Announcing Claude Fable 5 on Snowflake Cortex AI",
+      "summary": "Claude Fable 5 is now available on Snowflake Cortex AI, bringing advanced reasoning and agentic capabilities with Snowflake’s secure governed AI platform",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-fable-5-snowflake-cortex-ai",
+      "date": "2026-06-09T19:39:32+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio Notebooks now support EMR Serverless",
+      "summary": "Amazon SageMaker Unified Studio Notebooks now support Amazon EMR Serverless with Apache Spark Connect, giving data engineers and analysts more flexibility in choosing their Spark runtime for interactive analytics and data engineering workloads. In addition to Amazon Athena Spark, users can now leverage Amazon EMR Serverless as their Spark runtime, selecting the optimal engine based on their requir",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/",
+      "date": "2026-06-09T18:46:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 9,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "High Value Work: The New ROI of AI",
       "summary": "Speed and efficiency matter, but the greatest impact comes when humans have time to innovate, think, and nourish relationships.",
@@ -10,6 +50,17 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Claude Fable 5 is now available on Databricks, fully governed through Unity AI Gateway",
+      "summary": "Databricks and Anthropic share a conviction: the most powerful AI is the AI that...",
+      "url": "https://www.databricks.com/blog/claude-fable-5-now-available-databricks-fully-governed-through-unity-ai-gateway",
+      "date": "2026-06-09T18:09:16+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -46,6 +97,19 @@
       "category": "databricks",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon S3 Access Grants are now available in the AWS European Sovereign Cloud (Germany) Region",
+      "summary": "You can now create Amazon S3 Access Grants in the AWS European Sovereign Cloud (Germany) Region. Amazon S3 Access Grants map identities in directories such as Microsoft Entra ID, or AWS Identity and Access Management (IAM) principals, to datasets in S3. This helps you manage data permissions at scale by automatically granting S3 access to end users based on their corporate identity. Visit the AWS ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-access-grants-european-sovereign-cloud-germany-region",
+      "date": "2026-06-09T17:14:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 11,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -173,6 +237,41 @@
       "image": null
     },
     {
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "url": "https://openai.com/index/nextdoor",
+      "date": "2026-06-09T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Backup support for Amazon EKS is now available in the AWS European Sovereign Cloud (Germany) Region",
+      "summary": "AWS Backup support for Amazon Elastic Kubernetes Service (EKS) is now available in the AWS European Sovereign Cloud (Germany) Region. This expansion brings fully-managed, policy-based data protection and recovery to your Amazon EKS clusters in this newly supported Region — including automated scheduling, retention management, immutable vaults, and cross-Region and cross-account copies. You can use",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-eks-aws-european-sovereign-cloud/",
+      "date": "2026-06-09T10:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 15,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "What Codex unlocks for Notion",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "url": "https://openai.com/index/notion",
+      "date": "2026-06-09T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Run Interactive Workloads on Amazon EMR Serverless with Spark Connect",
       "summary": "Amazon EMR Serverless now supports interactive sessions with Spark Connect, enabling you to develop and run Apache Spark applications from managed notebooks in Amazon SageMaker Unified Studio, as well as your favorite notebook environments and IDEs such as Jupyter and Visual Studio Code. You can also monitor and debug active and completed sessions in the EMR console, and get granular cost and usag",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-spark-connect",
@@ -273,17 +372,6 @@
       "image": null
     },
     {
-      "title": "AWS Lambda Managed Instances expands to additional AWS Regions",
-      "summary": "AWS Lambda Managed Instances (LMI) is now available in all commercial AWS Regions, except Israel (Tel Aviv), Middle East (Bahrain), Middle East (UAE), and Asia Pacific (Auckland). LMI lets you run Lambda functions on managed Amazon EC2 instances, giving you access to specialized compute configurations and EC2 pricing advantages while maintaining Lambda's operational simplicity. LMI fully manages i",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-region-expansion/",
-      "date": "2026-06-08T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AWS Application Migration Service is now AWS Transform MGN",
       "summary": "AWS Application Migration Service (MGN) is now available as AWS Transform MGN . This name change reflects MGN's role as the proven replication engine powering AWS Transform, the agentic migration service. You can choose between two rehosting experiences. Use the AWS Transform MGN console for direct control over replication and cutover. Or use the AWS Transform agentic workflow, where an agent hand",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand/",
@@ -309,19 +397,6 @@
       "image": null
     },
     {
-      "title": "AWS now provides AI-powered cost investigations for cost anomalies",
-      "summary": "AWS Cost Anomaly Detection now includes AI-powered cost investigation, which uses Amazon Q to analyze the root cause of detected cost anomalies. Investigating a cost change typically requires correlating cost data with AWS CloudTrail events and resource activity, which can take hours. Cost investigation delivers a plain-language explanation in minutes, helping FinOps practitioners and engineering ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-ai-powered-cost-investigations/",
-      "date": "2026-06-08T16:41:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Deploy Snowpark Python via Snowflake CoCo",
       "summary": "Discover how Snowflake CoCo helps developers deploy Snowpark Python pipelines to production with a single prompt. Start automating your workflow today.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/deploy-snowpark-python-snowflake-coco",
@@ -330,19 +405,6 @@
       "category": "snowflake",
       "relevance": 5,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Connect Customer now offers AI agent trace details for self-service voice interactions",
-      "summary": "Amazon Connect Customer now provides AI agent traces for self-service voice interactions, enabling you to understand how AI agents reason, act, and respond during each customer conversation. With this launch, you have full visibility into how the AI agent handled an interaction, so you can confirm what worked, diagnose issues, validate behavior, and deploy agentic experiences with confidence. For ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-ai-agent-traces/",
-      "date": "2026-06-08T16:17:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -725,17 +787,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Bring Databricks into Kiro IDE with the AI Dev Kit Power",
-      "summary": "Why this mattersAI-assisted development falls apart the moment the assistant has to guess at column names, table layouts...",
-      "url": "https://www.databricks.com/blog/bring-databricks-kiro-ide-ai-dev-kit-power",
-      "date": "2026-06-03T17:43:20+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1157,19 +1208,6 @@
       "image": null
     },
     {
-      "title": "Codex is becoming a productivity tool for everyone",
-      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
-      "url": "https://openai.com/index/codex-for-knowledge-work",
-      "date": "2026-06-02T02:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 11,
-      "tags": [
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
       "summary": "OpenAI frontier models GPT-5.5 and GPT-5.4, and Codex, the OpenAI coding agent, are available on Amazon Bedrock. Deploy frontier models on Bedrock's high performance inference engine with built-in security, governance, and pay-per-token pricing.",
       "url": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
@@ -1180,17 +1218,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Our views on AI policy and political advocacy",
-      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "date": "2026-06-01T17:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1275,30 +1302,6 @@
       "relevance": 5,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/robotics-factory-ai-computer-1280x680-5259650.jpg"
-    },
-    {
-      "title": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
-      "summary": "Taiwan is home to more than 500 NVIDIA ecosystem partners. More than 1 million NVIDIA MGX rack components for NVIDIA Vera Rubin infrastructure come together in Taiwan, from across 25 factory sites. As Vera Rubin ramps into full production to power agentic AI factories worldwide, that ecosystem spans the full supply chain — from key […]",
-      "url": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/",
-      "date": "2026-06-01T05:00:41+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Taiwan-AI-Infra-blog-KV-still.jpg"
-    },
-    {
-      "title": "The Metadata Hub: Unify Your Data Estate",
-      "summary": "Discover how a Metadata Hub unifies your data estate. Learn how Snowflake Horizon Catalog enables cross-platform governance controls without data migration.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-horizon-metadata-hub",
-      "date": "2026-05-29T22:18:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 2,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
