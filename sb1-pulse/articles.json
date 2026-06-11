@@ -1,7 +1,40 @@
 {
-  "generated": "2026-06-11T09:10:06.995507+00:00",
+  "generated": "2026-06-11T14:33:43.871688+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
+      "summary": "The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/",
+      "date": "2026-06-11T13:00:17+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-11-no-copy-kv-1536x920-1.jpg"
+    },
+    {
+      "title": "Shine On: SAP CX Celebrates G2 Leadership Across Multiple Categories",
+      "summary": "The recognition highlights the strength of SAP CX, particularly in the enterprise segment.",
+      "url": "https://news.sap.com/2026/06/sap-cx-g2-leadership-multiple-categories/",
+      "date": "2026-06-11T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "SAP Launches Joule in SAP for Me: An AI-Powered Gateway to Insights, Support, and Guided Actions",
+      "summary": "We are moving from a click-and-search portal to a conversational, agent-driven enterprise ecosystem.",
+      "url": "https://news.sap.com/2026/06/sap-launches-joule-in-sap-for-me/",
+      "date": "2026-06-11T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "OpenAI GPT-5.4 and GPT-5.5 models now available in US East (N. Virginia) on Amazon Bedrock",
       "summary": "Today, AWS announces the expanded availability of OpenAI's GPT-5.4 and GPT-5.5 models, which are now available in the US East (N. Virginia) Region on Amazon Bedrock. With GPT-5.4 and GPT-5.5, you can build generative AI applications across reasoning, coding, computer use, document workflows, and long-running agentic tasks. GPT-5.5 is OpenAI's most capable model, designed for advanced coding, resea",
@@ -17,17 +50,6 @@
       "image": null
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
@@ -35,6 +57,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -272,6 +305,19 @@
       "image": null
     },
     {
+      "title": "Investing in multi-agent AI safety research",
+      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "date": "2026-06-10T10:21:19+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo"
+    },
+    {
       "title": "From Reactive to Proactive: How Agentforce is Redefining Autonomous Lead Qualification At Siemens",
       "summary": "Agentforce enables proactive AI agents to qualify leads autonomously, driving the sales pipeline while maintaining customer trust and scaling sales operations",
       "url": "https://www.salesforce.com/blog/autonomous-lead-qualification-agentforce/",
@@ -424,20 +470,6 @@
       "relevance": 11,
       "tags": [
         "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
-      "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
-      "date": "2026-06-09T17:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 26,
-      "tags": [
-        "ai",
-        "developer"
       ],
       "image": null
     },
@@ -1279,19 +1311,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/fsi-press-new-payments-kv-1920x1080-5150250-1.jpg"
     },
     {
-      "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
-      "summary": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin, a substantial performance gain on Jetson AGX Orin 32GB module and Multi-Instance GPU (MIG) support on NVIDIA Jetson […]",
-      "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
-      "date": "2026-06-02T02:00:40+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/robotics-press-jetson-agentic-ready-cptx26-1920x1080-5180550.jpg"
-    },
-    {
       "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
       "summary": "OpenAI frontier models GPT-5.5 and GPT-5.4, and Codex, the OpenAI coding agent, are available on Amazon Bedrock. Deploy frontier models on Bedrock's high performance inference engine with built-in security, governance, and pay-per-token pricing.",
       "url": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
@@ -1345,17 +1364,6 @@
       "summary": "For an energy company, technological change creates a responsibility to adopt innovation in a controlled, resilient, and purpose‑driven way.",
       "url": "https://news.sap.com/2026/06/how-e-on-building-digital-backbone-energy-transition/",
       "date": "2026-06-01T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Direct Procurement Roundtable: Customer Journeys, Product Direction, and the Reality of AI",
-      "summary": "Senior procurement leaders from automotive, industrial manufacturing, aerospace, and defense organizations shared their realities.",
-      "url": "https://news.sap.com/2026/06/direct-procurement-roundtable-customer-journeys-product-direction-ai/",
-      "date": "2026-06-01T10:15:00+00:00",
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
@@ -1634,6 +1642,19 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
+      "summary": "Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads. The post Azure IaaS: Deploy high-performance workloads with a system-level approach appeared first on",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
+      "date": "2026-05-20T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
     },
     {
       "title": "How AI Mode is changing the way people search in the U.S.",
