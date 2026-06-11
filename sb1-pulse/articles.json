@@ -1,7 +1,84 @@
 {
-  "generated": "2026-06-10T19:30:44.283068+00:00",
+  "generated": "2026-06-11T00:11:54.342219+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Scaling AI Through Data Fluency",
+      "summary": "Aviation is one of the most data-intensive industries on the planet. Every flight...",
+      "url": "https://www.databricks.com/blog/scaling-ai-through-data-fluency",
+      "date": "2026-06-10T23:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Moving on from Open CTI: How to Modernize Your Contact Center for the AI Era",
+      "summary": "Whether you keep your current telephony provider or evolve your entire stack, integrating a partner contact center gives you a flexible path to move into AI-powered service.",
+      "url": "https://www.salesforce.com/blog/open-cti-to-partner-contact-center/",
+      "date": "2026-06-10T23:26:46+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Announcing the Public Preview of Custom URLs",
+      "summary": "One unified Databricks experienceYour Databricks account can now live on a single branded domain (e.g. mycompany...",
+      "url": "https://www.databricks.com/blog/announcing-public-preview-custom-urls",
+      "date": "2026-06-10T23:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS and Databricks at Data + AI Summit 2026: Accelerating real-world AI innovation",
+      "summary": "AWS and Databricks continue to simplify complex data challenges, enabling organizations...",
+      "url": "https://www.databricks.com/blog/aws-and-databricks-data-ai-summit-2026-accelerating-real-world-ai-innovation",
+      "date": "2026-06-10T23:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon ECS Managed Daemons now support inter-task visibility and communication",
+      "summary": "Amazon ECS Managed Daemons now support inter-task visibility and communication, enabling customers to deploy tracing, profiling, and security agents that require access to application processes and shared IPC resources on ECS Managed Instances . With this launch, you can configure two new settings in ECS daemon definitions: pidMode controls whether the daemon can see all processes on the instance,",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ecs-managed-daemons-pid-ipc-modes/",
+      "date": "2026-06-10T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "date": "2026-06-10T20:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 8,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "AI Data Engineering: New Smart Pipelines in Snowflake",
       "summary": "Discover new AI tools for data engineering announced at Snowflake Summit 2026. Learn how Snowflake CoCo and smart pipelines accelerate your workflows.",
@@ -130,6 +207,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "date": "2026-06-10T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -534,19 +622,6 @@
       "image": null
     },
     {
-      "title": "Amazon DocumentDB now supports engine minor version starting with 5.0.1",
-      "summary": "Amazon DocumentDB (with MongoDB compatibility) now supports engine minor versions, starting with 5.0.1. This release delivers enhanced aggregation capabilities with new operators ($rand, $pow, $dateToParts, $dateFromParts), the active connections metric to monitor instances, and granular command-level performance metrics in CloudWatch (find, insert, findAndModify, update, etc.). For a full list of",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-documentdb-engine-minor-version-5-0-1/",
-      "date": "2026-06-08T18:59:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Transforming solar and wind maintenance reports with Genie and AI agents",
       "summary": "From maintenance PDFs to actionable insights with AI agentsOperations and maintenance...",
       "url": "https://www.databricks.com/blog/transforming-solar-and-wind-maintenance-reports-genie-and-ai-agents",
@@ -569,20 +644,6 @@
       "image": null
     },
     {
-      "title": "Summer ’26 Release Architect Highlights: Sharing, Security, and Agentic Integration",
-      "summary": "Understand the critical changes, platform shifts, and agentic design patterns architects need to act on now.",
-      "url": "https://www.salesforce.com/blog/summer-26-release-architect-highlights/",
-      "date": "2026-06-08T16:15:09+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 3,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "Confidential submission of draft S-1 to the SEC",
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
       "url": "https://openai.com/index/openai-submits-confidential-s-1",
@@ -590,17 +651,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Enterprise Data Strategy Roadmap for Business Outcomes",
-      "summary": "An enterprise data strategy is the organizational blueprint that connects data assets to specific business outcomes...",
-      "url": "https://www.databricks.com/blog/enterprise-data-strategy",
-      "date": "2026-06-08T13:45:45+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -746,30 +796,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
     },
     {
-      "title": "Enabling Evolutionary Database Development: database branching with Lakebase, continued",
-      "summary": "This series revisits the methodolgy of Evolutionary Database Design, twenty years...",
-      "url": "https://www.databricks.com/blog/enabling-evolutionary-database-development-database-branching-lakebase-part-2",
-      "date": "2026-06-05T13:35:15+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Data + AI Summit 2026: Insider’s Guide for Financial Services Leaders",
-      "summary": "Let's be honest: most industry conferences are a lot of badge-scanning and rubber...",
-      "url": "https://www.databricks.com/blog/data-ai-summit-2026-insiders-guide-financial-services-leaders",
-      "date": "2026-06-05T13:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AI as a Game Changer for the Energy and Utilities Industry",
       "summary": "At the SAP for Energy & Utilities Conference, AI was an omnipresent topic.",
       "url": "https://news.sap.com/2026/06/ai-game-changer-energy-utilities-industry/",
@@ -782,7 +808,7 @@
     },
     {
       "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
-      "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Stay tuned here for live […]",
+      "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Monday, June 8, 10:00 a.m. […]",
       "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
       "date": "2026-06-05T05:38:37+00:00",
       "source": "NVIDIA Blog",
@@ -971,28 +997,6 @@
       "date": "2026-06-03T11:15:00+00:00",
       "source": "SAP News",
       "category": "sap",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "OpenAI public policy agenda",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "date": "2026-06-03T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "date": "2026-06-03T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
       "relevance": 2,
       "tags": [],
       "image": null
@@ -1216,17 +1220,6 @@
       "date": "2026-06-02T12:50:00+00:00",
       "source": "Snowflake Blog",
       "category": "snowflake",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-      "url": "https://openai.com/index/travelers",
-      "date": "2026-06-02T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
       "relevance": 1,
       "tags": [],
       "image": null
