@@ -1,7 +1,21 @@
 {
-  "generated": "2026-06-11T00:11:54.342219+00:00",
+  "generated": "2026-06-11T09:10:06.995507+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "OpenAI GPT-5.4 and GPT-5.5 models now available in US East (N. Virginia) on Amazon Bedrock",
+      "summary": "Today, AWS announces the expanded availability of OpenAI's GPT-5.4 and GPT-5.5 models, which are now available in the US East (N. Virginia) Region on Amazon Bedrock. With GPT-5.4 and GPT-5.5, you can build generative AI applications across reasoning, coding, computer use, document workflows, and long-running agentic tasks. GPT-5.5 is OpenAI's most capable model, designed for advanced coding, resea",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/openai-gpt-us-east-virginia-amazon/",
+      "date": "2026-06-11T00:12:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 42,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
     {
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
@@ -10,6 +24,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -55,6 +80,20 @@
       "category": "databricks",
       "relevance": 3,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon OpenSearch Service launches MCP Apps for agentic observability",
+      "summary": "Amazon OpenSearch Service now supports MCP Apps, bringing observability workflows directly into compatible agentic IDEs such as Claude Desktop and VS Code. With this capability, your AI agent in local environment can investigate incidents using logs, traces, metrics, and alerts stored in OpenSearch domains, collections and Amazon Managed Service for Prometheus. You can easily review and verify the",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-observability-mcp-app",
+      "date": "2026-06-10T22:58:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 29,
+      "tags": [
+        "ai",
+        "automation"
+      ],
       "image": null
     },
     {
@@ -342,7 +381,7 @@
     },
     {
       "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
-      "summary": "AWS announces the availability of Claude Fable 5 on Amazon Bedrock and Claude Platform on AWS. Claude Fable 5 makes Mythos-level capabilities available to all customers, with strong safeguards designed to make it safe for broader use.",
+      "summary": "AWS announces the availability of Claude Fable 5 on Amazon Bedrock and Claude Platform on AWS. Claude Fable 5 delivers Mythos-level capabilities available to all customers, with strong safeguards designed to make it safe for broader use.",
       "url": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/",
       "date": "2026-06-09T17:40:31+00:00",
       "source": "AWS Blog",
@@ -385,6 +424,20 @@
       "relevance": 11,
       "tags": [
         "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
+      "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "date": "2026-06-09T17:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 26,
+      "tags": [
+        "ai",
+        "developer"
       ],
       "image": null
     },
@@ -605,19 +658,6 @@
       "relevance": 2,
       "tags": [
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Compute Optimizer now supports idle recommendations for six additional resource types",
-      "summary": "AWS Compute Optimizer now identifies idle resources for Amazon DynamoDB provisioned tables, Amazon ElastiCache (Redis and Valkey), Amazon MemoryDB, Amazon DocumentDB (provisioned and serverless), Amazon WorkSpaces, and Amazon SageMaker endpoints. This expansion enables you to detect unused resources across more of your AWS environment and identify potential cost savings. Compute Optimizer analyzes",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle",
-      "date": "2026-06-08T21:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -978,17 +1018,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "url": "https://openai.com/index/wasmer",
-      "date": "2026-06-03T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Victrola Puts a Modern Spin on Growth in the Public Cloud",
@@ -1605,19 +1634,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
-      "summary": "Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads. The post Azure IaaS: Deploy high-performance workloads with a system-level approach appeared first on",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
-      "date": "2026-05-20T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
     },
     {
       "title": "How AI Mode is changing the way people search in the U.S.",
