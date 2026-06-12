@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-11T19:31:03.174869+00:00",
+  "generated": "2026-06-12T00:16:44.451858+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Unlocking semantics for AI: How Mercedes-Benz Korea built trusted “Talk to Data” at scale",
+      "summary": "“Talk to Data” is rapidly becoming an important capability across industries, and...",
+      "url": "https://www.databricks.com/blog/unlocking-semantics-ai-how-mercedes-benz-korea-built-trusted-talk-data-scale",
+      "date": "2026-06-11T21:40:47+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "GitHub availability report: May 2026",
+      "summary": "In May, we experienced nine incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: May 2026 appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
+      "date": "2026-06-11T21:30:15+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Forward Deployed Engineering: Delivering Business Outcomes with AI",
       "summary": "Over the past few years, increasingly customers have shifted from asking “help us...",
@@ -14,6 +38,41 @@
       "image": null
     },
     {
+      "title": "Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting",
+      "summary": "Amazon CloudWatch Application Signals introduces service health ranking on the application map and new infrastructure, logs, and traces tabs on the service overview page. These capabilities let operators triage unhealthy services and inspect the underlying compute environment, log snippets, and trace details in one place, making it easier to find root causes without switching tools. Customers use ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/",
+      "date": "2026-06-11T20:10:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "date": "2026-06-11T20:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Ingesting the Milky Way: Petabyte-Scale with Zerobus Ingest",
+      "summary": "Telemetry data is everywhere. IoT sensors on factory floors. Satellite arrays scanning...",
+      "url": "https://www.databricks.com/blog/ingesting-milky-way-petabyte-scale-zerobus-ingest",
+      "date": "2026-06-11T19:45:26+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "How ERGO Hestia reduced time-to-market with Lakebase and Mosaic AI Model Serving",
       "summary": "Building the Next Generation of Real-Time PricingERGO Hestia, one of Poland's leading...",
       "url": "https://www.databricks.com/blog/how-ergo-hestia-reduced-time-market-lakebase-and-mosaic-ai-model-serving",
@@ -22,6 +81,19 @@
       "category": "databricks",
       "relevance": 7,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Aurora now supports PostgreSQL major version 18",
+      "summary": "Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL major version 18, starting with version 18.3. This release brings community improvements to query performance and database management, and introduces support for pg_roaringbitmap, a new extension that performs fast, memory-efficient set operations on large collections of integers. This enables use cases such as audience segmentati",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-postgresql-major-version-18/",
+      "date": "2026-06-11T18:59:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -60,6 +132,17 @@
       "image": null
     },
     {
+      "title": "Azure Databricks at Data + AI Summit 2026 featuring Industry Leaders and Partners",
+      "summary": "This is a collaborative post from Databricks and Microsoft. We thank Jason Pereira,...",
+      "url": "https://www.databricks.com/blog/azure-databricks-data-ai-summit-2026-featuring-industry-leaders-and-partners",
+      "date": "2026-06-11T17:00:16+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab",
       "summary": "AWS Elastic Beanstalk now provides a CloudWatch Logs integration directly in the environment Logs tab of the Elastic Beanstalk console. Previously, customers had to navigate to the CloudWatch console to find the relevant log groups and log streams for their environments. With this launch, customers can view CloudWatch log events without leaving the Elastic Beanstalk console. The Logs tab displays ",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs/",
@@ -73,7 +156,7 @@
       "image": null
     },
     {
-      "title": "Amazon MWAA Serverless now supports Amazon EventBridge notifications/",
+      "title": "Amazon MWAA Serverless now supports Amazon EventBridge notifications",
       "summary": "Amazon Managed Workflows for Apache Airflow (MWAA) Serverless now supports workflow and task state change events to Amazon EventBridge , enabling data engineering and platform teams to build event-driven automation for their Apache Airflow workflows. Previously, monitoring workflow execution required custom polling logic or manual observation. With this launch, MWAA Serverless can emit events when",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-eventbridge/",
       "date": "2026-06-11T17:00:00+00:00",
@@ -169,6 +252,17 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-11-no-copy-kv-1536x920-1.jpg"
+    },
+    {
+      "title": "Amazon Managed Service for Prometheus now supports Native Histograms",
+      "summary": "Amazon Managed Service for Prometheus now supports ingestion, storage, and querying of Prometheus native histograms, enabling customers to capture high-resolution metric distributions with greater precision and lower cardinality than classic histograms. DevOps engineers, site reliability engineers, and platform teams monitoring latency, request durations, and other distributions can now get more a",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-native-histograms/",
+      "date": "2026-06-11T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
+      "image": null
     },
     {
       "title": "Shine On: SAP CX Celebrates G2 Leadership Across Multiple Categories",
@@ -275,17 +369,6 @@
       "image": null
     },
     {
-      "title": "Scaling AI Through Data Fluency",
-      "summary": "Aviation is one of the most data-intensive industries on the planet. Every flight...",
-      "url": "https://www.databricks.com/blog/scaling-ai-through-data-fluency",
-      "date": "2026-06-10T23:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Moving on from Open CTI: How to Modernize Your Contact Center for the AI Era",
       "summary": "Whether you keep your current telephony provider or evolve your entire stack, integrating a partner contact center gives you a flexible path to move into AI-powered service.",
       "url": "https://www.salesforce.com/blog/open-cti-to-partner-contact-center/",
@@ -293,28 +376,6 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Announcing the Public Preview of Custom URLs",
-      "summary": "One unified Databricks experienceYour Databricks account can now live on a single branded domain (e.g. mycompany...",
-      "url": "https://www.databricks.com/blog/announcing-public-preview-custom-urls",
-      "date": "2026-06-10T23:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS and Databricks at Data + AI Summit 2026: Accelerating real-world AI innovation",
-      "summary": "AWS and Databricks continue to simplify complex data challenges, enabling organizations...",
-      "url": "https://www.databricks.com/blog/aws-and-databricks-data-ai-summit-2026-accelerating-real-world-ai-innovation",
-      "date": "2026-06-10T23:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
       "tags": [],
       "image": null
     },
@@ -355,6 +416,20 @@
       "image": null
     },
     {
+      "title": "Gemma 4 models now available on Amazon Bedrock",
+      "summary": "Today, AWS announces the availability of the Gemma 4 family of open-weight models from Google DeepMind on Amazon Bedrock . With Gemma 4, you can build generative AI applications across reasoning, multimodal understanding, agentic, and software engineering workflows. The Gemma 4 family on Amazon Bedrock includes three variants—Gemma 4 31B, Gemma 4 26B-A4B, and Gemma 4 E2B—spanning dense and mixture",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/gemma-4-amazon-bedrock/",
+      "date": "2026-06-10T19:17:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 30,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
       "title": "AI Data Engineering: New Smart Pipelines in Snowflake",
       "summary": "Discover new AI tools for data engineering announced at Snowflake Summit 2026. Learn how Snowflake CoCo and smart pipelines accelerate your workflows.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-smart-pipelines-whats-new",
@@ -364,6 +439,19 @@
       "relevance": 6,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Virtual Private Cloud (VPC) Flow Logs introduces additional metadata",
+      "summary": "Amazon Virtual Private Cloud (VPC) Flow Logs now supports EC2 resource tags and next-hop interface metadata, simplifying network monitoring and troubleshooting by eliminating the need to manually correlate flow log data with resource metadata. VPC Flow Logs enable you to capture and log information about your VPC network traffic to monitor and troubleshoot network traffic issues. With EC2 resource",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-flow-logs-metadata",
+      "date": "2026-06-10T16:58:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -534,17 +622,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nvidia-confidential-computing-apple-pcc.jpeg"
     },
     {
-      "title": "Amazon FSx for OpenZFS Intelligent-Tiering storage class is now available in 8 additional AWS Regions",
-      "summary": "You can now create Amazon FSx for OpenZFS file systems with the Intelligent-Tiering storage class in 8 additional AWS Regions across the US, Europe, Asia Pacific, and South America. FSx Intelligent-Tiering is built for general-purpose file workloads such as file shares, archives, media libraries, and migrations from on-premises HDD storage. It automatically moves your data across three storage tie",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-fsx-openzfs/",
-      "date": "2026-06-09T20:52:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Announcing Claude Fable 5 on Snowflake Cortex AI",
       "summary": "Claude Fable 5 is now available on Snowflake Cortex AI, bringing advanced reasoning and agentic capabilities with Snowflake’s secure governed AI platform",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-fable-5-snowflake-cortex-ai",
@@ -554,20 +631,6 @@
       "relevance": 14,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio Notebooks now support EMR Serverless",
-      "summary": "Amazon SageMaker Unified Studio Notebooks now support Amazon EMR Serverless with Apache Spark Connect, giving data engineers and analysts more flexibility in choosing their Spark runtime for interactive analytics and data engineering workloads. In addition to Amazon Athena Spark, users can now leverage Amazon EMR Serverless as their Spark runtime, selecting the optimal engine based on their requir",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/",
-      "date": "2026-06-09T18:46:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 9,
-      "tags": [
-        "cloud",
-        "data"
       ],
       "image": null
     },
@@ -596,15 +659,16 @@
       "image": null
     },
     {
-      "title": "Amazon S3 Access Grants are now available in the AWS European Sovereign Cloud (Germany) Region",
-      "summary": "You can now create Amazon S3 Access Grants in the AWS European Sovereign Cloud (Germany) Region. Amazon S3 Access Grants map identities in directories such as Microsoft Entra ID, or AWS Identity and Access Management (IAM) principals, to datasets in S3. This helps you manage data permissions at scale by automatically granting S3 access to end users based on their corporate identity. Visit the AWS ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-access-grants-european-sovereign-cloud-germany-region",
-      "date": "2026-06-09T17:14:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 11,
+      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
+      "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "date": "2026-06-09T17:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 26,
       "tags": [
-        "cloud"
+        "ai",
+        "developer"
       ],
       "image": null
     },
@@ -624,19 +688,6 @@
       "image": null
     },
     {
-      "title": "AWS FinOps Agent is now available in preview",
-      "summary": "Today, AWS announces the preview of AWS FinOps Agent, a frontier agent for FinOps practitioners and engineering teams that answers cost questions, surfaces optimization opportunities, automatically investigates cost anomalies, and runs recurring FinOps workflows on a schedule you define. With the AWS FinOps Agent, you can ask questions about your AWS costs and generate cloud cost reports for finan",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/",
-      "date": "2026-06-09T15:28:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
       "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
@@ -646,19 +697,6 @@
       "relevance": 17,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Announcing metal-48xl and metal-96xl for Amazon EC2 network/EBS instances",
-      "summary": "AWS is announcing the general availability of metal-48xl and metal-96xl sizes for Amazon Elastic Compute Cloud (Amazon EC2) M8in, M8ib, M8idn, M8idb, R8in, R8ib, R8idn, and R8idb instances. These instances are powered by custom sixth generation Intel Xeon Scalable processors, available only on AWS and feature the latest sixth generation AWS Nitro cards. These instances deliver up to 43% better com",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
-      "date": "2026-06-09T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -1130,6 +1168,17 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/industrial-ai-engineers-kv-1920x1080-2.jpg"
     },
     {
+      "title": "AI alone won’t change your business. The system running it will.",
+      "summary": "We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack. The post AI alone won’t change your business. The system running it will. appeared first on Microsoft Azure Blog .",
+      "url": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+      "date": "2026-06-02T19:15:57+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
       "summary": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]",
       "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
@@ -1142,6 +1191,20 @@
         "cloud"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-corp-blog-microsoft-1280x680-4999350.png"
+    },
+    {
+      "title": "Announcing Microsoft Discovery general availability and Microsoft Discovery app preview",
+      "summary": "At Microsoft Build, we are announcing that Microsoft Discovery is now generally available for all organizations, providing a comprehensive platform for building and governing agentic AI workflows. The post Announcing Microsoft Discovery general availability and Microsoft Discovery app preview appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/",
+      "date": "2026-06-02T18:15:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 18,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
     },
     {
       "title": "GitHub Copilot app: The agent-native desktop experience",
@@ -1165,6 +1228,57 @@
       "source": "Microsoft 365",
       "category": "microsoft",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases",
+      "summary": "Microsoft Build 2026 highlights advancements in app development with Microsoft Fabric and Microsoft Databases, emphasizing a unified data and AI platform for scalable, agentic applications. The post Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/",
+      "date": "2026-06-02T16:59:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/4009252-OneLake-Foundry-Integration-Demo"
+    },
+    {
+      "title": "New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads",
+      "summary": "We are announcing the early access preview for Azure Cobalt 200 Arm-based Virtual Machines (VMs), designed for Linux-based agentic AI workloads. The post New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/",
+      "date": "2026-06-02T16:30:09+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval",
+      "summary": "Build smarter agents with Microsoft Foundry IQ, unifying enterprise and external data into a secure, scalable knowledge layer for faster, higher-quality answers. The post Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval appeared first on Microsoft Azure Blog .",
+      "url": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
+      "date": "2026-06-02T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 9,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry",
+      "summary": "Microsoft Foundry helps teams move beyond model access to operate AI at scale—selecting, evaluating, optimizing, and governing models across the full lifecycle. The post A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "url": "https://devblogs.microsoft.com/foundry/build-2026-foundry-models/",
+      "date": "2026-06-02T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
       "tags": [],
       "image": null
     },
@@ -1323,6 +1437,20 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"
     },
     {
+      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
+      "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
+      "date": "2026-05-29T14:46:32+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
       "title": "Check out real-life AI prototypes from the Futures Lab.",
       "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
@@ -1475,6 +1603,19 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"
     },
     {
+      "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
+      "summary": "With Cilium-based cross-cluster networking, we are delivering a managed, high-performance network that can span your entire fleet. The post Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
+      "date": "2026-05-22T17:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 16,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
       "summary": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
@@ -1488,15 +1629,15 @@
       "image": null
     },
     {
-      "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
-      "summary": "Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets. The post Beyond the engine: 10 open source projects shaping how games actually get made appeared first on The GitHub Blog .",
-      "url": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
-      "date": "2026-05-21T18:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 3,
+      "title": "Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale",
+      "summary": "Azure NetApp Files is redefining what’s possible for EDA in the cloud—delivering scalable, high-performance storage that supports massive concurrency, low latency, and consistent production performance. With independent benchmark validation and real-world adoption, organizations can now run EDA workloads at scale without traditional storage bottlenecks. The post Azure NetApp Files for EDA workload",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
+      "date": "2026-05-22T15:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
       "tags": [
-        "developer"
+        "cloud"
       ],
       "image": null
     },
