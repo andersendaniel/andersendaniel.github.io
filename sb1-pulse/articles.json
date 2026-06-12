@@ -1,7 +1,18 @@
 {
-  "generated": "2026-06-12T00:16:44.451858+00:00",
+  "generated": "2026-06-12T08:54:56.139199+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "SAP Opens Data Center in India, Underscoring Expertise in Data Federation and Deepening Commitment to the Region",
+      "summary": "This reflects the company’s deepening commitment to India, the world’s fastest-growing large economy and home to more than 15,000 SAP employees.",
+      "url": "https://news.sap.com/2026/06/sap-opens-data-center-india-expertise-in-data-federation-commitment-region/",
+      "date": "2026-06-12T04:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Unlocking semantics for AI: How Mercedes-Benz Korea built trusted “Talk to Data” at scale",
       "summary": "“Talk to Data” is rapidly becoming an important capability across industries, and...",
@@ -323,6 +334,19 @@
       "image": null
     },
     {
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "url": "https://openai.com/index/bbva",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 41,
+      "tags": [
+        "banking"
+      ],
+      "image": null
+    },
+    {
       "title": "OpenAI to acquire Ona",
       "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "url": "https://openai.com/index/openai-to-acquire-ona",
@@ -330,17 +354,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 22,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -356,16 +369,14 @@
       "image": null
     },
     {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "url": "https://openai.com/index/bbva",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "date": "2026-06-11T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 41,
-      "tags": [
-        "banking"
-      ],
+      "relevance": 5,
+      "tags": [],
       "image": null
     },
     {
@@ -661,7 +672,7 @@
     {
       "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
       "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
       "date": "2026-06-09T17:00:00+00:00",
       "source": "Azure Blog",
       "category": "microsoft",
@@ -1400,17 +1411,6 @@
       "source": "AWS Blog",
       "category": "aws",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How E.ON Is Building the Digital Backbone of the Energy Transition",
-      "summary": "For an energy company, technological change creates a responsibility to adopt innovation in a controlled, resilient, and purpose‑driven way.",
-      "url": "https://news.sap.com/2026/06/how-e-on-building-digital-backbone-energy-transition/",
-      "date": "2026-06-01T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
