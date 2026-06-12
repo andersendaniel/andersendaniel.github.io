@@ -1,7 +1,81 @@
 {
-  "generated": "2026-06-12T14:04:38.521504+00:00",
+  "generated": "2026-06-12T19:00:50.214676+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Navigating AI Shifts in Modern Data Engineering",
+      "summary": "Discover how modern data engineering is shifting to meet AI demands. Learn to build resilient, declarative data pipelines and scale with coding agents.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/building-pipelines-for-ai",
+      "date": "2026-06-12T19:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Enabling Evolutionary Database Development: Database branching with Lakebase, the conclusion",
+      "summary": "The methodology described in Evolutionary Database Design and operationalized in Refactoring Databases: ...",
+      "url": "https://www.databricks.com/blog/enabling-evolutionary-database-development-database-branching-lakebase-part-3",
+      "date": "2026-06-12T17:05:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 I7i instances now available in AWS Europe (Paris) Region",
+      "summary": "AWS is announcing the availability of high performance Storage optimized Amazon EC2 I7i instances in AWS Europe (Paris) region. Powered by 5th Gen Intel Xeon Processors with an all-core turbo frequency of 3.2 GHz, these new instances deliver up to 23% better compute performance and more than 10% better price performance over previous generation I4i instances. Powered by 3rd generation AWS Nitro SS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-i7i-instances-europe-paris-region/",
+      "date": "2026-06-12T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jun 8 - Jun 12 Simplif",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "date": "2026-06-12T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "Snowflake Ventures Invests in Jedify to Advance Enterprise AI",
+      "summary": "Snowflake Ventures invests in Jedify, an autonomous context graph that automates semantic lifecycle management to give enterprise AI agents the governed business context they need to deliver accurate, trusted answers.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/jedify-context-graphs-enterprise-ai-agents",
+      "date": "2026-06-12T15:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 17,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 Capacity Blocks for ML is now available in AWS GovCloud (US) Regions",
+      "summary": "Amazon EC2 Capacity Blocks for ML is now available in AWS GovCloud (US-West) and AWS GovCloud (US-East), enabling government and regulated-industry customers to reserve GPU capacity for machine learning workloads. EC2 Capacity Blocks for ML allows you to reserve GPU instances in advance for a defined duration, giving you assured access to accelerated compute for short-duration pre-training, fine-t",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-capacity-blocks-ml-govcloud/",
+      "date": "2026-06-12T14:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "SAP Discovery Center Helps Customers Start Their AI Journey",
       "summary": "Agilent and Sutherland share how they utilized SAP Discovery Center to explore and adopt SAP Business AI solutions.",
@@ -9,6 +83,28 @@
       "date": "2026-06-12T11:15:00+00:00",
       "source": "SAP News",
       "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "date": "2026-06-12T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What is customer segmentation?",
+      "summary": "Customer segmentation is the practice of dividing an existing customer base into smaller...",
+      "url": "https://www.databricks.com/blog/what-is-customer-segmentation",
+      "date": "2026-06-12T07:54:11+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -32,6 +128,30 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 High Memory U7i-8TB instances now available in AWS Europe (Paris) region",
+      "summary": "Amazon EC2 High Memory U7i-8TB instances (u7i-8tb.112xlarge) are now available in AWS Europe (Paris) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids). U7i-8TB instances offer 8 TiB of DDR5 memory, enabling customers to scale transaction processing throughput in a fast-growing data environment. U7i ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7i-8tb-europe-paris/",
+      "date": "2026-06-11T23:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Quick now integrates with Snowflake Cortex AI",
+      "summary": "Amazon Quick now integrates with Snowflake Cortex AI through the Model Context Protocol (MCP), enabling teams to query their Snowflake data and documents using natural language, and automate multi-step workflows directly within their Quick workspace. After setting up the connection using Snowflake's managed MCP server with OAuth authentication, you can ask questions across structured data through ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-snowflake-cortex-ai/",
+      "date": "2026-06-11T22:02:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
       "tags": [],
       "image": null
     },
@@ -68,6 +188,19 @@
       "category": "databricks",
       "relevance": 2,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EKS now supports local clusters on AWS Outposts with Amazon EC2 instance store",
+      "summary": "Today, AWS is expanding support for Amazon Elastic Kubernetes Service (EKS) local clusters on AWS Outposts to first-generation and second-generation AWS Outposts racks running Amazon EC2 instances that boot from Amazon EC2 instance store. AWS Outposts offers static stability for Amazon EC2 instances backed by EC2 instance store , and AWS is now extending that benefit to Amazon EKS local clusters c",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-aws-outposts-ec2-instance-store/",
+      "date": "2026-06-11T20:52:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -229,6 +362,17 @@
       "image": null
     },
     {
+      "title": "AWS Lake Formation extends table permissions to access underlying data in Amazon S3",
+      "summary": "AWS Lake Formation now enables you to read and write the underlying data files in Amazon S3 for tables registered in the AWS Glue Data Catalog. This provides you with a single set of permissions for both SQL queries and direct file access using your existing Lake Formation table grants. With this launch, Lake Formation provides temporary, scoped credentials for registered S3 locations based on you",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lake-formation-access-data-amazon-s3",
+      "date": "2026-06-11T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
       "summary": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared first on The GitHub Blog .",
       "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
@@ -258,17 +402,6 @@
       "summary": "While there holds great promise for AI agents to transform the healthcare industry, for agents to be successful...",
       "url": "https://www.databricks.com/blog/empower-your-healthcare-agents-ready-use-mcp-databricks-marketplace",
       "date": "2026-06-11T15:06:06+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Ecolab rebuilt retail intelligence on Databricks and Anthropic Claude",
-      "summary": "When a store manager at a major food retailer needs to know the correct hot holding temperature for a rotisserie chicken...",
-      "url": "https://www.databricks.com/blog/how-ecolab-rebuilt-retail-intelligence-databricks-and-anthropic-claude",
-      "date": "2026-06-11T14:44:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 14,
@@ -320,17 +453,6 @@
       "image": null
     },
     {
-      "title": "Stop building data products. Start building data services.",
-      "summary": "The traditional enterprise data playbook assumes a certain pace. You design a strategy,...",
-      "url": "https://www.databricks.com/blog/stop-building-data-products-start-building-data-services",
-      "date": "2026-06-11T08:46:55+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AWS announces AWS Workload Credentials Provider",
       "summary": "AWS announces AWS Workload Credentials Provider, a lightweight client-side provider that automates deployment of exported certificates from AWS Certificate Manager (ACM) and local caching of secrets from AWS Secrets Manager across AWS and non-AWS workloads. Previously, customers exporting public or private certificates from ACM had to build custom automation using Amazon EventBridge to detect rene",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-workload-credentials-provider/",
@@ -356,13 +478,13 @@
       "image": null
     },
     {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "OpenAI to acquire Ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
       "date": "2026-06-11T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 5,
+      "relevance": 22,
       "tags": [],
       "image": null
     },
@@ -380,13 +502,13 @@
       "image": null
     },
     {
-      "title": "OpenAI to acquire Ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "date": "2026-06-11T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 22,
+      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -427,17 +549,6 @@
       "image": null
     },
     {
-      "title": "Amazon ECS Managed Daemons now support inter-task visibility and communication",
-      "summary": "Amazon ECS Managed Daemons now support inter-task visibility and communication, enabling customers to deploy tracing, profiling, and security agents that require access to application processes and shared IPC resources on ECS Managed Instances . With this launch, you can configure two new settings in ECS daemon definitions: pidMode controls whether the daemon can see all processes on the instance,",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ecs-managed-daemons-pid-ipc-modes/",
-      "date": "2026-06-10T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
@@ -446,20 +557,6 @@
       "category": "openai",
       "relevance": 8,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Gemma 4 models now available on Amazon Bedrock",
-      "summary": "Today, AWS announces the availability of the Gemma 4 family of open-weight models from Google DeepMind on Amazon Bedrock . With Gemma 4, you can build generative AI applications across reasoning, multimodal understanding, agentic, and software engineering workflows. The Gemma 4 family on Amazon Bedrock includes three variants—Gemma 4 31B, Gemma 4 26B-A4B, and Gemma 4 E2B—spanning dense and mixture",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/gemma-4-amazon-bedrock/",
-      "date": "2026-06-10T19:17:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 30,
-      "tags": [
-        "ai",
-        "automation"
-      ],
       "image": null
     },
     {
@@ -472,19 +569,6 @@
       "relevance": 6,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Virtual Private Cloud (VPC) Flow Logs introduces additional metadata",
-      "summary": "Amazon Virtual Private Cloud (VPC) Flow Logs now supports EC2 resource tags and next-hop interface metadata, simplifying network monitoring and troubleshooting by eliminating the need to manually correlate flow log data with resource metadata. VPC Flow Logs enable you to capture and log information about your VPC network traffic to monitor and troubleshoot network traffic issues. With EC2 resource",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-flow-logs-metadata",
-      "date": "2026-06-10T16:58:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -524,19 +608,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 M9g and M9gd general purpose instances are now available",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M9g and M9gd instances , powered by AWS Graviton5 processors, are generally available. AWS Graviton5 processors are the fifth generation of custom-designed AWS processors, delivering the best price performance for general purpose workloads running on Amazon EC2 . ​​M9g instances serve a broad range of general-purpose workloads including app",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available",
-      "date": "2026-06-10T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Hybrid Tables Just Got Up to 8x Faster",
       "summary": "Snowflake Hybrid Tables now attain up to 8x higher throughput, 10x faster batch performance and up to 40% cost savings (based on internal benchmarks) with no code changes required. See how teams are running transactional and analytical workloads together on Snowflake.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/hybrid-tables-performance-improvements",
@@ -545,32 +616,6 @@
       "category": "snowflake",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 P6-B200 instances are now available in the AWS GovCloud (US-East) Region",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in AWS GovCloud (US-East) Region. These instances offer up to 2x performance compared to P5en instances for AI training and inference. P6-B200 instances feature 8 Blackwell GPUs with 1440 GB of high-bandwidth GPU memory and a 60% increase in GPU memory bandwidth compared t",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-aws-govcloud/",
-      "date": "2026-06-10T14:32:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Cost and Usage Report 2.0 now supports table configurations update",
-      "summary": "AWS today announces that AWS Cost and Usage Report 2.0 (CUR 2.0) now supports updates to data table configurations via the AWS Management Console and SDK/CLI. This capability allows customers to modify their existing exports to take advantage of new CUR 2.0 features without having to delete and recreate their exports. Previously, customers configured CUR 2.0 exports with specific table settings — ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-usage-report/",
-      "date": "2026-06-10T13:33:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -683,7 +728,7 @@
     {
       "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
       "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
       "date": "2026-06-09T17:00:00+00:00",
       "source": "Azure Blog",
       "category": "microsoft",
@@ -954,19 +999,6 @@
       "image": null
     },
     {
-      "title": "What’s new with Google Cloud",
-      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jun 1 - Jun 5 Modeling",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "date": "2026-06-05T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
-    },
-    {
       "title": "The latest AI news we announced in May 2026",
       "summary": "May AI recap",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
@@ -1042,19 +1074,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "url": "https://openai.com/index/endava-frontiers",
-      "date": "2026-06-04T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 33,
       "tags": [
         "ai"
       ],
@@ -1316,28 +1335,6 @@
         "data",
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "Snowflake CoWork: The Personal Work Agent for Every Knowledge Worker",
-      "summary": "Snowflake CoWork (formerly Snowflake Intelligence) is a personal work agent for knowledge workers, combining deep business context, automation and governed actions across enterprise systems.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-cowork-personal-work-agent",
-      "date": "2026-06-02T12:50:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 8,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Snowflake for AI: Put Enterprise AI to Work",
-      "summary": "Explore Snowflake for AI and see how Snowflake CoWork (formerly Snowflake Intelligence) helps enterprises deploy AI agents, train models, automate workflows, and govern AI at scale.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-for-ai-enterprise-ai-platform",
-      "date": "2026-06-02T12:50:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 22,
-      "tags": [],
       "image": null
     },
     {
