@@ -1,7 +1,18 @@
 {
-  "generated": "2026-06-12T08:54:56.139199+00:00",
+  "generated": "2026-06-12T14:04:38.521504+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "SAP Discovery Center Helps Customers Start Their AI Journey",
+      "summary": "Agilent and Sutherland share how they utilized SAP Discovery Center to explore and adopt SAP Business AI solutions.",
+      "url": "https://news.sap.com/2026/06/sap-discovery-center-customers-ai-journey/",
+      "date": "2026-06-12T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "SAP Opens Data Center in India, Underscoring Expertise in Data Federation and Deepening Commitment to the Region",
       "summary": "This reflects the company’s deepening commitment to India, the world’s fastest-growing large economy and home to more than 15,000 SAP employees.",
@@ -9,6 +20,17 @@
       "date": "2026-06-12T04:15:00+00:00",
       "source": "SAP News",
       "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "url": "https://openai.com/index/preply",
+      "date": "2026-06-12T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -334,6 +356,17 @@
       "image": null
     },
     {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "url": "https://openai.com/index/bbva",
@@ -365,17 +398,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -646,17 +668,6 @@
       "image": null
     },
     {
-      "title": "High Value Work: The New ROI of AI",
-      "summary": "Speed and efficiency matter, but the greatest impact comes when humans have time to innovate, think, and nourish relationships.",
-      "url": "https://www.salesforce.com/blog/high-value-work/",
-      "date": "2026-06-09T18:29:13+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
       "summary": "AWS announces the availability of Claude Fable 5 on Amazon Bedrock and Claude Platform on AWS. Claude Fable 5 delivers Mythos-level capabilities available to all customers, with strong safeguards designed to make it safe for broader use.",
       "url": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/",
@@ -672,7 +683,7 @@
     {
       "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
       "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
       "date": "2026-06-09T17:00:00+00:00",
       "source": "Azure Blog",
       "category": "microsoft",
@@ -1061,17 +1072,6 @@
       "image": null
     },
     {
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "date": "2026-06-04T09:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
       "summary": "Amazon Cognito now offers multi-Region replication that automatically synchronizes user data, credentials, and pool configurations to a secondary AWS Region, enabling uninterrupted authentication during regional failovers without forced password resets—plus new support for customer managed KMS keys for encryption control.",
       "url": "https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/",
@@ -1338,20 +1338,6 @@
       "category": "snowflake",
       "relevance": 22,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "From Campus to Career: SAP Empowers Academia to Prepare Students for the Age of Agentic AI",
-      "summary": "SAP is helping higher ed keep pace with the rapid adoption of agentic AI in industry and prepare graduates for a changing job market.",
-      "url": "https://news.sap.com/2026/06/sap-academia-prepare-students-agentic-ai/",
-      "date": "2026-06-02T10:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 14,
-      "tags": [
-        "ai",
-        "automation"
-      ],
       "image": null
     },
     {
@@ -1884,17 +1870,6 @@
       "source": "AWS Blog",
       "category": "aws",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Reel Friends: Building Social Discovery that Scales to Billions",
-      "summary": "On its face the new Friend Bubbles feature looks simple enough. It highlights Reels your friends have watched and reacted to. But sometimes the features that seem the most straightforward require the deepest engineering work. On this episode of the Meta Tech Podcast, Pascal Hartig chats with Subasree and Joseph, two software engineers from the Facebook [...] Read More... The post Reel Friends: Bui",
-      "url": "https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/",
-      "date": "2026-05-13T13:00:44+00:00",
-      "source": "Meta Engineering",
-      "category": "meta",
-      "relevance": 1,
       "tags": [],
       "image": null
     }
