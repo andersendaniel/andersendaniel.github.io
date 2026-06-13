@@ -1,7 +1,18 @@
 {
-  "generated": "2026-06-13T00:16:45.579572+00:00",
+  "generated": "2026-06-13T08:18:17.938769+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "From Wall Street to Data Platforms",
+      "summary": "Brickster Voices is a series that spotlights the people who make our work possible. Through personal career journeys...",
+      "url": "https://www.databricks.com/blog/wall-street-data-platforms",
+      "date": "2026-06-13T00:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "How we made GitHub Copilot CLI more selective about delegation",
       "summary": "Better orchestration, fewer handoffs, faster progress, without a single new knob. The post How we made GitHub Copilot CLI more selective about delegation appeared first on The GitHub Blog .",
@@ -146,6 +157,19 @@
       "category": "openai",
       "relevance": 5,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Talk to all your data, wherever it lives",
+      "summary": "Agentic AI has created demand for cross-source reasoning that didn't exist 12 months ago...",
+      "url": "https://www.databricks.com/blog/talk-all-your-data-wherever-it-lives",
+      "date": "2026-06-12T09:51:30+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -437,28 +461,6 @@
       "image": null
     },
     {
-      "title": "Empower your healthcare agents with ready-to-use MCP on Databricks Marketplace",
-      "summary": "While there holds great promise for AI agents to transform the healthcare industry, for agents to be successful...",
-      "url": "https://www.databricks.com/blog/empower-your-healthcare-agents-ready-use-mcp-databricks-marketplace",
-      "date": "2026-06-11T15:06:06+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Ecolab rebuilt retail intelligence on Databricks and Anthropic Claude",
-      "summary": "When a store manager at a major food retailer needs to know the correct hot holding temperature for a rotisserie chicken...",
-      "url": "https://www.databricks.com/blog/how-ecolab-rebuilt-retail-intelligence-databricks-and-anthropic-claude",
-      "date": "2026-06-11T14:44:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
       "summary": "The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But […]",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/",
@@ -538,17 +540,6 @@
       "image": null
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI to acquire Ona",
       "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "url": "https://openai.com/index/openai-to-acquire-ona",
@@ -556,6 +547,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 22,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -750,7 +752,7 @@
     {
       "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
       "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
       "date": "2026-06-09T17:00:00+00:00",
       "source": "Azure Blog",
       "category": "microsoft",
