@@ -1,7 +1,20 @@
 {
-  "generated": "2026-06-13T12:21:56.121090+00:00",
+  "generated": "2026-06-13T18:04:06.902264+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Introducing Omnigent: A Meta-Harness to Combine, Control and Share Your Agents",
+      "summary": "At Databricks, we use and build agents extensively, from coding with them at scale...",
+      "url": "https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents",
+      "date": "2026-06-13T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "From Wall Street to Data Platforms",
       "summary": "Brickster Voices is a series that spotlights the people who make our work possible. Through personal career journeys...",
@@ -358,17 +371,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Azure Databricks at Data + AI Summit 2026 featuring Industry Leaders and Partners",
-      "summary": "This is a collaborative post from Databricks and Microsoft. We thank Jason Pereira,...",
-      "url": "https://www.databricks.com/blog/azure-databricks-data-ai-summit-2026-featuring-industry-leaders-and-partners",
-      "date": "2026-06-11T17:00:16+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -752,7 +754,7 @@
     {
       "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
       "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
       "date": "2026-06-09T17:00:00+00:00",
       "source": "Azure Blog",
       "category": "microsoft",
