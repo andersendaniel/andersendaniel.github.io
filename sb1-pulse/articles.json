@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-13T18:04:06.902264+00:00",
+  "generated": "2026-06-14T00:01:58.377346+00:00",
   "sources": 21,
   "articles": [
     {
@@ -322,6 +322,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 7,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "3 things leaders need to know from Microsoft Build 2026",
+      "summary": "At Microsoft Build 2026, AI moved from experimentation to execution—shifting from isolated tools to connected systems grounded in business data. Organizations that win will embed AI across workflows, scale it effectively, and translate it into measurable outcomes like faster growth, lower costs, and better customer experiences. The post 3 things leaders need to know from Microsoft Build 2026 appea",
+      "url": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
+      "date": "2026-06-11T19:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 6,
       "tags": [],
       "image": null
     },
@@ -1614,19 +1625,6 @@
       "image": null
     },
     {
-      "title": "Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale",
-      "summary": "Azure NetApp Files is redefining what’s possible for EDA in the cloud—delivering scalable, high-performance storage that supports massive concurrency, low latency, and consistent production performance. With independent benchmark validation and real-world adoption, organizations can now run EDA workloads at scale without traditional storage bottlenecks. The post Azure NetApp Files for EDA workload",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
-      "date": "2026-05-22T15:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "We’re announcing new community investments in Missouri.",
       "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
@@ -1859,17 +1857,6 @@
         "ai",
         "automation"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon Bedrock introduces new advanced prompt optimization and migration tool",
-      "summary": "Amazon Bedrock Advanced Prompt Optimization enables customers to optimize their prompts for their current model or migrate prompts to new models faster than before with built-in evaluation feedback loops. Optimize your prompts and compare results for up to 5 models simultaneously.",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/",
-      "date": "2026-05-14T22:03:39+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 13,
-      "tags": [],
       "image": null
     }
   ]
