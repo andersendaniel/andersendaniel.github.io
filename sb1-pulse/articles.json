@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15T16:14:09.497136+00:00",
+  "generated": "2026-06-15T20:22:31.759010+00:00",
   "sources": 21,
   "articles": [
     {
@@ -22,6 +22,73 @@
       "category": "snowflake",
       "relevance": 6,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
+      "summary": "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
+      "date": "2026-06-15T20:15:31+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 25,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+      "summary": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelerating researchers and developers building multilingual AI with a new open dataset appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+      "date": "2026-06-15T19:17:30+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 3,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Route 53 Resolver DNS Firewall now supports Palo Alto Networks Advanced DNS Security (Preview)",
+      "summary": "Amazon Web Services announces the preview of Palo Alto Networks (PANW) Advanced DNS Security on Amazon Route 53 Resolver DNS Firewall. Security administrators can now enforce DNS threat protections from Palo Alto Networks directly on Route 53 DNS Firewall rules, without deploying separate firewalls or modifying VPC configurations — by subscribing to PANW from the DNS Firewall console through the e",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-resolver-dns/",
+      "date": "2026-06-15T17:06:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon ECS Express Mode is now available in AWS GovCloud (US) Regions",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) Express Mode is now available in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. ECS Express Mode empowers developers to rapidly launch containerized applications, including web applications and APIs, making it easy to orchestrate and manage cloud architecture while maintaining full control over infrastructure resources. Every Express Mo",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-express-mode-govcloud/",
+      "date": "2026-06-15T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "cloud",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS launches Cost Explorer historical data retention for accounts in billing groups",
+      "summary": "Today, AWS announces Cost Explorer historical data retention for accounts in billing groups. Customers can use AWS Billing Conductor and Billing Transfer to map accounts to billing groups, enabling them to view billing data priced at the pro forma rates supplied by the payer account or Bill-Transfer account. Previously, the billing group configuration resulted in restricted access to historical bi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer/",
+      "date": "2026-06-15T16:07:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -74,6 +141,33 @@
       "image": null
     },
     {
+      "title": "Amazon EC2 C7i instances are now available in the Israel (Tel Aviv) region",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in the Israel (Tel Aviv) Region. C7i instances are supported by custom Intel processors, available only on AWS. C7i instances deliver up to 15% better price-performance versus C6i instances and are a great choice for all compute",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7i-instances-israel-tel-aviv-region/",
+      "date": "2026-06-15T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 C8i instances are now available in Europe (Stockholm) region",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i instances are available in the Europe (Stockholm) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. These C8i instances offer up to 15% better price-performance, and 2.5x more memory",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8i-instances-europe-stockholm-region/",
+      "date": "2026-06-15T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "How to Use Threads For Small Business: Let’s Get Meta",
       "summary": "Threads is a real-time, text-based conversational tool that feels like a chat with a good friend.",
       "url": "https://www.salesforce.com/blog/small-business/threads-for-smbs/",
@@ -116,6 +210,82 @@
       "relevance": 12,
       "tags": [
         "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch now supports cross-account metrics centralization",
+      "summary": "Today, Amazon Web Services announces the general availability of Amazon CloudWatch Metrics Centralization, which enables you to replicate CloudWatch metrics cross-account and cross-region into a single destination account. Enterprise teams with complex multi-account, multi-region deployments often need a unified view of their operational health across their entire infrastructure. CloudWatch metric",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cross-account-metrics-centralization",
+      "date": "2026-06-15T10:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch Query Studio is now generally available",
+      "summary": "Today, Amazon Web Services announces the general availability of Amazon CloudWatch Query Studio, a unified querying and visualization experience that enables you to explore metrics from a single interface within the CloudWatch console. With Query Studio, a team operating services across multiple AWS accounts and regions can use PromQL or Metrics Insights to query OpenTelemetry and AWS vended metri",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-query-studio-generally-available",
+      "date": "2026-06-15T10:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "What is document AI?",
+      "summary": "Document AI is the use of AI — including machine learning, natural language processing...",
+      "url": "https://www.databricks.com/blog/what-is-document-ai",
+      "date": "2026-06-15T07:25:59+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS for MariaDB supports Long-Term Support version 12.3 in Amazon RDS Database Preview Environment",
+      "summary": "Amazon RDS for MariaDB now supports MariaDB 12.3 in the Amazon RDS Database Preview Environment , allowing you to evaluate the latest Long-Term Support Release on Amazon RDS for MariaDB. This preview environment provides a sandbox where you can test applications and explore new MariaDB 12.3 capabilities before they become generally available. MariaDB 12.3 includes Oracle TO_DATE() function compati",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-maria-db-innovation-release-12-3-rds-database-preview-environment/",
+      "date": "2026-06-15T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS for MySQL announces Extended Support minor version 5.7.44-RDS.20260521",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for MySQL now supports new Amazon RDS Extended Support minor version 5.7.44-RDS.20260521. We recommend that you upgrade to this version to fix known security vulnerabilities and bugs in prior versions of MySQL. Learn more about upgrading your database instances, including minor and major version upgrades, in the Amazon RDS User Guide . Amazon RDS Ext",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-mysql-extended-support-minor-5744-rds/",
+      "date": "2026-06-15T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.27, 10.11.18, 11.4.12, and 11.8.8",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for MariaDB now supports community MariaDB minor versions 10.6.27, 10.11.18, 11.4.12, and 11.8.8. We recommend that you upgrade to the latest minor versions to fix known security vulnerabilities in prior versions of MariaDB, and to benefit from the bug fixes, performance improvements, and new functionality added by the MariaDB community. You can leve",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-mariadb-community-versions/",
+      "date": "2026-06-15T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
       ],
       "image": null
     },
@@ -266,19 +436,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 Capacity Blocks for ML is now available in AWS GovCloud (US) Regions",
-      "summary": "Amazon EC2 Capacity Blocks for ML is now available in AWS GovCloud (US-West) and AWS GovCloud (US-East), enabling government and regulated-industry customers to reserve GPU capacity for machine learning workloads. EC2 Capacity Blocks for ML allows you to reserve GPU instances in advance for a defined duration, giving you assured access to accelerated compute for short-duration pre-training, fine-t",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-capacity-blocks-ml-govcloud/",
-      "date": "2026-06-12T14:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "SAP Discovery Center Helps Customers Start Their AI Journey",
       "summary": "Agilent and Sutherland share how they utilized SAP Discovery Center to explore and adopt SAP Business AI solutions.",
       "url": "https://news.sap.com/2026/06/sap-discovery-center-customers-ai-journey/",
@@ -336,30 +493,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 High Memory U7i-8TB instances now available in AWS Europe (Paris) region",
-      "summary": "Amazon EC2 High Memory U7i-8TB instances (u7i-8tb.112xlarge) are now available in AWS Europe (Paris) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids). U7i-8TB instances offer 8 TiB of DDR5 memory, enabling customers to scale transaction processing throughput in a fast-growing data environment. U7i ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7i-8tb-europe-paris/",
-      "date": "2026-06-11T23:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Quick now integrates with Snowflake Cortex AI",
-      "summary": "Amazon Quick now integrates with Snowflake Cortex AI through the Model Context Protocol (MCP), enabling teams to query their Snowflake data and documents using natural language, and automate multi-step workflows directly within their Quick workspace. After setting up the connection using Snowflake's managed MCP server with OAuth authentication, you can ask questions across structured data through ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-snowflake-cortex-ai/",
-      "date": "2026-06-11T22:02:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Unlocking semantics for AI: How Mercedes-Benz Korea built trusted “Talk to Data” at scale",
       "summary": "“Talk to Data” is rapidly becoming an important capability across industries, and...",
       "url": "https://www.databricks.com/blog/unlocking-semantics-ai-how-mercedes-benz-korea-built-trusted-talk-data-scale",
@@ -392,32 +525,6 @@
       "category": "databricks",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EKS now supports local clusters on AWS Outposts with Amazon EC2 instance store",
-      "summary": "Today, AWS is expanding support for Amazon Elastic Kubernetes Service (EKS) local clusters on AWS Outposts to first-generation and second-generation AWS Outposts racks running Amazon EC2 instances that boot from Amazon EC2 instance store. AWS Outposts offers static stability for Amazon EC2 instances backed by EC2 instance store , and AWS is now extending that benefit to Amazon EKS local clusters c",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-aws-outposts-ec2-instance-store/",
-      "date": "2026-06-11T20:52:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting",
-      "summary": "Amazon CloudWatch Application Signals introduces service health ranking on the application map and new infrastructure, logs, and traces tabs on the service overview page. These capabilities let operators triage unhealthy services and inspect the underlying compute environment, log snippets, and trace details in one place, making it easier to find root causes without switching tools. Customers use ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/",
-      "date": "2026-06-11T20:10:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -465,19 +572,6 @@
       "image": null
     },
     {
-      "title": "Amazon Aurora now supports PostgreSQL major version 18",
-      "summary": "Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL major version 18, starting with version 18.3. This release brings community improvements to query performance and database management, and introduces support for pg_roaringbitmap, a new extension that performs fast, memory-efficient set operations on large collections of integers. This enables use cases such as audience segmentati",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-postgresql-major-version-18/",
-      "date": "2026-06-11T18:59:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Stop Designing AI Features. Start Designing AI Systems",
       "summary": "As orchestrators of AI behavior, we must move beyond static interfaces to build experiences where AI reliably understands user intent across every surface.",
       "url": "https://www.salesforce.com/blog/stop-designing-ai-features-start-designing-ai-systems/",
@@ -486,44 +580,6 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Welcoming the first cohort of Databricks student fellows",
-      "summary": "Welcoming the Inaugural Cohort of Databricks Student FellowsApplications are now open for the Databricks Student Fellows...",
-      "url": "https://www.databricks.com/blog/welcoming-first-cohort-databricks-student-fellows",
-      "date": "2026-06-11T18:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab",
-      "summary": "AWS Elastic Beanstalk now provides a CloudWatch Logs integration directly in the environment Logs tab of the Elastic Beanstalk console. Previously, customers had to navigate to the CloudWatch console to find the relevant log groups and log streams for their environments. With this launch, customers can view CloudWatch log events without leaving the Elastic Beanstalk console. The Logs tab displays ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs/",
-      "date": "2026-06-11T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon MWAA Serverless now supports Amazon EventBridge notifications",
-      "summary": "Amazon Managed Workflows for Apache Airflow (MWAA) Serverless now supports workflow and task state change events to Amazon EventBridge , enabling data engineering and platform teams to build event-driven automation for their Apache Airflow workflows. Previously, monitoring workflow execution required custom polling logic or manual observation. With this launch, MWAA Serverless can emit events when",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-eventbridge/",
-      "date": "2026-06-11T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 15,
-      "tags": [
-        "cloud",
-        "automation"
-      ],
       "image": null
     },
     {
@@ -550,17 +606,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "AWS Lake Formation extends table permissions to access underlying data in Amazon S3",
-      "summary": "AWS Lake Formation now enables you to read and write the underlying data files in Amazon S3 for tables registered in the AWS Glue Data Catalog. This provides you with a single set of permissions for both SQL queries and direct file access using your existing Lake Formation table grants. With this launch, Lake Formation provides temporary, scoped credentials for registered S3 locations based on you",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lake-formation-access-data-amazon-s3",
-      "date": "2026-06-11T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -598,17 +643,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-11-no-copy-kv-1536x920-1.jpg"
-    },
-    {
-      "title": "Amazon Managed Service for Prometheus now supports Native Histograms",
-      "summary": "Amazon Managed Service for Prometheus now supports ingestion, storage, and querying of Prometheus native histograms, enabling customers to capture high-resolution metric distributions with greater precision and lower cardinality than classic histograms. DevOps engineers, site reliability engineers, and platform teams monitoring latency, request durations, and other distributions can now get more a",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-native-histograms/",
-      "date": "2026-06-11T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Shine On: SAP CX Celebrates G2 Leadership Across Multiple Categories",
@@ -1529,19 +1563,6 @@
       "image": null
     },
     {
-      "title": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
-      "summary": "The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen. The post Still a developer. Just outside. Our latest GitHub Shop collection is here. appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
-      "date": "2026-05-28T18:18:43+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
-      "tags": [
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "Introducing a new design for Microsoft 365 Copilot",
       "summary": "We’ve redesigned the Copilot app and how Copilot shows up across Microsoft 365 apps to better move with it: cleaner, faster, and in the flow of your work. The post Introducing a new design for Microsoft 365 Copilot appeared first on Microsoft 365 Blog .",
       "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/",
@@ -1608,17 +1629,6 @@
       "source": "AWS Blog",
       "category": "aws",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
-      "summary": "Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog .",
-      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
-      "date": "2026-05-25T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
