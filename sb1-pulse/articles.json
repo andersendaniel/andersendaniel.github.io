@@ -1,7 +1,124 @@
 {
-  "generated": "2026-06-15T10:52:07.075135+00:00",
+  "generated": "2026-06-15T16:14:09.497136+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "What's New with Dynamic Tables — Faster Refresh",
+      "summary": "Dynamic Tables get faster refreshes, custom incrementalization with MERGE/INSERT, dbt support, Iceberg interoperability and Cortex AI Functions.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/whats-new-dynamic-tables-faster-flexible",
+      "date": "2026-06-15T21:50:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Snowflake AIM for Enterprise Migration and Modernization",
+      "summary": "Discover Snowflake AIM, an AI-powered platform for enterprise migration, modernization, testing and validation on Snowflake.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-aim-enterprise-migration-modernization",
+      "date": "2026-06-15T21:35:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS DevOps Agent expands with custom SRE agents and MCP/A2A protocols",
+      "summary": "AWS DevOps Agent now supports custom SRE agents, bring-your-own sub-agents, and headless access via MCP and A2A protocols. These capabilities enable teams to automate recurring SRE workflows, extend DevOps Agent by connecting it to other agents, and access its capabilities from the tools they already use, including Kiro, Claude, and other coding assistants. With custom SRE agents, teams can create",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-custom-agents/",
+      "date": "2026-06-15T15:47:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 20,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "date": "2026-06-15T15:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Beyond the Vibe in Financial Services Series Part 3",
+      "summary": "Super Agents, Headless Architecture, and Client Trust",
+      "url": "https://www.salesforce.com/blog/beyond-the-vibe-in-financial-services-series-part-3/",
+      "date": "2026-06-15T13:35:44+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 12,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "SAP Named a Strategic Leader in the 2026 Fosway 9-Grid™ for Talent Acquisition",
+      "summary": "This recognition reflects SAP’s broader vision for AI-driven, skills-based workforce orchestration.",
+      "url": "https://news.sap.com/2026/06/sap-strategic-leader-2026-fosway-9-grid-talent-acquisition/",
+      "date": "2026-06-15T13:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How to Use Threads For Small Business: Let’s Get Meta",
+      "summary": "Threads is a real-time, text-based conversational tool that feels like a chat with a good friend.",
+      "url": "https://www.salesforce.com/blog/small-business/threads-for-smbs/",
+      "date": "2026-06-15T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Skip the learning curve: rethinking data migration for real outcomes",
+      "summary": "Data migrations have a reputation for being high-risk, stressful initiatives. They...",
+      "url": "https://www.databricks.com/blog/skip-learning-curve-rethinking-data-migration-real-outcomes",
+      "date": "2026-06-15T12:40:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "New Research Reveals Growing Paradox at the Center of Business Travel",
+      "summary": "The value employees place on travel exists alongside mounting uncertainty.",
+      "url": "https://news.sap.com/2026/06/sap-concur-survey-reveals-growing-paradox-business-travel/",
+      "date": "2026-06-15T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
+      "summary": "This week, New York City is hosting AWS Summit, bringing together builders, customers, and AWS teams for a full day of announcements, demos, and technical sessions at the Javits Center. I wrote blog posts for some of the Summit launches, so I am excited to see them go live this week. I just won’t be […]",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
+      "date": "2026-06-15T11:41:48+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 12,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
     {
       "title": "Introducing the OpenAI Partner Network",
       "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
@@ -383,19 +500,6 @@
       "image": null
     },
     {
-      "title": "Geospatial Unbounded: Spatial SQL GA with AI/BI Maps, Delta Sharing, and Iceberg v3",
-      "summary": "A hurricane is forming in the Florida Gulf. As an insurer, you need to answer key...",
-      "url": "https://www.databricks.com/blog/geospatial-unbounded-spatial-sql-ga-aibi-maps-delta-sharing-and-iceberg-v3",
-      "date": "2026-06-11T17:06:38+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab",
       "summary": "AWS Elastic Beanstalk now provides a CloudWatch Logs integration directly in the environment Logs tab of the Elastic Beanstalk console. Previously, customers had to navigate to the CloudWatch console to find the relevant log groups and log streams for their environments. With this launch, customers can view CloudWatch log events without leaving the Elastic Beanstalk console. The Logs tab displays ",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs/",
@@ -529,28 +633,6 @@
       "image": null
     },
     {
-      "title": "AWS announces AWS Workload Credentials Provider",
-      "summary": "AWS announces AWS Workload Credentials Provider, a lightweight client-side provider that automates deployment of exported certificates from AWS Certificate Manager (ACM) and local caching of secrets from AWS Secrets Manager across AWS and non-AWS workloads. Previously, customers exporting public or private certificates from ACM had to build custom automation using Amazon EventBridge to detect rene",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-workload-credentials-provider/",
-      "date": "2026-06-11T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "url": "https://openai.com/index/bbva",
@@ -561,6 +643,17 @@
       "tags": [
         "banking"
       ],
+      "image": null
+    },
+    {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -575,13 +668,13 @@
       "image": null
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "date": "2026-06-11T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 1,
+      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -711,17 +804,6 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "From Reactive to Proactive: How Agentforce is Redefining Autonomous Lead Qualification At Siemens",
-      "summary": "Agentforce enables proactive AI agents to qualify leads autonomously, driving the sales pipeline while maintaining customer trust and scaling sales operations",
-      "url": "https://www.salesforce.com/blog/autonomous-lead-qualification-agentforce/",
-      "date": "2026-06-10T09:44:36+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     },
     {
       "title": "From data to decisions: how LSEG is scaling trusted AI",
@@ -1104,30 +1186,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-4-nv-blog-1280x680-logo-1.jpg"
     },
     {
-      "title": "Autonomous Supply Chain: Why Agentic AI Is Rewriting the Operating Model",
-      "summary": "Agentic AI is a critical enabler of a more autonomous supply chain operating model.",
-      "url": "https://news.sap.com/2026/06/autonomous-supply-chain-why-agentic-ai-is-rewriting-the-operating-model/",
-      "date": "2026-06-04T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "How Applied Materials Is Driving Transformation of the Finance Function with SAP Taulia",
-      "summary": "It now has a system that is agile, resilient, and focused on maintaining mutually beneficial relationships with its global supplier ecosystem.",
-      "url": "https://news.sap.com/2026/06/applied-materials-finance-transformation-sap-taulia/",
-      "date": "2026-06-04T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
       "summary": "Amazon Cognito now offers multi-Region replication that automatically synchronizes user data, credentials, and pool configurations to a secondary AWS Region, enabling uninterrupted authentication during regional failovers without forced password resets—plus new support for customer managed KMS keys for encryption control.",
       "url": "https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/",
@@ -1183,17 +1241,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Victrola Puts a Modern Spin on Growth in the Public Cloud",
-      "summary": "Victrola moved from SAP ECC to SAP Cloud ERP, highlighting the strategic, operational, and cultural factors involved in transforming a growing retail company.",
-      "url": "https://news.sap.com/2026/06/victrola-puts-modern-spin-public-cloud-growth/",
-      "date": "2026-06-03T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 2,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Connect AI to Your Data: Simplify the Entire Development Lifecycle",
@@ -1347,31 +1394,6 @@
       "category": "microsoft",
       "relevance": 3,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Set the Foundation for Trusted AI",
-      "summary": "Learn how Snowflake makes enterprise AI deployable with confidence, including consistent context and governance controls through Horizon Context and Horizon Catalog, AI security enhancements and workload-aware Adaptive Compute.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/trusted-data-trusted-ai",
-      "date": "2026-06-02T12:50:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Snowflake CoCo: AI Coding Agent for the Modern Data Stack",
-      "summary": "Snowflake CoCo is the AI coding agent built for data teams, with desktop, mobile, Slack, cloud agents, and async APIs grounded in governed enterprise data.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-coco-ai-coding-agent-modern-data-stack",
-      "date": "2026-06-02T12:50:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 8,
-      "tags": [
-        "data",
-        "developer"
-      ],
       "image": null
     },
     {
