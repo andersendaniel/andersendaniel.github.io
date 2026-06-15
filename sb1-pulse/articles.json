@@ -1,7 +1,18 @@
 {
-  "generated": "2026-06-14T18:09:23.337101+00:00",
+  "generated": "2026-06-15T00:04:46.945804+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Introducing the OpenAI Partner Network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "date": "2026-06-14T17:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Introducing Omnigent: A Meta-Harness to Combine, Control and Share Your Agents",
       "summary": "At Databricks, we use and build agents extensively, from coding with them at scale...",
@@ -529,17 +540,6 @@
       "image": null
     },
     {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -571,6 +571,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 22,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -986,17 +997,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "date": "2026-06-08T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1844,20 +1844,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://lh3.googleusercontent.com/iLgzjfK9faS-SQePs9fq0zjKGOVGpcyS0J0wQ3SS7llJjJhzz214LUtuy82bJIjweaMRiRWcLMDhPxdP1Z2VitCvWEQyMpY8xLFekP2RG255e2td=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "summary": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
-      "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
-      "date": "2026-05-15T22:50:12+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 16,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
     }
   ]
 }
