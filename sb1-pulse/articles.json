@@ -1,7 +1,33 @@
 {
-  "generated": "2026-06-16T00:26:39.879527+00:00",
+  "generated": "2026-06-16T10:03:45.140852+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "AWS Transform now supports Amazon FSx for NetApp ONTAP (Public Preview)",
+      "summary": "Today, AWS announces the public preview of a new storage migration capability for AWS Transform that enables application owners, database administrators, and cloud migration teams to migrate block storage workloads from any on-premises or cloud source to Amazon FSx for NetApp ONTAP (FSx for ONTAP), alongside the existing Amazon EBS option. AWS Transform for migrations is an agentic AI service that",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-vmware-fsx-for-ontap-preview",
+      "date": "2026-06-16T04:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Why Do People Stay at Salesforce for 10+ Years? Here’s What They Actually Said",
+      "summary": "You’re probably reading this because you’re weighing something. A new role. A new company. Whether this place is the right one. Good. That question deserves a real answer. Four people. Four completely different…",
+      "url": "https://www.salesforce.com/blog/why-do-people-stay-at-salesforce-for-10-years-heres-what-they-actually-said/",
+      "date": "2026-06-16T01:07:10+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Databricks announces 2026 global partner awards",
       "summary": "The Databricks Brickbuilder Partner Network, spanning over 8k partners worldwide,...",
@@ -83,6 +109,20 @@
       "tags": [
         "ai",
         "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Grok 4.3 from xAI now available in Amazon Bedrock",
+      "summary": "Today, AWS announces the availability of xAI's Grok 4.3 model on Amazon Bedrock. With this launch, xAI joins Amazon Bedrock as a model provider, giving you even more choice as you build generative AI applications across reasoning, agentic, and enterprise workflows. Grok 4.3 is a reasoning-first model that offers always-on and configurable reasoning effort (none, low, medium, high). Because reasoni",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/grok-amazon-bedrock/",
+      "date": "2026-06-15T20:04:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 34,
+      "tags": [
+        "ai",
+        "automation"
       ],
       "image": null
     },
@@ -227,6 +267,19 @@
       "image": null
     },
     {
+      "title": "Amazon EC2 C8i instances are now available in Europe (Stockholm) region",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i instances are available in the Europe (Stockholm) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. These C8i instances offer up to 15% better price-performance, and 2.5x more memory",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8i-instances-europe-stockholm-region/",
+      "date": "2026-06-15T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "Amazon EC2 C7i instances are now available in the Israel (Tel Aviv) region",
       "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in the Israel (Tel Aviv) Region. C7i instances are supported by custom Intel processors, available only on AWS. C7i instances deliver up to 15% better price-performance versus C6i instances and are a great choice for all compute",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7i-instances-israel-tel-aviv-region/",
@@ -237,19 +290,6 @@
       "tags": [
         "cloud",
         "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 C8i instances are now available in Europe (Stockholm) region",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i instances are available in the Europe (Stockholm) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. These C8i instances offer up to 15% better price-performance, and 2.5x more memory",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8i-instances-europe-stockholm-region/",
-      "date": "2026-06-15T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -318,19 +358,6 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon CloudWatch Query Studio is now generally available",
-      "summary": "Today, Amazon Web Services announces the general availability of Amazon CloudWatch Query Studio, a unified querying and visualization experience that enables you to explore metrics from a single interface within the CloudWatch console. With Query Studio, a team operating services across multiple AWS accounts and regions can use PromQL or Metrics Insights to query OpenTelemetry and AWS vended metri",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-query-studio-generally-available",
-      "date": "2026-06-15T10:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
       "tags": [
         "cloud"
       ],
@@ -679,6 +706,17 @@
       "image": null
     },
     {
+      "title": "OpenAI to acquire Ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 22,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "url": "https://openai.com/index/bbva",
@@ -699,17 +737,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "OpenAI to acquire Ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 22,
       "tags": [],
       "image": null
     },
