@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-15T20:22:31.759010+00:00",
+  "generated": "2026-06-16T00:26:39.879527+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Databricks announces 2026 global partner awards",
+      "summary": "The Databricks Brickbuilder Partner Network, spanning over 8k partners worldwide,...",
+      "url": "https://www.databricks.com/blog/databricks-announces-2026-global-partner-awards",
+      "date": "2026-06-15T23:55:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Management Console Private Access now works without internet connectivity",
+      "summary": "AWS Management Console Private Access now enables customers to access the AWS Console from VPCs without internet connectivity, allowing enterprises to manage their AWS infrastructure through the console while maintaining strict network security controls in air-gapped environments. Previously, AWS Management Console Private Access allowed customers to restrict console access to authorized AWS accou",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private/",
+      "date": "2026-06-15T23:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "What's New with Dynamic Tables — Faster Refresh",
       "summary": "Dynamic Tables get faster refreshes, custom incrementalization with MERGE/INSERT, dbt support, Iceberg interoperability and Cortex AI Functions.",
@@ -25,6 +49,30 @@
       "image": null
     },
     {
+      "title": "Absa Bank: A Blueprint for the Agentic Enterprise",
+      "summary": "How the 2026 Celent Model Bank Winner Transformed SME Engagement through Agentforce.",
+      "url": "https://www.salesforce.com/blog/absa-bank-agentforce/",
+      "date": "2026-06-15T20:42:35+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 17,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
+      "summary": "AWS WAF launches AI traffic monetization, a new Bot Control capability that enables content providers and publishers price, meter, and collect payment from AI bots and agents accessing their content and APIs. AWS WAF now lets you set a price for that access, accept payment through third-party providers, and grant scoped access directly at the edge.",
+      "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
+      "date": "2026-06-15T20:42:13+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
       "summary": "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
@@ -39,6 +87,19 @@
       "image": null
     },
     {
+      "title": "Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory",
+      "summary": "Amazon Bedrock AgentCore Memory extracts useful information from short-term memory and stores it as long-term memory records. Metadata on these records helps organize, filter, and route them for retrieval. Previously, metadata values could only be inferred by the LLM during extraction. Now, you can also attach metadata values directly from your application, ensuring they pass through extraction an",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata",
+      "date": "2026-06-15T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 25,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
       "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
       "summary": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelerating researchers and developers building multilingual AI with a new open dataset appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
@@ -48,6 +109,31 @@
       "relevance": 3,
       "tags": [
         "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon FSx for OpenZFS now supports on-demand data replication across AWS opt-in Regions",
+      "summary": "Amazon FSx for OpenZFS now supports on-demand data replication across AWS opt-in Regions, enabling you to easily and efficiently transfer incremental point-in-time snapshots of your volumes beyond AWS Regions that are enabled by default. On-demand data replication provides a simple and resilient way to implement disaster recovery, replicate production data to a different Region or account, and ena",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/on-demand-cross-region-replication/",
+      "date": "2026-06-15T18:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch introduces Log Analytics for unified log analysis",
+      "summary": "Amazon CloudWatch now offers Log Analytics, a unified console experience that brings together CloudWatch Logs Insights for querying and analyzing log data, Live Tail for real-time log streaming, and Contributor Insights for identifying top contributors - all in one place. With this launch, customers can execute multiple queries in different tabs and use all existing Logs Insights features such as ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/",
+      "date": "2026-06-15T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 11,
+      "tags": [
+        "cloud",
+        "data"
       ],
       "image": null
     },
@@ -201,6 +287,17 @@
       "image": null
     },
     {
+      "title": "AWS WAF announces AI traffic monetization",
+      "summary": "Today, AWS WAF announced AI traffic monetization, a new Bot Control capability that lets you price, meter, and collect payment from AI bots and agents accessing your content and APIs. As AI agents increasingly support autonomous payments for the content and APIs they consume, AWS WAF now lets content owners and publishers set a price for that access, accept payment through third-party providers, a",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-ai-traffic-monetization/",
+      "date": "2026-06-15T12:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 26,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
       "summary": "This week, New York City is hosting AWS Summit, bringing together builders, customers, and AWS teams for a full day of announcements, demos, and technical sessions at the Javits Center. I wrote blog posts for some of the Summit launches, so I am excited to see them go live this week. I just won’t be […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
@@ -248,45 +345,6 @@
       "category": "databricks",
       "relevance": 6,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS for MariaDB supports Long-Term Support version 12.3 in Amazon RDS Database Preview Environment",
-      "summary": "Amazon RDS for MariaDB now supports MariaDB 12.3 in the Amazon RDS Database Preview Environment , allowing you to evaluate the latest Long-Term Support Release on Amazon RDS for MariaDB. This preview environment provides a sandbox where you can test applications and explore new MariaDB 12.3 capabilities before they become generally available. MariaDB 12.3 includes Oracle TO_DATE() function compati",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-maria-db-innovation-release-12-3-rds-database-preview-environment/",
-      "date": "2026-06-15T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS for MySQL announces Extended Support minor version 5.7.44-RDS.20260521",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for MySQL now supports new Amazon RDS Extended Support minor version 5.7.44-RDS.20260521. We recommend that you upgrade to this version to fix known security vulnerabilities and bugs in prior versions of MySQL. Learn more about upgrading your database instances, including minor and major version upgrades, in the Amazon RDS User Guide . Amazon RDS Ext",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-mysql-extended-support-minor-5744-rds/",
-      "date": "2026-06-15T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.27, 10.11.18, 11.4.12, and 11.8.8",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for MariaDB now supports community MariaDB minor versions 10.6.27, 10.11.18, 11.4.12, and 11.8.8. We recommend that you upgrade to the latest minor versions to fix known security vulnerabilities in prior versions of MariaDB, and to benefit from the bug fixes, performance improvements, and new functionality added by the MariaDB community. You can leve",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-mariadb-community-versions/",
-      "date": "2026-06-15T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -351,17 +409,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/dgx-social-gb300-2048x2048-1-1.jpg"
     },
     {
-      "title": "Amazon Lightsail is now available in three additional AWS Regions",
-      "summary": "Starting today, Amazon Lightsail is available in three additional AWS Regions: Asia Pacific (Hong Kong), South America (São Paulo), and Europe (Spain). This expansion brings the power and simplicity of Lightsail to customers across new geographies in Asia, South America, and Europe. With this launch, customers in these geographical regions can now enjoy lower latency and better performance for the",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-lightsail-aws-regions/",
-      "date": "2026-06-12T20:43:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Navigating AI Shifts in Modern Data Engineering",
       "summary": "Discover how modern data engineering is shifting to meet AI demands. Learn to build resilient, declarative data pipelines and scale with coding agents.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/building-pipelines-for-ai",
@@ -385,30 +432,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "SageMaker AI now supports serverless fine-tuning for NVIDIA Nemotron models",
-      "summary": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3 Nano model using supervised fine-tuning (SFT) and reinforcement fine-tuning (RFT). This is a popular open-weight model from NVIDIA with 30B total parameters. In addition to deploying this model on SageMaker AI, you can now adapt it to your specific domains and workflows. Model customization enables you to tailor ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-nemotron-3/",
-      "date": "2026-06-12T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 10,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 I7i instances now available in AWS Europe (Paris) Region",
-      "summary": "AWS is announcing the availability of high performance Storage optimized Amazon EC2 I7i instances in AWS Europe (Paris) region. Powered by 5th Gen Intel Xeon Processors with an all-core turbo frequency of 3.2 GHz, these new instances deliver up to 23% better compute performance and more than 10% better price performance over previous generation I4i instances. Powered by 3rd generation AWS Nitro SS",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-i7i-instances-europe-paris-region/",
-      "date": "2026-06-12T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
       "image": null
     },
     {
@@ -546,17 +569,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How ERGO Hestia reduced time-to-market with Lakebase and Mosaic AI Model Serving",
-      "summary": "Building the Next Generation of Real-Time PricingERGO Hestia, one of Poland's leading...",
-      "url": "https://www.databricks.com/blog/how-ergo-hestia-reduced-time-market-lakebase-and-mosaic-ai-model-serving",
-      "date": "2026-06-11T19:15:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 7,
       "tags": [],
       "image": null
     },
@@ -709,17 +721,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Moving on from Open CTI: How to Modernize Your Contact Center for the AI Era",
-      "summary": "Whether you keep your current telephony provider or evolve your entire stack, integrating a partner contact center gives you a flexible path to move into AI-powered service.",
-      "url": "https://www.salesforce.com/blog/open-cti-to-partner-contact-center/",
-      "date": "2026-06-10T23:26:46+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
