@@ -1,19 +1,300 @@
 {
-  "generated": "2026-06-16T10:03:45.140852+00:00",
+  "generated": "2026-06-16T15:50:35.307214+00:00",
   "sources": 21,
   "articles": [
     {
+      "title": "Build and Deploy Faster with Snowflake Apps",
+      "summary": "Meet Snowflake Apps: build full-stack, AI-powered enterprise apps using the tools you love — Node.js, Vercel, Streamlit and more — and deploy in minutes with governance capabilities built in from Day 1.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-apps-build-deploy-faster",
+      "date": "2026-06-16T16:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 17,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+      "summary": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably. As models grow in size, complexity and intelligence, the demands on training infrastructure are also rising. In […]",
+      "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
+      "date": "2026-06-16T15:00:36+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/end-to-end-corp-blog-best-models-trained-1280x680-4660123.jpg"
+    },
+    {
+      "title": "Snowflake Adaptive Compute Is Now Generally Available",
+      "summary": "Snowflake Adaptive Compute is now GA on AWS. Automate warehouse management, boost throughput and achieve better price-performance for demanding AI and data workloads.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/adaptive-compute-generally-available",
+      "date": "2026-06-16T15:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Snowflake Well-Architected Framework: Build for the AI Era",
+      "summary": "Assess and optimize your Snowflake environment with the Well-Architected Framework: five pillars, automated CoCo assessments and Blueprint Manager guidance.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-well-architected-framework",
+      "date": "2026-06-16T15:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AI governance at Data + AI Summit 2026: What’s new with Unity AI Gateway",
+      "summary": "AI is becoming increasingly multi-model, multi-agent, and multi-vendor. Developers...",
+      "url": "https://www.databricks.com/blog/ai-governance-data-ai-summit-2026-whats-new-unity-ai-gateway",
+      "date": "2026-06-16T13:25:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Agent Bricks: Data + AI Summit 2026",
+      "summary": "Last year at the Data + AI Summit, we launched Agent Bricks, ushering in a new way...",
+      "url": "https://www.databricks.com/blog/agent-bricks-dais-2026",
+      "date": "2026-06-16T13:25:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What’s new with Unity Catalog at Data + AI Summit 2026",
+      "summary": "The agentic era is here. Hundreds of thousands of agents are now acting on enterprise...",
+      "url": "https://www.databricks.com/blog/whats-new-unity-catalog-data-ai-summit-2026",
+      "date": "2026-06-16T13:25:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Partner Central agents now accelerate co-selling on every deal",
+      "summary": "Starting today, AWS Partner Central agents qualify every co-sell opportunity in real time and make recommendations that drive AWS engagement and accelerate deal progression. Building on the AWS Partner Central agents released on March 16, 2026, the agent can act on the partner's behalf through conversation to enrich the opportunity details. This eliminates waiting for manual review, so partners bu",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/accelerate-co-selling-with-agents/",
+      "date": "2026-06-16T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AI Service Assistants For SMEs: Offer 24/7 Support Without Losing Sleep",
+      "summary": "AI service assistants are changing what it means to show up for customers — and the results may surprise you.",
+      "url": "https://www.salesforce.com/blog/small-business/ai-service-assistants-for-smes/",
+      "date": "2026-06-16T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Accelerate search queries with full-text search indexes on Databricks",
+      "summary": "Every data team faces the same challenge as tables grow to hundreds of gigabytes or terabytes and beyond...",
+      "url": "https://www.databricks.com/blog/accelerate-search-queries-full-text-search-indexes-databricks",
+      "date": "2026-06-16T12:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing Genie One, Genie Agents, and Genie Ontology",
+      "summary": "Despite the progress in LLMs and consumer chat agents, most enterprise teams still...",
+      "url": "https://www.databricks.com/blog/introducing-genie-one-genie-ontology-and-genie-agents",
+      "date": "2026-06-16T12:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 17,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Unifying Data and Governance in the Agentic Era: What’s New with Azure Databricks",
+      "summary": "Data + AI Summit 2026 Azure Databricks AnnouncementsAt Data + AI Summit 2026, we're...",
+      "url": "https://www.databricks.com/blog/unifying-data-and-governance-agentic-era-whats-new-azure-databricks",
+      "date": "2026-06-16T12:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Announcing Lakebase Search: agent-native retrieval built into Lakebase Postgres",
+      "summary": "Today, we're introducing Lakebase Search: hybrid vector and full-text retrieval built...",
+      "url": "https://www.databricks.com/blog/announcing-lakebase-search-agent-native-retrieval-built-lakebase-postgres",
+      "date": "2026-06-16T12:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing CustomerLake: The Agentic CDP embedded in Databricks",
+      "summary": "Today at Data + AI Summit, we’re announcing Databricks CustomerLake, a new Agentic...",
+      "url": "https://www.databricks.com/blog/introducing-customerlake-agentic-cdp",
+      "date": "2026-06-16T12:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Announcing the new Databricks Startup Program",
+      "summary": "Today we are launching a major update to the Databricks Startup Program: qualifying...",
+      "url": "https://www.databricks.com/blog/announcing-new-databricks-startup-program",
+      "date": "2026-06-16T12:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing Genie ZeroOps: Put your data and AI operations on autopilot",
+      "summary": "Data and AI work has always had a maintenance problem. Data pipelines break all the...",
+      "url": "https://www.databricks.com/blog/introducing-genie-zeroops",
+      "date": "2026-06-16T12:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch introduces native OpenTelemetry metrics with PromQL querying and per-GB pricing",
+      "summary": "Amazon CloudWatch now natively supports OpenTelemetry metrics. You can send metrics via the OpenTelemetry Protocol (OTLP) and query them using Prometheus Query Language (PromQL), with per-GB ingestion pricing and 15 months of storage included. This allows you to consolidate custom application metrics and AWS vended metrics from more than 70 services in a single solution, queryable together in Prom",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-metrics/",
+      "date": "2026-06-16T12:44:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Marketplace announces AI-assisted product listing",
+      "summary": "Today, AWS Marketplace announces AI-assisted product listing in Partner Assistant chat, helping Independent Software Vendors (ISVs) and Consulting Partners create high-quality product listings on AWS Marketplace using their existing digital assets. This new capability helps partners create listings optimized for discovery by buyers, while eliminating the time-consuming manual data entry and guessw",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ai-assisted-product-listing/",
+      "date": "2026-06-16T12:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Early Talent Hiring and Development: Now’s the Moment for a Major Reset",
+      "summary": "How will organizations attract and develop the AI-native workforce they’ll need tomorrow when entry-level roles are shrinking today?",
+      "url": "https://news.sap.com/2026/06/early-talent-hiring-and-development-major-reset/",
+      "date": "2026-06-16T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Marketplace reduces listing fee for professional services to 0.5%",
+      "summary": "AWS Marketplace now offers a 0.5% listing fee for professional services private offers, reduced from 2.5%. This makes it more cost-effective for consulting partners, systems integrators, managed services providers and independent software vendors to transact their services through AWS Marketplace, while retaining the procurement and billing benefits that come with it. Professional services is an e",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/reduce-listing-fee-professional-services-aws-marketplace",
+      "date": "2026-06-16T05:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Partners can now accelerate co-sell deals with express private offers",
+      "summary": "AWS Partners co-selling with AWS can now use express private offers to automate pricing within co-sell workflows. Partners configure their pricing rules, discount boundaries, and eligible products once, and when AWS sales representatives identify their solution as a fit for a customer's needs, the deal can move from opportunity to private offer in minutes rather than weeks of manual negotiation. A",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partners-express-private-offers",
+      "date": "2026-06-16T05:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS announces Amazon Connect Customer Services Competency",
+      "summary": "AWS announces the Amazon Connect Customer Competency, a new AWS Specialization that helps customers identify Services Partners with proven expertise in transforming enterprise-wide customer experience on Amazon Connect Customer. Today's customers expect seamless, personalized experiences at every touchpoint, but legacy contact centers fall short — relying on queues, manual routing, and handle-time",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-announces-amazon-connect-customer-services-competency",
+      "date": "2026-06-16T04:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 16,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Marketplace Storefront is now generally available",
+      "summary": "AWS Marketplace Storefront is now generally available, enabling AWS Partners to create and deploy their own branded catalog of solutions and services on their website or application in hours. Channel Partners and Independent Software Vendors can now simplify how they manage their cloud marketplace business and make it easier for customers to discover and purchase their solutions from AWS Marketpla",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-marketplace-storefront/",
+      "date": "2026-06-16T04:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Partner Central agents now guide new partners from registration to ready-to-sell",
+      "summary": "Today, AWS announces the general availability of onboarding capabilities for AWS Partner Central agents. The agent acts as an always-available advisor that guides new partners through every step required to be ready to sell with AWS, from profile setup to guidance to complete compliance requirements like verifications, tax, and payment setup, all the way to being ready to create listings on Market",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central/",
+      "date": "2026-06-16T04:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "AWS Transform now supports Amazon FSx for NetApp ONTAP (Public Preview)",
-      "summary": "Today, AWS announces the public preview of a new storage migration capability for AWS Transform that enables application owners, database administrators, and cloud migration teams to migrate block storage workloads from any on-premises or cloud source to Amazon FSx for NetApp ONTAP (FSx for ONTAP), alongside the existing Amazon EBS option. AWS Transform for migrations is an agentic AI service that",
+      "summary": "Today, AWS announced the public preview of a new storage migration capability for AWS Transform that enables customers to migrate block storage workloads from any on-premises or cloud source to Amazon FSx for NetApp ONTAP (FSx for ONTAP), in addition to Amazon EBS. AWS Transform for migrations is an agentic AI service that automates the discovery, planning, and migration of workloads, accelerating",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-vmware-fsx-for-ontap-preview",
       "date": "2026-06-16T04:00:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
-      "relevance": 19,
+      "relevance": 14,
       "tags": [
         "ai",
-        "cloud",
-        "data"
+        "cloud"
       ],
       "image": null
     },
@@ -24,17 +305,6 @@
       "date": "2026-06-16T01:07:10+00:00",
       "source": "Salesforce Blog",
       "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Databricks announces 2026 global partner awards",
-      "summary": "The Databricks Brickbuilder Partner Network, spanning over 8k partners worldwide,...",
-      "url": "https://www.databricks.com/blog/databricks-announces-2026-global-partner-awards",
-      "date": "2026-06-15T23:55:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -164,71 +434,14 @@
       "image": null
     },
     {
-      "title": "Amazon CloudWatch introduces Log Analytics for unified log analysis",
-      "summary": "Amazon CloudWatch now offers Log Analytics, a unified console experience that brings together CloudWatch Logs Insights for querying and analyzing log data, Live Tail for real-time log streaming, and Contributor Insights for identifying top contributors - all in one place. With this launch, customers can execute multiple queries in different tabs and use all existing Logs Insights features such as ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/",
-      "date": "2026-06-15T18:00:00+00:00",
+      "title": "AWS Partner Central now validates Foundational Technical Review in minutes",
+      "summary": "AWS Partner Central now accepts SOC 2 Type II audit reports or AWS Well-Architected Framework Reviews (WAFR) reports to complete Foundational Technical Review (FTR) in minutes. This streamlined process with AI-powered validation provides AWS partners with immediate feedback on their solution’s validation against AWS Partner Network (APN) requirements. Partners now receive approval or actionable fe",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central-foundational-technical-review/",
+      "date": "2026-06-15T18:04:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
-      "relevance": 11,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Route 53 Resolver DNS Firewall now supports Palo Alto Networks Advanced DNS Security (Preview)",
-      "summary": "Amazon Web Services announces the preview of Palo Alto Networks (PANW) Advanced DNS Security on Amazon Route 53 Resolver DNS Firewall. Security administrators can now enforce DNS threat protections from Palo Alto Networks directly on Route 53 DNS Firewall rules, without deploying separate firewalls or modifying VPC configurations — by subscribing to PANW from the DNS Firewall console through the e",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-resolver-dns/",
-      "date": "2026-06-15T17:06:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon ECS Express Mode is now available in AWS GovCloud (US) Regions",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) Express Mode is now available in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. ECS Express Mode empowers developers to rapidly launch containerized applications, including web applications and APIs, making it easy to orchestrate and manage cloud architecture while maintaining full control over infrastructure resources. Every Express Mo",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-express-mode-govcloud/",
-      "date": "2026-06-15T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "cloud",
-        "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS launches Cost Explorer historical data retention for accounts in billing groups",
-      "summary": "Today, AWS announces Cost Explorer historical data retention for accounts in billing groups. Customers can use AWS Billing Conductor and Billing Transfer to map accounts to billing groups, enabling them to view billing data priced at the pro forma rates supplied by the payer account or Bill-Transfer account. Previously, the billing group configuration resulted in restricted access to historical bi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer/",
-      "date": "2026-06-15T16:07:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS DevOps Agent expands with custom SRE agents and MCP/A2A protocols",
-      "summary": "AWS DevOps Agent now supports custom SRE agents, bring-your-own sub-agents, and headless access via MCP and A2A protocols. These capabilities enable teams to automate recurring SRE workflows, extend DevOps Agent by connecting it to other agents, and access its capabilities from the tools they already use, including Kiro, Claude, and other coding assistants. With custom SRE agents, teams can create",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-custom-agents/",
-      "date": "2026-06-15T15:47:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 20,
-      "tags": [
-        "ai",
-        "developer"
-      ],
+      "relevance": 13,
+      "tags": [],
       "image": null
     },
     {
@@ -267,33 +480,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 C8i instances are now available in Europe (Stockholm) region",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i instances are available in the Europe (Stockholm) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. These C8i instances offer up to 15% better price-performance, and 2.5x more memory",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8i-instances-europe-stockholm-region/",
-      "date": "2026-06-15T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 C7i instances are now available in the Israel (Tel Aviv) region",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in the Israel (Tel Aviv) Region. C7i instances are supported by custom Intel processors, available only on AWS. C7i instances deliver up to 15% better price-performance versus C6i instances and are a great choice for all compute",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7i-instances-israel-tel-aviv-region/",
-      "date": "2026-06-15T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud",
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "How to Use Threads For Small Business: Let’s Get Meta",
       "summary": "Threads is a real-time, text-based conversational tool that feels like a chat with a good friend.",
       "url": "https://www.salesforce.com/blog/small-business/threads-for-smbs/",
@@ -305,17 +491,6 @@
       "image": null
     },
     {
-      "title": "Skip the learning curve: rethinking data migration for real outcomes",
-      "summary": "Data migrations have a reputation for being high-risk, stressful initiatives. They...",
-      "url": "https://www.databricks.com/blog/skip-learning-curve-rethinking-data-migration-real-outcomes",
-      "date": "2026-06-15T12:40:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "New Research Reveals Growing Paradox at the Center of Business Travel",
       "summary": "The value employees place on travel exists alongside mounting uncertainty.",
       "url": "https://news.sap.com/2026/06/sap-concur-survey-reveals-growing-paradox-business-travel/",
@@ -323,17 +498,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS WAF announces AI traffic monetization",
-      "summary": "Today, AWS WAF announced AI traffic monetization, a new Bot Control capability that lets you price, meter, and collect payment from AI bots and agents accessing your content and APIs. As AI agents increasingly support autonomous payments for the content and APIs they consume, AWS WAF now lets content owners and publishers set a price for that access, accept payment through third-party providers, a",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-ai-traffic-monetization/",
-      "date": "2026-06-15T12:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 26,
       "tags": [],
       "image": null
     },
@@ -351,30 +515,6 @@
       "image": null
     },
     {
-      "title": "Amazon CloudWatch now supports cross-account metrics centralization",
-      "summary": "Today, Amazon Web Services announces the general availability of Amazon CloudWatch Metrics Centralization, which enables you to replicate CloudWatch metrics cross-account and cross-region into a single destination account. Enterprise teams with complex multi-account, multi-region deployments often need a unified view of their operational health across their entire infrastructure. CloudWatch metric",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cross-account-metrics-centralization",
-      "date": "2026-06-15T10:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "What is document AI?",
-      "summary": "Document AI is the use of AI — including machine learning, natural language processing...",
-      "url": "https://www.databricks.com/blog/what-is-document-ai",
-      "date": "2026-06-15T07:25:59+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Introducing the OpenAI Partner Network",
       "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "url": "https://openai.com/index/introducing-openai-partner-network",
@@ -382,30 +522,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Introducing Omnigent: A Meta-Harness to Combine, Control and Share Your Agents",
-      "summary": "At Databricks, we use and build agents extensively, from coding with them at scale...",
-      "url": "https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents",
-      "date": "2026-06-13T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "From Wall Street to Data Platforms",
-      "summary": "Brickster Voices is a series that spotlights the people who make our work possible. Through personal career journeys...",
-      "url": "https://www.databricks.com/blog/wall-street-data-platforms",
-      "date": "2026-06-13T00:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
       "tags": [],
       "image": null
     },
@@ -443,19 +559,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Enabling Evolutionary Database Development: Database branching with Lakebase, the conclusion",
-      "summary": "The methodology described in Evolutionary Database Design and operationalized in Refactoring Databases: ...",
-      "url": "https://www.databricks.com/blog/enabling-evolutionary-database-development-database-branching-lakebase-part-3",
-      "date": "2026-06-12T17:05:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
       "tags": [
         "data"
       ],
@@ -508,19 +611,6 @@
       "image": null
     },
     {
-      "title": "Talk to all your data, wherever it lives",
-      "summary": "Agentic AI has created demand for cross-source reasoning that didn't exist 12 months ago...",
-      "url": "https://www.databricks.com/blog/talk-all-your-data-wherever-it-lives",
-      "date": "2026-06-12T09:51:30+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "SAP Opens Data Center in India, Underscoring Expertise in Data Federation and Deepening Commitment to the Region",
       "summary": "This reflects the company’s deepening commitment to India, the world’s fastest-growing large economy and home to more than 15,000 SAP employees.",
       "url": "https://news.sap.com/2026/06/sap-opens-data-center-india-expertise-in-data-federation-commitment-region/",
@@ -543,19 +633,6 @@
       "image": null
     },
     {
-      "title": "Unlocking semantics for AI: How Mercedes-Benz Korea built trusted “Talk to Data” at scale",
-      "summary": "“Talk to Data” is rapidly becoming an important capability across industries, and...",
-      "url": "https://www.databricks.com/blog/unlocking-semantics-ai-how-mercedes-benz-korea-built-trusted-talk-data-scale",
-      "date": "2026-06-11T21:40:47+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "GitHub availability report: May 2026",
       "summary": "In May, we experienced nine incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: May 2026 appeared first on The GitHub Blog .",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
@@ -563,17 +640,6 @@
       "source": "GitHub Blog",
       "category": "github",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Forward Deployed Engineering: Delivering Business Outcomes with AI",
-      "summary": "Over the past few years, increasingly customers have shifted from asking “help us...",
-      "url": "https://www.databricks.com/blog/forward-deployed-engineering-delivering-business-outcomes-ai",
-      "date": "2026-06-11T21:06:05+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -587,17 +653,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Ingesting the Milky Way: Petabyte-Scale with Zerobus Ingest",
-      "summary": "Telemetry data is everywhere. IoT sensors on factory floors. Satellite arrays scanning...",
-      "url": "https://www.databricks.com/blog/ingesting-milky-way-petabyte-scale-zerobus-ingest",
-      "date": "2026-06-11T19:45:26+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "3 things leaders need to know from Microsoft Build 2026",
@@ -706,6 +761,17 @@
       "image": null
     },
     {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "OpenAI to acquire Ona",
       "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "url": "https://openai.com/index/openai-to-acquire-ona",
@@ -714,19 +780,6 @@
       "category": "openai",
       "relevance": 22,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "url": "https://openai.com/index/bbva",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 41,
-      "tags": [
-        "banking"
-      ],
       "image": null
     },
     {
@@ -741,14 +794,16 @@
       "image": null
     },
     {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "url": "https://openai.com/index/bbva",
       "date": "2026-06-11T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 5,
-      "tags": [],
+      "relevance": 41,
+      "tags": [
+        "banking"
+      ],
       "image": null
     },
     {
@@ -1098,17 +1153,6 @@
       "image": null
     },
     {
-      "title": "SAP’s AI-Native North Star Architecture: Technical Backbone of the Autonomous Enterprise",
-      "summary": "Data was the moat of the last decade; context is the moat of the next.",
-      "url": "https://news.sap.com/2026/06/sap-ai-native-north-star-architecture-technical-backbone-autonomous-enterprise/",
-      "date": "2026-06-08T10:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
       "summary": "A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker. At this year’s event, NVIDIA and its partners are showcasing how that commitment is producing real momentum across the nation’s infrastructure, startups […]",
       "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
@@ -1189,17 +1233,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "AI as a Game Changer for the Energy and Utilities Industry",
-      "summary": "At the SAP for Energy & Utilities Conference, AI was an omnipresent topic.",
-      "url": "https://news.sap.com/2026/06/ai-game-changer-energy-utilities-industry/",
-      "date": "2026-06-05T10:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
@@ -1305,32 +1338,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
     },
     {
-      "title": "Connect AI to Your Data: Simplify the Entire Development Lifecycle",
-      "summary": "Discover how Snowflake Summit 2026 redefines data development for AI. Learn about Datastream, zero-copy integrations and self-managing pipelines.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/data-development-simple-as-prompt",
-      "date": "2026-06-02T23:56:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 3,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "The Interoperable Lakehouse: Agency Over Your Data",
-      "summary": "Achieve true agency over your data with the Snowflake Interoperable Lakehouse. Unify storage, governance, and semantics with managed Apache Iceberg.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/interoperable-lakehouse-architecture",
-      "date": "2026-06-02T22:19:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
       "summary": "Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours. Today’s remaining challenges sit in the end-to-end workflow surrounding the simulations: computer-aided design, meshing, simulation setup and debugging, as well as post-processing and generating summary reports of these processes. At GTC Taipei at COMPUTEX, NVIDIA and more than a doze",
       "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
@@ -1353,20 +1360,6 @@
       "relevance": 3,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
-      "summary": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]",
-      "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
-      "date": "2026-06-02T19:00:08+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 17,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-corp-blog-microsoft-1280x680-4999350.png"
     },
     {
       "title": "Announcing Microsoft Discovery general availability and Microsoft Discovery app preview",
@@ -1854,19 +1847,6 @@
       "source": "Google DeepMind",
       "category": "google",
       "relevance": 12,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
-      "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
-      "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
-      "date": "2026-05-17T13:50:34+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 13,
       "tags": [
         "ai"
       ],
