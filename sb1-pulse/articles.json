@@ -1,7 +1,33 @@
 {
-  "generated": "2026-06-17T00:13:17.097059+00:00",
+  "generated": "2026-06-17T09:27:27.024882+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Scaling the UK government’s AI vision",
+      "summary": "An abstract digital design of four angled, colorful rounded capsule shapes and a small sphere over a black background.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/",
+      "date": "2026-06-17T07:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleLondon_2_1.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Introducing the Agentic CDP: A New Species of CDP for a New Era of Agents",
+      "summary": "Marketing technology has seen plenty of change over the past few decades. But what...",
+      "url": "https://www.databricks.com/blog/what-is-an-agentic-cdp",
+      "date": "2026-06-17T01:14:58+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
     {
       "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
       "summary": "Amazon S3 now lets you attach up to 1 GB of rich, mutable, and queryable context directly to your objects using annotations, purpose-built for AI agents and autonomous workflows that need to discover, understand, and act on data at scale without maintaining separate metadata systems.",
@@ -253,17 +279,6 @@
       "image": null
     },
     {
-      "title": "Agent Bricks: Data + AI Summit 2026",
-      "summary": "Last year at the Data + AI Summit, we launched Agent Bricks, ushering in a new way...",
-      "url": "https://www.databricks.com/blog/agent-bricks-dais-2026",
-      "date": "2026-06-16T13:25:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "What’s new with Unity Catalog at Data + AI Summit 2026",
       "summary": "The agentic era is here. Hundreds of thousands of agents are now acting on enterprise...",
       "url": "https://www.databricks.com/blog/whats-new-unity-catalog-data-ai-summit-2026",
@@ -288,6 +303,17 @@
       "image": null
     },
     {
+      "title": "Agent Bricks: Data + AI Summit 2026",
+      "summary": "Last year at the Data + AI Summit, we launched Agent Bricks, ushering in a new way...",
+      "url": "https://www.databricks.com/blog/agent-bricks-dais-2026",
+      "date": "2026-06-16T13:25:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "AWS Partner Central agents now accelerate co-selling on every deal",
       "summary": "Starting today, AWS Partner Central agents qualify every co-sell opportunity in real time and make recommendations that drive AWS engagement and accelerate deal progression. Building on the AWS Partner Central agents released on March 16, 2026, the agent can act on the partner's behalf through conversation to enrich the opportunity details. This eliminates waiting for manual review, so partners bu",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/accelerate-co-selling-with-agents/",
@@ -305,17 +331,6 @@
       "date": "2026-06-16T13:00:00+00:00",
       "source": "Salesforce Blog",
       "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Accelerate search queries with full-text search indexes on Databricks",
-      "summary": "Every data team faces the same challenge as tables grow to hundreds of gigabytes or terabytes and beyond...",
-      "url": "https://www.databricks.com/blog/accelerate-search-queries-full-text-search-indexes-databricks",
-      "date": "2026-06-16T12:45:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -802,6 +817,17 @@
       "image": null
     },
     {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "url": "https://openai.com/index/bbva",
@@ -822,17 +848,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 22,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
