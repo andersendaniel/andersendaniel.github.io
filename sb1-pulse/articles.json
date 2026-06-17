@@ -1,7 +1,206 @@
 {
-  "generated": "2026-06-17T14:24:42.732208+00:00",
+  "generated": "2026-06-17T19:21:43.079374+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Securing the Agentic Enterprise: Why Trust is the Engine of Headless 360",
+      "summary": "Ditching the browser shouldn't mean ditching security. Here's how Headless 360 builds in governance no matter where you bring Salesforce.",
+      "url": "https://www.salesforce.com/blog/headless-360-security/",
+      "date": "2026-06-17T18:57:55+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 5,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AI Agents for Marketing Need Governed Context",
+      "summary": "Explore why AI agents for marketing need governed context, open ecosystems and trusted data foundations to deliver relevant customer experiences.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agents-for-marketing-governed-context",
+      "date": "2026-06-17T16:45:57+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Powering the Agentic Enterprise: Turning Enterprise Context into Governed Agentic Action",
+      "summary": "Snowflake CEO Sridhar Ramaswamy and Accenture's Rajendra Prasad lay out how governed data and Context Graph power enterprise-scale agentic decisions.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-enterprise-snowflake-accenture",
+      "date": "2026-06-17T16:45:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 5,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Agentic AI in Healthcare: 10 Questions for Leaders",
+      "summary": "Explore 10 strategic questions healthcare and life sciences leaders should ask before scaling AI agents in production, from data readiness and governance to cost and collaboration.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agents-healthcare-leadership-questions",
+      "date": "2026-06-17T16:00:38+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 27,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time",
+      "summary": "AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time, enabling customers to monitor workflow execution progress as it happens. AWS HealthOmics is a HIPAA-eligible service that helps healthcare and life sciences customers accelerate scientific breakthroughs at scale with fully managed bioinformatics workflows. Real-time engine log streaming accelerates iterative workfl",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-real-time-engine-log-streaming/",
+      "date": "2026-06-17T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 9,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Snowflake and the Agentic Resource Discovery Specification",
+      "summary": "Snowflake supports ARD, an open protocol developed with Microsoft to standardize how AI agents are cataloged, searched and discovered enterprise-wide.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-resource-discovery-specification",
+      "date": "2026-06-17T15:55:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 17,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Make Your Existing Automation Agent-Ready",
+      "summary": "Evaluate your current assets, isolate single-purpose actions, and safely connect deterministic flows and Apex to probabilistic reasoning engines.",
+      "url": "https://www.salesforce.com/blog/agent-ready-automation/",
+      "date": "2026-06-17T15:52:29+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
+      "summary": "Amazon Bedrock's new Fully Managed Knowledge Bases simplifies building enterprise RAG pipelines by providing native data connectors Smart Parsing for automatic multi-format data preparation, and an Agentic Retriever for complex multi-step queries—all integrated with AgentCore Gateway so developers can focus on business outcomes rather than infrastructure management.",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
+      "date": "2026-06-17T15:09:20+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
+      "summary": "AWS introduces Web Search on Amazon Bedrock AgentCore, a fully managed tool that enables agents to ground responses in current, cited web knowledge with zero data egress from customer's secured AWS environment. You can focus on building agents instead of manually adding web search to agents on Bedrock AgentCore and managing its infrastructure.",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/",
+      "date": "2026-06-17T15:00:11+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 26,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS DevOps Agent adds release management capability (preview)",
+      "summary": "AWS DevOps Agent now offers a release management capability in preview, reviewing code changes for release readiness and running autonomous release testing to help you ship code to production safely and with confidence. With this addition, AWS DevOps Agent now works across both delivery and operations. It accelerates and validates the deployment of code changes, then keeps your applications runnin",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-release-management/",
+      "date": "2026-06-17T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Aurora and RDS for MySQL expand Extended Support for MySQL 5.7 through June 2029",
+      "summary": "Amazon Aurora MySQL-Compatible Edition and Amazon Relational Database Service (RDS) for MySQL now offer Amazon RDS Extended Support for MySQL 5.7 through June 30, 2029, from the previous end date of February 28, 2027. This applies to Aurora MySQL version 2 (with MySQL 5.7 compatibility) and RDS for MySQL version 5.7, giving customers additional time to plan and complete their upgrades to a support",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-mysql-es-extension/",
+      "date": "2026-06-17T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "date": "2026-06-17T15:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "AWS DevOps Agent adds release management capabilities to assess code changes before production (preview)",
+      "summary": "AWS DevOps Agent now offers release management capability in preview, reviewing code changes for release readiness and running autonomous release testing to help you ship code to production safely and with confidence.",
+      "url": "https://aws.amazon.com/blogs/aws/aws-devops-agent-adds-release-management-capabilities-to-assess-code-changes-before-production-preview/",
+      "date": "2026-06-17T14:57:34+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Security Agent adds threat modeling, Kiro power and Claude Code plugin, and more",
+      "summary": "AWS Security Agent now adds STRIDE-based threat modeling, full repo and PR code scanning with remediation across major Git platforms, and IDE integrations via Kiro power, Claude Code plugin, and MCP — letting developers run security reviews and fix issues without context switching.",
+      "url": "https://aws.amazon.com/blogs/aws/aws-security-agent-adds-threat-modeling-kiro-power-and-claude-code-plugin-and-more/",
+      "date": "2026-06-17T14:54:55+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 17,
+      "tags": [
+        "ai",
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Why You Need to Let Go of Campaigns and Embrace Always-On Marketing",
+      "summary": "Your brand needs to be present for the customer at the moment of relevance, not before, not after. Here's how to do that.",
+      "url": "https://www.salesforce.com/blog/always-on-marketing/",
+      "date": "2026-06-17T14:40:26+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Outposts racks now support bmn-cx3a instances, the first AMD-based instances with accelerated networking on Outposts",
+      "summary": "AWS announces the availability of bmn-cx3a instances on second-generation AWS Outposts racks. Bmn-cx3a instances feature 5th Gen AMD EPYC processors with a maximum frequency of 4.1 GHz and NVIDIA ConnectX-7 (CX7) network interface cards, delivering up to 800 Gbps of bare-metal accelerated network bandwidth operating at near line rate. Bmn-cx3a instances offer up to 256 cores and 1.5 TB of memory a",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-amd-bmn-cx3a/",
+      "date": "2026-06-17T14:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "The Partner Well-Architected Framework: What's New and What's Next",
       "summary": "In February, we launched the Partner Well-Architected Framework (PWAF), moving our...",
@@ -73,6 +272,45 @@
       "image": null
     },
     {
+      "title": "Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy",
+      "summary": "Today, AWS announces that Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy, giving enterprises deeper safety and security controls as they scale AI agents in production. AgentCore policy is an authorization capability within Amazon Bedrock AgentCore that controls which actions AI agents are authorized to take. Guardrails give enterprises defenses against the top security and safe",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-policy-guardrails-generally-available",
+      "date": "2026-06-17T12:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 30,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AgentCore harness in now generally available",
+      "summary": "Today, AWS announces the general availability of the managed agent harness in Amazon Bedrock AgentCore, taking teams from idea to working agents in minutes. An agent is more than a model. If the model is the brain, the harness is the body: everything the brain needs to get work done. It runs the orchestration loop, executes tools, manages the context window, persists state across turns, recovers f",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available",
+      "date": "2026-06-17T12:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production",
+      "summary": "Today, AWS announces new optimization capabilities in AgentCore that turn production traces into continuous improvement for agents. The most dangerous agent failures are not the ones that throw errors. They are the silent ones that look fine on dashboards. These failures produce no error signal and often surface through customer complaints weeks later. AgentCore closes that gap with a loop to unde",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-new-optimization-capabilities",
+      "date": "2026-06-17T12:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
       "title": "Reimagining the Supply Chain: Turning Strategic Vision into Operational Reality",
       "summary": "The value of supply chain orchestration is evident, but the challenge is defining and executing the path to get there.",
       "url": "https://news.sap.com/2026/06/reimagining-supply-chain-strategic-vision-into-operational-reality/",
@@ -80,6 +318,17 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "date": "2026-06-17T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -108,6 +357,17 @@
       "image": null
     },
     {
+      "title": "Introducing AWS Continuum for security at machine speed",
+      "summary": "Today, AWS announces AWS Continuum, which discovers, prioritizes, validates, and remediates security risks at machine speed within guardrails you define. Frontier models have made finding software vulnerabilities faster and cheaper, but the harder work comes after: deciding which vulnerabilities matter to your business, proving which are exploitable, and fixing them without days of cross-team coor",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-continuum/",
+      "date": "2026-06-17T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Scaling the UK government’s AI vision",
       "summary": "An abstract digital design of four angled, colorful rounded capsule shapes and a small sphere over a black background.",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/",
@@ -119,6 +379,48 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleLondon_2_1.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Amazon Bedrock Managed Knowledge Base is now generally available",
+      "summary": "Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service, is now generally available. With Managed Knowledge Base, developers can build production-ready AI agents grounded in enterprise data without managing vector databases, data pipelines, or retrieval infrastructure. The service handles data ingestion, storage optimization, and advanced retrieval so te",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-managed-knowledge-base/",
+      "date": "2026-06-17T05:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 31,
+      "tags": [
+        "ai",
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Security Agent announces support for Threat Modeling",
+      "summary": "AWS Security Agent (now part of AWS Continuum) now includes threat modeling, an AI-powered agentic capability that automatically generates threat models for your applications. Available today in public preview, AWS Security Agent analyzes your design documents or application source code, understands the full context of your application architecture, and identifies threats with recommended mitigati",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-agent-threat-modeling/",
+      "date": "2026-06-17T04:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "ai",
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Security Agent adds Kiro Power, Claude Code, simulated validations and new integrations support",
+      "summary": "AWS Security Agent (now part of AWS Continuum) adds support for Kiro and Claude Code, enabling developers to trigger security scans directly from their development environment. AWS Security Agent now also validates code scanner findings by simulating exploits in a sandbox environment and providing proof of exploit, so teams can trust their results, minimize false positives, and prioritize remediat",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-kiro-power-claude-code/",
+      "date": "2026-06-17T04:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 15,
+      "tags": [
+        "ai"
+      ],
+      "image": null
     },
     {
       "title": "Introducing the Agentic CDP: A New Species of CDP for a New Era of Agents",
@@ -218,14 +520,16 @@
       "image": null
     },
     {
-      "title": "AWS Transform for mainframe now delivers a traceable reimagine workflow",
-      "summary": "AWS Transform for mainframe now delivers a connected, traceable reimagine experience from assessment through code generation. Previously, modernizing mainframe applications required months of analysis across multiple tools for discovery, reverse engineering, and code generation with manual handoffs between phases. With this launch, enterprises running z/OS COBOL and PL/I workloads can assess their",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mainframe-traceable-reimagine-workflow/",
-      "date": "2026-06-16T18:29:00+00:00",
+      "title": "Amazon Bedrock Guardrails adds automated reasoning checks in Sydney",
+      "summary": "Automated Reasoning checks in Amazon Bedrock Guardrails use formal verification techniques to validate AI model outputs with mathematical rigor, providing a fundamentally different approach from traditional sampling-based testing methods. This capability addresses critical challenges in deploying generative AI applications, including AI hallucinations, policy compliance violations, and ambiguous r",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-sydney/",
+      "date": "2026-06-16T20:07:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
-      "relevance": 9,
-      "tags": [],
+      "relevance": 26,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -255,16 +559,14 @@
       "image": null
     },
     {
-      "title": "Amazon Redshift RG instances powered by AWS Graviton now available in additional regions",
-      "summary": "Amazon Redshift is expanding the general availability of RG instances — powered by AWS Graviton processors — to three additional AWS Regions: Africa (Cape Town), Asia Pacific (Bangkok), and Mexico (Central). Amazon Redshift's new Graviton-based RG instances deliver up to 4.2X better price-performance for data warehouse workloads compared to other data warehouses , run workloads up to 2.4x faster t",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-rg-instances-3-additional-regions/",
-      "date": "2026-06-16T16:10:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
+      "title": "Modernize your data with Azure Storage: Plan and migrate with confidence",
+      "summary": "Enterprise storage migrations are rarely just about copying data. They are about protecting business continuity, maintaining performance, managing cost, and giving teams confidence when terabytes or petabytes of data sit at the heart of critical applications. The post Modernize your data with Azure Storage: Plan and migrate with confidence appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+      "date": "2026-06-16T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 6,
+      "tags": [],
       "image": null
     },
     {
@@ -276,19 +578,6 @@
       "category": "snowflake",
       "relevance": 17,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS announces AWS Blocks, an open-source framework for composing application backends on AWS (Preview)",
-      "summary": "Today, AWS announces the public preview of AWS Blocks, an open-source TypeScript framework for application developers who want backend capabilities on AWS removing the need to learn infrastructure tools. AWS Blocks runs a fully functional local environment with Postgres, authentication, and real-time messaging, no AWS account required. When ready to deploy, the same application code runs on produc",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-blocks-preview",
-      "date": "2026-06-16T15:49:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -340,17 +629,6 @@
       "image": null
     },
     {
-      "title": "AWS Partner Central agents now accelerate co-selling on every deal",
-      "summary": "Starting today, AWS Partner Central agents qualify every co-sell opportunity in real time and make recommendations that drive AWS engagement and accelerate deal progression. Building on the AWS Partner Central agents released on March 16, 2026, the agent can act on the partner's behalf through conversation to enrich the opportunity details. This eliminates waiting for manual review, so partners bu",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/accelerate-co-selling-with-agents/",
-      "date": "2026-06-16T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AI Service Assistants For SMEs: Offer 24/7 Support Without Losing Sleep",
       "summary": "AI service assistants are changing what it means to show up for customers — and the results may surprise you.",
       "url": "https://www.salesforce.com/blog/small-business/ai-service-assistants-for-smes/",
@@ -362,84 +640,12 @@
       "image": null
     },
     {
-      "title": "Amazon CloudWatch introduces native OpenTelemetry metrics with PromQL querying and per-GB pricing",
-      "summary": "Amazon CloudWatch now natively supports OpenTelemetry metrics. You can send metrics via the OpenTelemetry Protocol (OTLP) and query them using Prometheus Query Language (PromQL), with per-GB ingestion pricing and 15 months of storage included. This allows you to consolidate custom application metrics and AWS vended metrics from more than 70 services in a single solution, queryable together in Prom",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-metrics/",
-      "date": "2026-06-16T12:44:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Marketplace announces AI-assisted product listing",
-      "summary": "Today, AWS Marketplace announces AI-assisted product listing in Partner Assistant chat, helping Independent Software Vendors (ISVs) and Consulting Partners create high-quality product listings on AWS Marketplace using their existing digital assets. This new capability helps partners create listings optimized for discovery by buyers, while eliminating the time-consuming manual data entry and guessw",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ai-assisted-product-listing/",
-      "date": "2026-06-16T12:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Early Talent Hiring and Development: Now’s the Moment for a Major Reset",
       "summary": "How will organizations attract and develop the AI-native workforce they’ll need tomorrow when entry-level roles are shrinking today?",
       "url": "https://news.sap.com/2026/06/early-talent-hiring-and-development-major-reset/",
       "date": "2026-06-16T12:15:00+00:00",
       "source": "SAP News",
       "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Partner Central now validates Foundational Technical Review in minutes",
-      "summary": "AWS Partner Central now accepts SOC 2 Type II audit reports or AWS Well-Architected Framework Reviews (WAFR) reports to complete Foundational Technical Review (FTR) in minutes. This streamlined process with AI-powered validation provides AWS partners with immediate feedback on their solution’s validation against AWS Partner Network (APN) requirements. Partners now receive approval or actionable fe",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central-foundational-technical-review/",
-      "date": "2026-06-16T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS for SQL Server now supports X2m instances",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server launches memory-optimized X2m database instances. Based on the Amazon EC2 X2iedn instance, X2m database instances provide the Amazon RDS Optimize CPU feature, which allows customers to reduce SQL Server software licensing costs by 50% or more compared to Amazon RDS x2iedn database instances for memory-intensive database workloads. X2m ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-x2m/",
-      "date": "2026-06-16T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon S3 Vectors reduces query charges by up to 80% for large vector indexes",
-      "summary": "Amazon S3 Vectors has reduced data processed charges for queries on vector indexes with over 10 million vectors by up to 80%. This reduction lowers costs for customers running similarity search across large-scale AI, RAG, and semantic search workloads. The new pricing applies automatically with no application changes required. While this change reduces costs for large indexes, we continue to recom",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-reduces-query-charges-80-percent-large-indexes/",
-      "date": "2026-06-16T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Marketplace reduces listing fee for professional services to 0.5%",
-      "summary": "AWS Marketplace now offers a 0.5% listing fee for professional services private offers, reduced from 2.5%. This makes it more cost-effective for consulting partners, systems integrators, managed services providers and independent software vendors to transact their services through AWS Marketplace, while retaining the procurement and billing benefits that come with it. Professional services is an e",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/reduce-listing-fee-professional-services-aws-marketplace",
-      "date": "2026-06-16T05:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -571,17 +777,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How to Use Threads For Small Business: Let’s Get Meta",
-      "summary": "Threads is a real-time, text-based conversational tool that feels like a chat with a good friend.",
-      "url": "https://www.salesforce.com/blog/small-business/threads-for-smbs/",
-      "date": "2026-06-15T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 4,
       "tags": [],
       "image": null
     },
@@ -832,13 +1027,13 @@
       "image": null
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "title": "OpenAI to acquire Ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
       "date": "2026-06-11T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 1,
+      "relevance": 22,
       "tags": [],
       "image": null
     },
@@ -856,13 +1051,13 @@
       "image": null
     },
     {
-      "title": "OpenAI to acquire Ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "date": "2026-06-11T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 22,
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -937,17 +1132,6 @@
       "image": null
     },
     {
-      "title": "Hybrid Tables Just Got Up to 8x Faster",
-      "summary": "Snowflake Hybrid Tables now attain up to 8x higher throughput, 10x faster batch performance and up to 40% cost savings (based on internal benchmarks) with no code changes required. See how teams are running transactional and analytical workloads together on Snowflake.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/hybrid-tables-performance-improvements",
-      "date": "2026-06-10T15:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Business Travel Holds Steady as Travel Costs Rise",
       "summary": "According to SAP Concur data, companies around the world largely maintained their travel activity despite higher prices.",
       "url": "https://news.sap.com/2026/06/business-travel-holds-steady-as-travel-costs-rise/",
@@ -1016,19 +1200,6 @@
         "cloud"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nvidia-confidential-computing-apple-pcc.jpeg"
-    },
-    {
-      "title": "Announcing Claude Fable 5 on Snowflake Cortex AI",
-      "summary": "Claude Fable 5 is now available on Snowflake Cortex AI, bringing advanced reasoning and agentic capabilities with Snowflake’s secure governed AI platform",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-fable-5-snowflake-cortex-ai",
-      "date": "2026-06-09T19:39:32+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     },
     {
       "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
@@ -1167,28 +1338,6 @@
       "image": null
     },
     {
-      "title": "Deploy Snowpark Python via Snowflake CoCo",
-      "summary": "Discover how Snowflake CoCo helps developers deploy Snowpark Python pipelines to production with a single prompt. Start automating your workflow today.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/deploy-snowpark-python-snowflake-coco",
-      "date": "2026-06-08T16:28:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "date": "2026-06-08T14:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
       "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
       "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
@@ -1282,17 +1431,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/사진자료4-scaled.jpeg"
-    },
-    {
-      "title": "LGND AI is the 2026 Snowflake Startup Challenge winner",
-      "summary": "Learn how LGND is working to make Earth imagery queryable and expand its use in AI, agents, apps and more.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-challenge-2026-winner",
-      "date": "2026-06-05T01:33:52+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
@@ -1468,17 +1606,6 @@
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
     },
     {
-      "title": "AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)",
-      "summary": "In my last Week in Review post, I shared what I’d been hearing from customers in the AI-Driven Development Lifecycle (AI-DLC) workshops I’ve been delivering. Last week I was back at it, this time in Denver for a two-day AI-DLC workshop, where I helped facilitate 17 teams to deliver nearly 20 separate use cases in […]",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/",
-      "date": "2026-06-01T14:25:33+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
       "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
@@ -1526,17 +1653,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp"
     },
     {
-      "title": "Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey",
-      "summary": "AWS launches the next generation of AWS Resilience Hub with a significantly expanded experience that brings together a new application model, dependency discovery assessment, generative AI-powered failure mode analysis, modular resilience policies, and organization-wide reporting.",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/",
-      "date": "2026-05-28T19:29:55+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Introducing Microsoft 365 Business with Copilot: The new standard for small business",
       "summary": "On July 1, we're introducing new Microsoft 365 SKUs with Copilot built-in, designed to fit into the way small businesses already work. The post Introducing Microsoft 365 Business with Copilot: The new standard for small business appeared first on Microsoft 365 Blog .",
       "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/",
@@ -1545,20 +1661,6 @@
       "category": "microsoft",
       "relevance": 12,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications",
-      "summary": "AWS rebuilt Amazon OpenSearch Serverless from the ground up for agentic AI and dynamic workloads. Get instant autoscaling and up to 60% cost savings.",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/",
-      "date": "2026-05-28T18:26:16+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 17,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -1582,19 +1684,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Meet Our Newest AWS Heroes – May 2026",
-      "summary": "We’re excited to welcome four outstanding community leaders as our newest AWS Heroes. These individuals embody the spirit of collaboration and knowledge sharing that makes the AWS community thrive. From building AI-powered tools that help fellow builders navigate AWS re:Invent, to leading some of the largest AWS communities in Latin America, to sharing deep cloud […]",
-      "url": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/",
-      "date": "2026-05-27T16:15:05+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
     },
     {
       "title": "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems",
@@ -1621,17 +1710,6 @@
       "image": null
     },
     {
-      "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
-      "summary": "There’s something genuinely energizing about working with startups — something I’ve been doing intensely for more than two years now. Startups operate at a different frequency: the urgency is real, the constraints are tight, and the stakes are personal. Helping them navigate the challenge of proving their business model requires not just technical depth but […]",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/",
-      "date": "2026-05-25T20:11:10+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
       "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
@@ -1641,19 +1719,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
-      "summary": "With Cilium-based cross-cluster networking, we are delivering a managed, high-performance network that can span your entire fleet. The post Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
-      "date": "2026-05-22T17:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 16,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
     },
     {
       "title": "We’re announcing new community investments in Missouri.",
@@ -1757,17 +1822,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/I_O_26_Header_1_AYohnR4.max-600x600.format-webp.webp"
     },
     {
-      "title": "I/O 2026",
-      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-      "date": "2026-05-19T17:45:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif"
-    },
-    {
       "title": "Making it easier to understand how content was created and edited",
       "summary": "A chat input box mockup featuring an uploaded thumbnail of dog-themed latte art, the text \"Is this generated with AI?\", and action icons for adding files, voice input, and sending.",
       "url": "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
@@ -1792,19 +1846,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blackstone_Google_logo_lockup.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
-      "summary": "Just a year ago, we launched AWS Transform for .NET, Mainframe and VMware workloads, the first agentic AI service purpose-built for modernizing enterprise applications at scale. At re:Invent 2025, we introduced AWS Transform custom, which enables organizations to modernize and transform code at scale using AWS-managed and custom transformations. You can upgrade language versions, migrate […]",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/",
-      "date": "2026-05-18T19:13:20+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 30,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     }
   ]
 }
