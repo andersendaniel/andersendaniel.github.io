@@ -1,7 +1,112 @@
 {
-  "generated": "2026-06-17T09:27:27.024882+00:00",
+  "generated": "2026-06-17T14:24:42.732208+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "The Partner Well-Architected Framework: What's New and What's Next",
+      "summary": "In February, we launched the Partner Well-Architected Framework (PWAF), moving our...",
+      "url": "https://www.databricks.com/blog/partner-well-architected-framework-whats-new-and-whats-next",
+      "date": "2026-06-17T12:59:26+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What’s coming next to Free Edition",
+      "summary": "Today, more people than ever want to learn data and AI so we're expanding what they...",
+      "url": "https://www.databricks.com/blog/whats-coming-next-free-edition",
+      "date": "2026-06-17T12:45:16+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Becoming the most comprehensive data & AI ecosystem on earth",
+      "summary": "All in all, we’re just another brick in the wallAs I complete my first year at Databricks,...",
+      "url": "https://www.databricks.com/blog/becoming-most-comprehensive-data-ai-ecosystem-earth",
+      "date": "2026-06-17T12:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Design Beautiful Dashboards in AI/BI",
+      "summary": "IntroductionEvery company has a brand identity that reflects what it stands for,...",
+      "url": "https://www.databricks.com/blog/design-beautiful-dashboards-aibi",
+      "date": "2026-06-17T12:40:41+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "What’s new in Genie Code at Data + AI Summit 2026",
+      "summary": "Genie Code helps data and ML teams build and improve systems faster on Databricks. Over the past year...",
+      "url": "https://www.databricks.com/blog/whats-new-genie-code-data-ai-summit-2026",
+      "date": "2026-06-17T12:40:08+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What’s new in Databricks Platform security and compliance at Data + AI Summit 2026",
+      "summary": "As organizations scale data and AI, security and compliance teams face the challenge...",
+      "url": "https://www.databricks.com/blog/whats-new-databricks-platform-security-and-compliance-data-ai-summit-2026",
+      "date": "2026-06-17T12:40:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 4,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Reimagining the Supply Chain: Turning Strategic Vision into Operational Reality",
+      "summary": "The value of supply chain orchestration is evident, but the challenge is defining and executing the path to get there.",
+      "url": "https://news.sap.com/2026/06/reimagining-supply-chain-strategic-vision-into-operational-reality/",
+      "date": "2026-06-17T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Building an open ecosystem for AI governance with Unity AI Gateway",
+      "summary": "As organizations move AI from experimentation to production, governance requirements...",
+      "url": "https://www.databricks.com/blog/building-open-ecosystem-ai-governance-unity-ai-gateway",
+      "date": "2026-06-17T10:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What’s New in the AI Platform: Agents for ML Engineering, Our Deep Learning Platform, and New Capabilities for Real-Time ML",
+      "summary": "There’s never been a more dynamic, exciting time to be building your own AI models...",
+      "url": "https://www.databricks.com/blog/whats-new-ai-platform-agents-ml-engineering-our-deep-learning-platform-and-new-capabilities",
+      "date": "2026-06-17T08:44:14+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 12,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Scaling the UK government’s AI vision",
       "summary": "An abstract digital design of four angled, colorful rounded capsule shapes and a small sphere over a black background.",
@@ -124,52 +229,6 @@
       "image": null
     },
     {
-      "title": "Enabling Governed Vibe Coding for Enterprise Apps on Databricks",
-      "summary": "Vibe coding needs context and control to work in the enterpriseThe rise of coding agents has been hard to miss...",
-      "url": "https://www.databricks.com/blog/enabling-governed-vibe-coding-enterprise-apps-databricks",
-      "date": "2026-06-16T18:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Introducing OpenSharing: the Next Evolution of Delta Sharing for the Agentic Era",
-      "summary": "When Databricks pioneered Delta Sharing in 2021, we set out to solve a problem that...",
-      "url": "https://www.databricks.com/blog/introducing-opensharing-next-evolution-delta-sharing-agentic-era",
-      "date": "2026-06-16T17:40:35+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Announcing Apps on Databricks Marketplace",
-      "summary": "Data intelligence is reshaping how organizations turn data into outcomes. Teams no...",
-      "url": "https://www.databricks.com/blog/announcing-apps-databricks-marketplace",
-      "date": "2026-06-16T17:30:24+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Introducing OpenSharing SecureConnect",
-      "summary": "OpenSharing makes it simple to share live data across organizations — but when provider...",
-      "url": "https://www.databricks.com/blog/introducing-opensharing-secureconnect",
-      "date": "2026-06-16T17:18:56+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
       "summary": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit […]",
       "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
@@ -244,6 +303,19 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/end-to-end-corp-blog-best-models-trained-1280x680-4660123.jpg"
     },
     {
+      "title": "Copilot Cowork is now generally available",
+      "summary": "Cowork is the fastest growing feature in the history of our Frontier program, and Cowork has among the highest user satisfaction of any Copilot or agent experience we have shipped. The post Copilot Cowork is now generally available appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/",
+      "date": "2026-06-16T15:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
       "title": "Snowflake Adaptive Compute Is Now Generally Available",
       "summary": "Snowflake Adaptive Compute is now GA on AWS. Automate warehouse management, boost throughput and achieve better price-performance for demanding AI and data workloads.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/adaptive-compute-generally-available",
@@ -264,52 +336,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Sciene AI Companion: building an autonomous Customer Success platform on Databricks",
-      "summary": "Sciene develops AI products that standardize and scale high-volume, relationship-centered...",
-      "url": "https://www.databricks.com/blog/sciene-ai-companion-building-autonomous-customer-success-platform-databricks",
-      "date": "2026-06-16T14:29:06+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "What’s new with Unity Catalog at Data + AI Summit 2026",
-      "summary": "The agentic era is here. Hundreds of thousands of agents are now acting on enterprise...",
-      "url": "https://www.databricks.com/blog/whats-new-unity-catalog-data-ai-summit-2026",
-      "date": "2026-06-16T13:25:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "AI governance at Data + AI Summit 2026: What’s new with Unity AI Gateway",
-      "summary": "AI is becoming increasingly multi-model, multi-agent, and multi-vendor. Developers...",
-      "url": "https://www.databricks.com/blog/ai-governance-data-ai-summit-2026-whats-new-unity-ai-gateway",
-      "date": "2026-06-16T13:25:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Agent Bricks: Data + AI Summit 2026",
-      "summary": "Last year at the Data + AI Summit, we launched Agent Bricks, ushering in a new way...",
-      "url": "https://www.databricks.com/blog/agent-bricks-dais-2026",
-      "date": "2026-06-16T13:25:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -735,17 +761,6 @@
       "image": null
     },
     {
-      "title": "Stop Designing AI Features. Start Designing AI Systems",
-      "summary": "As orchestrators of AI behavior, we must move beyond static interfaces to build experiences where AI reliably understands user intent across every surface.",
-      "url": "https://www.salesforce.com/blog/stop-designing-ai-features-start-designing-ai-systems/",
-      "date": "2026-06-11T18:20:58+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Financial Services AI: ROI, Agentic and Governance",
       "summary": "Explore a Snowflake research report about how financial services firms are proving AI ROI, adopting agentic AI, and using proprietary data to scale trusted AI enterprise outcomes.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/financial-services-ai-roi-agentic",
@@ -1106,17 +1121,6 @@
       "image": null
     },
     {
-      "title": "How the SAP Tool Chain Fuels Fast Growth at Harbour Energy",
-      "summary": "The company scales like a major, but stays agile like a startup.",
-      "url": "https://news.sap.com/2026/06/harbour-energy-sap-tool-chain-fuels-growth/",
-      "date": "2026-06-09T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How engineers at Nextdoor use Codex to build without limits",
       "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
       "url": "https://openai.com/index/nextdoor",
@@ -1196,17 +1200,6 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/5g2RQPPxqVGuOzfaYj1-8r_6B-Ytp79c9mpWXzBIrk2vUhtxZmA7bMywH41h-8b0EJAdW_K4l7kqHZlfS-QTFk8kFB5MA2bgxZ4hxbuAiOuDIn3ohA=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "The Future of Hiring at SAP: SAP Runs SmartRecruiters",
-      "summary": "SAP uses its own software to operate its global enterprise. In this case, we’re adopting SmartRecruiters for SAP SuccessFactors to revamp the entire hiring process.",
-      "url": "https://news.sap.com/2026/06/future-of-hiring-sap-runs-smartrecruiters/",
-      "date": "2026-06-08T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 4,
-      "tags": [],
-      "image": null
     },
     {
       "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
