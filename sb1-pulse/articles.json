@@ -1,7 +1,99 @@
 {
-  "generated": "2026-06-18T09:10:58.825865+00:00",
+  "generated": "2026-06-18T14:03:04.562902+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Meet Agentic Advisor: AI That Delivers Action, Not Just Answers",
+      "summary": "If you’re a Financial Advisor or a Wealth Manager, building deep relationships with your clients is the heartbeat of your practice. Yet, the realities of modern wealth management mean you’re likely losing roughly…",
+      "url": "https://www.salesforce.com/blog/agentic-advisor-agentforce-financial-services/",
+      "date": "2026-06-18T13:42:19+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Autonomous CX Revolution Elevated by Google",
+      "summary": "With Google Cloud, SAP Customer Experience is positioning itself—and its customers—to thrive in the future.",
+      "url": "https://news.sap.com/2026/06/autonomous-cx-revolution-elevated-by-google/",
+      "date": "2026-06-18T13:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+      "summary": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands. At Cannes Lions, running […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
+      "date": "2026-06-18T13:00:43+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cannes-lions-featured-visual-still-1920x1080-1.jpg"
+    },
+    {
+      "title": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
+      "summary": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce NOW is making it easier than ever to get […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
+      "date": "2026-06-18T13:00:32+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/GFN_Thursday-June_18.jpg"
+    },
+    {
+      "title": "What Are Social AI Agents? Marketers, Meet Your New Online Assistant",
+      "summary": "Learn how these smart social tools help SMBs connect with customers and grow their online presence without the stress.",
+      "url": "https://www.salesforce.com/blog/small-business/social-ai-agents/",
+      "date": "2026-06-18T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Snowflake Launches Operations in Chile",
+      "summary": "Chile has great potential when it comes to Snowflake’s mission: empowering every enterprise to achieve its full potential through data and AI. We're excited to announce we have initiated operations in Chile.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-operations-in-chile",
+      "date": "2026-06-18T12:55:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "From Weeks to Minutes: How SAP Store Is Changing Enterprise Software Procurement",
+      "summary": "There is a version of enterprise software buying that sounds modern: a business team identifies a need, finds a solution, evaluates it quickly, buys it,...",
+      "url": "https://news.sap.com/2026/06/how-sap-store-is-changing-enterprise-software-procurement/",
+      "date": "2026-06-18T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Navigating the Transition from SAP Solution Manager to SAP Cloud ALM",
+      "summary": "As a cloud-native solution, SAP Cloud ALM can close the gaps that modern organizations face in an increasingly fast-moving digital landscape.",
+      "url": "https://news.sap.com/2026/06/navigating-transition-to-sap-cloud-alm/",
+      "date": "2026-06-18T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
       "summary": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem […]",
@@ -606,6 +698,17 @@
       "image": null
     },
     {
+      "title": "Modernize your data with Azure Storage: Plan and migrate with confidence",
+      "summary": "Enterprise storage migrations are rarely just about copying data. They are about protecting business continuity, maintaining performance, managing cost, and giving teams confidence when terabytes or petabytes of data sit at the heart of critical applications. The post Modernize your data with Azure Storage: Plan and migrate with confidence appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+      "date": "2026-06-16T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Build and Deploy Faster with Snowflake Apps",
       "summary": "Meet Snowflake Apps: build full-stack, AI-powered enterprise apps using the tools you love — Node.js, Vercel, Streamlit and more — and deploy in minutes with governance capabilities built in from Day 1.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-apps-build-deploy-faster",
@@ -615,6 +718,19 @@
       "relevance": 17,
       "tags": [],
       "image": null
+    },
+    {
+      "title": "Securing the future of AI agents",
+      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "date": "2026-06-16T15:46:31+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 17,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://lh3.googleusercontent.com/X6w_t9eA7TLFiq3JMp1kXlon25qi9N6O0AxPyp7j0qOIu8oz-QDsaOP-oKz7FIuqlA3W1evDbeLYssDJM_fjkqeyscPO_fHJd0xeD0IoDlHkiUQW1w=w528-h297-n-nu-rw-lo"
     },
     {
       "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
@@ -792,17 +908,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Beyond the Vibe in Financial Services Series Part 3",
-      "summary": "Super Agents, Headless Architecture, and Client Trust",
-      "url": "https://www.salesforce.com/blog/beyond-the-vibe-in-financial-services-series-part-3/",
-      "date": "2026-06-15T13:35:44+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 12,
-      "tags": [],
       "image": null
     },
     {
@@ -1063,6 +1168,28 @@
       "image": null
     },
     {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "OpenAI to acquire Ona",
       "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "url": "https://openai.com/index/openai-to-acquire-ona",
@@ -1087,28 +1214,6 @@
       "image": null
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
@@ -1117,19 +1222,6 @@
       "category": "openai",
       "relevance": 8,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AI Data Engineering: New Smart Pipelines in Snowflake",
-      "summary": "Discover new AI tools for data engineering announced at Snowflake Summit 2026. Learn how Snowflake CoCo and smart pipelines accelerate your workflows.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-smart-pipelines-whats-new",
-      "date": "2026-06-10T19:01:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -1186,17 +1278,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Introducing the Autonomous Enterprise Podcast from SAP",
-      "summary": "Tune in for conversations and insights around turning AI into meaningful business impact.",
-      "url": "https://news.sap.com/2026/06/introducing-autonomous-enterprise-podcast-series/",
-      "date": "2026-06-10T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -1315,19 +1396,6 @@
       "image": null
     },
     {
-      "title": "SAP Receives VS-NfD Authorization to Use for SAP Cloud Infrastructure",
-      "summary": "WALLDORF — This will enable security-critical SAP and customer applications to run in the cloud.",
-      "url": "https://news.sap.com/2026/06/vs-nfd-authorization-sap-cloud-infrastructure/",
-      "date": "2026-06-09T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "How engineers at Nextdoor use Codex to build without limits",
       "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
       "url": "https://openai.com/index/nextdoor",
@@ -1412,17 +1480,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/kr-visit-blog-doosan-robotics-1920x1080-noncredit.jpg"
     },
     {
-      "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
-      "summary": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming community. Leading game developers — […]",
-      "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
-      "date": "2026-06-07T07:00:15+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 14,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/jhh-t1-group-photo-1920x1080-1.jpg"
-    },
-    {
       "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
       "summary": "You can use the new console experience on Amazon Bedrock to browse and compare the latest AI models side by side, organize work into projects with streamlined evaluation workflows, and access project-aware live documentation with auto-prefilled code snippets ready to copy and run.",
       "url": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/",
@@ -1445,17 +1502,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
-      "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Monday, June 8, 10:00 a.m. […]",
-      "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
-      "date": "2026-06-05T05:38:37+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/사진자료4-scaled.jpeg"
     },
     {
       "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
@@ -1731,19 +1777,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
-      "summary": "With Cilium-based cross-cluster networking, we are delivering a managed, high-performance network that can span your entire fleet. The post Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
-      "date": "2026-05-22T17:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 16,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
     },
     {
       "title": "We’re announcing new community investments in Missouri.",
