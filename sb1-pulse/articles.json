@@ -1,7 +1,42 @@
 {
-  "generated": "2026-06-18T14:03:04.562902+00:00",
+  "generated": "2026-06-18T19:22:58.833966+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "date": "2026-06-18T17:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 21,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Powering the world’s first AI arts museum",
+      "summary": "AI-generated Infinity Room",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/",
+      "date": "2026-06-18T15:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gallery_A__Data_Pavilion.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "How Stagwell built privacy-safe ID matching on Databricks",
+      "summary": "The identity matching problem brands face todayBrands invest heavily in building first-party data assets...",
+      "url": "https://www.databricks.com/blog/how-stagwell-built-privacy-safe-id-matching-databricks",
+      "date": "2026-06-18T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Meet Agentic Advisor: AI That Delivers Action, Not Just Answers",
       "summary": "If you’re a Financial Advisor or a Wealth Manager, building deep relationships with your clients is the heartbeat of your practice. Yet, the realities of modern wealth management mean you’re likely losing roughly…",
@@ -95,6 +130,52 @@
       "image": null
     },
     {
+      "title": "Improving health intelligence in ChatGPT",
+      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "date": "2026-06-18T11:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What is artificial intelligence (AI)?",
+      "summary": "Artificial intelligence (AI) is a branch of computer science that lets machines perform...",
+      "url": "https://www.databricks.com/blog/what-is-artificial-intelligence",
+      "date": "2026-06-18T08:51:03+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "date": "2026-06-18T08:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What is row-level security?",
+      "summary": "Row-level security (RLS) is a database access control that limits which rows of a...",
+      "url": "https://www.databricks.com/blog/row-level-security",
+      "date": "2026-06-18T07:27:06+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
       "summary": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem […]",
       "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
@@ -104,6 +185,17 @@
       "relevance": 19,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/5383050-vivatech26-digital-nv-blog-image-1920x1080-1.jpg"
+    },
+    {
+      "title": "What is an AI agent harness?",
+      "summary": "An AI agent harness is the software infrastructure that wraps around a large language...",
+      "url": "https://www.databricks.com/blog/ai-harness",
+      "date": "2026-06-17T21:45:04+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [],
+      "image": null
     },
     {
       "title": "Databricks and NVIDIA: Building for the Agentic Era",
@@ -154,6 +246,19 @@
       "relevance": 5,
       "tags": [
         "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Real-Time Data Pipelines via Snowpipe Streaming | Snowflake",
+      "summary": "Discover how data engineers ship real-time data pipelines affordably using Snowpipe Streaming and Snowflake CoCo. Start streaming in minutes.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/real-time-pipelines-snowpipe-streaming",
+      "date": "2026-06-17T16:55:25+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 5,
+      "tags": [
+        "data"
       ],
       "image": null
     },
@@ -427,19 +532,6 @@
       "image": null
     },
     {
-      "title": "What’s new in Databricks Platform security and compliance at Data + AI Summit 2026",
-      "summary": "As organizations scale data and AI, security and compliance teams face the challenge...",
-      "url": "https://www.databricks.com/blog/whats-new-databricks-platform-security-and-compliance-data-ai-summit-2026",
-      "date": "2026-06-17T12:40:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 4,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production",
       "summary": "Today, AWS announces new optimization capabilities in AgentCore that turn production traces into continuous improvement for agents. The most dangerous agent failures are not the ones that throw errors. They are the silent ones that look fine on dashboards. These failures produce no error signal and often surface through customer complaints weeks later. AgentCore closes that gap with a loop to unde",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-new-optimization-capabilities",
@@ -453,19 +545,6 @@
       "image": null
     },
     {
-      "title": "AgentCore harness in now generally available",
-      "summary": "Today, AWS announces the general availability of the managed agent harness in Amazon Bedrock AgentCore, taking teams from idea to working agents in minutes. An agent is more than a model. If the model is the brain, the harness is the body: everything the brain needs to get work done. It runs the orchestration loop, executes tools, manages the context window, persists state across turns, recovers f",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available",
-      "date": "2026-06-17T12:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy",
       "summary": "Today, AWS announces that Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy, giving enterprises deeper safety and security controls as they scale AI agents in production. AgentCore policy is an authorization capability within Amazon Bedrock AgentCore that controls which actions AI agents are authorized to take. Guardrails give enterprises defenses against the top security and safe",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-policy-guardrails-generally-available",
@@ -473,6 +552,19 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 30,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AgentCore harness is now generally available",
+      "summary": "Today, AWS announces the general availability of the managed agent harness in Amazon Bedrock AgentCore, taking teams from idea to working agents in minutes. An agent is more than a model. If the model is the brain, the harness is the body: everything the brain needs to get work done. It runs the orchestration loop, executes tools, manages the context window, persists state across turns, recovers f",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available",
+      "date": "2026-06-17T12:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
       "tags": [
         "ai"
       ],
@@ -509,30 +601,6 @@
       "category": "openai",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Building an open ecosystem for AI governance with Unity AI Gateway",
-      "summary": "As organizations move AI from experimentation to production, governance requirements...",
-      "url": "https://www.databricks.com/blog/building-open-ecosystem-ai-governance-unity-ai-gateway",
-      "date": "2026-06-17T10:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "What’s New in the AI Platform: Agents for ML Engineering, Our Deep Learning Platform, and New Capabilities for Real-Time ML",
-      "summary": "There’s never been a more dynamic, exciting time to be building your own AI models...",
-      "url": "https://www.databricks.com/blog/whats-new-ai-platform-agents-ml-engineering-our-deep-learning-platform-and-new-capabilities",
-      "date": "2026-06-17T08:44:14+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 12,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -600,19 +668,6 @@
         "ai",
         "cloud",
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Introducing the Agentic CDP: A New Species of CDP for a New Era of Agents",
-      "summary": "Marketing technology has seen plenty of change over the past few decades. But what...",
-      "url": "https://www.databricks.com/blog/what-is-an-agentic-cdp",
-      "date": "2026-06-17T01:14:58+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "ai"
       ],
       "image": null
     },
@@ -1121,20 +1176,6 @@
       "image": null
     },
     {
-      "title": "AI Agents in Healthcare: 3 Snowflake Summit Takeaways",
-      "summary": "Explore 3 Snowflake Summit takeaways on AI agents in healthcare, including CoWork, enterprise agentic workflows and Sanofi’s agentic AI transformation.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agents-in-healthcare-snowflake-summit-takeaways",
-      "date": "2026-06-11T16:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 33,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
       "summary": "The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But […]",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/",
@@ -1168,28 +1209,6 @@
       "image": null
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI to acquire Ona",
       "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "url": "https://openai.com/index/openai-to-acquire-ona",
@@ -1211,6 +1230,28 @@
       "tags": [
         "banking"
       ],
+      "image": null
+    },
+    {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
+      "tags": [],
       "image": null
     },
     {
@@ -1293,17 +1334,6 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-      "url": "https://openai.com/index/lseg",
-      "date": "2026-06-10T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
     },
     {
       "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
@@ -1392,28 +1422,6 @@
       "source": "Google DeepMind",
       "category": "google",
       "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "url": "https://openai.com/index/nextdoor",
-      "date": "2026-06-09T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "What Codex unlocks for Notion",
-      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-      "url": "https://openai.com/index/notion",
-      "date": "2026-06-09T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1810,87 +1818,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "How AI Mode is changing the way people search in the U.S.",
-      "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-      "date": "2026-05-19T17:45:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "New ways to create and get things done in Google Workspace",
-      "summary": "Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-      "date": "2026-05-19T17:45:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "I/O 2026: Welcome to the agentic Gemini era",
-      "summary": "a series of colorful icons representing Google I/O against a black background",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-      "date": "2026-05-19T17:45:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "date": "2026-05-19T17:45:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 13,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "A new era for AI Search",
-      "summary": "Text that reads \"The best of a search engine with the best of AI\"",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "date": "2026-05-19T17:45:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
-      "summary": "The image shows colorful icons. The copy reads: More magic in one plan. More power, more perks, same price.",
-      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
-      "date": "2026-05-19T17:45:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/I_O_26_Header_1_AYohnR4.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Making it easier to understand how content was created and edited",
-      "summary": "A chat input box mockup featuring an uploaded thumbnail of dog-themed latte art, the text \"Is this generated with AI?\", and action icons for adding files, voice input, and sending.",
-      "url": "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
-      "date": "2026-05-19T17:45:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FINAL_SOCIAL_HERO_laWfMt0.max-600x600.format-webp.webp"
     }
   ]
 }
