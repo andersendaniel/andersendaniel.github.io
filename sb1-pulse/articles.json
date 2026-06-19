@@ -1,7 +1,18 @@
 {
-  "generated": "2026-06-19T09:26:09.077665+00:00",
+  "generated": "2026-06-19T13:59:20.686713+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How AI Powers Customer Experience in Travel and Transportation",
+      "summary": "Excellence in experience is what to strive for from the very first point of interaction to the destination.",
+      "url": "https://news.sap.com/2026/06/ai-powers-customer-experience-travel-and-transportation/",
+      "date": "2026-06-19T10:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam",
       "summary": "Today, AWS announces the general availability of a new Local Zone in Hanoi, Vietnam, bringing AWS infrastructure closer to end users. This new Local Zone is one of the first AWS Local Zones in the Asia Pacific with support for Amazon Simple Storage Service (Amazon S3) and Amazon Elastic Block Store (Amazon EBS) Local Snapshots, enabling customers to meet data residency requirements by storing and ",
@@ -789,17 +800,6 @@
       "image": null
     },
     {
-      "title": "Modernize your data with Azure Storage: Plan and migrate with confidence",
-      "summary": "Enterprise storage migrations are rarely just about copying data. They are about protecting business continuity, maintaining performance, managing cost, and giving teams confidence when terabytes or petabytes of data sit at the heart of critical applications. The post Modernize your data with Azure Storage: Plan and migrate with confidence appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
-      "date": "2026-06-16T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Build and Deploy Faster with Snowflake Apps",
       "summary": "Meet Snowflake Apps: build full-stack, AI-powered enterprise apps using the tools you love — Node.js, Vercel, Streamlit and more — and deploy in minutes with governance capabilities built in from Day 1.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-apps-build-deploy-faster",
@@ -935,19 +935,6 @@
       "category": "snowflake",
       "relevance": 6,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Absa Bank: A Blueprint for the Agentic Enterprise",
-      "summary": "How the 2026 Celent Model Bank Winner Transformed SME Engagement through Agentforce.",
-      "url": "https://www.salesforce.com/blog/absa-bank-agentforce/",
-      "date": "2026-06-15T20:42:35+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 17,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -1320,17 +1307,6 @@
       "source": "AWS Blog",
       "category": "aws",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Business Travel Holds Steady as Travel Costs Rise",
-      "summary": "According to SAP Concur data, companies around the world largely maintained their travel activity despite higher prices.",
-      "url": "https://news.sap.com/2026/06/business-travel-holds-steady-as-travel-costs-rise/",
-      "date": "2026-06-10T13:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1773,6 +1749,19 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
+      "summary": "With Cilium-based cross-cluster networking, we are delivering a managed, high-performance network that can span your entire fleet. The post Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
+      "date": "2026-05-22T17:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 16,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
     },
     {
       "title": "We’re announcing new community investments in Missouri.",
