@@ -1,7 +1,33 @@
 {
-  "generated": "2026-06-19T13:59:20.686713+00:00",
+  "generated": "2026-06-19T18:50:49.616144+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Catherine’s Journey from Salesforce Apprenticeship to Future Engineer",
+      "summary": "From browser games to building enterprise infrastructure, Catherine Brennan’s career change to tech shows how curiosity, persistence, and opportunity can open doors to a fulfilling career. Today, she’s thriving as a Infrastructure Engineer…",
+      "url": "https://www.salesforce.com/blog/salesforce-apprenticeship-catherine-journey/",
+      "date": "2026-06-19T16:44:11+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How we built an internal data analytics agent",
+      "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+      "date": "2026-06-19T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 18,
+      "tags": [
+        "ai",
+        "data",
+        "developer"
+      ],
+      "image": null
+    },
     {
       "title": "How AI Powers Customer Experience in Travel and Transportation",
       "summary": "Excellence in experience is what to strive for from the very first point of interaction to the destination.",
@@ -24,6 +50,19 @@
       "tags": [
         "cloud",
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch Synthetics now supports multilocation canaries",
+      "summary": "Today, Amazon CloudWatch Synthetics announces support for multilocation canaries, allowing developers and site reliability engineers to run the same canary across multiple AWS Regions simultaneously from a single point of management. Previously, monitoring application availability from multiple geographic locations required creating and managing separate canaries in each Region, adding operational",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-synthetics-multilocation/",
+      "date": "2026-06-18T22:41:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -397,19 +436,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS for SQL Server increases the maximum size and provisioned performance of General Purpose (gp3) volumes",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports higher volume-level limits for General Purpose (gp3) storage. With this update, each gp3 volume can scale up to 64 TiB in size (4X the previous 16 TiB limit), up to 80,000 IOPS (5X the previous 16,000 IOPS limit), and up to 2,000 MiB/s throughput (2X the previous 1,000 MiB/s limit). With these improvements, customers can n",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-increases-gp3-limits/",
-      "date": "2026-06-18T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
       "tags": [
         "data"
       ],
@@ -894,17 +920,6 @@
       "image": null
     },
     {
-      "title": "Why Do People Stay at Salesforce for 10+ Years? Here’s What They Actually Said",
-      "summary": "You’re probably reading this because you’re weighing something. A new role. A new company. Whether this place is the right one. Good. That question deserves a real answer. Four people. Four completely different…",
-      "url": "https://www.salesforce.com/blog/why-do-people-stay-at-salesforce-for-10-years-heres-what-they-actually-said/",
-      "date": "2026-06-16T01:07:10+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Predicting model behavior before release by simulating deployment",
       "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "url": "https://openai.com/index/deployment-simulation",
@@ -1375,21 +1390,6 @@
       "image": null
     },
     {
-      "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
-      "summary": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
-      "date": "2026-06-09T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 16,
-      "tags": [
-        "ai",
-        "automation",
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
       "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
@@ -1784,17 +1784,6 @@
       "relevance": 13,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "A new experiment brings better group meetings to Google Beam",
-      "summary": "A small group meeting featuring two in-room participants and three participants on-screen.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-      "date": "2026-05-20T16:45:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp"
     }
   ]
 }
