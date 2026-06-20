@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19T18:50:49.616144+00:00",
+  "generated": "2026-06-20T00:04:35.668303+00:00",
   "sources": 21,
   "articles": [
     {
@@ -12,6 +12,19 @@
       "relevance": 4,
       "tags": [],
       "image": null
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jun 15 - Jun 19 Join u",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "date": "2026-06-19T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
       "title": "How we built an internal data analytics agent",
@@ -157,7 +170,7 @@
     },
     {
       "title": "Nested virtualization is now available on additional Intel platforms and US Gov Cloud regions",
-      "summary": "Starting today, Nested virtualization is now available on additional Intel platforms and additional Regions. Nested virtualization is now available on C7i,R7i, M7i, C7id,R7id, M7id, C7i-flex,R7i-flex, M7i-flex, I7i, C8i-flex,R8i-flex, M8i-flex,and X8i, in addition to already available support on C8i, M8i and R8i instances. This capability is also now available in US GovCloud (US-East) and US GovCl",
+      "summary": "Starting today, Nested virtualization is now available on additional Intel platforms and additional Regions. Nested virtualization is now available on C7i,R7i, M7i, C8id,R8id, M8id, C7i-flex, M7i-flex, I7i, C8i-flex,R8i-flex, M8i-flex,and X8i, in addition to already available support on C8i, M8i and R8i instances. This capability is also now available in US GovCloud (US-East) and US GovCloud (US-W",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/nested-virtualization-intel-us-gov-cloud/",
       "date": "2026-06-18T18:47:00+00:00",
       "source": "AWS What's New",
@@ -826,6 +839,17 @@
       "image": null
     },
     {
+      "title": "Modernize your data with Azure Storage: Plan and migrate with confidence",
+      "summary": "Enterprise storage migrations are rarely just about copying data. They are about protecting business continuity, maintaining performance, managing cost, and giving teams confidence when terabytes or petabytes of data sit at the heart of critical applications. The post Modernize your data with Azure Storage: Plan and migrate with confidence appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+      "date": "2026-06-16T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Build and Deploy Faster with Snowflake Apps",
       "summary": "Meet Snowflake Apps: build full-stack, AI-powered enterprise apps using the tools you love — Node.js, Vercel, Streamlit and more — and deploy in minutes with governance capabilities built in from Day 1.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-apps-build-deploy-faster",
@@ -1087,19 +1111,6 @@
         "data"
       ],
       "image": null
-    },
-    {
-      "title": "What’s new with Google Cloud",
-      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jun 8 - Jun 12 Simplif",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "date": "2026-06-12T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
       "title": "Snowflake Ventures Invests in Jedify to Advance Enterprise AI",
@@ -1749,41 +1760,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
-      "summary": "With Cilium-based cross-cluster networking, we are delivering a managed, high-performance network that can span your entire fleet. The post Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
-      "date": "2026-05-22T17:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 16,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "We’re announcing new community investments in Missouri.",
-      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-      "date": "2026-05-20T20:40:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "100 things we announced at I/O 2026",
-      "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "date": "2026-05-20T19:30:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 13,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp"
     }
   ]
 }
