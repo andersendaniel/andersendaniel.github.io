@@ -1,7 +1,18 @@
 {
-  "generated": "2026-06-22T00:06:44.592370+00:00",
+  "generated": "2026-06-22T10:34:17.748844+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+      "summary": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more energy efficient. […]",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "date": "2026-06-22T05:00:22+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/45CLiquidCooling.jpg"
+    },
     {
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
@@ -1256,17 +1267,6 @@
       "image": null
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "url": "https://openai.com/index/bbva",
@@ -1280,13 +1280,13 @@
       "image": null
     },
     {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "date": "2026-06-11T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 5,
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1298,6 +1298,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 22,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -1471,20 +1482,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/london-tech-week-2026-key-visual.jpeg"
-    },
-    {
-      "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
-      "summary": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, validate and deploy AI-based applications across its key businesses. The collaboration brings […]",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
-      "date": "2026-06-08T03:00:50+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 4,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/kr-visit-lg-group-1920x1080-no-credit.png"
     },
     {
       "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
