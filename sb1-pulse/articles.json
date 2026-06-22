@@ -1,7 +1,53 @@
 {
-  "generated": "2026-06-22T15:48:55.143707+00:00",
+  "generated": "2026-06-22T20:07:24.649836+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+      "summary": "Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. The post From pledge to practice: Building a more inclusive open source ecosystem appeared first on The GitHub Blog .",
+      "url": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+      "date": "2026-06-22T17:20:31+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "How to Design an AI-Native Architecture with Salesforce Headless 360",
+      "summary": "Work through the assumptions, decisions, and trade-offs behind designing a fintech AI agent built with Salesforce Headless 360.",
+      "url": "https://www.salesforce.com/blog/design-ai-native-architecture-salesforce-headless-360/",
+      "date": "2026-06-22T16:50:26+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 25,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS IAM Identity Center now supports separate quotas for AWS accounts and applications",
+      "summary": "AWS IAM Identity Center now supports separate quotas for the number of AWS accounts and applications that can be configured in an IAM Identity Center instance. By default, you can configure up to 7,000 AWS accounts and up to 7,000 applications independently, so that using more of one does not consume capacity from the other. Quotas can be further increased by submitting a quota increase request th",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-identity-center-separate-quotas/",
+      "date": "2026-06-22T16:07:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
+      "summary": "Adopting AV1 for real-time communication at Meta has been a multi-year effort spanning codec selection, device eligibility, rate control, and error resilience. We’re sharing the technical and operational challenges while deploying AV1 and expanding coverage, and how we addressed them for real-time communication. We’re presenting several technologies for improving AV1 call quality, including rate c",
+      "url": "https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/",
+      "date": "2026-06-22T16:00:08+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)",
       "summary": "Last week AWS Summit New York City brought together thousands of customers, partners, and builders for a free, one-day event showcasing the latest in cloud and AI innovation. Dr. Swami Sivasubramanian, VP of Agentic AI at AWS unveiled a stack of AI launches in his keynote, all built around one thesis: agents that compound value […]",
@@ -14,6 +60,17 @@
         "ai",
         "cloud"
       ],
+      "image": null
+    },
+    {
+      "title": "How Snowflake Built an AI-Native Marketing Team",
+      "summary": "How Snowflake's Marketing AI Council turned a 600-person global team from 11% AI confidence to 93% daily usage in just over a year.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-marketing-ai-council-ai-native-team",
+      "date": "2026-06-22T13:14:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -111,6 +168,20 @@
       "image": null
     },
     {
+      "title": "The Agentic Enterprise: AI Governance for Marketing Leaders",
+      "summary": "Learn how marketing leaders can govern agentic AI with strong data foundations, privacy controls and clear accountability across the enterprise.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/mmds-ai-governance-framework-agentic-enterprise",
+      "date": "2026-06-22T12:03:58+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 18,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Less Back-and-Forth: How SAP Store Private Offers Simplify How You Buy and Sell",
       "summary": "Enterprise software marketplaces have fundamentally changed how software gets bought and sold.",
       "url": "https://news.sap.com/2026/06/sap-store-private-offers-simplify-buy-and-sell/",
@@ -119,6 +190,30 @@
       "category": "sap",
       "relevance": 4,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "date": "2026-06-22T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "date": "2026-06-22T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
+      "tags": [
+        "security"
+      ],
       "image": null
     },
     {
@@ -131,6 +226,17 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/45CLiquidCooling.jpg"
+    },
+    {
+      "title": "Codex-maxxing for long-running work",
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "date": "2026-06-22T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
     },
     {
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
@@ -310,6 +416,19 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2025/09/nvidiaheadquarters.jpg"
     },
     {
+      "title": "Data scientists: Powering the future of AI and analytics",
+      "summary": "Data scientists sit at the intersection of analytics, machine learning (ML) and AI,...",
+      "url": "https://www.databricks.com/blog/data-scientists",
+      "date": "2026-06-18T19:46:16+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 10,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Nested virtualization is now available on additional Intel platforms and US Gov Cloud regions",
       "summary": "Starting today, Nested virtualization is now available on additional Intel platforms and additional Regions. Nested virtualization is now available on C7i,R7i, M7i, C8id,R8id, M8id, C7i-flex, M7i-flex, I7i, C8i-flex,R8i-flex, M8i-flex,and X8i, in addition to already available support on C8i, M8i and R8i instances. This capability is also now available in US GovCloud (US-East) and US GovCloud (US-W",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/nested-virtualization-intel-us-gov-cloud/",
@@ -373,19 +492,6 @@
       "image": null
     },
     {
-      "title": "Amazon EKS now supports customer-routed control plane egress",
-      "summary": "Today, Amazon Elastic Kubernetes Service (Amazon EKS) introduces customer-routed control plane egress, a capability that lets you route outbound Kubernetes API server traffic through your own Amazon VPC. This includes admission webhook callbacks, OpenID Connect (OIDC) provider lookups, and aggregate API server requests. With customer-routed control plane egress, this traffic flows through your VPC",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-customer-routed-control-plane-egress",
-      "date": "2026-06-18T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "New usage analytics and updated spend controls for enterprises",
       "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
@@ -397,26 +503,13 @@
       "image": null
     },
     {
-      "title": "Amazon SageMaker AI Announces New observability capability For Inference Endpoints",
-      "summary": "Amazon SageMaker AI's new observability capability allows customers to operate production generative AI inference workloads with confidence by providing comprehensive visibility into token performance, GPU health, inference component placement, and autoscaling behavior. It takes away the manual work of searching CloudWatch for per-endpoint metrics, correlating latency spikes with GPU saturation or",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-inference/",
-      "date": "2026-06-18T15:13:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 15,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon SNS now supports sending SMS in the Asia Pacific (Seoul) Region",
-      "summary": "Customers that use Amazon Simple Notification Service (Amazon SNS) in the Asia Pacific (Seoul) Region can now send text messages (SMS) to subscribers in more than 200 countries and territories. Amazon SNS is a fully managed pub/sub messaging service that enables message delivery to multiple endpoints including AWS Lambda, Amazon SQS, Amazon Data Firehose, mobile devices, and email. With this launc",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sns-supports-sending-sms-seoul-region/",
-      "date": "2026-06-18T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
+      "title": "Data Pipeline Best Practices: Architecture, Modern Pipelines, and Deployment",
+      "summary": "Purpose and Core ComponentsA data pipeline is the automated system that moves raw data from source systems...",
+      "url": "https://www.databricks.com/blog/data-pipeline-best-practices",
+      "date": "2026-06-18T16:14:42+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
       "tags": [
         "data"
       ],
@@ -550,6 +643,19 @@
       "image": null
     },
     {
+      "title": "Building a SQL ETL Pipeline: The Complete Guide for Data Engineers",
+      "summary": "An SQL ETL pipeline is one of the most foundational components in any modern analytics stack...",
+      "url": "https://www.databricks.com/blog/sql-etl-pipeline",
+      "date": "2026-06-18T09:48:20+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "What is artificial intelligence (AI)?",
       "summary": "Artificial intelligence (AI) is a branch of computer science that lets machines perform...",
       "url": "https://www.databricks.com/blog/what-is-artificial-intelligence",
@@ -561,13 +667,13 @@
       "image": null
     },
     {
-      "title": "Amazon GameLift Servers adds new container fleet improvements",
-      "summary": "Amazon GameLift Servers now supports two significant container fleet improvements that enhance flexibility and inter-container communication for game server deployments. These new capabilities address common challenges faced by game developers using containerized architectures, providing greater control over container permissions and enabling seamless discovery of co-located containers on the same",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-container-fleet-improvements",
-      "date": "2026-06-18T08:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
+      "title": "Data Engineering for AI: A Practical Guide for Data Professionals",
+      "summary": "Data engineering is the foundational backbone of artificial intelligence systems....",
+      "url": "https://www.databricks.com/blog/data-engineering-for-ai",
+      "date": "2026-06-18T08:03:49+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
       "tags": [],
       "image": null
     },
@@ -580,6 +686,19 @@
       "category": "openai",
       "relevance": 2,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Data Warehouse Types: A Complete Guide to Architectures and Use Cases",
+      "summary": "A data warehouse is a centralized repository that collects, organizes, and stores...",
+      "url": "https://www.databricks.com/blog/data-warehouse-types",
+      "date": "2026-06-18T07:43:27+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -607,6 +726,19 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/5383050-vivatech26-digital-nv-blog-image-1920x1080-1.jpg"
     },
     {
+      "title": "Payment Fraud Detection: How Banks and Businesses Stop Fraudulent Transactions",
+      "summary": "Payment fraud detection has become one of the most data-intensive challenges in financial services...",
+      "url": "https://www.databricks.com/blog/payment-fraud-detection",
+      "date": "2026-06-17T21:45:24+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 37,
+      "tags": [
+        "banking"
+      ],
+      "image": null
+    },
+    {
       "title": "What is an AI agent harness?",
       "summary": "An AI agent harness is the software infrastructure that wraps around a large language...",
       "url": "https://www.databricks.com/blog/ai-harness",
@@ -615,19 +747,6 @@
       "category": "databricks",
       "relevance": 14,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Databricks and NVIDIA: Building for the Agentic Era",
-      "summary": "The Full Stack of AI, AcceleratedNVIDIA accelerated computing powers some of the...",
-      "url": "https://www.databricks.com/blog/databricks-and-nvidia-building-agentic-era",
-      "date": "2026-06-17T19:50:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -803,63 +922,6 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The Partner Well-Architected Framework: What's New and What's Next",
-      "summary": "In February, we launched the Partner Well-Architected Framework (PWAF), moving our...",
-      "url": "https://www.databricks.com/blog/partner-well-architected-framework-whats-new-and-whats-next",
-      "date": "2026-06-17T12:59:26+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "What’s coming next to Free Edition",
-      "summary": "Today, more people than ever want to learn data and AI so we're expanding what they...",
-      "url": "https://www.databricks.com/blog/whats-coming-next-free-edition",
-      "date": "2026-06-17T12:45:16+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Becoming the most comprehensive data & AI ecosystem on earth",
-      "summary": "All in all, we’re just another brick in the wallAs I complete my first year at Databricks,...",
-      "url": "https://www.databricks.com/blog/becoming-most-comprehensive-data-ai-ecosystem-earth",
-      "date": "2026-06-17T12:45:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Design Beautiful Dashboards in AI/BI",
-      "summary": "IntroductionEvery company has a brand identity that reflects what it stands for,...",
-      "url": "https://www.databricks.com/blog/design-beautiful-dashboards-aibi",
-      "date": "2026-06-17T12:40:41+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "What’s new in Genie Code at Data + AI Summit 2026",
-      "summary": "Genie Code helps data and ML teams build and improve systems faster on Databricks. Over the past year...",
-      "url": "https://www.databricks.com/blog/whats-new-genie-code-data-ai-summit-2026",
-      "date": "2026-06-17T12:40:08+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1230,30 +1292,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/dgx-social-gb300-2048x2048-1-1.jpg"
     },
     {
-      "title": "Navigating AI Shifts in Modern Data Engineering",
-      "summary": "Discover how modern data engineering is shifting to meet AI demands. Learn to build resilient, declarative data pipelines and scale with coding agents.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/building-pipelines-for-ai",
-      "date": "2026-06-12T19:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Snowflake Ventures Invests in Jedify to Advance Enterprise AI",
-      "summary": "Snowflake Ventures invests in Jedify, an autonomous context graph that automates semantic lifecycle management to give enterprise AI agents the governed business context they need to deliver accurate, trusted answers.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/jedify-context-graphs-enterprise-ai-agents",
-      "date": "2026-06-12T15:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 17,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "SAP Discovery Center Helps Customers Start Their AI Journey",
       "summary": "Agilent and Sutherland share how they utilized SAP Discovery Center to explore and adopt SAP Business AI solutions.",
       "url": "https://news.sap.com/2026/06/sap-discovery-center-customers-ai-journey/",
@@ -1363,52 +1401,6 @@
       "category": "openai",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "OpenAI to acquire Ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 22,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "date": "2026-06-10T20:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 8,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Give GitHub Copilot CLI real code intelligence with language servers",
-      "summary": "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
-      "date": "2026-06-10T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 12,
-      "tags": [
-        "developer"
-      ],
       "image": null
     },
     {
