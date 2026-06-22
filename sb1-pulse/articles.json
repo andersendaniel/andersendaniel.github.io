@@ -1,7 +1,18 @@
 {
-  "generated": "2026-06-21T18:16:23.780529+00:00",
+  "generated": "2026-06-22T00:06:44.592370+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "date": "2026-06-21T23:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 17,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Catherine’s Journey from Salesforce Apprenticeship to Future Engineer",
       "summary": "From browser games to building enterprise infrastructure, Catherine Brennan’s career change to tech shows how curiosity, persistence, and opportunity can open doors to a fulfilling career. Today, she’s thriving as a Infrastructure Engineer…",
@@ -1245,17 +1256,6 @@
       "image": null
     },
     {
-      "title": "OpenAI to acquire Ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 22,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -1287,6 +1287,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "OpenAI to acquire Ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 22,
       "tags": [],
       "image": null
     },
@@ -1333,17 +1344,6 @@
       "source": "AWS Blog",
       "category": "aws",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "date": "2026-06-10T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 14,
       "tags": [],
       "image": null
     },
