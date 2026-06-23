@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-23T00:01:45.534856+00:00",
+  "generated": "2026-06-23T08:26:13.592933+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+      "summary": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Automation is no longer the finish line — it’s the launchpad to autonomy. The […]",
+      "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
+      "date": "2026-06-23T06:00:09+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 29,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/telco-tm-forum-1920x1080-1.jpg"
+    },
+    {
+      "title": "How Omio is building the future of conversational travel",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "url": "https://openai.com/index/omio",
+      "date": "2026-06-23T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
       "summary": "AWS launches a new serverless compute primitive, AWS Lambda MicroVMs. VM-level, isolated sandboxes with no shared kernel or resources between sessions. Rapid launch and resume, full lifecycle control, state preservation up to 8 hours, no infrastructure to manage.",
@@ -159,6 +183,17 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nairr.png"
     },
     {
+      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
+      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "date": "2026-06-22T13:00:20+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 5,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg"
+    },
+    {
       "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
       "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]",
       "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
@@ -170,17 +205,6 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/vera-cpu-lanl-1920x1080-1.jpg"
-    },
-    {
-      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
-      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-      "date": "2026-06-22T13:00:20+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 5,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg"
     },
     {
       "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -1290,19 +1314,6 @@
       "image": null
     },
     {
-      "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
-      "summary": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA […]",
-      "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
-      "date": "2026-06-12T21:00:08+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 19,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/dgx-social-gb300-2048x2048-1-1.jpg"
-    },
-    {
       "title": "SAP Discovery Center Helps Customers Start Their AI Journey",
       "summary": "Agilent and Sutherland share how they utilized SAP Discovery Center to explore and adopt SAP Business AI solutions.",
       "url": "https://news.sap.com/2026/06/sap-discovery-center-customers-ai-journey/",
@@ -1391,25 +1402,16 @@
       "image": null
     },
     {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "url": "https://openai.com/index/bbva",
       "date": "2026-06-11T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "OpenAI to acquire Ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 22,
-      "tags": [],
+      "relevance": 41,
+      "tags": [
+        "banking"
+      ],
       "image": null
     },
     {
