@@ -1,7 +1,55 @@
 {
-  "generated": "2026-06-23T08:26:13.592933+00:00",
+  "generated": "2026-06-23T13:40:41.818031+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Snowflake and NVIDIA Bring Agentic AI to Life Sciences",
+      "summary": "Discover how Snowflake and the NVIDIA BioNeMo Agent Toolkit power agentic AI in life sciences with governed workflows, secure data access, and faster R&D.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-nvidia-bionemo-agentic-ai-life-sciences",
+      "date": "2026-06-23T13:00:24+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 18,
+      "tags": [
+        "ai",
+        "data",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "How Businesses Are Building Specialized AI They Can Trust",
+      "summary": "Companies are asking how to build specialized AI that fits with the way their workflows actually run. The first wave of enterprise AI was about access. Companies experimented with new frontier and open models, ran pilots and explored how AI can help. Now, specialized agents — systems of models that can reason, use tools and […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+      "date": "2026-06-23T13:00:07+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 10,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/agentic-ai-agent-toolkit-kv-r3b-1920x1080-2.png"
+    },
+    {
+      "title": "Hi! Welcome Your New Virtual Assistant To Your Small Team",
+      "summary": "Welcome your new AI virtual assistant to the team with these tips and tools.",
+      "url": "https://www.salesforce.com/blog/small-business/virtual-assistant-for-smbs/",
+      "date": "2026-06-23T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Procurement’s New Balancing Act: Cutting Costs, Adopting AI, and Proving Strategic Value",
+      "summary": "Research from the 2026 Economist Enterprise Report finds that financial performance has reemerged as the primary benchmark of procurement’s success.",
+      "url": "https://news.sap.com/2026/06/procurement-balancing-act-cut-costs-adopt-ai-prove-value/",
+      "date": "2026-06-23T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
       "summary": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Automation is no longer the finish line — it’s the launchpad to autonomy. The […]",
@@ -69,6 +117,19 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 5,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Transform for migrations now supports all AWS commercial regions as migration targets",
+      "summary": "AWS Transform for migrations now supports all AWS commercial regions as migration targets. A migration target region is the AWS region where migrated resources are deployed, including landing zones, network infrastructure, and server rehosting. Customers can now deploy workloads in any commercial region, making it easier to meet data residency requirements. The new migration target regions are: US",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-migrations-region-expansion/",
+      "date": "2026-06-22T17:30:40+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
       "tags": [
         "cloud"
       ],
@@ -525,19 +586,6 @@
       "image": null
     },
     {
-      "title": "Nested virtualization is now available on additional Intel platforms and US Gov Cloud regions",
-      "summary": "Starting today, Nested virtualization is now available on additional Intel platforms and additional Regions. Nested virtualization is now available on C7i,R7i, M7i, C8id,R8id, M8id, C7i-flex, M7i-flex, I7i, C8i-flex,R8i-flex, M8i-flex,and X8i, in addition to already available support on C8i, M8i and R8i instances. This capability is also now available in US GovCloud (US-East) and US GovCloud (US-W",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/nested-virtualization-intel-us-gov-cloud/",
-      "date": "2026-06-18T18:47:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "New usage analytics and updated spend controls for enterprises",
       "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
@@ -961,17 +1009,6 @@
       "image": null
     },
     {
-      "title": "Why You Need to Let Go of Campaigns and Embrace Always-On Marketing",
-      "summary": "Your brand needs to be present for the customer at the moment of relevance, not before, not after. Here's how to do that.",
-      "url": "https://www.salesforce.com/blog/always-on-marketing/",
-      "date": "2026-06-17T14:40:26+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Reimagining the Supply Chain: Turning Strategic Vision into Operational Reality",
       "summary": "The value of supply chain orchestration is evident, but the challenge is defining and executing the path to get there.",
       "url": "https://news.sap.com/2026/06/reimagining-supply-chain-strategic-vision-into-operational-reality/",
@@ -1062,19 +1099,6 @@
       "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo"
     },
     {
-      "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
-      "summary": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit […]",
-      "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
-      "date": "2026-06-16T16:30:27+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 17,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-press-hpe-1600x900-4603000.png"
-    },
-    {
       "title": "Snowflake Postgres Unifies Your Apps, Analytics and AI",
       "summary": "Snowflake Postgres now offers data mirroring and pg_lake integration — a native, pipeline-free way to sync OLTP and analytical data in near real time.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/postgres-data-mirroring",
@@ -1121,17 +1145,6 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/X6w_t9eA7TLFiq3JMp1kXlon25qi9N6O0AxPyp7j0qOIu8oz-QDsaOP-oKz7FIuqlA3W1evDbeLYssDJM_fjkqeyscPO_fHJd0xeD0IoDlHkiUQW1w=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
-      "summary": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably. As models grow in size, complexity and intelligence, the demands on training infrastructure are also rising. In […]",
-      "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
-      "date": "2026-06-16T15:00:36+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/end-to-end-corp-blog-best-models-trained-1280x680-4660123.jpg"
     },
     {
       "title": "Copilot Cowork is now generally available",
@@ -1189,17 +1202,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "What's New with Dynamic Tables — Faster Refresh",
-      "summary": "Dynamic Tables get faster refreshes, custom incrementalization with MERGE/INSERT, dbt support, Iceberg interoperability and Cortex AI Functions.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/whats-new-dynamic-tables-faster-flexible",
-      "date": "2026-06-15T21:50:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1314,17 +1316,6 @@
       "image": null
     },
     {
-      "title": "SAP Discovery Center Helps Customers Start Their AI Journey",
-      "summary": "Agilent and Sutherland share how they utilized SAP Discovery Center to explore and adopt SAP Business AI solutions.",
-      "url": "https://news.sap.com/2026/06/sap-discovery-center-customers-ai-journey/",
-      "date": "2026-06-12T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "New OpenAI Academy courses for the next era of work",
       "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
@@ -1332,17 +1323,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "SAP Opens Data Center in India, Underscoring Expertise in Data Federation and Deepening Commitment to the Region",
-      "summary": "This reflects the company’s deepening commitment to India, the world’s fastest-growing large economy and home to more than 15,000 SAP employees.",
-      "url": "https://news.sap.com/2026/06/sap-opens-data-center-india-expertise-in-data-federation-commitment-region/",
-      "date": "2026-06-12T04:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
