@@ -1,7 +1,128 @@
 {
-  "generated": "2026-06-23T13:40:41.818031+00:00",
+  "generated": "2026-06-23T19:11:04.035212+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Genesis Workbench: A blueprint for industry AI in life sciences, powered by Databricks and NVIDIA",
+      "summary": "Bringing GPU-accelerated drug discovery to your dataLife sciences leaders need domain-specific,...",
+      "url": "https://www.databricks.com/blog/genesis-workbench-blueprint-industry-ai-life-sciences-powered-databricks-and-nvidia",
+      "date": "2026-06-23T18:45:12+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What $5 Billion in Penalties Can Teach Us About AI Guardrails",
+      "summary": "Global regulators issued $542 million in fines in Q1 2026 alone across 19 regulators worldwide (and those are just the actions above $1 million). Data privacy breaches, systems and controls failures, and AML…",
+      "url": "https://www.salesforce.com/blog/financial-services-ai-guardrails/",
+      "date": "2026-06-23T18:26:39+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 14,
+      "tags": [
+        "security",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Memory now supports cross-account access",
+      "summary": "Amazon Bedrock AgentCore Memory now enables cross-account access, allowing you to build multi-account architectures where memory resources and consuming agents span multiple AWS accounts. You can grant principals in one account permission to call memory data plane APIs against resources in another account using resource-based policies, and configure memory delivery destinations (Amazon S3, Amazon ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-memory-cross-account-access",
+      "date": "2026-06-23T17:20:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 15,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS HealthOmics now supports ephemeral storage for private workflows",
+      "summary": "AWS HealthOmics adds ephemeral storage for private workflows, giving bioinformatics workloads dedicated scratch space that delivers more consistent run performance and lower costs. Each workflow task now receives a dedicated local volume mounted at /tmp, and workflows that generate significant scratch data, such as genomic sequence alignment, BAM sorting, and variant calling, can experience faster",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/healthomics-scratch-storage/",
+      "date": "2026-06-23T17:15:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "date": "2026-06-23T17:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Automated Reasoning checks in Amazon Bedrock Guardrails add new policy refinement workflows",
+      "summary": "Today, AWS announces new automated refinement workflows for Automated Reasoning checks in Amazon Bedrock Guardrails. Automated Reasoning checks use formal logic to mathematically validate the accuracy of generative AI responses against a policy you define, helping detect hallucinations and provide verifiable explanations. The quality of validation results depends on how well a policy is defined. T",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails/",
+      "date": "2026-06-23T16:20:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 29,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "How Meta Engineered Ultra-Narrow Batteries for AI Glasses",
+      "summary": "Smart glasses like the Ray-Ban Meta and Oakley Meta Vanguards need to pack enough energy to power features like cameras, speakers, AI workloads, and even a display. But it all has to fit into the glasses’ temple arms. So how do you place a battery with enough power to run a pair of smart glasses [...] Read More... The post How Meta Engineered Ultra-Narrow Batteries for AI Glasses appeared first on",
+      "url": "https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
+      "date": "2026-06-23T16:00:38+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "I automated my job (and it made me a better leader)",
+      "summary": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog .",
+      "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+      "date": "2026-06-23T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
+      "summary": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
+      "date": "2026-06-23T15:48:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 2,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "#TogetherTuesday: How employee volunteering in education fuels Salesforce culture",
+      "summary": "Explore how employee volunteering and giving is shaping a brighter future for the next generation.",
+      "url": "https://www.salesforce.com/blog/employee-volunteering-education/",
+      "date": "2026-06-23T14:14:13+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Snowflake and NVIDIA Bring Agentic AI to Life Sciences",
       "summary": "Discover how Snowflake and the NVIDIA BioNeMo Agent Toolkit power agentic AI in life sciences with governed workflows, secure data access, and faster R&D.",
@@ -350,6 +471,17 @@
       "image": null
     },
     {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "date": "2026-06-22T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Daybreak: Tools for securing every organization in the world",
       "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -360,17 +492,6 @@
       "tags": [
         "security"
       ],
-      "image": null
-    },
-    {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "url": "https://openai.com/index/patch-the-planet",
-      "date": "2026-06-22T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -520,32 +641,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 G7 instances are now generally available",
-      "summary": "Today, AWS announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. G7 instances deliver up to 4.6x AI inference performance and up to 2.1x graphics performance compared to G6. You can use G7 instances for AI inference workloads such as language translation, video and image analysis, speech recog",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available",
-      "date": "2026-06-18T20:59:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon MQ for RabbitMQ now supports private networking connectivity",
-      "summary": "Amazon MQ for RabbitMQ now supports private networking, enabling your brokers to connect to private resources in your VPC without exposing those resources publicly.. This helps you meet your security and compliance requirements when your brokers need to reach private identity providers (such as LDAP and OAuth 2.0), other Amazon MQ for RabbitMQ brokers, or self-hosted RabbitMQ brokers. Previously, ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-private-network-connectivity/",
-      "date": "2026-06-18T20:20:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "Agentic AI Security: Snowflake's Data-Model-Agent Framework",
       "summary": "Snowflake's Data-Model-Agent framework secures the agentic enterprise with prompt injection defense, zero-copy governance and auditable agent identity.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/securing-the-agentic-enterprise",
@@ -680,17 +775,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/GFN_Thursday-June_18.jpg"
-    },
-    {
-      "title": "What Are Social AI Agents? Marketers, Meet Your New Online Assistant",
-      "summary": "Learn how these smart social tools help SMBs connect with customers and grow their online presence without the stress.",
-      "url": "https://www.salesforce.com/blog/small-business/social-ai-agents/",
-      "date": "2026-06-18T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Snowflake Launches Operations in Chile",
@@ -833,17 +917,6 @@
       "image": null
     },
     {
-      "title": "What is an AI agent harness?",
-      "summary": "An AI agent harness is the software infrastructure that wraps around a large language...",
-      "url": "https://www.databricks.com/blog/ai-harness",
-      "date": "2026-06-17T21:45:04+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Getting more from each token: How Copilot improves context handling and model routing",
       "summary": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
@@ -853,19 +926,6 @@
       "relevance": 13,
       "tags": [
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "Securing the Agentic Enterprise: Why Trust is the Engine of Headless 360",
-      "summary": "Ditching the browser shouldn't mean ditching security. Here's how Headless 360 builds in governance no matter where you bring Salesforce.",
-      "url": "https://www.salesforce.com/blog/headless-360-security/",
-      "date": "2026-06-17T18:57:55+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 5,
-      "tags": [
-        "ai"
       ],
       "image": null
     },
@@ -930,17 +990,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Make Your Existing Automation Agent-Ready",
-      "summary": "Evaluate your current assets, isolate single-purpose actions, and safely connect deterministic flows and Apex to probabilistic reasoning engines.",
-      "url": "https://www.salesforce.com/blog/agent-ready-automation/",
-      "date": "2026-06-17T15:52:29+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 4,
-      "tags": [],
       "image": null
     },
     {
@@ -1338,17 +1387,6 @@
       "image": null
     },
     {
-      "title": "GitHub availability report: May 2026",
-      "summary": "In May, we experienced nine incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: May 2026 appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
-      "date": "2026-06-11T21:30:15+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
       "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
@@ -1368,30 +1406,6 @@
       "category": "microsoft",
       "relevance": 6,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
-      "summary": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared first on The GitHub Blog .",
-      "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
-      "date": "2026-06-11T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 12,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "url": "https://openai.com/index/bbva",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 41,
-      "tags": [
-        "banking"
-      ],
       "image": null
     },
     {
