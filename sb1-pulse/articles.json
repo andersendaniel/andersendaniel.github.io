@@ -1,7 +1,72 @@
 {
-  "generated": "2026-06-24T13:15:18.836878+00:00",
+  "generated": "2026-06-24T18:47:48.594265+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "The Rise of Sports Intelligence: How the Lakehouse Turns Tracking Data into Competitive Advantage",
+      "summary": "Every second of a professional basketball game now generates more than 20,000 data...",
+      "url": "https://www.databricks.com/blog/rise-sports-intelligence-how-lakehouse-turns-tracking-data-competitive-advantage",
+      "date": "2026-06-24T18:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "How Daikin Applied Americas builds consistent data pipelines at scale with Genie Code",
+      "summary": "Agentic data engineering is changing how pipelines are builtDaikin Applied Americas...",
+      "url": "https://www.databricks.com/blog/how-daikin-applied-americas-builds-consistent-data-pipelines-scale-genie-code",
+      "date": "2026-06-24T18:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "What if the answer was already in your data?",
+      "summary": "What If the Answer Was Already in Your Data?Kythera Labs is building an AI-native...",
+      "url": "https://www.databricks.com/blog/what-if-answer-was-already-your-data",
+      "date": "2026-06-24T16:45:36+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "date": "2026-06-24T16:30:01+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 12,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Databricks positioned highest in execution and furthest in vision for the second consecutive year in Gartner Magic Quadrant",
+      "summary": "Enterprises are rapidly deploying agentic applications at scale, from back-office...",
+      "url": "https://www.databricks.com/blog/databricks-positioned-highest-execution-and-furthest-vision-second-consecutive-year-gartner",
+      "date": "2026-06-24T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
     {
       "title": "Patients Have Spoken: 5 Hard Truths About Healthcare Patient Experience in the Age of AI",
       "summary": "New global research from Salesforce reveals what patients really want from AI, and the gap between expectation and reality is wider than most providers think.",
@@ -11,6 +76,20 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Neptune now supports AWS CloudFormation for global databases",
+      "summary": "Amazon Neptune now supports AWS CloudFormation for provisioning and managing Neptune global databases. Using the new AWS::Neptune::GlobalCluster resource type, you can define your multi-region graph database topology as code — automating deployment, storing configurations in source control, and integrating with CI/CD pipelines. Neptune global databases provide a primary cluster with read-write cap",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-aws-cloudformation/",
+      "date": "2026-06-24T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "data"
+      ],
       "image": null
     },
     {
@@ -49,6 +128,19 @@
       "image": null
     },
     {
+      "title": "Amazon EC2 High Memory U7in-24TB instances now available in AWS Asia Pacific (Seoul) region",
+      "summary": "Amazon EC2 High Memory U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS Asia Pacific (Seoul) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids). U7in-24TB instances offer 24 TiB of DDR5 memory, enabling customers to scale transaction processing throughput in a fast-growing data envi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7in-24tb-aws-seoul/",
+      "date": "2026-06-24T01:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
       "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
       "summary": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths ",
       "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
@@ -71,6 +163,20 @@
       "relevance": 1,
       "tags": [
         "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon GuardDuty AI-powered investigations accelerate threat response (Preview)",
+      "summary": "AWS announces the preview of AI-powered investigations in Amazon GuardDuty, a new capability that automatically analyzes GuardDuty findings and accounts to help you quickly distinguish true threats from benign findings. This feature addresses the time-intensive manual investigation process that contributes to alert fatigue and slows incident response for security operations centers and cloud secur",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-guardduty/",
+      "date": "2026-06-23T19:49:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "security"
       ],
       "image": null
     },
@@ -304,6 +410,52 @@
       "image": null
     },
     {
+      "title": "Guide to Agentic Systems and AI Agents",
+      "summary": "Agentic AI is a class of artificial intelligence in which software systems autonomously plan, execute...",
+      "url": "https://www.databricks.com/blog/agentic-systems-guide",
+      "date": "2026-06-23T09:53:35+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 30,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Top 10 AI Business Solutions Driving Company Growth",
+      "summary": "The question most business leaders are asking today isn't whether to adopt AI. It's...",
+      "url": "https://www.databricks.com/blog/ai-business-solutions",
+      "date": "2026-06-23T09:21:26+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "End-to-End RAG Workflow: How Retrieval Augmented Generation Works",
+      "summary": "Retrieval Augmented Generation (RAG) is an AI architecture pattern that connects...",
+      "url": "https://www.databricks.com/blog/rag-workflow",
+      "date": "2026-06-23T09:05:56+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What is Vector Search?",
+      "summary": "Vector search is a search technique that finds results based on meaning, not just...",
+      "url": "https://www.databricks.com/blog/vector-search",
+      "date": "2026-06-23T08:51:49+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
       "summary": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Automation is no longer the finish line — it’s the launchpad to autonomy. The […]",
       "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
@@ -387,29 +539,14 @@
       "image": null
     },
     {
-      "title": "AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code",
-      "summary": "AWS introduces Lambda MicroVMs, a new serverless compute primitive that provides VM-level isolation, near-instant launch and resume speeds, and state preservation for executing user or AI-generated code. You can now give each user or job their own compute environment to securely run code without managing virtualization infrastructure or choosing between isolation, speed, and state retention. Devel",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/",
-      "date": "2026-06-22T20:37:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Transform for migrations now supports all AWS commercial regions as migration targets",
-      "summary": "AWS Transform for migrations now supports all AWS commercial regions as migration targets. A migration target region is the AWS region where migrated resources are deployed, including landing zones, network infrastructure, and server rehosting. Customers can now deploy workloads in any commercial region, making it easier to meet data residency requirements. The new migration target regions are: US",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-migrations-region-expansion/",
-      "date": "2026-06-22T17:30:40+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
+      "title": "DataOps Strategy for Modern Data Engineering",
+      "summary": "What Is DataOps and Why It Matters for Data TeamsDataOps is a collaborative data...",
+      "url": "https://www.databricks.com/blog/what-is-dataops",
+      "date": "2026-06-22T19:38:25+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
       "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
+      "tags": [],
       "image": null
     },
     {
@@ -497,17 +634,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nairr.png"
     },
     {
-      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
-      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-      "date": "2026-06-22T13:00:20+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 5,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg"
-    },
-    {
       "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
       "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]",
       "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
@@ -519,6 +645,17 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/vera-cpu-lanl-1920x1080-1.jpg"
+    },
+    {
+      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
+      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "date": "2026-06-22T13:00:20+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 5,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg"
     },
     {
       "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -592,17 +729,6 @@
       "image": null
     },
     {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "url": "https://openai.com/index/patch-the-planet",
-      "date": "2026-06-22T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Daybreak: Tools for securing every organization in the world",
       "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -613,6 +739,17 @@
       "tags": [
         "security"
       ],
+      "image": null
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "date": "2026-06-22T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
       "image": null
     },
     {
@@ -645,17 +782,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 17,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Catherine’s Journey from Salesforce Apprenticeship to Future Engineer",
-      "summary": "From browser games to building enterprise infrastructure, Catherine Brennan’s career change to tech shows how curiosity, persistence, and opportunity can open doors to a fulfilling career. Today, she’s thriving as a Infrastructure Engineer…",
-      "url": "https://www.salesforce.com/blog/salesforce-apprenticeship-catherine-journey/",
-      "date": "2026-06-19T16:44:11+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 4,
       "tags": [],
       "image": null
     },
@@ -751,19 +877,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2025/09/nvidiaheadquarters.jpg"
     },
     {
-      "title": "Data scientists: Powering the future of AI and analytics",
-      "summary": "Data scientists sit at the intersection of analytics, machine learning (ML) and AI,...",
-      "url": "https://www.databricks.com/blog/data-scientists",
-      "date": "2026-06-18T19:46:16+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 10,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "New usage analytics and updated spend controls for enterprises",
       "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
@@ -772,19 +885,6 @@
       "category": "openai",
       "relevance": 21,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Data Pipeline Best Practices: Architecture, Modern Pipelines, and Deployment",
-      "summary": "Purpose and Core ComponentsA data pipeline is the automated system that moves raw data from source systems...",
-      "url": "https://www.databricks.com/blog/data-pipeline-best-practices",
-      "date": "2026-06-18T16:14:42+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -799,17 +899,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gallery_A__Data_Pavilion.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "How Stagwell built privacy-safe ID matching on Databricks",
-      "summary": "The identity matching problem brands face todayBrands invest heavily in building first-party data assets...",
-      "url": "https://www.databricks.com/blog/how-stagwell-built-privacy-safe-id-matching-databricks",
-      "date": "2026-06-18T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [],
-      "image": null
     },
     {
       "title": "The Autonomous CX Revolution Elevated by Google",
@@ -891,41 +980,6 @@
       "image": null
     },
     {
-      "title": "Building a SQL ETL Pipeline: The Complete Guide for Data Engineers",
-      "summary": "An SQL ETL pipeline is one of the most foundational components in any modern analytics stack...",
-      "url": "https://www.databricks.com/blog/sql-etl-pipeline",
-      "date": "2026-06-18T09:48:20+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "What is artificial intelligence (AI)?",
-      "summary": "Artificial intelligence (AI) is a branch of computer science that lets machines perform...",
-      "url": "https://www.databricks.com/blog/what-is-artificial-intelligence",
-      "date": "2026-06-18T08:51:03+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Data Engineering for AI: A Practical Guide for Data Professionals",
-      "summary": "Data engineering is the foundational backbone of artificial intelligence systems....",
-      "url": "https://www.databricks.com/blog/data-engineering-for-ai",
-      "date": "2026-06-18T08:03:49+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
@@ -934,32 +988,6 @@
       "category": "openai",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Data Warehouse Types: A Complete Guide to Architectures and Use Cases",
-      "summary": "A data warehouse is a centralized repository that collects, organizes, and stores...",
-      "url": "https://www.databricks.com/blog/data-warehouse-types",
-      "date": "2026-06-18T07:43:27+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "What is row-level security?",
-      "summary": "Row-level security (RLS) is a database access control that limits which rows of a...",
-      "url": "https://www.databricks.com/blog/row-level-security",
-      "date": "2026-06-18T07:27:06+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -972,19 +1000,6 @@
       "relevance": 19,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/5383050-vivatech26-digital-nv-blog-image-1920x1080-1.jpg"
-    },
-    {
-      "title": "Payment Fraud Detection: How Banks and Businesses Stop Fraudulent Transactions",
-      "summary": "Payment fraud detection has become one of the most data-intensive challenges in financial services...",
-      "url": "https://www.databricks.com/blog/payment-fraud-detection",
-      "date": "2026-06-17T21:45:24+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 37,
-      "tags": [
-        "banking"
-      ],
-      "image": null
     },
     {
       "title": "Getting more from each token: How Copilot improves context handling and model routing",
