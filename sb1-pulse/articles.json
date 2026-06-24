@@ -1,7 +1,20 @@
 {
-  "generated": "2026-06-23T23:52:14.175789+00:00",
+  "generated": "2026-06-24T08:19:19.686394+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+      "summary": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths ",
+      "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+      "date": "2026-06-24T00:05:37+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-tech-blog-aws-1920x1080-2.jpg"
+    },
     {
       "title": "Amazon CloudWatch Logs supports managed syslog ingestion",
       "summary": "Amazon CloudWatch Logs supports managed syslog ingestion, enabling customers to send syslog messages from firewalls, routers, switches, and Linux servers directly into CloudWatch Logs. With today's launch, customers can configure their network devices and servers to send syslog messages over TCP, TCP+TLS, or UDP to a VPC endpoint in their account - without installing or managing any agents. Amazon",
@@ -533,17 +546,6 @@
       "image": null
     },
     {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "url": "https://openai.com/index/patch-the-planet",
-      "date": "2026-06-22T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Daybreak: Tools for securing every organization in the world",
       "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -554,6 +556,17 @@
       "tags": [
         "security"
       ],
+      "image": null
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "date": "2026-06-22T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
       "image": null
     },
     {
@@ -1148,17 +1161,6 @@
       "relevance": 14,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/NVIDIA-XR-AI_Featured-Image-Poster-Alt-scaled.png"
-    },
-    {
-      "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
-      "summary": "AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the world’s first 6-inch indium phosphide […]",
-      "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
-      "date": "2026-06-16T22:10:56+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/26tx-coherent-factory-DEB30838-DL-edit-1-scaled.jpg"
     },
     {
       "title": "Unlocking UK house-building with AI-accelerated planning",
