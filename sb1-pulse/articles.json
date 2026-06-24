@@ -1,7 +1,53 @@
 {
-  "generated": "2026-06-24T08:19:19.686394+00:00",
+  "generated": "2026-06-24T13:15:18.836878+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Patients Have Spoken: 5 Hard Truths About Healthcare Patient Experience in the Age of AI",
+      "summary": "New global research from Salesforce reveals what patients really want from AI, and the gap between expectation and reality is wider than most providers think.",
+      "url": "https://www.salesforce.com/blog/blog-healthcare-patient-experience-report-2026/",
+      "date": "2026-06-24T13:03:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How the Advanced Success Plan for SAP CX Operationalizes Hyper-Personalization at Scale",
+      "summary": "The compounding effect of unified data and orchestrated decisioning transforms hyper-personalization into a sustained growth mechanism.",
+      "url": "https://news.sap.com/2026/06/advanced-success-plan-sap-cx-operationalizes-hyper-personalization/",
+      "date": "2026-06-24T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch now supports tags on dashboards",
+      "summary": "A mazon CloudWatch now supports tagging for CloudWatch dashboards, enabling you to organize, categorize, and control access to your dashboards using tags. Tags are key-value pairs that help you identify and manage AWS resources across your environment. With this launch, the PutDashboard API now accepts an optional Tags parameter, allowing you to assign up to 50 tags when creating a new dashboard. ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-tags-on-dashboards",
+      "date": "2026-06-24T08:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "date": "2026-06-24T06:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
       "summary": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths ",
@@ -546,6 +592,17 @@
       "image": null
     },
     {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "date": "2026-06-22T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Daybreak: Tools for securing every organization in the world",
       "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -556,17 +613,6 @@
       "tags": [
         "security"
       ],
-      "image": null
-    },
-    {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "url": "https://openai.com/index/patch-the-planet",
-      "date": "2026-06-22T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -763,19 +809,6 @@
       "category": "databricks",
       "relevance": 5,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Meet Agentic Advisor: AI That Delivers Action, Not Just Answers",
-      "summary": "If you’re a Financial Advisor or a Wealth Manager, building deep relationships with your clients is the heartbeat of your practice. Yet, the realities of modern wealth management mean you’re likely losing roughly…",
-      "url": "https://www.salesforce.com/blog/agentic-advisor-agentforce-financial-services/",
-      "date": "2026-06-18T13:42:19+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -1388,17 +1421,6 @@
       "tags": [
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "New OpenAI Academy courses for the next era of work",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "date": "2026-06-12T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 5,
-      "tags": [],
       "image": null
     },
     {
