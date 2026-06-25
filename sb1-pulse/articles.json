@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-25T00:04:29.317009+00:00",
+  "generated": "2026-06-25T08:19:31.971957+00:00",
   "sources": 21,
   "articles": [
     {
@@ -372,6 +372,20 @@
       "image": null
     },
     {
+      "title": "From insight to action: The next phase of agentic cloud operations",
+      "summary": "What if your cloud environment could help you move from insight to action in real time, with systems already working through the next set of decisions? The post From insight to action: The next phase of agentic cloud operations appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
+      "date": "2026-06-23T15:45:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "Amazon CloudWatch launches OTel Container Insights for Amazon EKS",
       "summary": "CloudWatch OTel Container Insights for Amazon EKS collects infrastructure metrics at 30-second granularity using open-source receivers including cAdvisor, Kube State Metrics, and NVIDIA DCGM. Each metric carries OpenTelemetry semantic conventions and Kubernetes labels, making it straightforward to correlate across nodes, pods, and workloads in a single PromQL query. Pre-built dashboards give you i",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-amazon-eks/",
@@ -655,6 +669,17 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nairr.png"
     },
     {
+      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
+      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "date": "2026-06-22T13:00:20+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 5,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg"
+    },
+    {
       "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
       "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]",
       "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
@@ -666,17 +691,6 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/vera-cpu-lanl-1920x1080-1.jpg"
-    },
-    {
-      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
-      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-      "date": "2026-06-22T13:00:20+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 5,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg"
     },
     {
       "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -1726,20 +1740,6 @@
       "relevance": 13,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
-      "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
-      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
-      "date": "2026-05-29T14:46:32+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 19,
-      "tags": [
-        "ai",
-        "developer"
-      ],
-      "image": null
     },
     {
       "title": "Check out real-life AI prototypes from the Futures Lab.",
