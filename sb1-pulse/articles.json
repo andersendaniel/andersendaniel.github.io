@@ -1,7 +1,99 @@
 {
-  "generated": "2026-06-25T13:13:22.019679+00:00",
+  "generated": "2026-06-25T19:03:44.097521+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Trusted Agents at Scale: How Open Discovery Is Unifying the Agentic Enterprise",
+      "summary": "As a founding partner to the new Agentic Resource Discovery specification, Salesforce is helping shape the open standard that gives AI agents a universal way to find, trust, and invoke capabilities across any platform.",
+      "url": "https://www.salesforce.com/blog/open-discovery-agentic-enterprise/",
+      "date": "2026-06-25T17:59:36+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 18,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "BACA Systems Runs Its Entire Business on Headless 360",
+      "summary": "How a 50-person robotics manufacturer replaced its ERP, saved $200k in fees, and unified every team on one platform.",
+      "url": "https://www.salesforce.com/blog/baca-systems-customer-story/",
+      "date": "2026-06-25T17:45:08+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Redshift adds Reserved Instance upfront pricing options for RG instances",
+      "summary": "Amazon Redshift announces the availability of All Upfront and Partial Upfront payment options for 1-year and 3-year reserved instances for RG instances. Reserved instances allow customers to benefit from significant savings over on-demand rates. The new payment options join the previously available No Upfront option, giving customers greater flexibility to optimize compute costs based on their fin",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-ri-upfront-pricing-rg-instances",
+      "date": "2026-06-25T16:39:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Celebrating Innovation: The 2027 Salesforce Partner Awards",
+      "summary": "Partners are at the heart of everything we do at Salesforce. The pace of innovation has never been faster, and global enterprises are turning to our ecosystem to turn technology into real measurable…",
+      "url": "https://www.salesforce.com/blog/salesforce-partner-awards-2027/",
+      "date": "2026-06-25T16:25:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "summary": "The Google Finance logo, surrounded by elements of the user interface",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "date": "2026-06-25T16:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Scale Enterprise AI With Dataiku Cobuild on Snowflake",
+      "summary": "Learn how Dataiku Cobuild on Snowflake helps teams scale enterprise AI development with governance, visibility, and operational control.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/dataiku-cobuild-snowflake-ai-governance",
+      "date": "2026-06-25T16:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
+      "summary": "Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Elliot: The Millennium Tales. They lead the […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/",
+      "date": "2026-06-25T13:00:34+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-25-no-copy-kv-1536x920-1.jpg"
+    },
+    {
+      "title": "Copilot in Excel: Built for the era of Frontier Finance",
+      "summary": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice. The post Copilot in Excel: Built for the era of Frontier Finance appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+      "date": "2026-06-25T13:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "10 Field Service Features Your SMB Needs Today",
       "summary": "From smart scheduling to AI automation, field service tools help small teams compete with enterprise operations.",
@@ -421,30 +513,6 @@
       "image": null
     },
     {
-      "title": "Amazon CloudWatch launches OTel Container Insights for Amazon EKS",
-      "summary": "CloudWatch OTel Container Insights for Amazon EKS collects infrastructure metrics at 30-second granularity using open-source receivers including cAdvisor, Kube State Metrics, and NVIDIA DCGM. Each metric carries OpenTelemetry semantic conventions and Kubernetes labels, making it straightforward to correlate across nodes, pods, and workloads in a single PromQL query. Pre-built dashboards give you i",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-amazon-eks/",
-      "date": "2026-06-23T15:12:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "#TogetherTuesday: How employee volunteering in education fuels Salesforce culture",
-      "summary": "Explore how employee volunteering and giving is shaping a brighter future for the next generation.",
-      "url": "https://www.salesforce.com/blog/employee-volunteering-education/",
-      "date": "2026-06-23T14:14:13+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Snowflake and NVIDIA Bring Agentic AI to Life Sciences",
       "summary": "Discover how Snowflake and the NVIDIA BioNeMo Agent Toolkit power agentic AI in life sciences with governed workflows, secure data access, and faster R&D.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-nvidia-bionemo-agentic-ai-life-sciences",
@@ -477,17 +545,6 @@
       "date": "2026-06-23T13:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Hi! Welcome Your New Virtual Assistant To Your Small Team",
-      "summary": "Welcome your new AI virtual assistant to the team with these tips and tools.",
-      "url": "https://www.salesforce.com/blog/small-business/virtual-assistant-for-smbs/",
-      "date": "2026-06-23T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -550,6 +607,19 @@
       "image": null
     },
     {
+      "title": "Data Lake vs. Cloud Data Warehouse: A Practical Guide for Data Scientists",
+      "summary": "A data lake is a centralized repository that stores raw data in its native format — structured, semi-structured, ...",
+      "url": "https://www.databricks.com/blog/data-lake-vs-cloud-data-warehouse",
+      "date": "2026-06-23T08:32:32+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
       "summary": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Automation is no longer the finish line — it’s the launchpad to autonomy. The […]",
       "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
@@ -561,17 +631,6 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/telco-tm-forum-1920x1080-1.jpg"
-    },
-    {
-      "title": "Claude Tag is now available in beta via Claude Enterprise in AWS Marketplace",
-      "summary": "Anthropic is launching Claude Tag — bringing Claude directly into the channels where your team already works, starting with Slack. Claude Tag is available today in beta to AWS customers who access Claude Enterprise through AWS Marketplace. Claude Tag is a new way for teams to work with Claude. Grant Claude access to selected channels, and connect it to whichever tools, data—and even codebases—you ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-tag-aws-marketplace/",
-      "date": "2026-06-23T05:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 18,
-      "tags": [],
-      "image": null
     },
     {
       "title": "How Omio is building the future of conversational travel",
@@ -604,17 +663,6 @@
       "date": "2026-06-22T21:26:14+00:00",
       "source": "Snowflake Blog",
       "category": "snowflake",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "DataOps Strategy for Modern Data Engineering",
-      "summary": "What Is DataOps and Why It Matters for Data TeamsDataOps is a collaborative data...",
-      "url": "https://www.databricks.com/blog/what-is-dataops",
-      "date": "2026-06-22T19:38:25+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -693,6 +741,17 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nairr.png"
     },
     {
+      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
+      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "date": "2026-06-22T13:00:20+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 5,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg"
+    },
+    {
       "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
       "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]",
       "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
@@ -704,17 +763,6 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/vera-cpu-lanl-1920x1080-1.jpg"
-    },
-    {
-      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
-      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-      "date": "2026-06-22T13:00:20+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 5,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg"
     },
     {
       "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -766,6 +814,17 @@
       "image": null
     },
     {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "date": "2026-06-22T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Daybreak: Tools for securing every organization in the world",
       "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -776,17 +835,6 @@
       "tags": [
         "security"
       ],
-      "image": null
-    },
-    {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "url": "https://openai.com/index/patch-the-planet",
-      "date": "2026-06-22T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -1237,17 +1285,6 @@
       "image": null
     },
     {
-      "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
-      "summary": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
-      "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
-      "date": "2026-06-16T22:30:41+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 14,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/NVIDIA-XR-AI_Featured-Image-Poster-Alt-scaled.png"
-    },
-    {
       "title": "Unlocking UK house-building with AI-accelerated planning",
       "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
       "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
@@ -1330,17 +1367,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Snowflake Well-Architected Framework: Build for the AI Era",
-      "summary": "Assess and optimize your Snowflake environment with the Well-Architected Framework: five pillars, automated CoCo assessments and Blueprint Manager guidance.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-well-architected-framework",
-      "date": "2026-06-16T15:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1775,30 +1801,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems",
-      "summary": "We’re introducing SilverTorch, a reimagining of recommendation systems that unifies all retrieval components for user generated content under a unified architecture. SilverTorch shows up to 23.7x higher throughput compared to the state-of-the-art approaches. It’s also showing 20.9x more compute cost efficiency compared to a CPU-based solution while also improving accuracy. Our research paper, “Sil",
-      "url": "https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/",
-      "date": "2026-05-26T16:00:01+00:00",
-      "source": "Meta Engineering",
-      "category": "meta",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
-      "summary": "Learn what’s new in Copilot Studio, May 2026: computer-using agents are now generally available, plus redesigned workflows and Work IQ extensibility. The post New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
-      "date": "2026-05-26T16:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 21,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     }
   ]
 }
