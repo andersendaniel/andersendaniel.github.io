@@ -1,7 +1,42 @@
 {
-  "generated": "2026-06-25T08:19:31.971957+00:00",
+  "generated": "2026-06-25T13:13:22.019679+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "10 Field Service Features Your SMB Needs Today",
+      "summary": "From smart scheduling to AI automation, field service tools help small teams compete with enterprise operations.",
+      "url": "https://www.salesforce.com/blog/small-business/field-service-features-for-smbs/",
+      "date": "2026-06-25T12:30:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 9,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
+      "summary": "The push for sovereign AI data centers in Europe reflects a shift in how IT infrastructure is perceived.",
+      "url": "https://news.sap.com/2026/06/sovereign-data-ai-infrastructure-europe/",
+      "date": "2026-06-25T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "How agents are transforming work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "date": "2026-06-25T02:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "The Rise of Sports Intelligence: How the Lakehouse Turns Tracking Data into Competitive Advantage",
       "summary": "Every second of a professional basketball game now generates more than 20,000 data...",
@@ -598,17 +633,6 @@
       "image": null
     },
     {
-      "title": "How to Design an AI-Native Architecture with Salesforce Headless 360",
-      "summary": "Work through the assumptions, decisions, and trade-offs behind designing a fintech AI agent built with Salesforce Headless 360.",
-      "url": "https://www.salesforce.com/blog/design-ai-native-architecture-salesforce-headless-360/",
-      "date": "2026-06-22T16:50:26+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 25,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
       "summary": "Adopting AV1 for real-time communication at Meta has been a multi-year effort spanning codec selection, device eligibility, rate control, and error resilience. We’re sharing the technical and operational challenges while deploying AV1 and expanding coverage, and how we addressed them for real-time communication. We’re presenting several technologies for improving AV1 call quality, including rate c",
       "url": "https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/",
@@ -669,17 +693,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nairr.png"
     },
     {
-      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
-      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-      "date": "2026-06-22T13:00:20+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 5,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg"
-    },
-    {
       "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
       "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]",
       "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
@@ -691,6 +704,17 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/vera-cpu-lanl-1920x1080-1.jpg"
+    },
+    {
+      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
+      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "date": "2026-06-22T13:00:20+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 5,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg"
     },
     {
       "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -1393,28 +1417,6 @@
       "image": null
     },
     {
-      "title": "SAP Named a Strategic Leader in the 2026 Fosway 9-Grid™ for Talent Acquisition",
-      "summary": "This recognition reflects SAP’s broader vision for AI-driven, skills-based workforce orchestration.",
-      "url": "https://news.sap.com/2026/06/sap-strategic-leader-2026-fosway-9-grid-talent-acquisition/",
-      "date": "2026-06-15T13:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "New Research Reveals Growing Paradox at the Center of Business Travel",
-      "summary": "The value employees place on travel exists alongside mounting uncertainty.",
-      "url": "https://news.sap.com/2026/06/sap-concur-survey-reveals-growing-paradox-business-travel/",
-      "date": "2026-06-15T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
       "summary": "This week, New York City is hosting AWS Summit, bringing together builders, customers, and AWS teams for a full day of announcements, demos, and technical sessions at the Javits Center. I wrote blog posts for some of the Summit launches, so I am excited to see them go live this week. I just won’t be […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
@@ -1425,17 +1427,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Introducing the OpenAI Partner Network",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "date": "2026-06-14T17:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 5,
-      "tags": [],
       "image": null
     },
     {
