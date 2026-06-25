@@ -1,17 +1,76 @@
 {
-  "generated": "2026-06-24T18:47:48.594265+00:00",
+  "generated": "2026-06-25T00:04:29.317009+00:00",
   "sources": 21,
   "articles": [
     {
       "title": "The Rise of Sports Intelligence: How the Lakehouse Turns Tracking Data into Competitive Advantage",
       "summary": "Every second of a professional basketball game now generates more than 20,000 data...",
       "url": "https://www.databricks.com/blog/rise-sports-intelligence-how-lakehouse-turns-tracking-data-competitive-advantage",
-      "date": "2026-06-24T18:30:00+00:00",
+      "date": "2026-06-24T22:00:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 1,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 announces AMI Watermarks for improved AMI governance",
+      "summary": "Amazon EC2 introduces AMI watermarks, letting you embed custom identifiers in your private AMIs. Once applied, a watermark automatically carries forward to every AMI derived from the original, whether you copy it across regions or create a new AMI from a running instance. Watermarks also remain visible when you share an AMI with other accounts. This helps you identify trusted AMIs, track provenanc",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images",
+      "date": "2026-06-24T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A Deep Dive Into Slack and Salesforce Integrations for Salesforce Architects",
+      "summary": "Learn how to design Slack-to-Salesforce integrations for your Salesforce org, Agentforce agents, and Slackbot.",
+      "url": "https://www.salesforce.com/blog/slack-salesforce-integrations-architects/",
+      "date": "2026-06-24T19:55:52+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The Designer’s AI Glossary: Familiar Words, New Meanings",
+      "summary": "These terms help designers navigate the shift from interfaces to intelligent systems.",
+      "url": "https://www.salesforce.com/blog/the-designers-ai-glossary/",
+      "date": "2026-06-24T19:48:31+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EMR Serverless now supports live configuration updates without application restarts",
+      "summary": "Amazon EMR Serverless now supports updates to key application configurations such as maximum capacity, and custom image settings — without stopping and restarting the application. New workloads submitted after the update automatically use the new settings, while existing workloads continue uninterrupted with their original configuration. Previously, modifying these settings required stopping your ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-emr-serverless/",
+      "date": "2026-06-24T19:21:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS IoT Device SDK for Swift is now generally available",
+      "summary": "The AWS IoT Device SDK for Swift is now generally available, enabling Swift developers to build secure, scalable IoT applications natively on Apple platforms including macOS, iOS, and tvOS, as well as Linux. This SDK addresses the previous lack of native Swift support for AWS IoT services, providing stable, production-ready APIs specifically designed for teams managing IoT device fleets and buildi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-device-sdk-swift/",
+      "date": "2026-06-24T18:48:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "developer"
       ],
       "image": null
     },
@@ -313,20 +372,6 @@
       "image": null
     },
     {
-      "title": "From insight to action: The next phase of agentic cloud operations",
-      "summary": "What if your cloud environment could help you move from insight to action in real time, with systems already working through the next set of decisions? The post From insight to action: The next phase of agentic cloud operations appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
-      "date": "2026-06-23T15:45:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Amazon CloudWatch launches OTel Container Insights for Amazon EKS",
       "summary": "CloudWatch OTel Container Insights for Amazon EKS collects infrastructure metrics at 30-second granularity using open-source receivers including cAdvisor, Kube State Metrics, and NVIDIA DCGM. Each metric carries OpenTelemetry semantic conventions and Kubernetes labels, making it straightforward to correlate across nodes, pods, and workloads in a single PromQL query. Pre-built dashboards give you i",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-amazon-eks/",
@@ -480,19 +525,6 @@
       "image": null
     },
     {
-      "title": "Amazon OpenSearch Service now offers AI-assisted migrations",
-      "summary": "Migration Assistant for Amazon OpenSearch Service now includes an AI-assisted experience that simplifies moving your self-managed Apache Solr, Elasticsearch, or OpenSearch deployments to OpenSearch Serverless or Managed Clusters. With the new assistant, you can use your preferred AI tools like Kiro, Claude Code, and others to plan a migration, deploy necessary infrastructure, and execute both hist",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-opensearch-service-ai-migrations",
-      "date": "2026-06-23T03:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 17,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "How Omio is building the future of conversational travel",
       "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "url": "https://openai.com/index/omio",
@@ -514,17 +546,6 @@
       "tags": [
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "AWS HealthOmics now supports Nextflow profiles",
-      "summary": "AWS HealthOmics now supports Nextflow profiles, enabling customers to activate predefined execution settings at run time. Nextflow profiles allow customers to define reusable settings and select them at the point of execution, making it easy to switch between execution settings without modifying workflow source code. AWS HealthOmics is a HIPAA-eligible service that helps healthcare and life scienc",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-profiles/",
-      "date": "2026-06-22T22:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [],
       "image": null
     },
     {
@@ -669,28 +690,6 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/eco-wave-1920x1080-1.jpg"
-    },
-    {
-      "title": "Smarter Staffing, Better Coaching: Introducing Agentforce Contact Center Workforce Engagement Management",
-      "summary": "Help supervisors optimize capacity, develop service rep skills, and gain visibility into every customer interaction — unifying workforce management for AI agents and human service reps.",
-      "url": "https://www.salesforce.com/blog/workforce-engagement-management-agentforce-contact-center/",
-      "date": "2026-06-22T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Best Invoicing Solutions For Small Business",
-      "summary": "The right invoicing tools can help you get paid faster — here's what to look for and where to start.",
-      "url": "https://www.salesforce.com/blog/small-business/best-invoicing-solutions-for-smbs/",
-      "date": "2026-06-22T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Innovation Beyond the Sky: How Airbus Is Redefining the Future of Flight",
@@ -1727,6 +1726,20 @@
       "relevance": 13,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
+      "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
+      "date": "2026-05-29T14:46:32+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
     },
     {
       "title": "Check out real-life AI prototypes from the Futures Lab.",
