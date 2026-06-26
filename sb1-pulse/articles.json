@@ -1,7 +1,18 @@
 {
-  "generated": "2026-06-26T08:27:28.956708+00:00",
+  "generated": "2026-06-26T13:06:59.744651+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "AI Agents to Take Over 100,000 Manual Order Confirmations at Lemvigh‑Müller",
+      "summary": "The Danish wholesaler shows how AI can be embedded directly into core business processes rather than remaining a disconnected experiment.",
+      "url": "https://news.sap.com/2026/06/lemvigh-muller-ai-agents-order-confirmations/",
+      "date": "2026-06-26T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
       "summary": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks appeared first on The GitHub Blog .",
@@ -450,20 +461,6 @@
       "category": "databricks",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "What $5 Billion in Penalties Can Teach Us About AI Guardrails",
-      "summary": "Global regulators issued $542 million in fines in Q1 2026 alone across 19 regulators worldwide (and those are just the actions above $1 million). Data privacy breaches, systems and controls failures, and AML…",
-      "url": "https://www.salesforce.com/blog/financial-services-ai-guardrails/",
-      "date": "2026-06-23T18:26:39+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 14,
-      "tags": [
-        "security",
-        "data"
-      ],
       "image": null
     },
     {
@@ -1413,19 +1410,6 @@
       "relevance": 25,
       "tags": [
         "ai",
-        "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
-      "summary": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelerating researchers and developers building multilingual AI with a new open dataset appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
-      "date": "2026-06-15T19:17:30+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 3,
-      "tags": [
         "developer"
       ],
       "image": null
