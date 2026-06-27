@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-27T17:57:24.506214+00:00",
+  "generated": "2026-06-27T23:57:15.885011+00:00",
   "sources": 21,
   "articles": [
     {
@@ -1750,17 +1750,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Introducing Microsoft 365 Business with Copilot: The new standard for small business",
-      "summary": "On July 1, we're introducing new Microsoft 365 SKUs with Copilot built-in, designed to fit into the way small businesses already work. The post Introducing Microsoft 365 Business with Copilot: The new standard for small business appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/",
-      "date": "2026-05-28T19:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 12,
-      "tags": [],
-      "image": null
     }
   ]
 }
