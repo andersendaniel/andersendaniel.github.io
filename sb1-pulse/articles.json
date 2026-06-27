@@ -1,7 +1,18 @@
 {
-  "generated": "2026-06-27T07:44:51.623252+00:00",
+  "generated": "2026-06-27T12:05:53.938435+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "The API Security Myth That’s Putting Your Data at Risk",
+      "summary": "Why source validation gives a false sense of security, and what actually protects your APIs.",
+      "url": "https://www.salesforce.com/blog/api-security-myth/",
+      "date": "2026-06-27T09:46:39+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "How Databricks is turning video into searchable, actionable intelligence",
       "summary": "A utility company deploys drones to inspect hundreds of miles of power lines. A police...",
@@ -320,17 +331,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-25-no-copy-kv-1536x920-1.jpg"
     },
     {
-      "title": "Copilot in Excel: Built for the era of Frontier Finance",
-      "summary": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice. The post Copilot in Excel: Built for the era of Frontier Finance appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
-      "date": "2026-06-25T13:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "10 Field Service Features Your SMB Needs Today",
       "summary": "From smart scheduling to AI automation, field service tools help small teams compete with enterprise operations.",
       "url": "https://www.salesforce.com/blog/small-business/field-service-features-for-smbs/",
@@ -464,17 +464,6 @@
       "date": "2026-06-24T20:00:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "A Deep Dive Into Slack and Salesforce Integrations for Salesforce Architects",
-      "summary": "Learn how to design Slack-to-Salesforce integrations for your Salesforce org, Agentforce agents, and Slackbot.",
-      "url": "https://www.salesforce.com/blog/slack-salesforce-integrations-architects/",
-      "date": "2026-06-24T19:55:52+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -622,20 +611,6 @@
       "relevance": 2,
       "tags": [
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "From insight to action: The next phase of agentic cloud operations",
-      "summary": "What if your cloud environment could help you move from insight to action in real time, with systems already working through the next set of decisions? The post From insight to action: The next phase of agentic cloud operations appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
-      "date": "2026-06-23T15:45:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
-      "tags": [
-        "ai",
-        "cloud"
       ],
       "image": null
     },
@@ -1761,6 +1736,20 @@
       "relevance": 13,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
+      "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
+      "date": "2026-05-29T14:46:32+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
     },
     {
       "title": "Check out real-life AI prototypes from the Futures Lab.",
