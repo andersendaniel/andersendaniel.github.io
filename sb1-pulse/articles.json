@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-27T12:05:53.938435+00:00",
+  "generated": "2026-06-27T17:57:24.506214+00:00",
   "sources": 21,
   "articles": [
     {
@@ -331,17 +331,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-25-no-copy-kv-1536x920-1.jpg"
     },
     {
-      "title": "10 Field Service Features Your SMB Needs Today",
-      "summary": "From smart scheduling to AI automation, field service tools help small teams compete with enterprise operations.",
-      "url": "https://www.salesforce.com/blog/small-business/field-service-features-for-smbs/",
-      "date": "2026-06-25T12:30:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 9,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
       "summary": "The push for sovereign AI data centers in Europe reflects a shift in how IT infrastructure is perceived.",
       "url": "https://news.sap.com/2026/06/sovereign-data-ai-infrastructure-europe/",
@@ -611,6 +600,20 @@
       "relevance": 2,
       "tags": [
         "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "From insight to action: The next phase of agentic cloud operations",
+      "summary": "What if your cloud environment could help you move from insight to action in real time, with systems already working through the next set of decisions? The post From insight to action: The next phase of agentic cloud operations appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
+      "date": "2026-06-23T15:45:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [
+        "ai",
+        "cloud"
       ],
       "image": null
     },
@@ -1738,20 +1741,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"
     },
     {
-      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
-      "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
-      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
-      "date": "2026-05-29T14:46:32+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 19,
-      "tags": [
-        "ai",
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "Check out real-life AI prototypes from the Futures Lab.",
       "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
@@ -1772,28 +1761,6 @@
       "relevance": 12,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "Introducing a new design for Microsoft 365 Copilot",
-      "summary": "We’ve redesigned the Copilot app and how Copilot shows up across Microsoft 365 apps to better move with it: cleaner, faster, and in the flow of your work. The post Introducing a new design for Microsoft 365 Copilot appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/",
-      "date": "2026-05-28T15:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 12,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Catch up on 12 major I/O 2026 moments",
-      "summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "date": "2026-05-28T15:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"
     }
   ]
 }
