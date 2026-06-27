@@ -1,7 +1,42 @@
 {
-  "generated": "2026-06-26T18:27:04.946955+00:00",
+  "generated": "2026-06-27T00:00:34.555851+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How Databricks is turning video into searchable, actionable intelligence",
+      "summary": "A utility company deploys drones to inspect hundreds of miles of power lines. A police...",
+      "url": "https://www.databricks.com/blog/how-databricks-turning-video-searchable-actionable-intelligence",
+      "date": "2026-06-26T20:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A Decision Framework for ETL Migration to Databricks",
+      "summary": "Your team has hundreds of stored procedures, a couple of schedulers, permissions...",
+      "url": "https://www.databricks.com/blog/decision-framework-etl-migration-databricks",
+      "date": "2026-06-26T20:20:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "How the English Office for Students leverages Databricks to enhance higher education standards and drive better student outcomes",
+      "summary": "8 hours → minutes | Processing time for a 300-million-record data job after moving...",
+      "url": "https://www.databricks.com/blog/how-english-office-students-leverages-databricks-enhance-higher-education-standards-and-drive",
+      "date": "2026-06-26T20:15:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Build Faster, Sell Smarter: The B2C Commerce June ’26 Release",
       "summary": "The June 2026 release is the largest, most impactful update yet for Agentforce Commerce. As agentic AI transforms business operations and consumer behaviors, we’re rolling out major innovations to help digital teams meet…",
@@ -51,6 +86,19 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "Amazon EC2 R8g instances now available in additional regions",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in AWS Asia Pacific (Thailand, New Zealand), AWS Africa (Cape Town), AWS Europe (Milan), and AWS Canada West (Calgary) regions. These instances are powered by AWS Graviton4 processors and deliver up to 30% better performance compared to AWS Graviton3-based instances. Amazon EC2 R8g instances are ideal for memory-",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/",
+      "date": "2026-06-26T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
     },
     {
       "title": "AI Agents to Take Over 100,000 Manual Order Confirmations at Lemvigh‑Müller",
@@ -309,6 +357,33 @@
       "image": null
     },
     {
+      "title": "What To Look For in a Serverless Database for AI Applications",
+      "summary": "For teams building AI applications today, serverless databases are the new baseline....",
+      "url": "https://www.databricks.com/blog/serverless-database",
+      "date": "2026-06-25T11:07:15+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "What Is Serverless PostgreSQL?",
+      "summary": "Serverless PostgreSQL (Postgres) is a fully managed cloud database model that decouples compute and storage...",
+      "url": "https://www.databricks.com/blog/what-is-serverless-postgres",
+      "date": "2026-06-25T08:37:07+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 7,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Amazon RDS Custom now supports the latest CU and GDR updates for Microsoft SQL Server",
       "summary": "Amazon Relational Database Service (Amazon RDS) Custom for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for SQL Server 2019 CU32+GDR KB5090407 (RDS version 15.00.4470.1.v1) and SQL Server 2022 CU25 KB5081477 (RDS version 15.00.4255.1.v1). The GDR updates address vulnerabilities desc",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-custom-supports-latest-cu-gdr-updates-microsoft-sql-server",
@@ -394,17 +469,6 @@
       "image": null
     },
     {
-      "title": "The Designer’s AI Glossary: Familiar Words, New Meanings",
-      "summary": "These terms help designers navigate the shift from interfaces to intelligent systems.",
-      "url": "https://www.salesforce.com/blog/the-designers-ai-glossary/",
-      "date": "2026-06-24T19:48:31+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon EMR Serverless now supports live configuration updates without application restarts",
       "summary": "Amazon EMR Serverless now supports updates to key application configurations such as maximum capacity, and custom image settings — without stopping and restarting the application. New workloads submitted after the update automatically use the new settings, while existing workloads continue uninterrupted with their original configuration. Previously, modifying these settings required stopping your ",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-emr-serverless/",
@@ -414,19 +478,6 @@
       "relevance": 4,
       "tags": [
         "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS IoT Device SDK for Swift is now generally available",
-      "summary": "The AWS IoT Device SDK for Swift is now generally available, enabling Swift developers to build secure, scalable IoT applications natively on Apple platforms including macOS, iOS, and tvOS, as well as Linux. This SDK addresses the previous lack of native Swift support for AWS IoT services, providing stable, production-ready APIs specifically designed for teams managing IoT device fleets and buildi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-device-sdk-swift/",
-      "date": "2026-06-24T18:48:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "developer"
       ],
       "image": null
     },
@@ -518,17 +569,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-tech-blog-aws-1920x1080-2.jpg"
     },
     {
-      "title": "Genesis Workbench: A blueprint for industry AI in life sciences, powered by Databricks and NVIDIA",
-      "summary": "Bringing GPU-accelerated drug discovery to your dataLife sciences leaders need domain-specific,...",
-      "url": "https://www.databricks.com/blog/genesis-workbench-blueprint-industry-ai-life-sciences-powered-databricks-and-nvidia",
-      "date": "2026-06-23T18:45:12+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
       "url": "https://openai.com/index/gpt-5-immunology-mystery",
@@ -571,20 +611,6 @@
       "relevance": 2,
       "tags": [
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "From insight to action: The next phase of agentic cloud operations",
-      "summary": "What if your cloud environment could help you move from insight to action in real time, with systems already working through the next set of decisions? The post From insight to action: The next phase of agentic cloud operations appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
-      "date": "2026-06-23T15:45:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
-      "tags": [
-        "ai",
-        "cloud"
       ],
       "image": null
     },
@@ -633,52 +659,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Guide to Agentic Systems and AI Agents",
-      "summary": "Agentic AI is a class of artificial intelligence in which software systems autonomously plan, execute...",
-      "url": "https://www.databricks.com/blog/agentic-systems-guide",
-      "date": "2026-06-23T09:53:35+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 30,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Top 10 AI Business Solutions Driving Company Growth",
-      "summary": "The question most business leaders are asking today isn't whether to adopt AI. It's...",
-      "url": "https://www.databricks.com/blog/ai-business-solutions",
-      "date": "2026-06-23T09:21:26+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "End-to-End RAG Workflow: How Retrieval Augmented Generation Works",
-      "summary": "Retrieval Augmented Generation (RAG) is an AI architecture pattern that connects...",
-      "url": "https://www.databricks.com/blog/rag-workflow",
-      "date": "2026-06-23T09:05:56+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "What is Vector Search?",
-      "summary": "Vector search is a search technique that finds results based on meaning, not just...",
-      "url": "https://www.databricks.com/blog/vector-search",
-      "date": "2026-06-23T08:51:49+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1756,6 +1736,20 @@
       "relevance": 13,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
+      "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
+      "date": "2026-05-29T14:46:32+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
     },
     {
       "title": "Check out real-life AI prototypes from the Futures Lab.",
