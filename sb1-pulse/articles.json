@@ -1,7 +1,53 @@
 {
-  "generated": "2026-06-29T09:23:42.797432+00:00",
+  "generated": "2026-06-29T14:44:25.413240+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "OMV’s Approach to Data-Driven Workforce Decisions",
+      "summary": "OMV uses the People Intelligence solution in SAP BDC to spot workforce composition patterns and move talent where it’s needed.",
+      "url": "https://news.sap.com/2026/06/omv-data-driven-workforce-decisions/",
+      "date": "2026-06-29T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How SAP Customers Are Simplifying Software Expansion with SAP Store",
+      "summary": "The hardest part of buying enterprise software isn't finding it. It's what happens between finding the right solution and getting access to it.",
+      "url": "https://news.sap.com/2026/06/how-customers-simplify-software-expansion-sap-store/",
+      "date": "2026-06-29T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+      "summary": "Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership. In 1969, DARPA connected four university computers — from UCLA, Stanford, UCSB […]",
+      "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
+      "date": "2026-06-29T10:59:38+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 4,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/open-source-software-crop1-scaled.png"
+    },
+    {
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "date": "2026-06-29T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
@@ -305,17 +351,6 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Celebrating Innovation: The 2027 Salesforce Partner Awards",
-      "summary": "Partners are at the heart of everything we do at Salesforce. The pace of innovation has never been faster, and global enterprises are turning to our ecosystem to turn technology into real measurable…",
-      "url": "https://www.salesforce.com/blog/salesforce-partner-awards-2027/",
-      "date": "2026-06-25T16:25:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -884,17 +919,6 @@
       "image": null
     },
     {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "url": "https://openai.com/index/patch-the-planet",
-      "date": "2026-06-22T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Daybreak: Tools for securing every organization in the world",
       "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -905,6 +929,17 @@
       "tags": [
         "security"
       ],
+      "image": null
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "date": "2026-06-22T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
       "image": null
     },
     {
@@ -1133,17 +1168,6 @@
       "image": null
     },
     {
-      "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
-      "summary": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem […]",
-      "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
-      "date": "2026-06-18T06:00:59+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 19,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/5383050-vivatech26-digital-nv-blog-image-1920x1080-1.jpg"
-    },
-    {
       "title": "Getting more from each token: How Copilot improves context handling and model routing",
       "summary": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
@@ -1296,17 +1320,6 @@
       "image": null
     },
     {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "date": "2026-06-17T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Scaling the UK government’s AI vision",
       "summary": "An abstract digital design of four angled, colorful rounded capsule shapes and a small sphere over a black background.",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/",
@@ -1413,17 +1426,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Early Talent Hiring and Development: Now’s the Moment for a Major Reset",
-      "summary": "How will organizations attract and develop the AI-native workforce they’ll need tomorrow when entry-level roles are shrinking today?",
-      "url": "https://news.sap.com/2026/06/early-talent-hiring-and-development-major-reset/",
-      "date": "2026-06-16T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
