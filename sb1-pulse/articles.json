@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-29T19:01:29.103415+00:00",
+  "generated": "2026-06-29T23:58:42.525452+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "AWS WAF adds support for Amazon Bedrock AgentCore Gateway",
+      "summary": "Today, AWS announces general availability of AWS Web Application Firewall (AWS WAF) protection for Amazon Bedrock AgentCore Gateway, enabling you to protect your agentic AI workloads from common web exploits and abuse. As enterprises move agentic applications from prototype to production, this launch gives security and platform teams ability to apply consistent, customizable web protections at the",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-amazon-bedrock-agentcore/",
+      "date": "2026-06-29T22:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 31,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Why the Data Platform Determines Legal AI Outcomes",
+      "summary": "A data-platform-centric approach — not a smarter model — is what helps make legal AI governed, context-aware and compounding in institutional intelligence.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/data-platform-legal-ai-outcomes",
+      "date": "2026-06-29T19:25:35+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 8,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Highlights from Git 2.55",
       "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog .",
@@ -12,6 +36,19 @@
       "relevance": 1,
       "tags": [
         "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon MWAA Serverless now supports shared VPC configurations",
+      "summary": "Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Serverless now supports shared VPC subnets. Previously, customers using subnets shared via AWS Resource Access Manager (AWS RAM) received a validation error when creating MWAA Serverless workflows. With this update, MWAA Serverless correctly validates subnet ownership in shared VPC configurations, consistent with MWAA Provisioned environmen",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-vpc/",
+      "date": "2026-06-29T17:19:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 9,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -29,7 +66,7 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350.png"
     },
     {
-      "title": "AWS Weekly Roundup, Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
+      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
       "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I am […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
       "date": "2026-06-29T16:30:30+00:00",
@@ -135,6 +172,19 @@
       "relevance": 13,
       "tags": [
         "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon S3 server access logs now deliver to Amazon CloudWatch Logs and Amazon S3 Tables",
+      "summary": "Amazon S3 now supports delivering server access logs to Amazon CloudWatch Logs, giving you instant querying, alarms, cross-account and cross-Region aggregation, and AWS Key Management Service (KMS) encryption for your access log data. You can also mirror your logs to Amazon S3 Tables in Apache Iceberg format at no additional storage cost. These new delivery paths complement the existing free deliv",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-cloudwatch-logs-tables/",
+      "date": "2026-06-29T04:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -570,19 +620,6 @@
       "image": null
     },
     {
-      "title": "Amazon OpenSearch Ingestion now available in AWS Europe (Paris) Region",
-      "summary": "Starting today, customers can use Amazon OpenSearch Ingestion in the Europe (Paris) Region (eu-west-3) for ingesting data into their Amazon OpenSearch Service managed clusters or serverless collections. Amazon OpenSearch Ingestion is a fully managed data ingestion tier that allows you to ingest and process data before indexing it in Amazon OpenSearch managed clusters or serverless collections. Ama",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ingestion-europe-paris-region-availability",
-      "date": "2026-06-25T01:32:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 10,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "The Rise of Sports Intelligence: How the Lakehouse Turns Tracking Data into Competitive Advantage",
       "summary": "Every second of a professional basketball game now generates more than 20,000 data...",
       "url": "https://www.databricks.com/blog/rise-sports-intelligence-how-lakehouse-turns-tracking-data-competitive-advantage",
@@ -592,30 +629,6 @@
       "relevance": 1,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 announces AMI Watermarks for improved AMI governance",
-      "summary": "Amazon EC2 introduces AMI watermarks, letting you embed custom identifiers in your private AMIs. Once applied, a watermark automatically carries forward to every AMI derived from the original, whether you copy it across regions or create a new AMI from a running instance. Watermarks also remain visible when you share an AMI with other accounts. This helps you identify trusted AMIs, track provenanc",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images",
-      "date": "2026-06-24T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EMR Serverless now supports live configuration updates without application restarts",
-      "summary": "Amazon EMR Serverless now supports updates to key application configurations such as maximum capacity, and custom image settings — without stopping and restarting the application. New workloads submitted after the update automatically use the new settings, while existing workloads continue uninterrupted with their original configuration. Previously, modifying these settings required stopping your ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-emr-serverless/",
-      "date": "2026-06-24T19:21:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -631,6 +644,17 @@
         "ai",
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "What are Dashboards?",
+      "summary": "A dashboard is a visual interface that brings together key metrics, KPIs and data...",
+      "url": "https://www.databricks.com/blog/what-are-dashboards",
+      "date": "2026-06-24T17:15:07+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -654,20 +678,6 @@
       "relevance": 12,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Databricks positioned highest in execution and furthest in vision for the second consecutive year in Gartner Magic Quadrant",
-      "summary": "Enterprises are rapidly deploying agentic applications at scale, from back-office...",
-      "url": "https://www.databricks.com/blog/databricks-positioned-highest-execution-and-furthest-vision-second-consecutive-year-gartner",
-      "date": "2026-06-24T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [
-        "ai",
-        "automation"
       ],
       "image": null
     },
@@ -1467,19 +1477,6 @@
       "relevance": 13,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Snowflake Adaptive Compute Is Now Generally Available",
-      "summary": "Snowflake Adaptive Compute is now GA on AWS. Automate warehouse management, boost throughput and achieve better price-performance for demanding AI and data workloads.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/adaptive-compute-generally-available",
-      "date": "2026-06-16T15:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 2,
-      "tags": [
-        "data"
       ],
       "image": null
     },
