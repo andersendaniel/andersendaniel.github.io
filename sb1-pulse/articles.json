@@ -1,7 +1,18 @@
 {
-  "generated": "2026-06-28T18:01:21.466295+00:00",
+  "generated": "2026-06-29T00:03:42.932240+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "date": "2026-06-28T17:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "The API Security Myth That’s Putting Your Data at Risk",
       "summary": "Why source validation gives a false sense of security, and what actually protects your APIs.",
@@ -1309,17 +1320,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleLondon_2_1.max-600x600.format-webp.webp"
     },
     {
-      "title": "Introducing LifeSciBench",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "date": "2026-06-17T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
       "summary": "Amazon S3 now lets you attach up to 1 GB of rich, mutable, and queryable context directly to your objects using annotations, purpose-built for AI agents and autonomous workflows that need to discover, understand, and act on data at scale without maintaining separate metadata systems.",
       "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
@@ -1719,17 +1719,6 @@
         "security"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
-    },
-    {
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "date": "2026-05-29T19:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp"
     }
   ]
 }
