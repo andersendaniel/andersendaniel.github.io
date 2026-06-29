@@ -1,7 +1,97 @@
 {
-  "generated": "2026-06-29T14:44:25.413240+00:00",
+  "generated": "2026-06-29T19:01:29.103415+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Highlights from Git 2.55",
+      "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog .",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-55/",
+      "date": "2026-06-29T17:25:25+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
+      "summary": "Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise innovation and becomes more autonomous, organizations need access to computing […]",
+      "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+      "date": "2026-06-29T17:00:19+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 43,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350.png"
+    },
+    {
+      "title": "AWS Weekly Roundup, Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
+      "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I am […]",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
+      "date": "2026-06-29T16:30:30+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
+      "summary": "The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help. The post Inside the Advisory Database and what happens when vulnerability volume breaks records appeared first on The GitHub Blog .",
+      "url": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/",
+      "date": "2026-06-29T16:10:20+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "date": "2026-06-29T16:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.",
+      "summary": "Google Meet's \"Take notes for me\" feature is available to Google AI Pro and Ultra subscribers in select languages.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/",
+      "date": "2026-06-29T16:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 14,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "B2B Commerce innovations: Headless flexibility and new agentic capabilities",
+      "summary": "B2B buyers now use an average of ten channels throughout their purchasing journey, according to McKinsey & Company, and they expect to switch between them seamlessly. Disconnected channels lead to messy handoffs between…",
+      "url": "https://www.salesforce.com/blog/b2b-commerce-innovations-june-26/",
+      "date": "2026-06-29T15:26:16+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
     {
       "title": "OMV’s Approach to Data-Driven Workforce Decisions",
       "summary": "OMV uses the People Intelligence solution in SAP BDC to spot workforce composition patterns and move talent where it’s needed.",
@@ -305,17 +395,6 @@
       "image": null
     },
     {
-      "title": "BACA Systems Runs Its Entire Business on Headless 360",
-      "summary": "How a 50-person robotics manufacturer replaced its ERP, saved $200k in fees, and unified every team on one platform.",
-      "url": "https://www.salesforce.com/blog/baca-systems-customer-story/",
-      "date": "2026-06-25T17:45:08+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon EC2 C8in instances are now available in additional regions",
       "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8in instances are available in the AWS US East (Ohio) and Europe (Ireland) regions. C8in instances are powered by custom, sixth generation Intel Xeon Scalable processors, available only on AWS. These instances feature the latest sixth generation AWS Nitro cards, delivering up to 43% higher performance compared to previous generation C6in i",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8in-ireland-ohio/",
@@ -388,6 +467,17 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-25-no-copy-kv-1536x920-1.jpg"
+    },
+    {
+      "title": "Copilot in Excel: Built for the era of Frontier Finance",
+      "summary": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice. The post Copilot in Excel: Built for the era of Frontier Finance appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+      "date": "2026-06-25T13:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [],
+      "image": null
     },
     {
       "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
@@ -1091,28 +1181,6 @@
       "image": null
     },
     {
-      "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
-      "summary": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands. At Cannes Lions, running […]",
-      "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
-      "date": "2026-06-18T13:00:43+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cannes-lions-featured-visual-still-1920x1080-1.jpg"
-    },
-    {
-      "title": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
-      "summary": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce NOW is making it easier than ever to get […]",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
-      "date": "2026-06-18T13:00:32+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/GFN_Thursday-June_18.jpg"
-    },
-    {
       "title": "Snowflake Launches Operations in Chile",
       "summary": "Chile has great potential when it comes to Snowflake’s mission: empowering every enterprise to achieve its full potential through data and AI. We're excited to announce we have initiated operations in Chile.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-operations-in-chile",
@@ -1165,19 +1233,6 @@
       "category": "openai",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Getting more from each token: How Copilot improves context handling and model routing",
-      "summary": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
-      "date": "2026-06-17T19:41:46+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 13,
-      "tags": [
-        "developer"
-      ],
       "image": null
     },
     {
@@ -1510,19 +1565,6 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
-      "summary": "AWS announces the availability of Claude Fable 5 on Amazon Bedrock and Claude Platform on AWS. Claude Fable 5 delivers Mythos-level capabilities available to all customers, with strong safeguards designed to make it safe for broader use.",
-      "url": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/",
-      "date": "2026-06-09T17:40:31+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 26,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     },
     {
       "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
