@@ -1,7 +1,18 @@
 {
-  "generated": "2026-06-29T23:58:42.525452+00:00",
+  "generated": "2026-06-30T08:25:29.604229+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "date": "2026-06-30T06:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp"
+    },
     {
       "title": "AWS WAF adds support for Amazon Bedrock AgentCore Gateway",
       "summary": "Today, AWS announces general availability of AWS Web Application Firewall (AWS WAF) protection for Amazon Bedrock AgentCore Gateway, enabling you to protect your agentic AI workloads from common web exploits and abuse. As enterprises move agentic applications from prototype to production, this launch gives security and platform teams ability to apply consistent, customizable web protections at the",
@@ -432,19 +443,6 @@
       "image": null
     },
     {
-      "title": "Trusted Agents at Scale: How Open Discovery Is Unifying the Agentic Enterprise",
-      "summary": "As a founding partner to the new Agentic Resource Discovery specification, Salesforce is helping shape the open standard that gives AI agents a universal way to find, trust, and invoke capabilities across any platform.",
-      "url": "https://www.salesforce.com/blog/open-discovery-agentic-enterprise/",
-      "date": "2026-06-25T17:59:36+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 18,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Amazon EC2 C8in instances are now available in additional regions",
       "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8in instances are available in the AWS US East (Ohio) and Europe (Ireland) regions. C8in instances are powered by custom, sixth generation Intel Xeon Scalable processors, available only on AWS. These instances feature the latest sixth generation AWS Nitro cards, delivering up to 43% higher performance compared to previous generation C6in i",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8in-ireland-ohio/",
@@ -517,17 +515,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-25-no-copy-kv-1536x920-1.jpg"
-    },
-    {
-      "title": "Copilot in Excel: Built for the era of Frontier Finance",
-      "summary": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice. The post Copilot in Excel: Built for the era of Frontier Finance appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
-      "date": "2026-06-25T13:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
@@ -946,17 +933,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nairr.png"
     },
     {
-      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
-      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-      "date": "2026-06-22T13:00:20+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 5,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg"
-    },
-    {
       "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
       "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]",
       "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
@@ -968,6 +944,17 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/vera-cpu-lanl-1920x1080-1.jpg"
+    },
+    {
+      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
+      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "date": "2026-06-22T13:00:20+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 5,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg"
     },
     {
       "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
