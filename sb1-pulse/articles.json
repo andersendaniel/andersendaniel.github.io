@@ -1,7 +1,174 @@
 {
-  "generated": "2026-07-01T13:32:10.958939+00:00",
+  "generated": "2026-07-01T18:57:01.745038+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Beyond dashboards: Introducing Decision Execution Platforms",
+      "summary": "Figure 1: Decision Execution Platforms by Databricks Forward Deployed EngineeringDecision...",
+      "url": "https://www.databricks.com/blog/beyond-dashboards-introducing-decision-execution-platforms",
+      "date": "2026-07-01T18:20:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The latest AI news we announced in June 2026",
+      "summary": "June Pixel Drop hero",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "date": "2026-07-01T18:15:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_AI_Recap_social.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
+      "summary": "Learn how Kubernetes version rollbacks for Amazon EKS let you reverse cluster upgrades within seven days. This new feature provides a safety net for upgrade failures—no cluster rebuilds required—turning Kubernetes version upgrades into a reversible, low-risk operation.",
+      "url": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
+      "date": "2026-07-01T17:20:30+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock AgentCore now available in four additional AWS Regions",
+      "summary": "Amazon Bedrock AgentCore is now available in four additional AWS Regions: Asia Pacific (Bangkok), Asia Pacific (Malaysia), Europe (Milan), and Europe (Spain). Amazon Bedrock AgentCore is the platform to build, connect, and optimize agents. It helps engineers ship agents fast with any framework and any model, connect them to enterprise systems and tools, and optimize them continuously, with securit",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-four-additional-regions/",
+      "date": "2026-07-01T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 23,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Snowflake Achieves HDS Certification in France, Helping Healthcare Organizations Accelerate Data and AI Innovation",
+      "summary": "Discover how Snowflake’s HDS certification enables healthcare organizations in France to securely host data and accelerate AI innovation. Learn more.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-hds-certification-france",
+      "date": "2026-07-01T16:17:52+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Meta’s AI Storage Blueprint at Scale",
+      "summary": "Over the past several years, model capabilities and training dataset sizes have experienced exponential growth. During the past year or so, the time between new-frontier-model releases has gone down from months to weeks. Reliable and fast access to storage is important to both the speed and computational cost of this AI innovation. If AI is [...] Read More... The post Meta’s AI Storage Blueprint a",
+      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+      "date": "2026-07-01T16:00:36+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 4,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EKS now supports Kubernetes version rollback",
+      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports Kubernetes version rollback , enabling you to revert to the previous Kubernetes minor version within 7 days if any issues arise after an upgrade. This provides an additional safety net for your upgrade workflow, allowing you to validate the new version under real production conditions and rollback if needed. You can initiate a rollback us",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-version-rollback",
+      "date": "2026-07-01T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 8,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "date": "2026-07-01T16:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jun 29 - Jul 3 Claude ",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "date": "2026-07-01T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 13,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "6 security settings every GitHub maintainer should enable this week",
+      "summary": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security settings every GitHub maintainer should enable this week appeared first on The GitHub Blog .",
+      "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
+      "date": "2026-07-01T15:59:29+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Managed Service for Prometheus achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud (US)",
+      "summary": "Amazon Managed Service for Prometheus is now FedRAMP High and Department of Defense Cloud Computing Security Requirements Guide (DoD CC SRG) Impact Level (IL) 4 and 5 authorized in the AWS GovCloud (US) Regions. Federal agencies, public sector organizations, and other enterprises with FedRAMP High and DoD CC SRG IL-4/5 compliance requirements can now use Amazon Managed Service for Prometheus to mo",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-fedramp-high/",
+      "date": "2026-07-01T15:43:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud",
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Forecasting at the speed of modern retail",
+      "summary": "Demand forecasting has always been at the center of retail and CPG planning. It shapes...",
+      "url": "https://www.databricks.com/blog/forecasting-speed-modern-retail",
+      "date": "2026-07-01T15:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Security Agent now available in Asia Pacific (Mumbai), Asia Pacific (Singapore), and South America (São Paulo)",
+      "summary": "Starting today, AWS Security Agent (now part of AWS Continuum ) is available in three additional AWS Regions: Asia Pacific (Mumbai), Asia Pacific (Singapore), and South America (São Paulo). Customers in these Regions can now access core capabilities of Security Agent to proactively secure their applications throughout the development lifecycle. With this expansion, customers gain access to STRIDE-",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-agent-asia-pacific/",
+      "date": "2026-07-01T15:26:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Navigating Risk: How Trusted Services Power a Modern GRC Strategy",
+      "summary": "Balance innovation with regulatory compliance by building a proactive Governance, Risk, and Compliance (GRC) framework.",
+      "url": "https://www.salesforce.com/blog/grc-strategy/",
+      "date": "2026-07-01T15:01:50+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "NVIDIA and Partners Build in America, for America",
       "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
@@ -258,31 +425,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/anthropic-nvidia.png"
     },
     {
-      "title": "Announcing Capability Insights for AWS, an open-source solution for regional capabilities",
-      "summary": "Today, AWS announces the launch of Capability Insights, an open-source solution that enables you to deploy regional capabilities data inside your own Amazon Virtual Private Cloud (VPC). This self-hosted dashboard addresses the needs of teams building multi-Region architectures requiring regional capabilities data deployed as infrastructure they own, inside their network, and under their governance",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/capability-insights-aws/",
-      "date": "2026-06-30T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker AI cuts generative AI inference scale-out time by up to half with automatic container image caching",
-      "summary": "Amazon SageMaker Inference now supports container image caching, enabling up to 2x faster end-to-end scaling for generative AI models during scale-out events. When your endpoint scales out, the service pre-caches your container image so new instances can start serving traffic faster, without waiting for large container images to be pulled from Amazon ECR. Generative AI workloads typically use larg",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/sagemakerai-inf-scale-out-time",
-      "date": "2026-06-30T16:31:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 15,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Architect Deterministic Conversational Flows with Agent Script",
       "summary": "Learn how deterministic state management helps qualification agents follow business rules, maintain context, and consistently collect required information.",
       "url": "https://www.salesforce.com/blog/architect-deterministic-conversational-flows-agent-script/",
@@ -291,19 +433,6 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Security Hub CSPM launches AI Security Best Practices standard with 31 automated controls",
-      "summary": "Today, AWS Security Hub CSPM announces the AI Security Best Practices standard, a set of 31 automated security controls that detect when your deployed AI resources do not align with security best practices. Developed by AWS security experts, this standard helps you continuously evaluate your Amazon Bedrock, Amazon Bedrock AgentCore, and Amazon SageMaker workloads against recommended security confi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-cspm-ai-security/",
-      "date": "2026-06-30T16:17:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -327,17 +456,6 @@
       "source": "Meta Engineering",
       "category": "meta",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "IAM Identity Center now enables programmatic AWS account access for customer managed applications",
-      "summary": "IAM Identity Center now enables customer managed applications to programmatically access AWS accounts on behalf of their users, including the ability to discover accounts and roles assigned to a user and retrieve temporary credentials required for AWS account access. If you have a customer managed application that authenticates users through an external identity provider (IdP), you can configure t",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iam-identity-center-account-access-customer-managed-apps/",
-      "date": "2026-06-30T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
       "tags": [],
       "image": null
     },
@@ -456,6 +574,17 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp"
     },
     {
+      "title": "Inside Genebench-Pro",
+      "summary": "",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "date": "2026-06-30T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Introducing GeneBench-Pro",
       "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "url": "https://openai.com/index/introducing-genebench-pro",
@@ -472,17 +601,6 @@
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "date": "2026-06-30T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Inside Genebench-Pro",
-      "summary": "",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
       "date": "2026-06-30T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -526,6 +644,19 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350.png"
+    },
+    {
+      "title": "Claude in Microsoft Foundry is now generally available",
+      "summary": "Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post Claude in Microsoft Foundry is now generally available appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
+      "date": "2026-06-29T17:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
     },
     {
       "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
@@ -592,6 +723,30 @@
       "image": null
     },
     {
+      "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
+      "summary": "At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI. The post The 2026 Agent Confidence Index: Where 300 builders see real momentum appeared first on Microsoft Azure Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
+      "date": "2026-06-29T15:15:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Accelerate modern Linux workloads with Azure Files",
+      "summary": "Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+      "date": "2026-06-29T15:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 7,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "OMV’s Approach to Data-Driven Workforce Decisions",
       "summary": "OMV uses the People Intelligence solution in SAP BDC to spot workforce composition patterns and move talent where it’s needed.",
       "url": "https://news.sap.com/2026/06/omv-data-driven-workforce-decisions/",
@@ -645,17 +800,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The API Security Myth That’s Putting Your Data at Risk",
-      "summary": "Why source validation gives a false sense of security, and what actually protects your APIs.",
-      "url": "https://www.salesforce.com/blog/api-security-myth/",
-      "date": "2026-06-27T09:46:39+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 3,
       "tags": [],
       "image": null
     },
@@ -719,19 +863,6 @@
         "developer"
       ],
       "image": null
-    },
-    {
-      "title": "What’s new with Google Cloud",
-      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jun 22 - Jun 26 Accele",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "date": "2026-06-26T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
       "title": "AI Agents to Take Over 100,000 Manual Order Confirmations at Lemvigh‑Müller",
@@ -892,31 +1023,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "How Daikin Applied Americas builds consistent data pipelines at scale with Genie Code",
-      "summary": "Agentic data engineering is changing how pipelines are builtDaikin Applied Americas...",
-      "url": "https://www.databricks.com/blog/how-daikin-applied-americas-builds-consistent-data-pipelines-scale-genie-code",
-      "date": "2026-06-24T18:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "ai",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "What are Dashboards?",
-      "summary": "A dashboard is a visual interface that brings together key metrics, KPIs and data...",
-      "url": "https://www.databricks.com/blog/what-are-dashboards",
-      "date": "2026-06-24T17:15:07+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1233,6 +1339,17 @@
       "image": null
     },
     {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "date": "2026-06-22T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Daybreak: Tools for securing every organization in the world",
       "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -1246,17 +1363,6 @@
       "image": null
     },
     {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "url": "https://openai.com/index/patch-the-planet",
-      "date": "2026-06-22T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Codex-maxxing for long-running work",
       "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
       "url": "https://openai.com/index/codex-maxxing-long-running-work",
@@ -1265,21 +1371,6 @@
       "category": "openai",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "How we built an internal data analytics agent",
-      "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
-      "date": "2026-06-19T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 18,
-      "tags": [
-        "ai",
-        "data",
-        "developer"
-      ],
       "image": null
     },
     {
@@ -1418,19 +1509,6 @@
       "image": null
     },
     {
-      "title": "Agentic AI in Healthcare: 10 Questions for Leaders",
-      "summary": "Explore 10 strategic questions healthcare and life sciences leaders should ask before scaling AI agents in production, from data readiness and governance to cost and collaboration.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agents-healthcare-leadership-questions",
-      "date": "2026-06-17T16:00:38+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 27,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
       "summary": "Amazon Bedrock's new Fully Managed Knowledge Bases simplifies building enterprise RAG pipelines by providing native data connectors Smart Parsing for automatic multi-format data preparation, and an Agentic Retriever for complex multi-step queries—all integrated with AgentCore Gateway so developers can focus on business outcomes rather than infrastructure management.",
       "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
@@ -1507,17 +1585,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleLondon_2_1.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
-      "summary": "Amazon S3 now lets you attach up to 1 GB of rich, mutable, and queryable context directly to your objects using annotations, purpose-built for AI agents and autonomous workflows that need to discover, understand, and act on data at scale without maintaining separate metadata systems.",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
-      "date": "2026-06-16T23:13:10+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 18,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Unlocking UK house-building with AI-accelerated planning",
@@ -1747,57 +1814,6 @@
       "relevance": 1,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases",
-      "summary": "Microsoft Build 2026 highlights advancements in app development with Microsoft Fabric and Microsoft Databases, emphasizing a unified data and AI platform for scalable, agentic applications. The post Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/",
-      "date": "2026-06-02T16:59:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 3,
-      "tags": [
-        "ai",
-        "data"
-      ],
-      "image": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/4009252-OneLake-Foundry-Integration-Demo"
-    },
-    {
-      "title": "New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads",
-      "summary": "We are announcing the early access preview for Azure Cobalt 200 Arm-based Virtual Machines (VMs), designed for Linux-based agentic AI workloads. The post New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/",
-      "date": "2026-06-02T16:30:09+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval",
-      "summary": "Build smarter agents with Microsoft Foundry IQ, unifying enterprise and external data into a secure, scalable knowledge layer for faster, higher-quality answers. The post Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval appeared first on Microsoft Azure Blog .",
-      "url": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
-      "date": "2026-06-02T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 9,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "How we used Gemini to build Google I/O 2026",
-      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "date": "2026-06-01T16:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 13,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp"
     }
   ]
 }
