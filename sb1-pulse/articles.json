@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-01T00:02:56.154619+00:00",
+  "generated": "2026-07-01T08:46:53.476385+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Snowflake Marketplace Partners Earn $100M in the First Half of 2026",
+      "summary": "Snowflake Marketplace partners have earned $100M+ in revenue — 277% YoY growth — as they expand offerings across AI agents, Snowflake Native Apps and AI-ready data.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-marketplace-agentic-ai-growth",
+      "date": "2026-07-01T01:33:32+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
       "summary": "AWS CloudFormation speeds up infrastructure deployment with Express mode, enabling AI agents and developers to receive deployment confirmation in seconds and iterate faster. Available in all commercial Regions at no additional cost.",
@@ -495,19 +506,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350.png"
     },
     {
-      "title": "Claude in Microsoft Foundry is now generally available",
-      "summary": "Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post Claude in Microsoft Foundry is now generally available appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
-      "date": "2026-06-29T17:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
       "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I am […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
@@ -568,30 +566,6 @@
       "relevance": 13,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
-      "summary": "At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI. The post The 2026 Agent Confidence Index: Where 300 builders see real momentum appeared first on Microsoft Azure Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
-      "date": "2026-06-29T15:15:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Accelerate modern Linux workloads with Azure Files",
-      "summary": "Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
-      "date": "2026-06-29T15:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 7,
-      "tags": [
-        "data"
       ],
       "image": null
     },
@@ -1457,19 +1431,6 @@
       "image": null
     },
     {
-      "title": "Snowflake and the Agentic Resource Discovery Specification",
-      "summary": "Snowflake supports ARD, an open protocol developed with Microsoft to standardize how AI agents are cataloged, searched and discovered enterprise-wide.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-resource-discovery-specification",
-      "date": "2026-06-17T15:55:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 17,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
       "summary": "Amazon Bedrock's new Fully Managed Knowledge Bases simplifies building enterprise RAG pipelines by providing native data connectors Smart Parsing for automatic multi-format data preparation, and an Agentic Retriever for complex multi-step queries—all integrated with AgentCore Gateway so developers can focus on business outcomes rather than infrastructure management.",
       "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
@@ -1785,6 +1746,46 @@
       "category": "microsoft",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases",
+      "summary": "Microsoft Build 2026 highlights advancements in app development with Microsoft Fabric and Microsoft Databases, emphasizing a unified data and AI platform for scalable, agentic applications. The post Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/",
+      "date": "2026-06-02T16:59:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/4009252-OneLake-Foundry-Integration-Demo"
+    },
+    {
+      "title": "New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads",
+      "summary": "We are announcing the early access preview for Azure Cobalt 200 Arm-based Virtual Machines (VMs), designed for Linux-based agentic AI workloads. The post New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/",
+      "date": "2026-06-02T16:30:09+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval",
+      "summary": "Build smarter agents with Microsoft Foundry IQ, unifying enterprise and external data into a secure, scalable knowledge layer for faster, higher-quality answers. The post Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval appeared first on Microsoft Azure Blog .",
+      "url": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
+      "date": "2026-06-02T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 9,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
