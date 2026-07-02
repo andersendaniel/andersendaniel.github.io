@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-02T08:09:17.856682+00:00",
+  "generated": "2026-07-02T12:54:22.502064+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Extend Data 360 with the Power of Code: Introducing Code Extension",
+      "summary": "In the era of Agentforce and AI, data is the fuel behind intelligent customer experiences. Salesforce Data 360 has transformed how organizations unify and harmonize data using no-code and low-code tools. But as…",
+      "url": "https://www.salesforce.com/blog/extend-data-360-with-the-power-of-code-introducing-code-extension/",
+      "date": "2026-07-02T12:24:54+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 10,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "SAP and IBM Announce Client Momentum Across IBM Technology and SAP Cloud ERP Private to Drive AI Innovation",
+      "summary": "WALLDORF & ARMONK — Global enterprises are modernizing their ERP workloads.",
+      "url": "https://news.sap.com/2026/07/ibm-technology-sap-cloud-erp-private-client-momentum-ai-innovation/",
+      "date": "2026-07-02T12:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 7,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
       "summary": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly utilized and support the economics of token‑scale AI services. Emerging AI companies historically have",
@@ -1473,17 +1497,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "From Weeks to Minutes: How SAP Store Is Changing Enterprise Software Procurement",
-      "summary": "There is a version of enterprise software buying that sounds modern: a business team identifies a need, finds a solution, evaluates it quickly, buys it,...",
-      "url": "https://news.sap.com/2026/06/how-sap-store-is-changing-enterprise-software-procurement/",
-      "date": "2026-06-18T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 4,
       "tags": [],
       "image": null
     },
