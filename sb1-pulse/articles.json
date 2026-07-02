@@ -1,7 +1,29 @@
 {
-  "generated": "2026-07-02T00:02:58.668790+00:00",
+  "generated": "2026-07-02T08:09:17.856682+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
+      "summary": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly utilized and support the economics of token‑scale AI services. Emerging AI companies historically have",
+      "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
+      "date": "2026-07-02T03:34:48+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 3,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2025/03/nvendeavor-1.jpg"
+    },
+    {
+      "title": "I’m already using another vendor for AI. Why should I consider Salesforce?",
+      "summary": "Keep using the AI vendors you love. Here's how Salesforce helps you use them better.",
+      "url": "https://www.salesforce.com/blog/salesforce-with-ai-vendors/",
+      "date": "2026-07-02T00:43:44+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "How we keep GPUs reliable across Databricks AI",
       "summary": "Distributed GPU training has become routine across the industry. Teams now train...",
@@ -48,6 +70,30 @@
       "tags": [
         "cloud"
       ],
+      "image": null
+    },
+    {
+      "title": "ECS Service Connect now supports Zone-Aware routing",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) introduces zone-aware routing for ECS Service Connect, enabling customers to reduce cross Availability Zone (AZ) data transfer costs and latency by automatically prioritizing service-to-service traffic within the same AZ. With this launch, ECS Service Connect preferentially routes requests to endpoints in the same AZ as the originating task while dynam",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/",
+      "date": "2026-07-01T21:28:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now provides real-time deployment observability in the Amazon ECS Console. With this launch, customers can track deployment progress, monitor deployment health, and diagnose failures directly from the console, and understand exactly what is happening during a deployment, identify issues as they occur, and reduce the time it takes to troubleshoot and re",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-aws-management-console/",
+      "date": "2026-07-01T20:48:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
       "image": null
     },
     {
@@ -339,34 +385,6 @@
       "image": null
     },
     {
-      "title": "Amazon RDS for Db2 now supports self-managed Active Directory",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for Db2 now allows customers to directly join their RDS for Db2 DB instances to the domains of self-managed Microsoft Active Directory (AD). Self-managed AD can be on-premises, on AWS, or in another cloud. Customers use Kerberos as the authentication protocol to enable single sign-on for their database users. Previously, to use Kerberos authenticatio",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-db2-supports-self-managed-active-directory",
-      "date": "2026-07-01T07:28:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon OpenSearch Service optimized for log analytics",
-      "summary": "Today, Amazon OpenSearch Service introduces a new engine purpose-built for log analytics workloads, delivering up to 4x better price-performance on internal benchmarks. It combines this efficiency with the full-text search capabilities that OpenSearch is known for, so users can still run the ad hoc queries that incident investigation depends on. As log volumes grow with cloud-native architectures,",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-optimized-log-analytics",
-      "date": "2026-07-01T02:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Snowflake Marketplace Partners Earn $100M in the First Half of 2026",
       "summary": "Snowflake Marketplace partners have earned $100M+ in revenue — 277% YoY growth — as they expand offerings across AI agents, Snowflake Native Apps and AI-ready data.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-marketplace-agentic-ai-growth",
@@ -510,19 +528,6 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency",
-      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-      "date": "2026-06-30T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -774,19 +779,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "B2B Commerce innovations: Headless flexibility and new agentic capabilities",
-      "summary": "B2B buyers now use an average of ten channels throughout their purchasing journey, according to McKinsey & Company, and they expect to switch between them seamlessly. Disconnected channels lead to messy handoffs between…",
-      "url": "https://www.salesforce.com/blog/b2b-commerce-innovations-june-26/",
-      "date": "2026-06-29T15:26:16+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     },
     {
       "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
@@ -1327,19 +1319,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/hpc-corp-blog-isc26-julich-supercomputer-1280x680-5359150.png"
     },
     {
-      "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
-      "summary": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to the NAIRR pilot through a cloud-based resource that gives researchers dedicated access to a […]",
-      "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
-      "date": "2026-06-22T13:00:38+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nairr.png"
-    },
-    {
       "title": "Innovation Beyond the Sky: How Airbus Is Redefining the Future of Flight",
       "summary": "At Airbus, innovation is not a department, it’s a way of thinking.",
       "url": "https://news.sap.com/2026/06/innovation-how-airbus-is-redefining-future-of-flight/",
@@ -1825,6 +1804,20 @@
       "category": "microsoft",
       "relevance": 3,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Announcing Microsoft Discovery general availability and Microsoft Discovery app preview",
+      "summary": "At Microsoft Build, we are announcing that Microsoft Discovery is now generally available for all organizations, providing a comprehensive platform for building and governing agentic AI workflows. The post Announcing Microsoft Discovery general availability and Microsoft Discovery app preview appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/",
+      "date": "2026-06-02T18:15:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 18,
+      "tags": [
+        "ai",
+        "automation"
+      ],
       "image": null
     },
     {
