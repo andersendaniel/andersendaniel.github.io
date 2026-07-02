@@ -1,7 +1,62 @@
 {
-  "generated": "2026-07-02T12:54:22.502064+00:00",
+  "generated": "2026-07-02T18:23:41.630081+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "The 3 questions to answer to take AI from experimentation to impact",
+      "summary": "Companies are starting to see the potential of AI in their businesses. Today, 60%...",
+      "url": "https://www.databricks.com/blog/3-questions-answer-take-ai-experimentation-impact",
+      "date": "2026-07-02T17:04:19+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Inside the infrastructure strategies propelling AI leaders",
+      "summary": "AI adoption is starting to translate into real-world returns. But as efforts accelerate,...",
+      "url": "https://www.databricks.com/blog/inside-infrastructure-strategies-propelling-ai-leaders",
+      "date": "2026-07-02T16:47:56+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How GitHub used secret scanning to reach inbox zero",
+      "summary": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox zero appeared first on The GitHub Blog .",
+      "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
+      "date": "2026-07-02T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Config now supports 8 new resource types",
+      "summary": "AWS Config now supports 8 additional AWS resource types across key services including Amazon API Gateway, Amazon EC2, and Amazon S3 Vectors. This expansion provides greater coverage over your AWS environment, enabling you to more effectively discover, assess, audit, and remediate an even broader range of resources. With this launch, if you have enabled recording for all resource types, then AWS Co",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-new-resource-types",
+      "date": "2026-07-02T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Joyride Through July With 12 Games Coming to GeForce NOW",
+      "summary": "Summer is heating up — and GeForce NOW is taking players along for the ride. Start the month with Monopoly: Star Wars Heroes vs. Villains, bringing a galaxy far, far away to the iconic board-game franchise, alongside 12 new games joining the cloud this month. Plus, don’t let the sun set on the biggest GeForce […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/",
+      "date": "2026-07-02T13:00:23+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-2-blog-2048x1024-no-copy-logo.jpg"
+    },
     {
       "title": "Extend Data 360 with the Power of Code: Introducing Code Extension",
       "summary": "In the era of Agentforce and AI, data is the fuel behind intelligent customer experiences. Salesforce Data 360 has transformed how organizations unify and harmonize data using no-code and low-code tools. But as…",
@@ -38,7 +93,7 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2025/03/nvendeavor-1.jpg"
     },
     {
-      "title": "I’m already using another vendor for AI. Why should I consider Salesforce?",
+      "title": "I’m Already Using Another Vendor for AI. Why Should I Consider Salesforce?",
       "summary": "Keep using the AI vendors you love. Here's how Salesforce helps you use them better.",
       "url": "https://www.salesforce.com/blog/salesforce-with-ai-vendors/",
       "date": "2026-07-02T00:43:44+00:00",
@@ -93,19 +148,6 @@
       "relevance": 18,
       "tags": [
         "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "ECS Service Connect now supports Zone-Aware routing",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) introduces zone-aware routing for ECS Service Connect, enabling customers to reduce cross Availability Zone (AZ) data transfer costs and latency by automatically prioritizing service-to-service traffic within the same AZ. With this launch, ECS Service Connect preferentially routes requests to endpoints in the same AZ as the originating task while dynam",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/",
-      "date": "2026-07-01T21:28:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
       ],
       "image": null
     },
@@ -193,6 +235,17 @@
       "image": null
     },
     {
+      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now gives you more control over when a service deployment is considered failed and automatically rolled back. You can now customize deployment circuit breaker settings to match your application's startup behavior, deployment needs, and tolerance for task failures, so rollback works the way you need across different applications and environments. The EC",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/",
+      "date": "2026-07-01T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon RDS announces Cross-Region Automated Backups in four additional AWS Regions",
       "summary": "Cross-Region Automated Backup replication for Amazon RDS is now available in four additional AWS Regions. This launch allows you to setup automated backup replication between Mexico (Central) and Europe (Ireland) or US West (N. California); between Asia Pacific (Taipei) and Asia Pacific (Singapore) or Asia Pacific (Tokyo); between Asia Pacific (New Zealand) and Asia Pacific (Singapore), Asia Pacif",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-cross-region-automated-backups-additional-aws-regions/",
@@ -214,17 +267,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) now gives you more control over when a service deployment is considered failed and automatically rolled back. You can now customize deployment circuit breaker settings to match your application's startup behavior, deployment needs, and tolerance for task failures, so rollback works the way you need across different applications and environments. The EC",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/",
-      "date": "2026-07-01T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -288,6 +330,19 @@
       "relevance": 4,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Proving application resilience on Azure with Chaos Studio",
+      "summary": "Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production. The post Proving application resilience on Azure with Chaos Studio appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
+      "date": "2026-07-01T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -360,17 +415,6 @@
       "date": "2026-07-01T15:30:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Security Agent now available in Asia Pacific (Mumbai), Asia Pacific (Singapore), and South America (São Paulo)",
-      "summary": "Starting today, AWS Security Agent (now part of AWS Continuum ) is available in three additional AWS Regions: Asia Pacific (Mumbai), Asia Pacific (Singapore), and South America (São Paulo). Customers in these Regions can now access core capabilities of Security Agent to proactively secure their applications throughout the development lifecycle. With this expansion, customers gain access to STRIDE-",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-agent-asia-pacific/",
-      "date": "2026-07-01T15:26:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
       "relevance": 2,
       "tags": [],
       "image": null
@@ -555,6 +599,19 @@
       "image": null
     },
     {
+      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
+      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+      "date": "2026-06-30T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "What Google Cloud announced in AI this month",
       "summary": "Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. Our main focus in June was helping your teams build, scale, and secure AI. Today, we’re sharing a fresh roundup of updates designed to help you run smarter, more secure applications while keeping everything",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
@@ -621,17 +678,6 @@
       "relevance": 23,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nv-ov-ito-jun-1280x680-1.png"
-    },
-    {
-      "title": "Data Foundations For Startups: Quick Guide",
-      "summary": "Organize your data into a solid growth structure that supports your team.",
-      "url": "https://www.salesforce.com/blog/small-business/data-foundations-for-startups/",
-      "date": "2026-06-30T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation",
@@ -910,17 +956,6 @@
       "image": null
     },
     {
-      "title": "How the English Office for Students leverages Databricks to enhance higher education standards and drive better student outcomes",
-      "summary": "8 hours → minutes | Processing time for a 300-million-record data job after moving...",
-      "url": "https://www.databricks.com/blog/how-english-office-students-leverages-databricks-enhance-higher-education-standards-and-drive",
-      "date": "2026-06-26T20:15:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code",
       "summary": "Poor database performance is never just a database problem. In enterprise teams, it shows up as missed SLAs, delayed releases, frustrated development teams, and rising operational risk. The performance problem compounds further in business impact, often resulting in frustrated customers, retention and conversion risk, and lost revenue. The post The performance dividend: Optimizing PostgreSQL on Az",
       "url": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
@@ -993,19 +1028,6 @@
       "category": "meta",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "From test bench to lakehouse: how AVL modernizes measurement data analytics with Impulse",
-      "summary": "1. Introduction - Impulse: time-series analytics for measurement dataA single automotive...",
-      "url": "https://www.databricks.com/blog/test-bench-lakehouse-how-avl-modernizes-measurement-data-analytics-impulse",
-      "date": "2026-06-25T19:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -1283,19 +1305,6 @@
       "image": null
     },
     {
-      "title": "From pledge to practice: Building a more inclusive open source ecosystem",
-      "summary": "Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. The post From pledge to practice: Building a more inclusive open source ecosystem appeared first on The GitHub Blog .",
-      "url": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
-      "date": "2026-06-22T17:20:31+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
-      "tags": [
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
       "summary": "Adopting AV1 for real-time communication at Meta has been a multi-year effort spanning codec selection, device eligibility, rate control, and error resilience. We’re sharing the technical and operational challenges while deploying AV1 and expanding coverage, and how we addressed them for real-time communication. We’re presenting several technologies for improving AV1 call quality, including rate c",
       "url": "https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/",
@@ -1330,17 +1339,6 @@
       "relevance": 1,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
-      "summary": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects running on JUPITER point to what exascale computing can actually do: map the human […]",
-      "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
-      "date": "2026-06-22T13:00:48+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 4,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/hpc-corp-blog-isc26-julich-supercomputer-1280x680-5359150.png"
     },
     {
       "title": "Innovation Beyond the Sky: How Airbus Is Redefining the Future of Flight",
@@ -1807,42 +1805,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "AI alone won’t change your business. The system running it will.",
-      "summary": "We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack. The post AI alone won’t change your business. The system running it will. appeared first on Microsoft Azure Blog .",
-      "url": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
-      "date": "2026-06-02T19:15:57+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Announcing Microsoft Discovery general availability and Microsoft Discovery app preview",
-      "summary": "At Microsoft Build, we are announcing that Microsoft Discovery is now generally available for all organizations, providing a comprehensive platform for building and governing agentic AI workflows. The post Announcing Microsoft Discovery general availability and Microsoft Discovery app preview appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/",
-      "date": "2026-06-02T18:15:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 18,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "Announcing the new Work IQ APIs",
-      "summary": "Work IQ is a new intelligence layer for Microsoft 365, designed to understand how work gets done across your organizations. The post Announcing the new Work IQ APIs appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/announcing-the-new-work-iq-apis/",
-      "date": "2026-06-02T17:00:15+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     }
   ]
 }
