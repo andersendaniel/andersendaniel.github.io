@@ -1,7 +1,92 @@
 {
-  "generated": "2026-07-01T18:57:01.745038+00:00",
+  "generated": "2026-07-02T00:02:58.668790+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How we keep GPUs reliable across Databricks AI",
+      "summary": "Distributed GPU training has become routine across the industry. Teams now train...",
+      "url": "https://www.databricks.com/blog/how-we-keep-gpus-reliable-across-databricks-ai",
+      "date": "2026-07-01T23:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock AgentCore increases default runtime quota limits",
+      "summary": "Amazon Bedrock AgentCore has increased the default runtime quota limits, giving customers greater capacity to scale their agent-based workloads. AgentCore is the platform for developers to build, connect, and optimize AI agents. The new default limits support up to 5,000 active concurrent sessions in US East (N. Virginia) and US West (Oregon), and 2,500 in all other supported Regions. All AWS Regi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits/",
+      "date": "2026-07-01T22:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 27,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Celebrating the Winners of the 2026 Built-On Databricks Startup Challenge",
+      "summary": "We are excited to announce the winners of the 2026 Built-On Databricks Startup Challenge...",
+      "url": "https://www.databricks.com/blog/celebrating-winners-2026-built-databricks-startup-challenge",
+      "date": "2026-07-01T22:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch supports creating alarms from log queries",
+      "summary": "Amazon CloudWatch allows you to create alarms on log data using log queries, and get alerted on anomalies without leaving your log analysis workflow. With today's launch, you can configure an alarm on log query and specify the alarm threshold directly, thereby eliminating the need to first create metric filters or custom metrics as intermediate steps. This streamlines the path to actively monitori",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-log-alarms/",
+      "date": "2026-07-01T21:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 18,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Asking for a Friend: What’s the Difference Between Email Delivery and Email Deliverability?",
+      "summary": "We cut through the noise to explain these terms and the latest changes in the email space",
+      "url": "https://www.salesforce.com/blog/email-delivery-versus-deliverability/",
+      "date": "2026-07-01T20:25:16+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Artifact now includes Assurance Assistant for compliance inquiries",
+      "summary": "AWS Artifact now includes Assurance Assistant, an AI-powered capability that generates citation-backed responses to security and compliance questions about AWS services. AWS Artifact is the service through which AWS provides compliance reports, certifications, and agreements to customers. Assurance Assistant helps third-party risk managers, compliance officers, security engineers, and auditors acc",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-artifact-assurance-assistant/",
+      "date": "2026-07-01T20:01:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Granular Usage Attribution for dbt Pipelines with Query Tags",
+      "summary": "Your dbt project runs 80 models every night. The warehouse bill doubled last quarter....",
+      "url": "https://www.databricks.com/blog/granular-usage-attribution-dbt-pipelines-query-tags",
+      "date": "2026-07-01T19:23:01+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Beyond dashboards: Introducing Decision Execution Platforms",
       "summary": "Figure 1: Decision Execution Platforms by Databricks Forward Deployed EngineeringDecision...",
@@ -22,7 +107,7 @@
       "category": "google",
       "relevance": 1,
       "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_AI_Recap_social.max-600x600.format-webp.webp"
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp"
     },
     {
       "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
@@ -35,6 +120,17 @@
       "tags": [
         "cloud"
       ],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS announces Cross-Region Automated Backups in four additional AWS Regions",
+      "summary": "Cross-Region Automated Backup replication for Amazon RDS is now available in four additional AWS Regions. This launch allows you to setup automated backup replication between Mexico (Central) and Europe (Ireland) or US West (N. California); between Asia Pacific (Taipei) and Asia Pacific (Singapore) or Asia Pacific (Tokyo); between Asia Pacific (New Zealand) and Asia Pacific (Singapore), Asia Pacif",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-cross-region-automated-backups-additional-aws-regions/",
+      "date": "2026-07-01T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
       "image": null
     },
     {
@@ -51,6 +147,43 @@
       "image": null
     },
     {
+      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now gives you more control over when a service deployment is considered failed and automatically rolled back. You can now customize deployment circuit breaker settings to match your application's startup behavior, deployment needs, and tolerance for task failures, so rollback works the way you need across different applications and environments. The EC",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/",
+      "date": "2026-07-01T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon GuardDuty adds sensitive file modification threat detections",
+      "summary": "Amazon GuardDuty Runtime Monitoring now includes three new threat detections that alert security teams when sensitive files are modified on Amazon EC2 instances and container workloads running on Amazon EKS or Amazon ECS. These findings help identify post-compromise attacker activities by monitoring critical system files, including configuration files, authentication settings, and system logs. Thi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-sfm/",
+      "date": "2026-07-01T16:58:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS AppConfig launches managed experimentation tools for A/B testing",
+      "summary": "Today, AWS announces the general availability of experimentation tools in AWS AppConfig, a new capability that enables you to run A/B tests and feature experiments without building or managing separate experimentation infrastructure. Built on 25+ years of Amazon experimentation best practices, AWS AppConfig experimentation tools use AI-driven guidance to help you build robust experiments while pro",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/6/aws-appconfig-experimentation/",
+      "date": "2026-07-01T16:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "Snowflake Achieves HDS Certification in France, Helping Healthcare Organizations Accelerate Data and AI Innovation",
       "summary": "Discover how Snowflake’s HDS certification enables healthcare organizations in France to securely host data and accelerate AI innovation. Learn more.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-hds-certification-france",
@@ -59,6 +192,20 @@
       "category": "snowflake",
       "relevance": 3,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon ECS Express Mode now supports custom task definitions",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) Express Mode now supports custom task definitions, giving you the flexibility to use existing ECS application configurations and advanced task-level customizations with Express Mode’s simplified deployment experience. This also enables you to reuse task definitions from your existing CI/CD pipelines and infrastructure-as-code workflows, allowing you to",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-express-mode-custom-task-def/",
+      "date": "2026-07-01T16:05:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud",
+        "data"
+      ],
       "image": null
     },
     {
@@ -192,6 +339,34 @@
       "image": null
     },
     {
+      "title": "Amazon RDS for Db2 now supports self-managed Active Directory",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for Db2 now allows customers to directly join their RDS for Db2 DB instances to the domains of self-managed Microsoft Active Directory (AD). Self-managed AD can be on-premises, on AWS, or in another cloud. Customers use Kerberos as the authentication protocol to enable single sign-on for their database users. Previously, to use Kerberos authenticatio",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-db2-supports-self-managed-active-directory",
+      "date": "2026-07-01T07:28:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon OpenSearch Service optimized for log analytics",
+      "summary": "Today, Amazon OpenSearch Service introduces a new engine purpose-built for log analytics workloads, delivering up to 4x better price-performance on internal benchmarks. It combines this efficiency with the full-text search capabilities that OpenSearch is known for, so users can still run the ad hoc queries that incident investigation depends on. As log volumes grow with cloud-native architectures,",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-optimized-log-analytics",
+      "date": "2026-07-01T02:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Snowflake Marketplace Partners Earn $100M in the First Half of 2026",
       "summary": "Snowflake Marketplace partners have earned $100M+ in revenue — 277% YoY growth — as they expand offerings across AI agents, Snowflake Native Apps and AI-ready data.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-marketplace-agentic-ai-growth",
@@ -208,45 +383,6 @@
       "url": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
       "date": "2026-06-30T21:30:33+00:00",
       "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 15,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon CloudWatch Logs enriches log events with AWS resource tags",
-      "summary": "Amazon CloudWatch Logs now enriches log events with resource tags, making it easier to filter, search, and analyze logs by the metadata that matters most to your organization, such as team ownership, environment, cost center, or application name, without requiring changes to your logging instrumentation. With tag enrichment, Amazon CloudWatch Logs adds resource tags directly to your log events at ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-resource-tags/",
-      "date": "2026-06-30T21:15:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS CloudFormation and CDK accelerate development feedback loops with pre-deployment validation on all stack operations",
-      "summary": "AWS CloudFormation customers can now get immediate feedback on deployment errors in seconds, eliminating the need to wait through a full provision-and-rollback cycle to discover preventable failures. CloudFormation now runs pre-deployment validation on Create Stack and Update Stack operations, catching common deployment errors before resource provisioning begins. This accelerates development veloc",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation/",
-      "date": "2026-06-30T21:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x",
-      "summary": "AWS CloudFormation and CDK express mode reduces deployment time by up to 4x for developers and AI agents building infrastructure, based on internal benchmarks. Express mode completes stack operations when CloudFormation confirms resource configuration is applied, rather than waiting for extended stabilization checks such as traffic readiness, region propagation, and resource cleanup. This enables ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation-cdk/",
-      "date": "2026-06-30T21:00:00+00:00",
-      "source": "AWS What's New",
       "category": "aws",
       "relevance": 15,
       "tags": [
@@ -279,56 +415,6 @@
       "image": null
     },
     {
-      "title": "Amazon RDS Enhances IAM Database Authentication with Connection Rate Scaling",
-      "summary": "Amazon Relational Database Service (Amazon RDS) now offers dynamic connection scaling for IAM database authentication, allowing connection rates to scale with instance resources. IAM database authentication performance now scales with available instance resources, enabling enterprise workloads to leverage IAM authentication for high-volume connection patterns. The number of new IAM authentication ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-iam/",
-      "date": "2026-06-30T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Parallel Computing Service supports in-place Slurm major version upgrades",
-      "summary": "AWS Parallel Computing Service (PCS) now supports managed in-place Slurm version upgrades for existing clusters. You can move your clusters up to three Slurm major versions ahead with no disruption to running jobs. To upgrade, update your Cluster configuration with your target Slurm version using the AWS Management Console, AWS CLI, or UpdateCluster API. PCS handles the upgrade of all managed Slur",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service-upgrade/",
-      "date": "2026-06-30T19:12:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon ElastiCache T4g nodes now available in additional AWS Regions",
-      "summary": "Amazon ElastiCache now supports T4g node types in the following AWS Regions: Africa (Cape Town), Asia Pacific (Jakarta), Asia Pacific (Osaka), AWS GovCloud (US-East), and AWS GovCloud (US-West). T4g nodes are powered by AWS Graviton2 processors and provide a baseline level of CPU performance with the ability to burst CPU usage at any time, making them ideal for applications that experience tempora",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-elasticache-t4g-additional-aws-regions/",
-      "date": "2026-06-30T19:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Neptune announces dual stack support with IPv6",
-      "summary": "Amazon Neptune now supports dual-stack mode, enabling database clusters to accept connections over IPv4, IPv6, or both protocols simultaneously. This allows organizations to adopt IPv6 while maintaining backward compatibility with existing IPv4 deployments. Neptune dual-stack mode supports two configurations. Private dual-stack mode provides IPv6 endpoints that remain isolated from the internet, s",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-ipv6/",
-      "date": "2026-06-30T19:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Announcing Claude Sonnet 5 on Snowflake Cortex AI",
       "summary": "Claude Sonnet 5 is now available in private preview on Snowflake Cortex AI, bringing its advanced reasoning and agentic capabilities with Snowflake’s secure governed AI platform",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-sonnet-5-snowflake-cortex-ai",
@@ -339,17 +425,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "AWS End User Messaging RCS now supports rich media and interactive messaging",
-      "summary": "AWS End User Messaging now supports rich media and interactive messaging for RCS across all 22 supported countries. With the new SendRcsMessage API, you can send rich cards, carousels, images, videos, and interactive suggestion buttons that let recipients take action directly inside their messaging app. RCS message recipients can tap to confirm an appointment, browse a product catalog, complete a ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-end-user-messaging-rcs/",
-      "date": "2026-06-30T18:21:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -379,17 +454,6 @@
       "image": null
     },
     {
-      "title": "Announcing general availability of Amazon WorkSpaces for AI agents",
-      "summary": "Amazon WorkSpaces for agents is now generally available, enabling AI agents to securely access and operate desktop applications through managed WorkSpaces environments. Enterprises run critical business processes on desktop applications (ERP systems, CRMs, mainframes, and proprietary tools) where years of customization, undocumented logic, and strict compliance requirements make them too critical ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-ai/",
-      "date": "2026-06-30T17:28:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 17,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "What Does It Actually Look Like When AI Handles Order Servicing?",
       "summary": "There’s a lot of talk about how AI agents will transform order support, making the customer journey more enjoyable and reducing call center costs for businesses. But for many operations and customer service…",
       "url": "https://www.salesforce.com/blog/agentic-order-servicing/",
@@ -397,17 +461,6 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 Auto Scaling now supports reservations then balanced Availability Zone distribution",
-      "summary": "Amazon EC2 Auto Scaling now offers reservations-then-balanced, a new Availability Zone (AZ) distribution strategy that prioritizes launching instances into your capacity reservations before distributing remaining capacity evenly across Availability Zones. This enables you to maximize utilization of pre-purchased capacity such as On-Demand Capacity Reservations (ODCRs), Capacity Blocks, and Interru",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-auto-scaling-res-then-balanced/",
-      "date": "2026-06-30T17:09:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -457,6 +510,19 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency",
+      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+      "date": "2026-06-30T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -962,6 +1028,17 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-25-no-copy-kv-1536x920-1.jpg"
     },
     {
+      "title": "Copilot in Excel: Built for the era of Frontier Finance",
+      "summary": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice. The post Copilot in Excel: Built for the era of Frontier Finance appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+      "date": "2026-06-25T13:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
       "summary": "The push for sovereign AI data centers in Europe reflects a shift in how IT infrastructure is perceived.",
       "url": "https://news.sap.com/2026/06/sovereign-data-ai-infrastructure-europe/",
@@ -975,33 +1052,6 @@
       "image": null
     },
     {
-      "title": "What To Look For in a Serverless Database for AI Applications",
-      "summary": "For teams building AI applications today, serverless databases are the new baseline....",
-      "url": "https://www.databricks.com/blog/serverless-database",
-      "date": "2026-06-25T11:07:15+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "What Is Serverless PostgreSQL?",
-      "summary": "Serverless PostgreSQL (Postgres) is a fully managed cloud database model that decouples compute and storage...",
-      "url": "https://www.databricks.com/blog/what-is-serverless-postgres",
-      "date": "2026-06-25T08:37:07+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 7,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "How agents are transforming work",
       "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
       "url": "https://openai.com/index/how-agents-are-transforming-work",
@@ -1010,19 +1060,6 @@
       "category": "openai",
       "relevance": 14,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "The Rise of Sports Intelligence: How the Lakehouse Turns Tracking Data into Competitive Advantage",
-      "summary": "Every second of a professional basketball game now generates more than 20,000 data...",
-      "url": "https://www.databricks.com/blog/rise-sports-intelligence-how-lakehouse-turns-tracking-data-competitive-advantage",
-      "date": "2026-06-24T22:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -1788,20 +1825,6 @@
       "category": "microsoft",
       "relevance": 3,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Announcing Microsoft Discovery general availability and Microsoft Discovery app preview",
-      "summary": "At Microsoft Build, we are announcing that Microsoft Discovery is now generally available for all organizations, providing a comprehensive platform for building and governing agentic AI workflows. The post Announcing Microsoft Discovery general availability and Microsoft Discovery app preview appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/",
-      "date": "2026-06-02T18:15:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 18,
-      "tags": [
-        "ai",
-        "automation"
-      ],
       "image": null
     },
     {
