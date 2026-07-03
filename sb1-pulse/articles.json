@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-03T12:52:42.881667+00:00",
+  "generated": "2026-07-03T18:09:12.906015+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "What Does CRM Do That AI Can’t?",
+      "summary": "Why can’t AI just do what CRM does? Good question. Here are some answers for you.",
+      "url": "https://www.salesforce.com/blog/small-business/crm-and-ai/",
+      "date": "2026-07-03T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
       "summary": "Amazon SageMaker Unified Studio now supports Terraform for provisioning. Customers can use the open-source terraform-aws-sagemaker-unified-studio module to deploy a SageMaker Unified Studio domain through version-controlled templates. With this launch, platform teams can bring SageMaker Unified Studio into their existing infrastructure-as-code pipelines, maintaining consistency across development,",
@@ -58,6 +69,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Meet Brain: The AI system behind Azure reliability",
+      "summary": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind Azure reliability appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+      "date": "2026-07-02T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -285,6 +307,17 @@
       "image": null
     },
     {
+      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now gives you more control over when a service deployment is considered failed and automatically rolled back. You can now customize deployment circuit breaker settings to match your application's startup behavior, deployment needs, and tolerance for task failures, so rollback works the way you need across different applications and environments. The EC",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/",
+      "date": "2026-07-01T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon RDS announces Cross-Region Automated Backups in four additional AWS Regions",
       "summary": "Cross-Region Automated Backup replication for Amazon RDS is now available in four additional AWS Regions. This launch allows you to setup automated backup replication between Mexico (Central) and Europe (Ireland) or US West (N. California); between Asia Pacific (Taipei) and Asia Pacific (Singapore) or Asia Pacific (Tokyo); between Asia Pacific (New Zealand) and Asia Pacific (Singapore), Asia Pacif",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-cross-region-automated-backups-additional-aws-regions/",
@@ -306,17 +339,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) now gives you more control over when a service deployment is considered failed and automatically rolled back. You can now customize deployment circuit breaker settings to match your application's startup behavior, deployment needs, and tolerance for task failures, so rollback works the way you need across different applications and environments. The EC",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/",
-      "date": "2026-07-01T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -366,6 +388,19 @@
       "relevance": 4,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Proving application resilience on Azure with Chaos Studio",
+      "summary": "Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production. The post Proving application resilience on Azure with Chaos Studio appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
+      "date": "2026-07-01T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -560,17 +595,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/anthropic-nvidia.png"
     },
     {
-      "title": "Architect Deterministic Conversational Flows with Agent Script",
-      "summary": "Learn how deterministic state management helps qualification agents follow business rules, maintain context, and consistently collect required information.",
-      "url": "https://www.salesforce.com/blog/architect-deterministic-conversational-flows-agent-script/",
-      "date": "2026-06-30T16:18:45+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
       "summary": "",
       "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
@@ -592,6 +616,19 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
+      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+      "date": "2026-06-30T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -1682,20 +1719,6 @@
       "image": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo"
     },
     {
-      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
-      "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
-      "date": "2026-06-09T17:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 26,
-      "tags": [
-        "ai",
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
       "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
@@ -1753,30 +1776,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Lights Out, Systems On: Validating Instant Power Loss Readiness",
-      "summary": "We’re introducing Instantaneous PowerLoss Storm, a new testing paradigm within Meta’s infrastructure for handling and mitigating instant or zero-notice power loss in our data centers. We’re sharing: how we built readiness to tolerate instant failures into our existing systems with defense-in-depth strategies; tradeoffs made in implementing it, and how we validated our readiness. Disaster preparedn",
-      "url": "https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/",
-      "date": "2026-06-03T17:00:44+00:00",
-      "source": "Meta Engineering",
-      "category": "meta",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "date": "2026-06-03T13:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
     }
   ]
 }
