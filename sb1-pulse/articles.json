@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-03T07:57:44.287023+00:00",
+  "generated": "2026-07-03T12:52:42.881667+00:00",
   "sources": 21,
   "articles": [
     {
@@ -1036,6 +1036,17 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-25-no-copy-kv-1536x920-1.jpg"
+    },
+    {
+      "title": "Copilot in Excel: Built for the era of Frontier Finance",
+      "summary": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice. The post Copilot in Excel: Built for the era of Frontier Finance appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+      "date": "2026-06-25T13:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [],
+      "image": null
     },
     {
       "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
