@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-03T00:00:32.124459+00:00",
+  "generated": "2026-07-03T07:57:44.287023+00:00",
   "sources": 21,
   "articles": [
     {
@@ -59,6 +59,19 @@
       "category": "databricks",
       "relevance": 2,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports AMI versioning and auto-patching",
+      "summary": "Amazon SageMaker HyperPod now gives you visibility into the Amazon Machine Image (AMI) versions running across your clusters and automatically applies security patches without disrupting your workloads. SageMaker HyperPod is purpose-built infrastructure for training and deploying foundation models at scale. Cluster administrators previously had limited insight into which AMI versions were running,",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-hyperpod-ami-version-auto-patch",
+      "date": "2026-07-02T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 15,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -344,20 +357,6 @@
       "image": null
     },
     {
-      "title": "Amazon ECS Express Mode now supports custom task definitions",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) Express Mode now supports custom task definitions, giving you the flexibility to use existing ECS application configurations and advanced task-level customizations with Express Mode’s simplified deployment experience. This also enables you to reuse task definitions from your existing CI/CD pipelines and infrastructure-as-code workflows, allowing you to",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-express-mode-custom-task-def/",
-      "date": "2026-07-01T16:05:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Meta’s AI Storage Blueprint at Scale",
       "summary": "Over the past several years, model capabilities and training dataset sizes have experienced exponential growth. During the past year or so, the time between new-frontier-model releases has gone down from months to weeks. Reliable and fast access to storage is important to both the speed and computational cost of this AI innovation. If AI is [...] Read More... The post Meta’s AI Storage Blueprint a",
       "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
@@ -593,19 +592,6 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency",
-      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-      "date": "2026-06-30T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
