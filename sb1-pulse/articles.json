@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04T07:39:58.711332+00:00",
+  "generated": "2026-07-04T12:02:55.137771+00:00",
   "sources": 21,
   "articles": [
     {
@@ -69,6 +69,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Meet Brain: The AI system behind Azure reliability",
+      "summary": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind Azure reliability appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+      "date": "2026-07-02T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -296,17 +307,6 @@
       "image": null
     },
     {
-      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) now gives you more control over when a service deployment is considered failed and automatically rolled back. You can now customize deployment circuit breaker settings to match your application's startup behavior, deployment needs, and tolerance for task failures, so rollback works the way you need across different applications and environments. The EC",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/",
-      "date": "2026-07-01T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon RDS announces Cross-Region Automated Backups in four additional AWS Regions",
       "summary": "Cross-Region Automated Backup replication for Amazon RDS is now available in four additional AWS Regions. This launch allows you to setup automated backup replication between Mexico (Central) and Europe (Ireland) or US West (N. California); between Asia Pacific (Taipei) and Asia Pacific (Singapore) or Asia Pacific (Tokyo); between Asia Pacific (New Zealand) and Asia Pacific (Singapore), Asia Pacif",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-cross-region-automated-backups-additional-aws-regions/",
@@ -328,6 +328,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now gives you more control over when a service deployment is considered failed and automatically rolled back. You can now customize deployment circuit breaker settings to match your application's startup behavior, deployment needs, and tolerance for task failures, so rollback works the way you need across different applications and environments. The EC",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/",
+      "date": "2026-07-01T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -377,6 +388,19 @@
       "relevance": 4,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Proving application resilience on Azure with Chaos Studio",
+      "summary": "Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production. The post Proving application resilience on Azure with Chaos Studio appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
+      "date": "2026-07-01T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -595,8 +619,8 @@
       "image": null
     },
     {
-      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency",
-      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency appeared first on Microsoft Azure Blog .",
+      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
+      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog .",
       "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
       "date": "2026-06-30T16:00:00+00:00",
       "source": "Azure Blog",
@@ -1693,20 +1717,6 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
-      "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
-      "date": "2026-06-09T17:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 26,
-      "tags": [
-        "ai",
-        "developer"
-      ],
-      "image": null
     },
     {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
