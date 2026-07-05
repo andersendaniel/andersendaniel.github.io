@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T07:53:18.867073+00:00",
+  "generated": "2026-07-05T12:11:12.333153+00:00",
   "sources": 21,
   "articles": [
     {
@@ -307,17 +307,6 @@
       "image": null
     },
     {
-      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) now gives you more control over when a service deployment is considered failed and automatically rolled back. You can now customize deployment circuit breaker settings to match your application's startup behavior, deployment needs, and tolerance for task failures, so rollback works the way you need across different applications and environments. The EC",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/",
-      "date": "2026-07-01T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon RDS announces Cross-Region Automated Backups in four additional AWS Regions",
       "summary": "Cross-Region Automated Backup replication for Amazon RDS is now available in four additional AWS Regions. This launch allows you to setup automated backup replication between Mexico (Central) and Europe (Ireland) or US West (N. California); between Asia Pacific (Taipei) and Asia Pacific (Singapore) or Asia Pacific (Tokyo); between Asia Pacific (New Zealand) and Asia Pacific (Singapore), Asia Pacif",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-cross-region-automated-backups-additional-aws-regions/",
@@ -339,6 +328,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now gives you more control over when a service deployment is considered failed and automatically rolled back. You can now customize deployment circuit breaker settings to match your application's startup behavior, deployment needs, and tolerance for task failures, so rollback works the way you need across different applications and environments. The EC",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/",
+      "date": "2026-07-01T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
