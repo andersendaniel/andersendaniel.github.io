@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T00:00:54.166702+00:00",
+  "generated": "2026-07-06T08:57:09.448647+00:00",
   "sources": 21,
   "articles": [
     {
@@ -307,17 +307,6 @@
       "image": null
     },
     {
-      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) now gives you more control over when a service deployment is considered failed and automatically rolled back. You can now customize deployment circuit breaker settings to match your application's startup behavior, deployment needs, and tolerance for task failures, so rollback works the way you need across different applications and environments. The EC",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/",
-      "date": "2026-07-01T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon RDS announces Cross-Region Automated Backups in four additional AWS Regions",
       "summary": "Cross-Region Automated Backup replication for Amazon RDS is now available in four additional AWS Regions. This launch allows you to setup automated backup replication between Mexico (Central) and Europe (Ireland) or US West (N. California); between Asia Pacific (Taipei) and Asia Pacific (Singapore) or Asia Pacific (Tokyo); between Asia Pacific (New Zealand) and Asia Pacific (Singapore), Asia Pacif",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-cross-region-automated-backups-additional-aws-regions/",
@@ -339,6 +328,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now gives you more control over when a service deployment is considered failed and automatically rolled back. You can now customize deployment circuit breaker settings to match your application's startup behavior, deployment needs, and tolerance for task failures, so rollback works the way you need across different applications and environments. The EC",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/",
+      "date": "2026-07-01T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -1073,17 +1073,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-25-no-copy-kv-1536x920-1.jpg"
-    },
-    {
-      "title": "Copilot in Excel: Built for the era of Frontier Finance",
-      "summary": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice. The post Copilot in Excel: Built for the era of Frontier Finance appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
-      "date": "2026-06-25T13:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
