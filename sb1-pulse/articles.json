@@ -1,7 +1,103 @@
 {
-  "generated": "2026-07-06T14:21:56.239504+00:00",
+  "generated": "2026-07-06T18:52:00.407591+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "SAP Completes Acquisition of Dremio",
+      "summary": "WALLDORF & AUSTIN — SAP has completed the acquisition of the open, high-performance data lakehouse platform.",
+      "url": "https://news.sap.com/2026/07/sap-completes-dremio-acquisition/",
+      "date": "2026-07-06T18:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Scaling Security Alert Triage With Specialized Agents on Databricks",
+      "summary": "What if low severity didn't mean low priority?Databricks ingests petabytes of security...",
+      "url": "https://www.databricks.com/blog/scaling-security-alert-triage-specialized-agents-databricks",
+      "date": "2026-07-06T18:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Contextual Policies in Omnigent: Using session state to better govern AI agents",
+      "summary": "We recently launched Omnigent, an open source meta-harness for AI agents. It lets...",
+      "url": "https://www.databricks.com/blog/contextual-policies-omnigent-using-session-state-better-govern-ai-agents",
+      "date": "2026-07-06T17:42:58+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 15,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Open Models Are Driving AI Research",
+      "summary": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 papers accepted at ICML 2026. Approximately […]",
+      "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+      "date": "2026-07-06T16:00:00+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 6,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/ICML-Blog-Featured-Image.jpg"
+    },
+    {
+      "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
+      "summary": "A couple of editions ago I wrote about what I find so energizing about working with startups. Last week I got a fresh dose of it: I spent a few days with the AWS Startups team, listening to stories of founders talking about the problems they’re actually solving. One story that stayed with me came […]",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
+      "date": "2026-07-06T15:46:43+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 25,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "OpenAI and Databricks at DAIS 2026: Making enterprise AI real",
+      "summary": "Data + AI Summit 2026 brought together over 32k+ in-person attendees across hundreds of sessions, product announcements...",
+      "url": "https://www.databricks.com/blog/openai-and-databricks-dais-2026-making-enterprise-ai-real",
+      "date": "2026-07-06T15:04:20+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Nations Are Deploying AI for Strategic Priorities",
+      "summary": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turbocharging innovation across every facet of society. Countries are investing in AI capabilities so […",
+      "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
+      "date": "2026-07-06T15:00:25+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 3,
+      "tags": [
+        "data"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2025/06/llm-blog-gtc-25-paris-3945665-1280x680-1.jpg"
+    },
+    {
+      "title": "AWS Certificate Manager now supports the ACME protocol for public certificates",
+      "summary": "AWS Certificate Manager (ACM) now allows you to provision a fully managed ACME server endpoint that issues public TLS certificates with a 45 day validity from Amazon Trust Services using any ACMEv2-compatible client, including Certbot, cert-manager for Kubernetes, and acme.sh. With the CA/Browser Forum mandating 47-day certificate lifetimes by 2029, manual management of public certificates becomes",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-certificate-manager-acme/",
+      "date": "2026-07-06T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "Launching a SaaS Product: Everything You Need to Know",
       "summary": "Whether you're building in stealth or sprinting toward beta, here's a practical guide to launching SaaS.",
@@ -46,6 +142,19 @@
       "category": "aws",
       "relevance": 2,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Secrets Manager adds managed external secrets support for Paddle and GitLab",
+      "summary": "AWS Secrets Manager now extends its managed external secrets capability to include Paddle API Keys and GitLab Access Tokens. Managed external secrets enable customers to automatically rotate third-party credentials directly from AWS Secrets Manager by offering first-class integration with supported third-party services. With this launch, you can manage rotation for Paddle API keys using Paddle's n",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-managed-external-secrets-paddle-gitlab/",
+      "date": "2026-07-06T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "automation"
+      ],
       "image": null
     },
     {
@@ -366,30 +475,6 @@
       "image": null
     },
     {
-      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) now gives you more control over when a service deployment is considered failed and automatically rolled back. You can now customize deployment circuit breaker settings to match your application's startup behavior, deployment needs, and tolerance for task failures, so rollback works the way you need across different applications and environments. The EC",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/",
-      "date": "2026-07-01T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon GuardDuty adds sensitive file modification threat detections",
-      "summary": "Amazon GuardDuty Runtime Monitoring now includes three new threat detections that alert security teams when sensitive files are modified on Amazon EC2 instances and container workloads running on Amazon EKS or Amazon ECS. These findings help identify post-compromise attacker activities by monitoring critical system files, including configuration files, authentication settings, and system logs. Thi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-sfm/",
-      "date": "2026-07-01T16:58:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "Snowflake Achieves HDS Certification in France, Helping Healthcare Organizations Accelerate Data and AI Innovation",
       "summary": "Discover how Snowflake’s HDS certification enables healthcare organizations in France to securely host data and accelerate AI innovation. Learn more.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-hds-certification-france",
@@ -410,6 +495,19 @@
       "relevance": 4,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Proving application resilience on Azure with Chaos Studio",
+      "summary": "Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production. The post Proving application resilience on Azure with Chaos Studio appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
+      "date": "2026-07-01T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -554,19 +652,6 @@
       "image": null
     },
     {
-      "title": "From monolith to Lakebase to LTAP: rethinking the database from storage up",
-      "summary": "When I started my PhD at UC Berkeley 16 years ago, my advisor told me: \"OLTP databases...",
-      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-      "date": "2026-06-30T18:05:48+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "How GitHub maintains compliance for open source dependencies",
       "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog .",
       "url": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
@@ -614,6 +699,19 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
+      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+      "date": "2026-06-30T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -926,30 +1024,6 @@
       "image": null
     },
     {
-      "title": "How Databricks is turning video into searchable, actionable intelligence",
-      "summary": "A utility company deploys drones to inspect hundreds of miles of power lines. A police...",
-      "url": "https://www.databricks.com/blog/how-databricks-turning-video-searchable-actionable-intelligence",
-      "date": "2026-06-26T20:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "A Decision Framework for ETL Migration to Databricks",
-      "summary": "Your team has hundreds of stored procedures, a couple of schedulers, permissions...",
-      "url": "https://www.databricks.com/blog/decision-framework-etl-migration-databricks",
-      "date": "2026-06-26T20:20:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code",
       "summary": "Poor database performance is never just a database problem. In enterprise teams, it shows up as missed SLAs, delayed releases, frustrated development teams, and rising operational risk. The performance problem compounds further in business impact, often resulting in frustrated customers, retention and conversion risk, and lost revenue. The post The performance dividend: Optimizing PostgreSQL on Az",
       "url": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
@@ -1058,6 +1132,17 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-25-no-copy-kv-1536x920-1.jpg"
+    },
+    {
+      "title": "Copilot in Excel: Built for the era of Frontier Finance",
+      "summary": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice. The post Copilot in Excel: Built for the era of Frontier Finance appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+      "date": "2026-06-25T13:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [],
+      "image": null
     },
     {
       "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
@@ -1240,19 +1325,6 @@
       "image": null
     },
     {
-      "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
-      "summary": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Automation is no longer the finish line — it’s the launchpad to autonomy. The […]",
-      "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
-      "date": "2026-06-23T06:00:09+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 29,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/telco-tm-forum-1920x1080-1.jpg"
-    },
-    {
       "title": "How Omio is building the future of conversational travel",
       "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "url": "https://openai.com/index/omio",
@@ -1346,17 +1418,6 @@
         "ai",
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Less Back-and-Forth: How SAP Store Private Offers Simplify How You Buy and Sell",
-      "summary": "Enterprise software marketplaces have fundamentally changed how software gets bought and sold.",
-      "url": "https://news.sap.com/2026/06/sap-store-private-offers-simplify-buy-and-sell/",
-      "date": "2026-06-22T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 4,
-      "tags": [],
       "image": null
     },
     {
@@ -1543,20 +1604,6 @@
       "category": "aws",
       "relevance": 4,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Security Agent adds threat modeling, Kiro power and Claude Code plugin, and more",
-      "summary": "AWS Security Agent now adds STRIDE-based threat modeling, full repo and PR code scanning with remediation across major Git platforms, and IDE integrations via Kiro power, Claude Code plugin, and MCP — letting developers run security reviews and fix issues without context switching.",
-      "url": "https://aws.amazon.com/blogs/aws/aws-security-agent-adds-threat-modeling-kiro-power-and-claude-code-plugin-and-more/",
-      "date": "2026-06-17T14:54:55+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 17,
-      "tags": [
-        "ai",
-        "security"
-      ],
       "image": null
     },
     {
