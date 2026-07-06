@@ -1,7 +1,53 @@
 {
-  "generated": "2026-07-06T08:57:09.448647+00:00",
+  "generated": "2026-07-06T14:21:56.239504+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Launching a SaaS Product: Everything You Need to Know",
+      "summary": "Whether you're building in stealth or sprinting toward beta, here's a practical guide to launching SaaS.",
+      "url": "https://www.salesforce.com/blog/small-business/how-to-launch-a-saas-product/",
+      "date": "2026-07-06T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How SAP Customer Checkout and Viva.com Are Advancing Payment Processes at the POS Along Checkout Experience",
+      "summary": "Today's customers expect speed, flexibility, and smooth integration.",
+      "url": "https://news.sap.com/2026/07/sap-customer-checkout-viva-com-advancing-payment-processes-pos-checkout-experience/",
+      "date": "2026-07-06T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Fall in Love with the Problem, Not the Solution: Rethinking AI for Real Impact",
+      "summary": "AI isn’t just about doing more, faster.",
+      "url": "https://news.sap.com/2026/07/fall-in-love-with-problem-not-solution-ai-real-impact/",
+      "date": "2026-07-06T10:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS CodePipeline now available in Asia Pacific (New Zealand) region",
+      "summary": "Starting today, AWS CodePipeline is now available in Asia Pacific (New Zealand) Region (ap-southeast-6). AWS CodePipeline is a continuous delivery service that enables you to model, visualize, and automate the steps required to release your software. With CodePipeline, you model the full release process for building your code, deploying to pre-production environments, testing your application and ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codepipeline-new-zealand/",
+      "date": "2026-07-06T09:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "What Does CRM Do That AI Can’t?",
       "summary": "Why can’t AI just do what CRM does? Good question. Here are some answers for you.",
@@ -69,17 +115,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Meet Brain: The AI system behind Azure reliability",
-      "summary": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind Azure reliability appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-      "date": "2026-07-02T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -355,19 +390,6 @@
       "image": null
     },
     {
-      "title": "AWS AppConfig launches managed experimentation tools for A/B testing",
-      "summary": "Today, AWS announces the general availability of experimentation tools in AWS AppConfig, a new capability that enables you to run A/B tests and feature experiments without building or managing separate experimentation infrastructure. Built on 25+ years of Amazon experimentation best practices, AWS AppConfig experimentation tools use AI-driven guidance to help you build robust experiments while pro",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/6/aws-appconfig-experimentation/",
-      "date": "2026-07-01T16:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Snowflake Achieves HDS Certification in France, Helping Healthcare Organizations Accelerate Data and AI Innovation",
       "summary": "Discover how Snowflake’s HDS certification enables healthcare organizations in France to securely host data and accelerate AI innovation. Learn more.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-hds-certification-france",
@@ -388,19 +410,6 @@
       "relevance": 4,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Proving application resilience on Azure with Chaos Studio",
-      "summary": "Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production. The post Proving application resilience on Azure with Chaos Studio appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
-      "date": "2026-07-01T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -571,17 +580,6 @@
       "image": null
     },
     {
-      "title": "What Does It Actually Look Like When AI Handles Order Servicing?",
-      "summary": "There’s a lot of talk about how AI agents will transform order support, making the customer journey more enjoyable and reducing call center costs for businesses. But for many operations and customer service…",
-      "url": "https://www.salesforce.com/blog/agentic-order-servicing/",
-      "date": "2026-06-30T17:24:25+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
       "summary": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science […]",
       "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
@@ -616,19 +614,6 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
-      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-      "date": "2026-06-30T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -1410,17 +1395,6 @@
       "image": null
     },
     {
-      "title": "How AI Powers Customer Experience in Travel and Transportation",
-      "summary": "Excellence in experience is what to strive for from the very first point of interaction to the destination.",
-      "url": "https://news.sap.com/2026/06/ai-powers-customer-experience-travel-and-transportation/",
-      "date": "2026-06-19T10:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
       "summary": "Announcing the general availability of Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, delivering high performance GPU acceleration for AI inference, graphics, and data analytics workloads.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
@@ -1471,19 +1445,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gallery_A__Data_Pavilion.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "The Autonomous CX Revolution Elevated by Google",
-      "summary": "With Google Cloud, SAP Customer Experience is positioning itself—and its customers—to thrive in the future.",
-      "url": "https://news.sap.com/2026/06/autonomous-cx-revolution-elevated-by-google/",
-      "date": "2026-06-18T13:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
     },
     {
       "title": "Snowflake Launches Operations in Chile",
@@ -1706,6 +1667,20 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
+      "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "date": "2026-06-09T17:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 26,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
     },
     {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
