@@ -1,7 +1,83 @@
 {
-  "generated": "2026-07-06T18:52:00.407591+00:00",
+  "generated": "2026-07-07T00:02:24.280621+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Automatic Upgrades: best practice features for your lakehouse tables",
+      "summary": "Your Unity Catalog (UC) managed tables now get better on their own. Automatic (Auto)...",
+      "url": "https://www.databricks.com/blog/automatic-upgrades-best-practice-features-your-lakehouse-tables",
+      "date": "2026-07-06T23:10:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports disaggregated prefill and decode",
+      "summary": "Amazon SageMaker HyperPod now supports Disaggregated Prefill and Decode (DPD), an inference optimization that separates the two phases of large language model (LLM) inference — prefill and decode — onto dedicated GPU pools and transfers the key-value (KV) cache between them over Elastic Fabric Adapter (EFA) using GPU-Direct RDMA. Customers running LLMs in production for chat assistants, agentic pi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/",
+      "date": "2026-07-06T21:29:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 26,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Cognito now supports self-service provisioned API rate limits",
+      "summary": "Amazon Cognito now allows you to increase or decrease your provisioned API rate limits on demand. Cognito has default rate limits for the maximum number of operations per second that you can perform in your user pools in each AWS Region, and you can purchase additional limits on adjustable API categories. With the new on-demand model, you can adjust your rate limits up or down more quickly to matc",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits",
+      "date": "2026-07-06T21:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Reimagining Data Modeling on the Lakehouse: Introducing Vibe Data Modeling",
+      "summary": "The challenges with Data ModelingIn every analytics stack, the Silver layer is where...",
+      "url": "https://www.databricks.com/blog/reimagining-data-modeling-lakehouse-introducing-vibe-data-modeling",
+      "date": "2026-07-06T20:40:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization",
+      "summary": "Amazon SageMaker Studio now supports direct integration from Hugging Face, letting you go from discovering a model to working with it inside a fully configured Studio environment in a single click. Select any supported model on Hugging Face and choose \"Customize on SageMaker AI\" or \"Deploy on SageMaker AI\" to land directly on the corresponding workflow page with the model pre-loaded and ready to u",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration/",
+      "date": "2026-07-06T20:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "How Batteries Plus Built 10 Agents to Activate 100,000 Sales Prospects",
+      "summary": "A 700-store franchisor shows how multi-agent architecture and data discipline can unlock B2B pipeline at scale.",
+      "url": "https://www.salesforce.com/blog/batteries-plus-agentforce/",
+      "date": "2026-07-06T19:15:42+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "SAP Completes Acquisition of Dremio",
       "summary": "WALLDORF & AUSTIN — SAP has completed the acquisition of the open, high-performance data lakehouse platform.",
@@ -35,6 +111,19 @@
       "category": "databricks",
       "relevance": 15,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EVS VCF 9.0 and 9.1 support",
+      "summary": "Today, we are announcing that Amazon Elastic VMware Service (EVS) now supports VMware Cloud Foundation (VCF) 9.0 and 9.1. Amazon EVS lets you run the latest VCF software directly within your Amazon Virtual Private Cloud (VPC) on EC2 bare-metal instances. With this latest announcement, you now have complete control of the installation, operations, and management of the VMware virtualization solutio",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-vcf9",
+      "date": "2026-07-06T17:29:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -99,6 +188,19 @@
       "image": null
     },
     {
+      "title": "CloudWatch Application Signals now automatically captures errors, performance anomalies, and deployment events",
+      "summary": "Today, AWS announces Service Events for Amazon CloudWatch Application Signals, which automatically captures exception and latency event snapshots, function-level performance data, and deployment events from instrumented services without additional code changes. Customers can now quickly identify whether a deployment has introduced new exceptions by navigating to CloudWatch > Application Signals > ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-service-events/",
+      "date": "2026-07-06T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "Launching a SaaS Product: Everything You Need to Know",
       "summary": "Whether you're building in stealth or sprinting toward beta, here's a practical guide to launching SaaS.",
       "url": "https://www.salesforce.com/blog/small-business/how-to-launch-a-saas-product/",
@@ -155,6 +257,17 @@
       "tags": [
         "automation"
       ],
+      "image": null
+    },
+    {
+      "title": "7 Small Business Growth Strategies for 2027",
+      "summary": "Here's how your small business can keep up with any large enterprise — and spoiler alert, you only need one tool.",
+      "url": "https://www.salesforce.com/blog/small-business/smb-growth-strategies/",
+      "date": "2026-07-04T22:33:54+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 4,
+      "tags": [],
       "image": null
     },
     {
@@ -368,17 +481,6 @@
       "image": null
     },
     {
-      "title": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) now provides real-time deployment observability in the Amazon ECS Console. With this launch, customers can track deployment progress, monitor deployment health, and diagnose failures directly from the console, and understand exactly what is happening during a deployment, identify issues as they occur, and reduce the time it takes to troubleshoot and re",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-aws-management-console/",
-      "date": "2026-07-01T20:48:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Asking for a Friend: What’s the Difference Between Email Delivery and Email Deliverability?",
       "summary": "We cut through the noise to explain these terms and the latest changes in the email space",
       "url": "https://www.salesforce.com/blog/email-delivery-versus-deliverability/",
@@ -387,19 +489,6 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Artifact now includes Assurance Assistant for compliance inquiries",
-      "summary": "AWS Artifact now includes Assurance Assistant, an AI-powered capability that generates citation-backed responses to security and compliance questions about AWS services. AWS Artifact is the service through which AWS provides compliance reports, certifications, and agreements to customers. Assurance Assistant helps third-party risk managers, compliance officers, security engineers, and auditors acc",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-artifact-assurance-assistant/",
-      "date": "2026-07-01T20:01:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "security"
-      ],
       "image": null
     },
     {
@@ -413,17 +502,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Beyond dashboards: Introducing Decision Execution Platforms",
-      "summary": "Figure 1: Decision Execution Platforms by Databricks Forward Deployed EngineeringDecision...",
-      "url": "https://www.databricks.com/blog/beyond-dashboards-introducing-decision-execution-platforms",
-      "date": "2026-07-01T18:20:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -447,30 +525,6 @@
       "relevance": 5,
       "tags": [
         "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS announces Cross-Region Automated Backups in four additional AWS Regions",
-      "summary": "Cross-Region Automated Backup replication for Amazon RDS is now available in four additional AWS Regions. This launch allows you to setup automated backup replication between Mexico (Central) and Europe (Ireland) or US West (N. California); between Asia Pacific (Taipei) and Asia Pacific (Singapore) or Asia Pacific (Tokyo); between Asia Pacific (New Zealand) and Asia Pacific (Singapore), Asia Pacif",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-cross-region-automated-backups-additional-aws-regions/",
-      "date": "2026-07-01T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Bedrock AgentCore now available in four additional AWS Regions",
-      "summary": "Amazon Bedrock AgentCore is now available in four additional AWS Regions: Asia Pacific (Bangkok), Asia Pacific (Malaysia), Europe (Milan), and Europe (Spain). Amazon Bedrock AgentCore is the platform to build, connect, and optimize agents. It helps engineers ship agents fast with any framework and any model, connect them to enterprise systems and tools, and optimize them continuously, with securit",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-four-additional-regions/",
-      "date": "2026-07-01T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 23,
-      "tags": [
-        "ai"
       ],
       "image": null
     },
@@ -547,17 +601,6 @@
       "image": null
     },
     {
-      "title": "Forecasting at the speed of modern retail",
-      "summary": "Demand forecasting has always been at the center of retail and CPG planning. It shapes...",
-      "url": "https://www.databricks.com/blog/forecasting-speed-modern-retail",
-      "date": "2026-07-01T15:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Navigating Risk: How Trusted Services Power a Modern GRC Strategy",
       "summary": "Balance innovation with regulatory compliance by building a proactive Governance, Risk, and Compliance (GRC) framework.",
       "url": "https://www.salesforce.com/blog/grc-strategy/",
@@ -578,17 +621,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg"
-    },
-    {
-      "title": "Have You Tried Immersive Marketing? Your Prospects Are Waiting",
-      "summary": "Learn how to use interactive experiences to connect with prospects and grow your brand.",
-      "url": "https://www.salesforce.com/blog/small-business/immersive-marketing/",
-      "date": "2026-07-01T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Snowflake Marketplace Partners Earn $100M in the First Half of 2026",
