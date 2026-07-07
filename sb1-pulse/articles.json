@@ -1,7 +1,45 @@
 {
-  "generated": "2026-07-07T13:14:31.102547+00:00",
+  "generated": "2026-07-07T18:58:12.637507+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Contextual Policies in Omnigent: Using session state to better govern AI agents",
+      "summary": "We recently launched Omnigent, an open source meta-harness for AI agents. It lets...",
+      "url": "https://www.databricks.com/blog/contextual-policies-omnigent-using-session-state-better-govern-ai-agents",
+      "date": "2026-07-07T17:42:58+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 15,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+      "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+      "date": "2026-07-07T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 5,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+      "summary": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+      "date": "2026-07-07T15:00:52+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 14,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-press-vera-cpu-agentic-tl-1920x1080-5404450.png"
+    },
     {
       "title": "Does Your Company Have an AI Accountability Problem?",
       "summary": "Building an AI agent is easy. Operating one is a discipline most org charts don't support yet.",
@@ -38,6 +76,19 @@
       "image": null
     },
     {
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "summary": "Managed agents feature bundle launch",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "date": "2026-07-07T08:54:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp"
+    },
+    {
       "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
       "summary": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, compute and validation tools. NVIDIA and Hugging Face are […]",
       "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
@@ -64,6 +115,28 @@
       "image": null
     },
     {
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "date": "2026-07-07T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 29,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Barracuda makes security logs conversational with Genie",
+      "summary": "When a security analyst is alerted to a suspicious login or an unusual firewall block...",
+      "url": "https://www.databricks.com/blog/barracuda-makes-security-logs-conversational-genie",
+      "date": "2026-07-06T23:15:23+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Automatic Upgrades: best practice features for your lakehouse tables",
       "summary": "Your Unity Catalog (UC) managed tables now get better on their own. Automatic (Auto)...",
       "url": "https://www.databricks.com/blog/automatic-upgrades-best-practice-features-your-lakehouse-tables",
@@ -74,6 +147,17 @@
       "tags": [
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "AWS Security Hub adds impact analysis for exposure findings",
+      "summary": "Today, AWS Security Hub adds impact analysis to exposure findings, helping security teams understand the full scope of what an attacker could reach if an exposure is exploited. Impact analysis extends exposure findings by mapping the downstream resources that could be compromised beyond the initially exposed resource, giving teams deeper visibility into organizational risk. Security Hub analyzes t",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/impact-analysis-aws-security-hub/",
+      "date": "2026-07-06T21:45:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -160,17 +244,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Contextual Policies in Omnigent: Using session state to better govern AI agents",
-      "summary": "We recently launched Omnigent, an open source meta-harness for AI agents. It lets...",
-      "url": "https://www.databricks.com/blog/contextual-policies-omnigent-using-session-state-better-govern-ai-agents",
-      "date": "2026-07-06T17:42:58+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 15,
       "tags": [],
       "image": null
     },
@@ -529,32 +602,6 @@
       "image": null
     },
     {
-      "title": "Amazon CloudWatch supports creating alarms from log queries",
-      "summary": "Amazon CloudWatch allows you to create alarms on log data using log queries, and get alerted on anomalies without leaving your log analysis workflow. With today's launch, you can configure an alarm on log query and specify the alarm threshold directly, thereby eliminating the need to first create metric filters or custom metrics as intermediate steps. This streamlines the path to actively monitori",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-log-alarms/",
-      "date": "2026-07-01T21:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 18,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Granular Usage Attribution for dbt Pipelines with Query Tags",
-      "summary": "Your dbt project runs 80 models every night. The warehouse bill doubled last quarter....",
-      "url": "https://www.databricks.com/blog/granular-usage-attribution-dbt-pipelines-query-tags",
-      "date": "2026-07-01T19:23:01+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "The latest AI news we announced in June 2026",
       "summary": "June Pixel Drop hero",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
@@ -878,6 +925,17 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp"
     },
     {
+      "title": "Inside Genebench-Pro",
+      "summary": "",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "date": "2026-06-30T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
@@ -899,17 +957,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Inside Genebench-Pro",
-      "summary": "",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "date": "2026-06-30T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1275,19 +1322,6 @@
       "image": null
     },
     {
-      "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
-      "summary": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths ",
-      "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
-      "date": "2026-06-24T00:05:37+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-tech-blog-aws-1920x1080-2.jpg"
-    },
-    {
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
       "url": "https://openai.com/index/gpt-5-immunology-mystery",
@@ -1318,19 +1352,6 @@
       "category": "github",
       "relevance": 4,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
-      "summary": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
-      "date": "2026-06-23T15:48:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 2,
-      "tags": [
-        "developer"
-      ],
       "image": null
     },
     {
@@ -1470,17 +1491,6 @@
       "image": null
     },
     {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "url": "https://openai.com/index/patch-the-planet",
-      "date": "2026-06-22T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Daybreak: Tools for securing every organization in the world",
       "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -1494,13 +1504,13 @@
       "image": null
     },
     {
-      "title": "Codex-maxxing for long-running work",
-      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "date": "2026-06-22T00:00:00+00:00",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "date": "2026-06-22T10:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 1,
+      "relevance": 2,
       "tags": [],
       "image": null
     },
