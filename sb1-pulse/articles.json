@@ -1,7 +1,33 @@
 {
-  "generated": "2026-07-07T00:02:24.280621+00:00",
+  "generated": "2026-07-07T08:18:05.472886+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+      "summary": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, compute and validation tools. NVIDIA and Hugging Face are […]",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "date": "2026-07-07T06:00:26+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 17,
+      "tags": [
+        "developer"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1.jpg"
+    },
+    {
+      "title": "Your AI Agents, Any Cloud: Building the Agentic Enterprise with Agentforce and Amazon Agentcore",
+      "summary": "A Customer Asks One Simple Question Imagine an electricity distributor. A prolonged outage hits a neighbourhood, and under the rules a customer may be owed a Guaranteed Service Level (GSL) payment. The customer…",
+      "url": "https://www.salesforce.com/blog/agentforce-mcp-integration-aws-agentcore/",
+      "date": "2026-07-07T05:36:44+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 18,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
     {
       "title": "Automatic Upgrades: best practice features for your lakehouse tables",
       "summary": "Your Unity Catalog (UC) managed tables now get better on their own. Automatic (Auto)...",
@@ -341,6 +367,17 @@
       "image": null
     },
     {
+      "title": "Meet Brain: The AI system behind Azure reliability",
+      "summary": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind Azure reliability appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+      "date": "2026-07-02T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon SageMaker HyperPod now supports AMI versioning and auto-patching",
       "summary": "Amazon SageMaker HyperPod now gives you visibility into the Amazon Machine Image (AMI) versions running across your clusters and automatically applies security patches without disrupting your workloads. SageMaker HyperPod is purpose-built infrastructure for training and deploying foundation models at scale. Cluster administrators previously had limited insight into which AMI versions were running,",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-hyperpod-ami-version-auto-patch",
@@ -601,17 +638,6 @@
       "image": null
     },
     {
-      "title": "Navigating Risk: How Trusted Services Power a Modern GRC Strategy",
-      "summary": "Balance innovation with regulatory compliance by building a proactive Governance, Risk, and Compliance (GRC) framework.",
-      "url": "https://www.salesforce.com/blog/grc-strategy/",
-      "date": "2026-07-01T15:01:50+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "NVIDIA and Partners Build in America, for America",
       "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
       "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
@@ -839,9 +865,9 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp"
     },
     {
-      "title": "Inside Genebench-Pro",
-      "summary": "",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "date": "2026-06-30T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -863,9 +889,9 @@
       "image": null
     },
     {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "title": "Inside Genebench-Pro",
+      "summary": "",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
       "date": "2026-06-30T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -1324,17 +1350,6 @@
       "image": null
     },
     {
-      "title": "How Businesses Are Building Specialized AI They Can Trust",
-      "summary": "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver real value in production — from transparent research copilots […]",
-      "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
-      "date": "2026-06-23T13:00:07+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 16,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/agentic-ai-agent-toolkit-kv-r3b-1920x1080-2.png"
-    },
-    {
       "title": "Helping build shared standards for advanced AI",
       "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
@@ -1746,20 +1761,6 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
-      "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
-      "date": "2026-06-09T17:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 26,
-      "tags": [
-        "ai",
-        "developer"
-      ],
-      "image": null
     },
     {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
