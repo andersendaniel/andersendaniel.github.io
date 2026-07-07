@@ -1,7 +1,42 @@
 {
-  "generated": "2026-07-07T08:18:05.472886+00:00",
+  "generated": "2026-07-07T13:14:31.102547+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Does Your Company Have an AI Accountability Problem?",
+      "summary": "Building an AI agent is easy. Operating one is a discipline most org charts don't support yet.",
+      "url": "https://www.salesforce.com/blog/agent-development-lifecycle/",
+      "date": "2026-07-07T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Selling With AI Agents? Here’s What You Need to Know",
+      "summary": "Are you activating AI SDRs? See how these autonomous tools can help your growing sales teams close more deals.",
+      "url": "https://www.salesforce.com/blog/small-business/selling-with-ai-agents/",
+      "date": "2026-07-07T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Drive Better HR and Business Decisions with Faster Insights and Governed Data: How SAP Is Reinventing People Analytics",
+      "summary": "For HR and people analytics teams facing growing data demand, fragmented access, and the pressure to deliver more with less, SAP's experience offers a clear road map.",
+      "url": "https://news.sap.com/2026/07/how-sap-is-reinventing-people-analytics/",
+      "date": "2026-07-07T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
       "summary": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, compute and validation tools. NVIDIA and Hugging Face are […]",
@@ -459,17 +494,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2025/03/nvendeavor-1.jpg"
     },
     {
-      "title": "I’m Already Using Another Vendor for AI. Why Should I Consider Salesforce?",
-      "summary": "Keep using the AI vendors you love. Here's how Salesforce helps you use them better.",
-      "url": "https://www.salesforce.com/blog/salesforce-with-ai-vendors/",
-      "date": "2026-07-02T00:43:44+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How we keep GPUs reliable across Databricks AI",
       "summary": "Distributed GPU training has become routine across the industry. Teams now train...",
       "url": "https://www.databricks.com/blog/how-we-keep-gpus-reliable-across-databricks-ai",
@@ -515,17 +539,6 @@
       "tags": [
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Asking for a Friend: What’s the Difference Between Email Delivery and Email Deliverability?",
-      "summary": "We cut through the noise to explain these terms and the latest changes in the email space",
-      "url": "https://www.salesforce.com/blog/email-delivery-versus-deliverability/",
-      "date": "2026-07-01T20:25:16+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1439,17 +1452,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Innovation Beyond the Sky: How Airbus Is Redefining the Future of Flight",
-      "summary": "At Airbus, innovation is not a department, it’s a way of thinking.",
-      "url": "https://news.sap.com/2026/06/innovation-how-airbus-is-redefining-future-of-flight/",
-      "date": "2026-06-22T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
