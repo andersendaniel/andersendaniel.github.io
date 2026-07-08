@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-08T07:24:56.849279+00:00",
+  "generated": "2026-07-08T12:16:24.900889+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
+      "summary": "A co-innovation project between Natura &Co, Numen, and SAP is turning gross margin analysis from a manual process into a real-time engine for financial decision-making.",
+      "url": "https://news.sap.com/2026/07/natura-co-transforming-finance-generative-ai/",
+      "date": "2026-07-08T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 18,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Balancing Security and Agility: Updates to Step-Up Authentication for Reports and Dashboards",
       "summary": "Learn how updates to Step-up Authentication strengthen report security",
@@ -269,6 +280,19 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp"
     },
     {
+      "title": "AWS Systems Manager simplifies Azure VM management and hybrid node pricing",
+      "summary": "You can now connect and manage Azure Virtual Machines in AWS Systems Manager without manual agent installation or per-instance tier fees. Create a Cloud Connector and automatically deploy the SSM Agent to your Azure VMs at scale. Once connected, Azure VMs appear alongside EC2 instances in a unified view, and you can connect to them using Session Manager, run Automation runbooks, Run Command, State",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-systems-manager-multicloud-vm/",
+      "date": "2026-07-07T08:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
       "summary": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, compute and validation tools. NVIDIA and Hugging Face are […]",
       "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
@@ -375,17 +399,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon Cognito now supports self-service provisioned API rate limits",
-      "summary": "Amazon Cognito now allows you to increase or decrease your provisioned API rate limits on demand. Cognito has default rate limits for the maximum number of operations per second that you can perform in your user pools in each AWS Region, and you can purchase additional limits on adjustable API categories. With the new on-demand model, you can adjust your rate limits up or down more quickly to matc",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits",
-      "date": "2026-07-06T21:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
