@@ -1,7 +1,86 @@
 {
-  "generated": "2026-07-08T12:16:24.900889+00:00",
+  "generated": "2026-07-08T18:14:34.245658+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "ML Jobs in Snowflake Data Clean Rooms Now GA",
+      "summary": "ML Jobs in Snowflake Data Clean Rooms is now generally available, enabling collaborative model training and scoring across multiparty data without moving raw records.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ml-jobs-snowflake-data-clean-rooms",
+      "date": "2026-07-08T20:43:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Batteries Plus Reengaged Customers to Generate $15M in Pipeline with a Lean Team",
+      "summary": "Facing continued double-digit commercial growth, the enterprise bypassed traditional scale models by partnering with Rosetree Solutions to deploy Agentforce and unlock rapid outreach velocity in record time. After four years of exponential growth,…",
+      "url": "https://www.salesforce.com/blog/batteries-plus-agentforce-builds-sales-pipeline-with-agentforce/",
+      "date": "2026-07-08T17:34:57+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Transforming FP&A with AI Modernization",
+      "summary": "Discover how the AI-driven Snowplan V2 revolutionizes financial planning and analysis, enabling faster, forecasting and smarter decision-making for finance teams.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/fpa-ai-modernization-snowplan-v2",
+      "date": "2026-07-08T16:58:32+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+      "summary": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
+      "date": "2026-07-08T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 13,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+      "summary": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
+      "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+      "date": "2026-07-08T15:00:27+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 15,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Nemotron_LangChain-scaled.jpg"
+    },
+    {
+      "title": "How to Set Up Intelligence Briefs with Tableau Next and Slackbot Skills",
+      "summary": "Learn how to transform AI-ready semantic models into automated and actionable briefings with conversational analytics in Slackbot.",
+      "url": "https://www.salesforce.com/blog/how-to-set-up-intelligence-briefs-with-tableau-next-and-slackbot-skills/",
+      "date": "2026-07-08T14:25:08+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Google Analytics Training For Small Businesses and Startups",
+      "summary": "Google Analytics doesn't have to be overwhelming — here's how business owners can get started.",
+      "url": "https://www.salesforce.com/blog/small-business/google-analytics-training-for-business-owners/",
+      "date": "2026-07-08T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
       "summary": "A co-innovation project between Natura &Co, Numen, and SAP is turning gross margin analysis from a manual process into a real-time engine for financial decision-making.",
@@ -11,6 +90,41 @@
       "category": "sap",
       "relevance": 18,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Helping K–12 educators build practical AI skills",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "date": "2026-07-08T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing GPT-Live",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "date": "2026-07-08T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Zurich) region",
+      "summary": "Amazon EC2 High Memory U7i instances with 12TB of memory (u7i-12tb.224xlarge) are now available in the AWS Europe (Zurich) region. U7i instances are part of AWS 7th generation and are powered by custom fourth generation Intel Xeon Scalable Processors (Sapphire Rapids). U7i-12tb instances offer 12TiB of DDR5 memory, enabling customers to scale transaction processing throughput in a fast-growing dat",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-u7i-aws-europe-zurich/",
+      "date": "2026-07-07T23:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "automation"
+      ],
       "image": null
     },
     {
@@ -389,19 +503,6 @@
       "image": null
     },
     {
-      "title": "Amazon SageMaker HyperPod now supports disaggregated prefill and decode",
-      "summary": "Amazon SageMaker HyperPod now supports Disaggregated Prefill and Decode (DPD), an inference optimization that separates the two phases of large language model (LLM) inference — prefill and decode — onto dedicated GPU pools and transfers the key-value (KV) cache between them over Elastic Fabric Adapter (EFA) using GPU-Direct RDMA. Customers running LLMs in production for chat assistants, agentic pi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/",
-      "date": "2026-07-06T21:29:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 26,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Reimagining Data Modeling on the Lakehouse: Introducing Vibe Data Modeling",
       "summary": "The challenges with Data ModelingIn every analytics stack, the Silver layer is where...",
       "url": "https://www.databricks.com/blog/reimagining-data-modeling-lakehouse-introducing-vibe-data-modeling",
@@ -546,28 +647,6 @@
       "image": null
     },
     {
-      "title": "What Does CRM Do That AI Can’t?",
-      "summary": "Why can’t AI just do what CRM does? Good question. Here are some answers for you.",
-      "url": "https://www.salesforce.com/blog/small-business/crm-and-ai/",
-      "date": "2026-07-03T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The 4 Essentials to Bring Vibe Coding to Your Enterprise",
-      "summary": "While intent-based development dramatically accelerates workflows, not all vibe coding tools are built with the same enterprise-grade security and guardrails.",
-      "url": "https://www.salesforce.com/blog/enterprise-vibe-coding/",
-      "date": "2026-07-02T19:35:26+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 10,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The 3 questions to answer to take AI from experimentation to impact",
       "summary": "Companies are starting to see the potential of AI in their businesses. Today, 60%...",
       "url": "https://www.databricks.com/blog/3-questions-answer-take-ai-experimentation-impact",
@@ -586,17 +665,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Meet Brain: The AI system behind Azure reliability",
-      "summary": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind Azure reliability appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-      "date": "2026-07-02T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -700,19 +768,6 @@
       "relevance": 4,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Proving application resilience on Azure with Chaos Studio",
-      "summary": "Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production. The post Proving application resilience on Azure with Chaos Studio appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
-      "date": "2026-07-01T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -874,19 +929,6 @@
       "image": null
     },
     {
-      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
-      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-      "date": "2026-06-30T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "What Google Cloud announced in AI this month",
       "summary": "Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. Our main focus in June was helping your teams build, scale, and secure AI. Today, we’re sharing a fresh roundup of updates designed to help you run smarter, more secure applications while keeping everything",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
@@ -979,9 +1021,9 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp"
     },
     {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "title": "Inside Genebench-Pro",
+      "summary": "",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
       "date": "2026-06-30T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -1003,9 +1045,9 @@
       "image": null
     },
     {
-      "title": "Inside Genebench-Pro",
-      "summary": "",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "date": "2026-06-30T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -1049,19 +1091,6 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350.png"
-    },
-    {
-      "title": "Claude in Microsoft Foundry is now generally available",
-      "summary": "Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post Claude in Microsoft Foundry is now generally available appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
-      "date": "2026-06-29T17:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     },
     {
       "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
@@ -1113,30 +1142,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
-      "summary": "At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI. The post The 2026 Agent Confidence Index: Where 300 builders see real momentum appeared first on Microsoft Azure Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
-      "date": "2026-06-29T15:15:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Accelerate modern Linux workloads with Azure Files",
-      "summary": "Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
-      "date": "2026-06-29T15:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 7,
-      "tags": [
-        "data"
-      ],
-      "image": null
     },
     {
       "title": "OMV’s Approach to Data-Driven Workforce Decisions",
@@ -1295,17 +1300,6 @@
       "image": null
     },
     {
-      "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
-      "summary": "Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Elliot: The Millennium Tales. They lead the […]",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/",
-      "date": "2026-06-25T13:00:34+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/gfn-thursday-6-25-no-copy-kv-1536x920-1.jpg"
-    },
-    {
       "title": "Copilot in Excel: Built for the era of Frontier Finance",
       "summary": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice. The post Copilot in Excel: Built for the era of Frontier Finance appeared first on Microsoft 365 Blog .",
       "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
@@ -1398,17 +1392,6 @@
       "image": null
     },
     {
-      "title": "I automated my job (and it made me a better leader)",
-      "summary": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog .",
-      "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
-      "date": "2026-06-23T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "From insight to action: The next phase of agentic cloud operations",
       "summary": "What if your cloud environment could help you move from insight to action in real time, with systems already working through the next set of decisions? The post From insight to action: The next phase of agentic cloud operations appeared first on Microsoft Azure Blog .",
       "url": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
@@ -1456,17 +1439,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Omio is building the future of conversational travel",
-      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "url": "https://openai.com/index/omio",
-      "date": "2026-06-23T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1545,19 +1517,6 @@
       "image": null
     },
     {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "date": "2026-06-22T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 14,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
       "summary": "Announcing the general availability of Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, delivering high performance GPU acceleration for AI inference, graphics, and data analytics workloads.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
@@ -1617,30 +1576,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Real-Time Data Pipelines via Snowpipe Streaming | Snowflake",
-      "summary": "Discover how data engineers ship real-time data pipelines affordably using Snowpipe Streaming and Snowflake CoCo. Start streaming in minutes.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/real-time-pipelines-snowpipe-streaming",
-      "date": "2026-06-17T16:55:25+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AI Agents for Marketing Need Governed Context",
-      "summary": "Explore why AI agents for marketing need governed context, open ecosystems and trusted data foundations to deliver relevant customer experiences.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-agents-for-marketing-governed-context",
-      "date": "2026-06-17T16:45:57+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -1805,6 +1740,20 @@
       "image": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo"
     },
     {
+      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
+      "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "date": "2026-06-09T17:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 26,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
       "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
@@ -1838,19 +1787,6 @@
       "relevance": 4,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-      "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
-      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-      "date": "2026-06-08T13:04:59+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://lh3.googleusercontent.com/5g2RQPPxqVGuOzfaYj1-8r_6B-Ytp79c9mpWXzBIrk2vUhtxZmA7bMywH41h-8b0EJAdW_K4l7kqHZlfS-QTFk8kFB5MA2bgxZ4hxbuAiOuDIn3ohA=w528-h297-n-nu-rw-lo"
     }
   ]
 }
