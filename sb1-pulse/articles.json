@@ -1,7 +1,51 @@
 {
-  "generated": "2026-07-09T08:29:27.459176+00:00",
+  "generated": "2026-07-09T13:45:17.935834+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+      "summary": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also gets an update in the cloud, […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
+      "date": "2026-07-09T13:00:55+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-9-blog-1920x1080-no-copy.jpg"
+    },
+    {
+      "title": "Marketing For Startups: 5 Steps to Campaign Success",
+      "summary": "Marketing a startup requires a blend of speed and strategy to turn a new idea into a household name.",
+      "url": "https://www.salesforce.com/blog/small-business/five-steps-to-marketing-a-startup/",
+      "date": "2026-07-09T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers",
+      "summary": "SAP continues efforts to let its commercial practices reflect the flexibility and transparency customers need.",
+      "url": "https://news.sap.com/2026/07/evolving-maintenance-support-practices-greater-flexibility-sap-customers/",
+      "date": "2026-07-09T09:52:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "SAP Welcomes European Commission Decision Concluding the Investigation Into On-Premise Maintenance and Support Policies",
+      "summary": "WALLDORF — SAP remains committed to open competition, customer choice and innovation.",
+      "url": "https://news.sap.com/2026/07/sap-welcomes-european-commission-decision-concluding-investigation-on-premise-maintenance-support-policies/",
+      "date": "2026-07-09T09:52:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
       "summary": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on The GitHub Blog .",
@@ -141,6 +185,19 @@
       "category": "databricks",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Built to bounce back: How Azure resiliency evolved",
+      "summary": "Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints. The post Built to bounce back: How Azure resiliency evolved appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
+      "date": "2026-07-08T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -392,6 +449,17 @@
       "tags": [
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "External key management for Azure Managed HSM is now in public preview",
+      "summary": "Azure Key Vault Managed Hardware Security Module (HSM) provides strong sovereignty over your encryption keys. Keys are generated and stored in a single-tenant, FIPS 140-3 Level 3 HSM that only you control: Microsoft has no access to your key material, and you govern who can use each key. The post External key management for Azure Managed HSM is now in public preview appeared first on Microsoft Azu",
+      "url": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/",
+      "date": "2026-07-07T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -668,17 +736,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2025/06/llm-blog-gtc-25-paris-3945665-1280x680-1.jpg"
     },
     {
-      "title": "Launching a SaaS Product: Everything You Need to Know",
-      "summary": "Whether you're building in stealth or sprinting toward beta, here's a practical guide to launching SaaS.",
-      "url": "https://www.salesforce.com/blog/small-business/how-to-launch-a-saas-product/",
-      "date": "2026-07-06T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How SAP Customer Checkout and Viva.com Are Advancing Payment Processes at the POS Along Checkout Experience",
       "summary": "Today's customers expect speed, flexibility, and smooth integration.",
       "url": "https://news.sap.com/2026/07/sap-customer-checkout-viva-com-advancing-payment-processes-pos-checkout-experience/",
@@ -710,6 +767,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Meet Brain: The AI system behind Azure reliability",
+      "summary": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind Azure reliability appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+      "date": "2026-07-02T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -802,6 +870,19 @@
       "relevance": 4,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Proving application resilience on Azure with Chaos Studio",
+      "summary": "Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production. The post Proving application resilience on Azure with Chaos Studio appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
+      "date": "2026-07-01T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -963,6 +1044,19 @@
       "image": null
     },
     {
+      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
+      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+      "date": "2026-06-30T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "What Google Cloud announced in AI this month",
       "summary": "Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. Our main focus in June was helping your teams build, scale, and secure AI. Today, we’re sharing a fresh roundup of updates designed to help you run smarter, more secure applications while keeping everything",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
@@ -1055,16 +1149,14 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp"
     },
     {
-      "title": "Introducing GeneBench-Pro",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "url": "https://openai.com/index/introducing-genebench-pro",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "date": "2026-06-30T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -1079,14 +1171,16 @@
       "image": null
     },
     {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "title": "Introducing GeneBench-Pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "url": "https://openai.com/index/introducing-genebench-pro",
       "date": "2026-06-30T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 1,
-      "tags": [],
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -1235,17 +1329,6 @@
       "relevance": 4,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
-      "summary": "Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership. In 1969, DARPA connected four university computers — from UCLA, Stanford, UCSB […]",
-      "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
-      "date": "2026-06-29T10:59:38+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 4,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/open-source-software-crop1-scaled.png"
     },
     {
       "title": "Mapping Europe’s AI Workforce Opportunity",
@@ -1405,17 +1488,6 @@
       "image": null
     },
     {
-      "title": "How the Advanced Success Plan for SAP CX Operationalizes Hyper-Personalization at Scale",
-      "summary": "The compounding effect of unified data and orchestrated decisioning transforms hyper-personalization into a sustained growth mechanism.",
-      "url": "https://news.sap.com/2026/06/advanced-success-plan-sap-cx-operationalizes-hyper-personalization/",
-      "date": "2026-06-24T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -1464,17 +1536,6 @@
         "data",
         "automation"
       ],
-      "image": null
-    },
-    {
-      "title": "Procurement’s New Balancing Act: Cutting Costs, Adopting AI, and Proving Strategic Value",
-      "summary": "Research from the 2026 Economist Enterprise Report finds that financial performance has reemerged as the primary benchmark of procurement’s success.",
-      "url": "https://news.sap.com/2026/06/procurement-balancing-act-cut-costs-adopt-ai-prove-value/",
-      "date": "2026-06-23T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 5,
-      "tags": [],
       "image": null
     },
     {
@@ -1690,17 +1751,6 @@
       "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo"
     },
     {
-      "title": "Modernize your data with Azure Storage: Plan and migrate with confidence",
-      "summary": "Enterprise storage migrations are rarely just about copying data. They are about protecting business continuity, maintaining performance, managing cost, and giving teams confidence when terabytes or petabytes of data sit at the heart of critical applications. The post Modernize your data with Azure Storage: Plan and migrate with confidence appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
-      "date": "2026-06-16T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Securing the future of AI agents",
       "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
       "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
@@ -1751,17 +1801,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"
     },
     {
-      "title": "3 things leaders need to know from Microsoft Build 2026",
-      "summary": "At Microsoft Build 2026, AI moved from experimentation to execution—shifting from isolated tools to connected systems grounded in business data. Organizations that win will embed AI across workflows, scale it effectively, and translate it into measurable outcomes like faster growth, lower costs, and better customer experiences. The post 3 things leaders need to know from Microsoft Build 2026 appea",
-      "url": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
-      "date": "2026-06-11T19:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Investing in multi-agent AI safety research",
       "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
       "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
@@ -1773,20 +1812,6 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
-      "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
-      "date": "2026-06-09T17:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 26,
-      "tags": [
-        "ai",
-        "developer"
-      ],
-      "image": null
     },
     {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
