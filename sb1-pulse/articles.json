@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-11T07:08:10.747110+00:00",
+  "generated": "2026-07-11T11:48:05.600289+00:00",
   "sources": 21,
   "articles": [
     {
@@ -519,19 +519,6 @@
       "image": null
     },
     {
-      "title": "Built to bounce back: How Azure resiliency evolved",
-      "summary": "Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints. The post Built to bounce back: How Azure resiliency evolved appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
-      "date": "2026-07-08T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
       "summary": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
@@ -688,17 +675,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 15,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "External key management for Azure Managed HSM is now in public preview",
-      "summary": "Azure Key Vault Managed Hardware Security Module (HSM) provides strong sovereignty over your encryption keys. Keys are generated and stored in a single-tenant, FIPS 140-3 Level 3 HSM that only you control: Microsoft has no access to your key material, and you govern who can use each key. The post External key management for Azure Managed HSM is now in public preview appeared first on Microsoft Azu",
-      "url": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/",
-      "date": "2026-07-07T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1720,6 +1696,17 @@
       "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo"
     },
     {
+      "title": "Modernize your data with Azure Storage: Plan and migrate with confidence",
+      "summary": "Enterprise storage migrations are rarely just about copying data. They are about protecting business continuity, maintaining performance, managing cost, and giving teams confidence when terabytes or petabytes of data sit at the heart of critical applications. The post Modernize your data with Azure Storage: Plan and migrate with confidence appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+      "date": "2026-06-16T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Securing the future of AI agents",
       "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
       "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
@@ -1768,6 +1755,17 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "3 things leaders need to know from Microsoft Build 2026",
+      "summary": "At Microsoft Build 2026, AI moved from experimentation to execution—shifting from isolated tools to connected systems grounded in business data. Organizations that win will embed AI across workflows, scale it effectively, and translate it into measurable outcomes like faster growth, lower costs, and better customer experiences. The post 3 things leaders need to know from Microsoft Build 2026 appea",
+      "url": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
+      "date": "2026-06-11T19:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 6,
+      "tags": [],
+      "image": null
     }
   ]
 }
