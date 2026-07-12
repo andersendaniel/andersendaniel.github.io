@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12T07:25:36.871412+00:00",
+  "generated": "2026-07-12T11:54:32.239627+00:00",
   "sources": 21,
   "articles": [
     {
@@ -307,6 +307,20 @@
       "category": "aws",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
+      "summary": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post Frontier models and production agents: Advancing Microsoft Foundry for the agentic era appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
+      "date": "2026-07-09T17:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
+      "tags": [
+        "ai",
+        "data"
+      ],
       "image": null
     },
     {
@@ -1501,20 +1515,6 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "From insight to action: The next phase of agentic cloud operations",
-      "summary": "What if your cloud environment could help you move from insight to action in real time, with systems already working through the next set of decisions? The post From insight to action: The next phase of agentic cloud operations appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
-      "date": "2026-06-23T15:45:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
       "image": null
     },
     {
