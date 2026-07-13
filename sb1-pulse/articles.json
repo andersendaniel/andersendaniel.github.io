@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-13T08:12:23.492927+00:00",
+  "generated": "2026-07-13T13:16:15.563511+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "AI Is Exposing Fragmented Systems in Financial Services",
+      "summary": "Since 2021, SAP and SAP Fioneer have significantly expanded joint capabilities for the financial services sector.",
+      "url": "https://news.sap.com/2026/07/ai-exposing-fragmented-systems-financial-services/",
+      "date": "2026-07-13T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Amazon EC2 network/EBS instances now available in additional regions",
       "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8in, R8ib, R8idn, and R8idb instances are available in the AWS Asia Pacific (Tokyo) and Europe (Frankfurt, Ireland) regions. These instances are powered by custom sixth generation Intel Xeon Scalable processors, available only on AWS and feature the latest sixth generation AWS Nitro cards. These instances deliver up to 43% better compute p",
@@ -307,20 +318,6 @@
       "category": "aws",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
-      "summary": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post Frontier models and production agents: Advancing Microsoft Foundry for the agentic era appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
-      "date": "2026-07-09T17:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 3,
-      "tags": [
-        "ai",
-        "data"
-      ],
       "image": null
     },
     {
@@ -742,17 +739,6 @@
         "automation"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-press-vera-cpu-agentic-tl-1920x1080-5404450.png"
-    },
-    {
-      "title": "Does Your Company Have an AI Accountability Problem?",
-      "summary": "Building an AI agent is easy. Operating one is a discipline most org charts don't support yet.",
-      "url": "https://www.salesforce.com/blog/agent-development-lifecycle/",
-      "date": "2026-07-07T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Drive Better HR and Business Decisions with Faster Insights and Governed Data: How SAP Is Reinventing People Analytics",
@@ -1424,17 +1410,6 @@
       "image": null
     },
     {
-      "title": "How SAP Customers Are Simplifying Software Expansion with SAP Store",
-      "summary": "The hardest part of buying enterprise software isn't finding it. It's what happens between finding the right solution and getting access to it.",
-      "url": "https://news.sap.com/2026/06/how-customers-simplify-software-expansion-sap-store/",
-      "date": "2026-06-29T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code",
       "summary": "Poor database performance is never just a database problem. In enterprise teams, it shows up as missed SLAs, delayed releases, frustrated development teams, and rising operational risk. The performance problem compounds further in business impact, often resulting in frustrated customers, retention and conversion risk, and lost revenue. The post The performance dividend: Optimizing PostgreSQL on Az",
       "url": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
@@ -1515,6 +1490,20 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "From insight to action: The next phase of agentic cloud operations",
+      "summary": "What if your cloud environment could help you move from insight to action in real time, with systems already working through the next set of decisions? The post From insight to action: The next phase of agentic cloud operations appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
+      "date": "2026-06-23T15:45:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
       "image": null
     },
     {
