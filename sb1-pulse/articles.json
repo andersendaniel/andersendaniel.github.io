@@ -1,7 +1,44 @@
 {
-  "generated": "2026-07-13T18:28:57.115172+00:00",
+  "generated": "2026-07-13T23:49:03.423935+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How Unity Catalog managed tables bring interoperability, performance, and unified governance to the Lakehouse",
+      "summary": "Unity Catalog was designed for interoperability at scale. Enterprises have the flexibility...",
+      "url": "https://www.databricks.com/blog/how-unity-catalog-managed-tables-bring-interoperability-performance-and-unified-governance",
+      "date": "2026-07-13T22:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock",
+      "summary": "GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, bringing the smartest family of models from OpenAI yet to Bedrock's next-generation inference engine built for high-performance, security and reliability. GPT-5.6 sets a new standard for intelligence and efficiency, allowing you to solve harder problems in less time and with more intelligence per token. The three models sp",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-sol-terra/",
+      "date": "2026-07-13T22:03:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 28,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Managed Service for Prometheus is now available in Asia Pacific (New Zealand) Region",
+      "summary": "Amazon Managed Service for Prometheus is now available in Asia Pacific (New Zealand) Region. Amazon Managed Service for Prometheus is a fully managed, Prometheus-compatible monitoring service that makes it easy to monitor and alert on operational metrics at scale. Amazon Managed Service for Prometheus is available in multiple AWS Regions . Customers can send up to 1 billion active metric series to",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-new-zealand/",
+      "date": "2026-07-13T21:17:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
       "summary": "On July 13, 2006, we launched Amazon Simple Queue Service (Amazon SQS) as one of the first three services available to customers, alongside Amazon EC2 and Amazon S3. We had learned firsthand that distributed systems need a reliable way to pass messages between components without creating tight dependencies. If one service called another directly and […]",
@@ -11,6 +48,20 @@
       "category": "aws",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon DocumentDB (with MongoDB compatibility) now available as a skill in the Agent Toolkit for AWS",
+      "summary": "Amazon DocumentDB (with MongoDB compatibility) is now available as a specialized database skill in the Agent Toolkit for AWS . With this skill, AI coding agents can set up, manage, migrate, optimize, and troubleshoot Amazon DocumentDB clusters using step-by-step best-practice workflows, reducing errors and helping developers move faster without needing to look up DocumentDB operations guidance man",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-agent-skill",
+      "date": "2026-07-13T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "data",
+        "developer"
+      ],
       "image": null
     },
     {
@@ -53,6 +104,20 @@
       "image": null
     },
     {
+      "title": "Qwen3 embedding and reranking models for retrieval are now available in Amazon SageMaker JumpStart",
+      "summary": "Today, AWS announced the availability of Qwen3-VL-Embedding-2B and Qwen3-Reranker-4B in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These models from Qwen are designed for information retrieval and cross-modal understanding, enabling customers to build comprehensive search pipelines on AWS infrastructure. The two models are typically used in",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/qwen3-search-retrieval-on-sagemaker-jumpstart/",
+      "date": "2026-07-13T15:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Voxtral-Mini-4B-Realtime for real-time speech transcription is now available in Amazon SageMaker JumpStart",
       "summary": "Today, AWS announced the availability of Voxtral-Mini-4B-Realtime-2602 in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from Mistral AI is a multilingual, real-time speech-transcription model, enabling customers to build low-latency speech applications on AWS infrastructure. Voxtral-Mini-4B-Realtime excels at high-quality transcript",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/voxtral-mini-realtime-on-sagemaker-jumpstart/",
@@ -66,16 +131,15 @@
       "image": null
     },
     {
-      "title": "Qwen3 embedding and reranking models for retrieval are now available in Amazon SageMaker JumpStart",
-      "summary": "Today, AWS announced the availability of Qwen3-VL-Embedding-2B and Qwen3-Reranker-4B in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These models from Qwen are designed for information retrieval and cross-modal understanding, enabling customers to build comprehensive search pipelines on AWS infrastructure. The two models are typically used in",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/qwen3-search-retrieval-on-sagemaker-jumpstart/",
-      "date": "2026-07-13T15:30:00+00:00",
+      "title": "Amazon SageMaker HyperPod now supports custom AMIs (Amazon Machine Images) for Slurm clusters",
+      "summary": "Amazon SageMaker HyperPod now supports custom AMIs for Slurm-orchestrated clusters, enabling customers to deploy clusters with pre-configured, security-hardened environments that meet their specific organizational requirements. Customers deploying AI/ML workloads on HyperPod Slurm clusters need customized environments that meet strict security, compliance, and operational requirements while mainta",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-custom-ami-slurm/",
+      "date": "2026-07-13T14:31:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
-      "relevance": 14,
+      "relevance": 2,
       "tags": [
-        "cloud",
-        "data"
+        "security"
       ],
       "image": null
     },
@@ -177,6 +241,19 @@
       "image": null
     },
     {
+      "title": "Amazon EKS Auto Mode now supports Application Recovery Controller zonal shift",
+      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports Amazon Application Recovery Controller (ARC) zonal shift and autoshift for clusters using EKS Auto Mode . ARC helps you manage and coordinate recovery across AWS Regions and Availability Zones (AZs). With this launch, EKS Auto Mode automatically protects your compute during a zonal shift at no additional cost or configuration, helping you",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/eks-auto-mode-arc-zonal-shift",
+      "date": "2026-07-10T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "What’s new with Google Cloud",
       "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jul 6 - Jul 10 Webinar",
       "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -232,30 +309,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 I7ie instances now available in AWS Asia Pacific (Hyderabad) region",
-      "summary": "AWS is announcing starting today, Amazon EC2 I7ie instances are now available in AWS Asia Pacific (Hyderabad) region. Designed for large storage I/O intensive workloads, I7ie instances are powered by 5th Gen Intel Xeon Processors with an all-core turbo frequency of 3.2 GHz, offering up to 40% better compute performance and 20% better price performance over existing I3en instances. I7ie instances o",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i7ie-instances-aws-hyd-region/",
-      "date": "2026-07-10T14:55:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon DocumentDB (with MongoDB compatibility) now supports R8g.24xlarge and R8g.48xlarge instances",
-      "summary": "Amazon DocumentDB (with MongoDB compatibility) now supports R8g.24xlarge and R8g.48xlarge database instances. R8g instances are powered by AWS Graviton4 processors and feature DDR5 memory, enabling customers to achieve higher throughput and support larger working sets in memory. With R8g.24xlarge (96 vCPUs, 768 GiB memory) and R8g.48xlarge (192 vCPUs, 1,536 GiB memory), customers can run more dema",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-r8g-24xl-48xl/",
-      "date": "2026-07-10T14:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Luxury on Cloud Nine: Redefining Excellence at Swarovski with SAP Cloud ERP",
       "summary": "The luxury brand is laying the foundation for AI and to reach its strategic targets by 2030.",
       "url": "https://news.sap.com/2026/07/swarovski-redefining-excellence-sap-cloud-erp/",
@@ -278,34 +331,6 @@
       "image": null
     },
     {
-      "title": "AWS DMS Schema Conversion now supports AI agent automation",
-      "summary": "AWS Database Migration Service (DMS) Schema Conversion now supports AI agent automation through the AWS MCP Server. You can connect AI coding agents, including Kiro, Claude Code, and Cursor, to DMS Schema Conversion and run complete migration workflows using natural language directly from your IDE. Agents create projects, browse source metadata, convert schemas, generate assessment reports, and ex",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-sc-ai-agent-automation-mcp-server/",
-      "date": "2026-07-10T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 34,
-      "tags": [
-        "ai",
-        "data",
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Organizations now applies account departure security controls by default for new organizations created via AWS Organizations console",
-      "summary": "AWS Organizations now automatically applies security controls by default when you create a new organization via AWS Organizations console, simplifying initial security configuration by automatically applying core security controls. This approach safeguards multi-account environments by protecting against unintended member account departures from your organization. CloudOps administrators and centr",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-organizations-security-controls-new-orgs-console",
-      "date": "2026-07-10T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "url": "https://openai.com/index/deutsche-telekom",
@@ -324,17 +349,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "OAuth support for the AWS MCP Server",
-      "summary": "You can now connect AI agents directly to the AWS MCP Server using AWS Sign-In. Agents connect using industry-standard OAuth without requiring additional authentication software. Existing AWS identities, sign-in methods, IAM permissions, and governance controls you have already set up continue to apply. Developers can authorize agents interactively through a browser or programmatically using non-i",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server/",
-      "date": "2026-07-09T23:03:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -863,17 +877,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 29,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Barracuda makes security logs conversational with Genie",
-      "summary": "When a security analyst is alerted to a suspicious login or an unusual firewall block...",
-      "url": "https://www.databricks.com/blog/barracuda-makes-security-logs-conversational-genie",
-      "date": "2026-07-06T23:15:23+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
