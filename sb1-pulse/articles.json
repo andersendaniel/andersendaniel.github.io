@@ -1,16 +1,137 @@
 {
-  "generated": "2026-07-14T12:06:51.031634+00:00",
+  "generated": "2026-07-14T17:58:19.572770+00:00",
   "sources": 21,
   "articles": [
     {
-      "title": "How data science teams use ChatGPT Work",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "date": "2026-07-14T00:00:00+00:00",
+      "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+      "summary": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust.",
+      "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+      "date": "2026-07-14T16:45:13+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 10,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nemotron-labs-open-models-blog-feature-image.jpg"
+    },
+    {
+      "title": "Celebrating 25 years of visual search innovation",
+      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "date": "2026-07-14T16:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+      "summary": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for AI factories. As agentic AI drives token demand […]",
+      "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+      "date": "2026-07-14T15:00:20+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/performance-per-watt-ai-infra-efficiency.jpg"
+    },
+    {
+      "title": "How Retail Finance teams are using Agentic AI to protect omni-channel margins",
+      "summary": "Ask a retail CFO where the quarter's margin is landing and you will always get a hard-won answer...",
+      "url": "https://www.databricks.com/blog/how-retail-finance-teams-are-using-agentic-ai-protect-omni-channel-margins",
+      "date": "2026-07-14T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Foundational context: Cross-industry & function-specific accelerators for Lakebase",
+      "summary": "Databricks Lakebase is a fully managed, serverless Postgres database built for the...",
+      "url": "https://www.databricks.com/blog/foundational-context-cross-industry-function-specific-accelerators-lakebase",
+      "date": "2026-07-14T13:15:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "How Canada Goose Used AI to Expand Capacity and Create a Revenue-Generating Experience Center",
+      "summary": "By augmenting its Style Experts with Agentforce, Canada Goose reduced peak-season wait times by 13.9% and improved customer satisfaction by 21.2%.",
+      "url": "https://www.salesforce.com/blog/canada-goose-voice-ai/",
+      "date": "2026-07-14T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "15+ Lead Magnet Ideas For Your New Gig",
+      "summary": "From free templates to AI-powered quizzes, here's a list of lead magnet ideas that help small businesses attract big customers.",
+      "url": "https://www.salesforce.com/blog/small-business/lead-magnet-ideas-for-smbs/",
+      "date": "2026-07-14T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Blocking Slow-Burn Attacks: Contextual Policies in Omnigent",
+      "summary": "Judging an agent one action at a time isn't enough. In this post, we show how a realistic...",
+      "url": "https://www.databricks.com/blog/blocking-slow-burn-attacks-contextual-policies-omnigent",
+      "date": "2026-07-14T12:47:28+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "date": "2026-07-14T10:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 14,
+      "relevance": 9,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Inside Team USA's Olympic Data Collaboration | Snowflake",
+      "summary": "At Milano Cortina 2026, Elana Meyers Taylor won gold by 4/100ths of a second. See how Snowflake data collaboration gave the team a competitive edge.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/team-usa-bobsled-performance-data-collaboration",
+      "date": "2026-07-14T08:27:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudFront Functions now supports logging to CloudFront access logs",
+      "summary": "You can now write custom data directly into CloudFront access logs using a new helper method available from within CloudFront Functions. CloudFront Functions run lightweight JavaScript at the edge for tasks like URL rewrites, header manipulation, and request routing. Previously, you could only emit log data to Amazon CloudWatch Logs as a separate log file from your CloudFront access logs. With thi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudfront-functions-access-logs/",
+      "date": "2026-07-14T08:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -21,6 +142,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How data science teams use ChatGPT Work",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "date": "2026-07-14T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -328,20 +460,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 G7 instances are now available in the AWS US East (N. Virginia) Region",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in US East (N. Virginia) Region. G7 instances deliver up to 4.6x AI inference performance and up to 2.1 graphics performance compared to G6 instances. G7 instances also deliver faster performance for GPU-accelerated data analytics workloads. Customer",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-g7-available-North-Virginia",
-      "date": "2026-07-10T15:14:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 8,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Luxury on Cloud Nine: Redefining Excellence at Swarovski with SAP Cloud ERP",
       "summary": "The luxury brand is laying the foundation for AI and to reach its strategic targets by 2030.",
       "url": "https://news.sap.com/2026/07/swarovski-redefining-excellence-sap-cloud-erp/",
@@ -481,6 +599,17 @@
       "image": null
     },
     {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "date": "2026-07-09T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "url": "https://openai.com/index/gpt-5-6",
@@ -502,17 +631,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "date": "2026-07-09T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
       "image": null
     },
     {
@@ -712,17 +830,6 @@
       "image": null
     },
     {
-      "title": "Google Analytics Training For Small Businesses and Startups",
-      "summary": "Google Analytics doesn't have to be overwhelming — here's how business owners can get started.",
-      "url": "https://www.salesforce.com/blog/small-business/google-analytics-training-for-business-owners/",
-      "date": "2026-07-08T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
       "summary": "A co-innovation project between Natura &Co, Numen, and SAP is turning gross margin analysis from a manual process into a real-time engine for financial decision-making.",
       "url": "https://news.sap.com/2026/07/natura-co-transforming-finance-generative-ai/",
@@ -745,19 +852,6 @@
       "image": null
     },
     {
-      "title": "How to Evaluate an Enterprise Analytics Platform",
-      "summary": "Most enterprise analytics evaluations are really just dashboard comparisons. That's...",
-      "url": "https://www.databricks.com/blog/enterprise-analytics-platform-evaluation",
-      "date": "2026-07-08T08:41:35+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 10,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Introducing GPT-Live",
       "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
       "url": "https://openai.com/index/introducing-gpt-live",
@@ -769,19 +863,6 @@
       "image": null
     },
     {
-      "title": "Balancing Security and Agility: Updates to Step-Up Authentication for Reports and Dashboards",
-      "summary": "Learn how updates to Step-up Authentication strengthen report security",
-      "url": "https://www.salesforce.com/blog/balancing-security-and-agility-updates-to-step-up-authentication-for-reports-and-dashboards/",
-      "date": "2026-07-07T23:04:18+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "FinOps for AI: Snowflake's AI Cost Management and Governance Tools",
       "summary": "See how Snowflake uses AI to simplify cost analysis and delivers budgets, per-user quotas and granular AI usage views so teams can govern AI spend at scale.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-finops-cost-management-governance-snowflake",
@@ -789,28 +870,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Imperial College London is accelerating dementia research with a modern data platform",
-      "summary": "Imagine being unable to tell your doctor whether you're in pain or running a fever...",
-      "url": "https://www.databricks.com/blog/how-imperial-college-london-accelerating-dementia-research-modern-data-platform",
-      "date": "2026-07-07T19:20:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 7,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Contextual Policies in Omnigent: Using session state to better govern AI agents",
-      "summary": "We recently launched Omnigent, an open source meta-harness for AI agents. It lets...",
-      "url": "https://www.databricks.com/blog/contextual-policies-omnigent-using-session-state-better-govern-ai-agents",
-      "date": "2026-07-07T17:42:58+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 15,
       "tags": [],
       "image": null
     },
@@ -1329,19 +1388,6 @@
       "image": null
     },
     {
-      "title": "How ChatGPT adoption has expanded",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "date": "2026-06-30T09:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 14,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
@@ -1375,19 +1421,6 @@
         "developer"
       ],
       "image": null
-    },
-    {
-      "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
-      "summary": "Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise innovation and becomes more autonomous, organizations need access to computing […]",
-      "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
-      "date": "2026-06-29T17:00:19+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 43,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350.png"
     },
     {
       "title": "Claude in Microsoft Foundry is now generally available",
@@ -1462,17 +1495,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "OMV’s Approach to Data-Driven Workforce Decisions",
-      "summary": "OMV uses the People Intelligence solution in SAP BDC to spot workforce composition patterns and move talent where it’s needed.",
-      "url": "https://news.sap.com/2026/06/omv-data-driven-workforce-decisions/",
-      "date": "2026-06-29T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1620,17 +1642,6 @@
         "ai",
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "How Snowflake Built an AI-Native Marketing Team",
-      "summary": "How Snowflake's Marketing AI Council turned a 600-person global team from 11% AI confidence to 93% daily usage in just over a year.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-marketing-ai-council-ai-native-team",
-      "date": "2026-06-22T13:14:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
