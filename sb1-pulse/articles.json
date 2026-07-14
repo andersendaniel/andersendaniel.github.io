@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T23:49:03.423935+00:00",
+  "generated": "2026-07-14T07:07:49.002587+00:00",
   "sources": 21,
   "articles": [
     {
@@ -65,6 +65,17 @@
       "image": null
     },
     {
+      "title": "Amazon DocumentDB (with MongoDB compatibility) adds support for 46 new MongoDB operators in version 8.0.1",
+      "summary": "Amazon DocumentDB (with MongoDB compatibility) now supports 46 additional MongoDB aggregation operators and cursor methods starting from minor version 8.0.1. This release significantly expands query API compatibility, making it easier to migrate MongoDB workloads to Amazon DocumentDB without application code changes. New capabilities span seven categories: Accumulators (13): $top, $topN, $bottom, ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-mongodb-8-0-1-mongo-api",
+      "date": "2026-07-13T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
       "summary": "AWS Builder Center turned one year old last week. Launched on July 9, 2025, the platform has grown from a community hub with Wishlist voting, community profiles, and a toolbox into a full ecosystem with sandbox environments, workshops, Spaces, and a Builders’ Library. To mark the anniversary, Rick Suttles published a full feature timeline covering […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/",
@@ -104,6 +115,19 @@
       "image": null
     },
     {
+      "title": "Voxtral-Mini-4B-Realtime for real-time speech transcription is now available in Amazon SageMaker JumpStart",
+      "summary": "Today, AWS announced the availability of Voxtral-Mini-4B-Realtime-2602 in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from Mistral AI is a multilingual, real-time speech-transcription model, enabling customers to build low-latency speech applications on AWS infrastructure. Voxtral-Mini-4B-Realtime excels at high-quality transcript",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/voxtral-mini-realtime-on-sagemaker-jumpstart/",
+      "date": "2026-07-13T15:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 18,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "Qwen3 embedding and reranking models for retrieval are now available in Amazon SageMaker JumpStart",
       "summary": "Today, AWS announced the availability of Qwen3-VL-Embedding-2B and Qwen3-Reranker-4B in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These models from Qwen are designed for information retrieval and cross-modal understanding, enabling customers to build comprehensive search pipelines on AWS infrastructure. The two models are typically used in",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/qwen3-search-retrieval-on-sagemaker-jumpstart/",
@@ -114,19 +138,6 @@
       "tags": [
         "cloud",
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Voxtral-Mini-4B-Realtime for real-time speech transcription is now available in Amazon SageMaker JumpStart",
-      "summary": "Today, AWS announced the availability of Voxtral-Mini-4B-Realtime-2602 in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from Mistral AI is a multilingual, real-time speech-transcription model, enabling customers to build low-latency speech applications on AWS infrastructure. Voxtral-Mini-4B-Realtime excels at high-quality transcript",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/voxtral-mini-realtime-on-sagemaker-jumpstart/",
-      "date": "2026-07-13T15:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 18,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -142,6 +153,19 @@
         "security"
       ],
       "image": null
+    },
+    {
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "date": "2026-07-13T12:37:28+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo"
     },
     {
       "title": "AI Is Exposing Fragmented Systems in Financial Services",
@@ -291,19 +315,6 @@
       "relevance": 8,
       "tags": [
         "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS DMS Schema Conversion now supports offline SQL Server conversion",
-      "summary": "AWS Database Migration Service (DMS) Schema Conversion now supports offline source conversion for Microsoft SQL Server, enabling you to convert SQL Server schemas and code without direct connectivity to your source databases. You extract metadata using standard database commands in your own environment, then upload it to DMS Schema Conversion for processing. This eliminates security reviews, firew",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-schema-conversion-offline-source/",
-      "date": "2026-07-10T15:09:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
         "data"
       ],
       "image": null
@@ -1320,6 +1331,17 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp"
     },
     {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "date": "2026-06-30T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Introducing GeneBench-Pro",
       "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "url": "https://openai.com/index/introducing-genebench-pro",
@@ -1330,17 +1352,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Inside Genebench-Pro",
-      "summary": "",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "date": "2026-06-30T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
