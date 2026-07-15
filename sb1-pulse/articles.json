@@ -1,7 +1,44 @@
 {
-  "generated": "2026-07-15T18:01:50.172050+00:00",
+  "generated": "2026-07-15T23:54:11.943713+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      "summary": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]",
+      "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "date": "2026-07-15T23:00:54+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 14,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1.jpg"
+    },
+    {
+      "title": "Snowflake and ICF: Unlocking Data Value for the Public Sector",
+      "summary": "See how ICF and Snowflake modernized federal health data management, cut ETL time by 75%, reduced costs by 80% and enabled AI-ready analytics.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/federal-health-cloud-data-management",
+      "date": "2026-07-15T20:04:47+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch Logs announces intelligent tiering for storage",
+      "summary": "Amazon CloudWatch Logs now supports intelligent storage tiering, which automatically classifies your log data across three storage tiers - Standard (existing), Infrequent Access, and Archive Instant Access based on access patterns. This allows you to store logs in Amazon CloudWatch for extended periods at lower-cost tiers without any operational overhead. With today's launch, customers can now ret",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/",
+      "date": "2026-07-15T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "The Open Interoperability Standard: Why Bidirectional Iceberg REST Matters",
       "summary": "Discover why true data agency requires bidirectional interoperability. Learn how Snowflake Horizon implements the Iceberg REST Catalog protocol end-to-end, and why Databricks Unity Catalog's inbound-only approach falls short.",
@@ -16,16 +53,36 @@
       "image": null
     },
     {
-      "title": "Data-Native AI Agents: Why Agents Must Move to Your Data",
-      "summary": "Most enterprise AI pilots clear the same low bar: connect an LLM to your data, drop...",
-      "url": "https://www.databricks.com/blog/data-native-ai-agents-why-agents-must-move-your-data",
-      "date": "2026-07-15T17:30:00+00:00",
+      "title": "Inkling model from Thinking Machines Lab now on Databricks",
+      "summary": "We are excited to announce Databricks as a day zero launch partner for Thinking Machines Lab (TML)...",
+      "url": "https://www.databricks.com/blog/inkling-thinking-machines-lab-now-databricks",
+      "date": "2026-07-15T18:30:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
-      "relevance": 30,
-      "tags": [
-        "ai"
-      ],
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Trust Is the Product: How Salesforce Thinks About Data in the AI Era",
+      "summary": "In the AI era, the most important question you can ask about your data platform isn’t what it can do — it’s whether it does it with your trust intact. At Salesforce, that…",
+      "url": "https://www.salesforce.com/blog/salesforce-data-ownership-approach/",
+      "date": "2026-07-15T18:28:34+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 7,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon MQ now supports configurable storage for RabbitMQ brokers",
+      "summary": "Amazon MQ now allows you to configure the EBS Disk storage size for RabbitMQ brokers independently of instance type. When creating or updating a broker, you can define a custom storage size, allowing you to right-size storage independently of your instance size to match your specific messaging workload requirements. Configurable storage is available for RabbitMQ M7g brokers on version 4.2 or later",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mq-rabbitmq-configurable-storage/",
+      "date": "2026-07-15T18:18:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -37,6 +94,19 @@
       "category": "databricks",
       "relevance": 2,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Data-Native AI Agents: Why Agents Must Move to Your Data",
+      "summary": "Most enterprise AI pilots clear the same low bar: connect an LLM to your data, drop...",
+      "url": "https://www.databricks.com/blog/data-native-ai-agents-why-agents-must-move-your-data",
+      "date": "2026-07-15T17:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 30,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -62,6 +132,46 @@
       "image": null
     },
     {
+      "title": "Amazon RDS and Aurora now support R8g and M8g database instances in additional AWS Regions",
+      "summary": "AWS Graviton4-based R8g database instances are now generally available for Amazon Aurora (MySQL and PostgreSQL compatibility) and Amazon RDS for PostgreSQL, MySQL, and MariaDB in Asia Pacific (Hyderabad, Melbourne, Malaysia), Europe (London, Paris, Zurich), AWS GovCloud (US-East), South America (Sao Paulo), and Mexico (Central) regions. Additionally, M8g instances are now supported for Amazon RDS ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-rds-aurora-r8g-m8g-regions/",
+      "date": "2026-07-15T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS and Aurora expand R8gd and M8gd to additional Regions",
+      "summary": "Amazon Relational Database Service (RDS) now supports R8gd database instances in 12 additional regions and and M8gd database instances in 6 additional Regions with Optimized Reads for Amazon Aurora PostgreSQL, RDS for PostgreSQL, RDS for MySQL, and RDS for MariaDB. R8gd and M8gd instances deliver up to 165% better throughput and up to 120% better price-performance over R6g instances for Aurora Pos",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-aurora-r8gd-m8gd-regions/",
+      "date": "2026-07-15T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon MSK Express Brokers adds support for Apache Kafka version 4.2",
+      "summary": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) Express Brokers now supports Apache Kafka version 4.2. This release includes Eligible Leader Replicas (ELR) enhancements that strengthen availability with improved leader election correctness. It also introduces a new consumer rebalance protocol that helps ensure smoother and faster group rebalances, and a new Streams Rebalance Protocol that e",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-express-version-42/",
+      "date": "2026-07-15T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Amazon RDS now supports up to four storage modifications in 24 hours",
       "summary": "Amazon RDS now allows up to four storage modifications per database instance within a rolling 24-hour window. These modifications let you increase the size, change the type, and adjust the performance of your RDS storage volumes. You can start a new modification right after storage optimization for the previous modification is complete without having to wait for the six-hour cool-off period to com",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-upto-four-storage-modifications-24-hours",
@@ -83,6 +193,20 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Glue SAP OData connector and zero-ETL integrations are now available in AWS GovCloud (US) regions",
+      "summary": "AWS Glue SAP OData connector and zero-ETL integrations are now available in AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions, with support for Amazon DynamoDB, Salesforce, and SAP OData as sources. Customers operating in regulated environments can now replicate data from these sources into Amazon Redshift, Amazon S3, or other supported destinations without building or maintaining custom d",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-sap-zero-etl-govcloud",
+      "date": "2026-07-15T15:51:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "cloud",
+        "data"
+      ],
       "image": null
     },
     {
@@ -193,6 +317,20 @@
       "image": null
     },
     {
+      "title": "Amazon RDS for Db2 is now available in additional AWS Commercial regions",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for Db2 is now available in the Asia Pacific (Thailand), Asia Pacific (Malaysia), Asia Pacific (Taipei), Mexico (Central), and Canada West (Calgary) Regions. Amazon RDS for Db2 makes it easy to set up, operate, and scale Db2 databases in the cloud. Customers can deploy a Db2 database in minutes with automatically configured parameters for optimal per",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-db2-available-additional-aws-commercial-regions",
+      "date": "2026-07-15T07:39:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "AWS Lambda announces self-managed code storage",
       "summary": "AWS Lambda now supports self-managed Amazon S3 buckets for code storage, enabling you to reference source code directly from your own S3 buckets without Lambda creating intermediate copies. This eliminates code storage limits and reduces function activation time after function creates and updates by removing the copy step. AWS Lambda is a serverless compute service that runs your code without requ",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambda-self-managed-code-storage/",
@@ -253,97 +391,6 @@
       "relevance": 6,
       "tags": [
         "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Lambda console provides a one-click setup prompt for coding agents",
-      "summary": "AWS Lambda console now provides a one-click setup prompt for coding agents that configures your agent with AWS Serverless skills and the Serverless Model Context Protocol (MCP) server, embedding serverless best practices from the start. This setup is available on the Lambda console wherever the developers start their Lambda journey: whether they are getting started with Lambda, exploring its capab",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-prompt-coding-agents/",
-      "date": "2026-07-14T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud",
-        "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS IAM Identity Center achieves FedRAMP Class C Certification",
-      "summary": "AWS IAM Identity Center is now in scope for FedRAMP Class C in the US East (Ohio), US East (N. Virginia), US West (N. California), and US West (Oregon) Regions. You can now use IAM Identity Center to enable workforce access to AWS accounts and applications that are subject to FedRAMP Class C compliance. The Federal Risk and Authorization Management Program (FedRAMP) is a US government-wide program",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-identity-center-fedramp/",
-      "date": "2026-07-14T19:10:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
-      "title": "Introducing Amazon GuardDuty AI Protection for AWS AI workloads",
-      "summary": "Amazon GuardDuty now offers AI Protection, expanding threat detection to AWS AI services including Amazon Bedrock and Amazon SageMaker. As organizations rapidly adopt AI, security teams may lack visibility into threats specifically targeting AI workloads, such as anomalous model invocations, cost harvesting attacks, and prompt injection attempts. GuardDuty AI Protection continuously monitors these",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-ai-protection-aws/",
-      "date": "2026-07-14T19:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 16,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Managed Service for Apache Flink now offers AI Agent Skills to simplify building and operating Flink applications",
-      "summary": "Amazon Managed Service for Apache Flink now offers AI Agent Skills that give AI coding assistants expert, up-to-date guidance for building and operating Flink applications. The skills provide expert guidance for common tasks such as creating applications, troubleshooting, scaling, monitoring, networking configuration, and cost optimization. Customers can leverage these skills to keep Flink applica",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-agent-skills/",
-      "date": "2026-07-14T18:20:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon WorkSpaces Personal simplifies bulk PCoIP to DCV protocol migration",
-      "summary": "Amazon WorkSpaces Personal now provides automated rollback and support for PCoIP to DCV protocol migration of stopped WorkSpaces, building on the recently launched console-based migration workflow and checkpoint snapshot support. These new capabilities enable administrators to migrate WorkSpaces at scale with minimal manual intervention. Amazon DCV is a high-performance streaming protocol built by",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-workspaces-personal-pcoip/",
-      "date": "2026-07-14T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Aurora DSQL is now available in Europe (Spain)",
-      "summary": "Starting today, Amazon Aurora DSQL is available for single-Region clusters in the Europe (Spain) Region. Aurora DSQL is the fastest serverless, distributed SQL database, with active-active high availability and multi-Region strong consistency. It enables you to build always-available applications with virtually unlimited scalability, the highest availability, and zero infrastructure management, ma",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-available-in-spain/",
-      "date": "2026-07-14T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 10,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Security Hub now provides AI inventory for organization-wide visibility of AI assets",
-      "summary": "Today, AWS announces that AWS Security Hub now provides an AI inventory, giving central security teams a continuously updated, organization-wide view of AI assets and their security posture. As organizations rapidly deploy AI agents, models, and pipelines, security teams may lack visibility into what AI assets exist across their organization. Without centralized visibility connecting AI assets to ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-ai/",
-      "date": "2026-07-14T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 16,
-      "tags": [
-        "data"
       ],
       "image": null
     },
@@ -467,17 +514,6 @@
       "image": null
     },
     {
-      "title": "How data science teams use ChatGPT Work",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "date": "2026-07-14T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How sales teams use ChatGPT Work",
       "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
@@ -485,6 +521,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How data science teams use ChatGPT Work",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "date": "2026-07-14T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -567,19 +614,6 @@
       "category": "databricks",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "The agentic marketing stack starts with the data layer",
-      "summary": "There's a version of the AI modernization story that goes: build the platform, then...",
-      "url": "https://www.databricks.com/blog/agentic-marketing-stack-starts-data-layer",
-      "date": "2026-07-10T19:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -1396,17 +1430,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/press-inference-ai-aws-beat-1920x1080-1.png"
     },
     {
-      "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
-      "summary": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind […]",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
-      "date": "2026-06-30T15:00:49+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/JaiveerNVIDIALife-13-scaled.jpg"
-    },
-    {
       "title": "Cortex Sense for Enterprise AI Agents | Snowflake",
       "summary": "See how Cortex Sense (private preview in mid-July 2026) will help enterprise AI agents use metadata, query history, and semantic views to answer with more accuracy.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/enterprise-ai-agents-grounded-context",
@@ -1595,21 +1618,6 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Snowflake and NVIDIA Bring Agentic AI to Life Sciences",
-      "summary": "Discover how Snowflake and the NVIDIA BioNeMo Agent Toolkit power agentic AI in life sciences with governed workflows, secure data access, and faster R&D.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-nvidia-bionemo-agentic-ai-life-sciences",
-      "date": "2026-06-23T13:00:24+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 18,
-      "tags": [
-        "ai",
-        "data",
-        "automation"
-      ],
       "image": null
     },
     {
