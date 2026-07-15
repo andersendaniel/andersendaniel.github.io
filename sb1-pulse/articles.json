@@ -1,7 +1,44 @@
 {
-  "generated": "2026-07-15T07:10:56.349548+00:00",
+  "generated": "2026-07-15T12:10:59.428647+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "summary": "Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. NVIDIA and its partners in Japan are this week showcasing the AI ecosystem’s latest advancements. Check back here for updates. NVIDIA and SEGA Celebrate 30 Years of […]",
+      "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "date": "2026-07-15T10:51:37+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/IMG_7018-scaled-e1784111533455.jpg"
+    },
+    {
+      "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
+      "summary": "AI has moved from experiment to execution.",
+      "url": "https://news.sap.com/2026/07/business-value-ai-spiking-increased-adoption-agentic-expectations/",
+      "date": "2026-07-15T08:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Lambda announces self-managed code storage",
+      "summary": "AWS Lambda now supports self-managed Amazon S3 buckets for code storage, enabling you to reference source code directly from your own S3 buckets without Lambda creating intermediate copies. This eliminates code storage limits and reduces function activation time after function creates and updates by removing the copy step. AWS Lambda is a serverless compute service that runs your code without requ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambda-self-managed-code-storage/",
+      "date": "2026-07-15T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate",
       "summary": "AWS Elastic Disaster Recovery (AWS DRS) now supports the Amazon EBS volume initialization rate, helping recovered volumes reach full performance faster during drills and recoveries. When DRS restores EBS volumes from snapshots, the data loads from Amazon S3 in the background, and I/O to blocks that haven't loaded yet can be slower until initialization finishes. With this launch, you can set a volu",
@@ -353,20 +390,6 @@
       "category": "aws",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Gemma-4-E2B-it for is now available in Amazon SageMaker JumpStart",
-      "summary": "Today, AWS announced the availability of gemma-4-E2B-it in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from Google DeepMind is a multimodal, instruction-tuned model optimized for efficient local execution, enabling customers to build capable AI applications on AWS infrastructure. Gemma-4-E2B-it processes text, image, and audio inp",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-e2b-on-sagemaker-jumpstart/",
-      "date": "2026-07-13T15:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -1348,28 +1371,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 18,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
-      "summary": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from the physical world into operational intelligence in factories, […]",
-      "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
-      "date": "2026-06-30T13:00:27+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 23,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nv-ov-ito-jun-1280x680-1.png"
-    },
-    {
-      "title": "Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation",
-      "summary": "WALLDORF — The global leader in connectivity for the AI era will accelerate its enterprise transformation with SAP.",
-      "url": "https://news.sap.com/2026/06/nokia-sap-microsoft-strategic-multi-year-agreement-advance-cloud-ai-driven-business-transformation/",
-      "date": "2026-06-30T13:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 6,
       "tags": [],
       "image": null
     },
