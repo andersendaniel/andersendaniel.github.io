@@ -1,10 +1,165 @@
 {
-  "generated": "2026-07-15T12:10:59.428647+00:00",
+  "generated": "2026-07-15T18:01:50.172050+00:00",
   "sources": 21,
   "articles": [
     {
+      "title": "The Open Interoperability Standard: Why Bidirectional Iceberg REST Matters",
+      "summary": "Discover why true data agency requires bidirectional interoperability. Learn how Snowflake Horizon implements the Iceberg REST Catalog protocol end-to-end, and why Databricks Unity Catalog's inbound-only approach falls short.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/bidirectional-interoperability-snowflake-horizon-databricks",
+      "date": "2026-07-15T19:38:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Data-Native AI Agents: Why Agents Must Move to Your Data",
+      "summary": "Most enterprise AI pilots clear the same low bar: connect an LLM to your data, drop...",
+      "url": "https://www.databricks.com/blog/data-native-ai-agents-why-agents-must-move-your-data",
+      "date": "2026-07-15T17:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 30,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AI-Enabled Advisory Services for Higher Education",
+      "summary": "The ProblemCall centers are a key student support tool for higher education. Advisors...",
+      "url": "https://www.databricks.com/blog/ai-enabled-advisory-services-higher-education",
+      "date": "2026-07-15T17:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
+      "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub essentials appeared first on The GitHub Blog .",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
+      "date": "2026-07-15T17:29:31+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
+      "summary": "Hierarchical Interest Representation is a research area for Meta Ads. We’re exploring an upstream representation layer over the universe of Ads entities – users, advertisers, products, services – learning unified embeddings that connect users’ inferred interests with the breadth of what advertisers offer in their deep funnel ads. The innovations in Hierarchical Interest Representation are [...] Re",
+      "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+      "date": "2026-07-15T17:00:52+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS now supports up to four storage modifications in 24 hours",
+      "summary": "Amazon RDS now allows up to four storage modifications per database instance within a rolling 24-hour window. These modifications let you increase the size, change the type, and adjust the performance of your RDS storage volumes. You can start a new modification right after storage optimization for the previous modification is complete without having to wait for the six-hour cool-off period to com",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-upto-four-storage-modifications-24-hours",
+      "date": "2026-07-15T16:15:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Breaking Down the Stack: Browser-Bound vs. Headless Architecture",
+      "summary": "Maximize your AI investments with a headless architecture. Here’s how.",
+      "url": "https://www.salesforce.com/blog/headless-architecture-vs-browser-bound/",
+      "date": "2026-07-15T16:08:11+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A Practitioner’s Guide to AI-Assisted Org Discovery: Map the Org Before You Build",
+      "summary": "Part one of this two-part series walks through four discovery domains: custom objects, automation dependencies, integration touchpoints, and antipatterns.",
+      "url": "https://www.salesforce.com/blog/ai-assisted-salesforce-org-discovery-map-before-you-build/",
+      "date": "2026-07-15T15:31:33+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 6,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon OpenSearch Service now supports the Agent Toolkit for AWS with a curated skill",
+      "summary": "Amazon OpenSearch Service now integrates with the Agent Toolkit for AWS , enabling you to build, manage, and query OpenSearch Service domains and OpenSearch Serverless collections directly from AI coding agents such as Claude Code, Kiro, and Cursor. The integration is powered by the AWS MCP (Model Context Protocol) server, which executes AWS API calls on your behalf, paired with the curated amazon",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-agent/",
+      "date": "2026-07-15T14:44:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 20,
+      "tags": [
+        "ai",
+        "cloud",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Storytelling in the AI Era: Bring Authenticity Back to Your Marketing",
+      "summary": "In a world flooded with AI-generated content, your most powerful marketing tool is the one thing no algorithm can replicate — your story.",
+      "url": "https://www.salesforce.com/blog/small-business/storytelling-marketing-strategy/",
+      "date": "2026-07-15T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Simplify Security Visibility with Security Center Essentials",
+      "summary": "Simplify Salesforce security with Security Center Essentials. Learn how to track Health Check scores, audit integrations, and monitor IP ranges in one place.",
+      "url": "https://www.salesforce.com/blog/simplify-security-visibility-with-security-center-essentials/",
+      "date": "2026-07-15T12:38:45+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience",
+      "summary": "The plan puts proactive and prescriptive guidance at every decision point.",
+      "url": "https://news.sap.com/2026/07/unified-customer-data-advanced-success-plan-sap-customer-experience/",
+      "date": "2026-07-15T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "date": "2026-07-15T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-      "summary": "Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. NVIDIA and its partners in Japan are this week showcasing the AI ecosystem’s latest advancements. Check back here for updates. NVIDIA and SEGA Celebrate 30 Years of […]",
+      "summary": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest advancements. Check back here for updates.",
       "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
       "date": "2026-07-15T10:51:37+00:00",
       "source": "NVIDIA Blog",
@@ -12,6 +167,17 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/IMG_7018-scaled-e1784111533455.jpg"
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "date": "2026-07-15T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
     },
     {
       "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
@@ -51,6 +217,20 @@
       "image": null
     },
     {
+      "title": "Amazon CloudWatch announces lookup processor for log enrichment",
+      "summary": "Amazon CloudWatch now supports lookup processor, enabling you to enrich log events with additional context by matching fields in your logs against a lookup table directly within your CloudWatch Pipeline. With the lookup processor, you can upload CSV files containing reference data and configure your pipeline to match incoming log fields against this data to add enriched metadata. For example, you ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-lookup-processor/",
+      "date": "2026-07-14T22:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Take insights anywhere with Genie One on mobile",
       "summary": "We recently announced Genie One, the data-smart AI coworker for business users. Today,...",
       "url": "https://www.databricks.com/blog/take-insights-anywhere-genie-one-mobile",
@@ -60,6 +240,19 @@
       "relevance": 2,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 M8in, M8idn, M8ib, M8idb instances are now available in additional regions",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8in, M8idn network optimized, and M8ib, M8idb EBS optimized instances are available in the AWS US East (Ohio), Europe (Ireland), and Asia Pacific (Tokyo) regions. The new instances are powered by custom sixth generation Intel Xeon Scalable processors available only on AWS and deliver up to 43% higher performance compared to previous genera",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/m8in-m8idn-m8ib-m8idb-new-regions",
+      "date": "2026-07-14T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -115,19 +308,6 @@
       "image": null
     },
     {
-      "title": "AWS Security Hub now provides AI inventory for organization-wide visibility of AI assets",
-      "summary": "Today, AWS announces that AWS Security Hub now provides an AI inventory, giving central security teams a continuously updated, organization-wide view of AI assets and their security posture. As organizations rapidly deploy AI agents, models, and pipelines, security teams may lack visibility into what AI assets exist across their organization. Without centralized visibility connecting AI assets to ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-ai/",
-      "date": "2026-07-14T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 16,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Amazon WorkSpaces Personal simplifies bulk PCoIP to DCV protocol migration",
       "summary": "Amazon WorkSpaces Personal now provides automated rollback and support for PCoIP to DCV protocol migration of stopped WorkSpaces, building on the recently launched console-based migration workflow and checkpoint snapshot support. These new capabilities enable administrators to migrate WorkSpaces at scale with minimal manual intervention. Amazon DCV is a high-performance streaming protocol built by",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-workspaces-personal-pcoip/",
@@ -150,6 +330,19 @@
       "relevance": 10,
       "tags": [
         "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Security Hub now provides AI inventory for organization-wide visibility of AI assets",
+      "summary": "Today, AWS announces that AWS Security Hub now provides an AI inventory, giving central security teams a continuously updated, organization-wide view of AI assets and their security posture. As organizations rapidly deploy AI agents, models, and pipelines, security teams may lack visibility into what AI assets exist across their organization. Without centralized visibility connecting AI assets to ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-ai/",
+      "date": "2026-07-14T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 16,
+      "tags": [
         "data"
       ],
       "image": null
@@ -274,19 +467,6 @@
       "image": null
     },
     {
-      "title": "Amazon CloudFront Functions now supports logging to CloudFront access logs",
-      "summary": "You can now write custom data directly into CloudFront access logs using a new helper method available from within CloudFront Functions. CloudFront Functions run lightweight JavaScript at the edge for tasks like URL rewrites, header manipulation, and request routing. Previously, you could only emit log data to Amazon CloudWatch Logs as a separate log file from your CloudFront access logs. With thi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudfront-functions-access-logs/",
-      "date": "2026-07-14T08:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "How data science teams use ChatGPT Work",
       "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
@@ -322,30 +502,6 @@
       "image": null
     },
     {
-      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock",
-      "summary": "GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, bringing the smartest family of models from OpenAI yet to Bedrock's next-generation inference engine built for high-performance, security and reliability. GPT-5.6 sets a new standard for intelligence and efficiency, allowing you to solve harder problems in less time and with more intelligence per token. The three models sp",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-sol-terra/",
-      "date": "2026-07-13T22:03:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 28,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Managed Service for Prometheus is now available in Asia Pacific (New Zealand) Region",
-      "summary": "Amazon Managed Service for Prometheus is now available in Asia Pacific (New Zealand) Region. Amazon Managed Service for Prometheus is a fully managed, Prometheus-compatible monitoring service that makes it easy to monitor and alert on operational metrics at scale. Amazon Managed Service for Prometheus is available in multiple AWS Regions . Customers can send up to 1 billion active metric series to",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-new-zealand/",
-      "date": "2026-07-13T21:17:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
       "summary": "On July 13, 2006, we launched Amazon Simple Queue Service (Amazon SQS) as one of the first three services available to customers, alongside Amazon EC2 and Amazon S3. We had learned firsthand that distributed systems need a reliable way to pass messages between components without creating tight dependencies. If one service called another directly and […]",
       "url": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/",
@@ -357,27 +513,13 @@
       "image": null
     },
     {
-      "title": "Amazon DocumentDB (with MongoDB compatibility) now available as a skill in the Agent Toolkit for AWS",
-      "summary": "Amazon DocumentDB (with MongoDB compatibility) is now available as a specialized database skill in the Agent Toolkit for AWS . With this skill, AI coding agents can set up, manage, migrate, optimize, and troubleshoot Amazon DocumentDB clusters using step-by-step best-practice workflows, reducing errors and helping developers move faster without needing to look up DocumentDB operations guidance man",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-agent-skill",
-      "date": "2026-07-13T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "data",
-        "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon DocumentDB (with MongoDB compatibility) adds support for 46 new MongoDB operators in version 8.0.1",
-      "summary": "Amazon DocumentDB (with MongoDB compatibility) now supports 46 additional MongoDB aggregation operators and cursor methods starting from minor version 8.0.1. This release significantly expands query API compatibility, making it easier to migrate MongoDB workloads to Amazon DocumentDB without application code changes. New capabilities span seven categories: Accumulators (13): $top, $topN, $bottom, ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-mongodb-8-0-1-mongo-api",
-      "date": "2026-07-13T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
+      "title": "Ultra-Fast Anomaly Detection using Apache Spark Real-Time Mode",
+      "summary": "This post establishes a reusable pattern for operational workloads that genuinely move the needle: fraud detection...",
+      "url": "https://www.databricks.com/blog/ultra-fast-anomaly-detection-using-apache-spark-real-time-mode",
+      "date": "2026-07-13T17:25:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 17,
       "tags": [],
       "image": null
     },
@@ -441,17 +583,6 @@
       "image": null
     },
     {
-      "title": "Introducing Feature Views",
-      "summary": "In a perfect world, ML Features are built only once. But for many teams, a feature...",
-      "url": "https://www.databricks.com/blog/introducing-feature-views",
-      "date": "2026-07-10T16:46:11+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The New AI Trust Architecture: 5 Requirements for Agent-to-Agent Communication",
       "summary": "In London in 1832, clerks from thirty-one competing banks gathered every afternoon on Lombard Street to settle accounts. Each bank had already mastered the basics — tracking debits, crediting accounts, settling balances. The…",
       "url": "https://www.salesforce.com/blog/new-ai-trust-architecture/",
@@ -504,17 +635,6 @@
       "image": null
     },
     {
-      "title": "The ambulatory intelligence gap",
-      "summary": "Ambulatory care, the outpatient clinics and physician practices where most patients...",
-      "url": "https://www.databricks.com/blog/ambulatory-intelligence-gap",
-      "date": "2026-07-10T09:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "url": "https://openai.com/index/deutsche-telekom",
@@ -533,17 +653,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Ask, build, compose: What our 5th Genie Hackathon taught us about Databricks Genie",
-      "summary": "How Databricks hackathons workWe run these hackathons for a simple reason: the fastest...",
-      "url": "https://www.databricks.com/blog/ask-build-compose-what-our-5th-genie-hackathon-taught-us-about-databricks-genie",
-      "date": "2026-07-09T22:58:01+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -621,14 +730,16 @@
       "image": null
     },
     {
-      "title": "Marketing For Startups: 5 Steps to Campaign Success",
-      "summary": "Marketing a startup requires a blend of speed and strategy to turn a new idea into a household name.",
-      "url": "https://www.salesforce.com/blog/small-business/five-steps-to-marketing-a-startup/",
-      "date": "2026-07-09T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "date": "2026-07-09T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -651,19 +762,6 @@
       "category": "openai",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "date": "2026-07-09T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -736,28 +834,6 @@
       "image": null
     },
     {
-      "title": "What You Can Learn From Two Marketing Cloud Next Onboarding Journeys",
-      "summary": "Rawlings Sporting Goods and Indiana Wesleyan University took different approaches to adoption. Here’s their stories and how they can help you.",
-      "url": "https://www.salesforce.com/blog/marketing-cloud-next-onboarding/",
-      "date": "2026-07-08T18:34:17+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Batteries Plus Reengaged Customers to Generate $15M in Pipeline with a Lean Team",
-      "summary": "Facing continued double-digit commercial growth, the enterprise bypassed traditional scale models by partnering with Rosetree Solutions to deploy Agentforce and unlock rapid outreach velocity in record time. After four years of exponential growth,…",
-      "url": "https://www.salesforce.com/blog/batteries-plus-agentforce-builds-sales-pipeline-with-agentforce/",
-      "date": "2026-07-08T17:34:57+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Transforming FP&A with AI Modernization",
       "summary": "Discover how the AI-driven Snowplan V2 revolutionizes financial planning and analysis, enabling faster, forecasting and smarter decision-making for finance teams.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/fpa-ai-modernization-snowplan-v2",
@@ -804,17 +880,6 @@
       "relevance": 15,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Nemotron_LangChain-scaled.jpg"
-    },
-    {
-      "title": "How to Set Up Intelligence Briefs with Tableau Next and Slackbot Skills",
-      "summary": "Learn how to transform AI-ready semantic models into automated and actionable briefings with conversational analytics in Slackbot.",
-      "url": "https://www.salesforce.com/blog/how-to-set-up-intelligence-briefs-with-tableau-next-and-slackbot-skills/",
-      "date": "2026-07-08T14:25:08+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 6,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Our approach to government and national security partnerships",
@@ -958,28 +1023,6 @@
         "developer"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1.jpg"
-    },
-    {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "url": "https://openai.com/index/mufg",
-      "date": "2026-07-07T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 33,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "date": "2026-07-07T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 29,
-      "tags": [],
-      "image": null
     },
     {
       "title": "SAP Completes Acquisition of Dremio",
@@ -1397,19 +1440,6 @@
       "image": null
     },
     {
-      "title": "Highlights from Git 2.55",
-      "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog .",
-      "url": "https://github.blog/open-source/git/highlights-from-git-2-55/",
-      "date": "2026-06-29T17:25:25+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
-      "tags": [
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "Claude in Microsoft Foundry is now generally available",
       "summary": "Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post Claude in Microsoft Foundry is now generally available appeared first on Microsoft Azure Blog .",
       "url": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
@@ -1596,17 +1626,6 @@
       "image": null
     },
     {
-      "title": "Snowflake Postgres Powers Low-Latency ML Feature Serving",
-      "summary": "Snowflake's ML team chose Snowflake Postgres to power their Online Feature Store — demonstrating 2.5x lower latency and 7x higher QPS than Databricks Lakebase in production benchmarks.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-postgres-ml-online-feature-store",
-      "date": "2026-06-22T21:26:14+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
       "summary": "Adopting AV1 for real-time communication at Meta has been a multi-year effort spanning codec selection, device eligibility, rate control, and error resilience. We’re sharing the technical and operational challenges while deploying AV1 and expanding coverage, and how we addressed them for real-time communication. We’re presenting several technologies for improving AV1 call quality, including rate c",
       "url": "https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/",
@@ -1756,19 +1775,6 @@
       "relevance": 13,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "date": "2026-06-15T15:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "data"
       ],
       "image": null
     }
