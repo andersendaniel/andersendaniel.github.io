@@ -1,7 +1,40 @@
 {
-  "generated": "2026-07-16T07:19:34.632020+00:00",
+  "generated": "2026-07-16T12:16:54.472094+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "The Pattern Emerging Across AI Transformations",
+      "summary": "What happens when intelligence becomes embedded into the core of how a business operates?",
+      "url": "https://news.sap.com/2026/07/ai-transformations-pattern-emerging/",
+      "date": "2026-07-16T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Breaking Deadlocks: How A Tech Apprenticeship Alum Secured a £1.2M Enterprise Deal",
+      "summary": "When Ireoluwa Bayo-Tofowomo joined the Salesforce Future Pathways programme in London, she focused on learning the ropes of her tech apprenticeship. Fast forward less than three years, and she isn’t just participating in the business—she’s actively driving revenue.",
+      "url": "https://www.salesforce.com/blog/tech-apprenticeship-1-4m-deal-future-pathways/",
+      "date": "2026-07-16T10:42:59+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Our approach to bioresilience",
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "date": "2026-07-16T09:30:42+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo"
+    },
     {
       "title": "Introducing Apache Spark 4.2",
       "summary": "IntroductionApache Spark 4.2 moves more of the modern data and AI stack into the...",
@@ -1165,17 +1198,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-2-blog-2048x1024-no-copy-logo.jpg"
-    },
-    {
-      "title": "SAP and IBM Announce Client Momentum Across IBM Technology and SAP Cloud ERP Private to Drive AI Innovation",
-      "summary": "WALLDORF & ARMONK — Global enterprises are modernizing their ERP workloads.",
-      "url": "https://news.sap.com/2026/07/ibm-technology-sap-cloud-erp-private-client-momentum-ai-innovation/",
-      "date": "2026-07-02T12:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 7,
-      "tags": [],
-      "image": null
     },
     {
       "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
