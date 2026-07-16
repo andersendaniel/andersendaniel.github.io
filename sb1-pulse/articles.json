@@ -1,7 +1,125 @@
 {
-  "generated": "2026-07-16T18:01:24.284848+00:00",
+  "generated": "2026-07-16T23:53:55.221506+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Your AI is ready. Your data foundation probably isn’t",
+      "summary": "For most large enterprises, AI transformation is a story of silos — business units...",
+      "url": "https://www.databricks.com/blog/your-ai-ready-your-data-foundation-probably-isnt",
+      "date": "2026-07-16T22:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud (US)",
+      "summary": "Amazon Managed Grafana is now a FedRAMP High authorized service in the AWS GovCloud (US-East) and AWS GovCloud (US-West) regions. Federal agencies, public sector organizations, and other enterprises with FedRAMP High compliance requirements can now use Amazon Managed Grafana to visualize, query, and alert on operational metrics across their AWS and hybrid environments while meeting their strict se",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high/",
+      "date": "2026-07-16T19:31:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Track cost efficiency trends directly in Billing and Cost Management Dashboards with the new Cost Efficiency widget",
+      "summary": "Today, AWS Billing and Cost Management (BCM) announces support for Cost Efficiency widget in BCM Dashboards. You can now view cost efficiency trends alongside Cost Explorer, Budgets, and reports for Savings Plans and Reserved Instance coverage and utilization reports. This provides a unified view of your spending, commitments, and optimization performance in a single, tailored dashboard. The Cost ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/monitor-cost-efficiency-using-dashboards",
+      "date": "2026-07-16T18:56:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 now surfaces the public SSM parameters associated with public AMIs",
+      "summary": "Amazon EC2 now surfaces the AWS Systems Manager (SSM) Parameter Store parameters associated with public AMIs directly in the AMI metadata. When you describe a public AMI, the response includes the associated public SSM parameter, making it easy to discover and reference in your configurations. Previously, finding the SSM parameter associated with a public AMI required searching through SSM paramet",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-public-images-ssm-parameters",
+      "date": "2026-07-16T18:20:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon S3 Event Notifications now include system-generated tags",
+      "summary": "Amazon S3 Event Notifications now include system-generated tags in events delivered to all destinations including Amazon EventBridge, Amazon SQS, Amazon SNS, and AWS Lambda. System-generated tags are metadata labels attached to your bucket by AWS services. You can use these tags to filter events from thousands of buckets with a single EventBridge rule, instead of listing each bucket name individua",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-event-notifications-system-generated-tags/",
+      "date": "2026-07-16T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "PostgreSQL 19 Beta 2 is now available in Amazon RDS Database Preview Environment",
+      "summary": "Amazon RDS for PostgreSQL 19 Beta 2 is now available in the Amazon RDS Database Preview Environment , allowing you to evaluate the pre-release of PostgreSQL 19 on Amazon RDS for PostgreSQL. You can deploy PostgreSQL 19 Beta 2 in the Amazon RDS Database Preview Environment that has the benefits of a fully managed database. PostgreSQL 19 introduces parallel autovacuum with configurable worker limits",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/postgresql-19-beta-2-amazon-rds-database-preview-environment/",
+      "date": "2026-07-16T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "The skills gap behind agentic AI — and how Databricks is closing it with a new context engineer certification and agent trainings",
+      "summary": "Engineering the Future: The Context Engineer CertificationAs organizations race to...",
+      "url": "https://www.databricks.com/blog/skills-gap-behind-agentic-ai-and-how-databricks-closing-it-new-context-engineer-certification",
+      "date": "2026-07-16T18:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "What happens in the milliseconds after you tap pay",
+      "summary": "You're standing at the register. You tap your card. A tiny spinner appears for maybe...",
+      "url": "https://www.databricks.com/blog/what-happens-milliseconds-after-you-tap-pay",
+      "date": "2026-07-16T18:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Unified context: The missing layer for enterprise AI coworkers",
+      "summary": "AI assistants are quickly spreading across the surface layer of work. They draft...",
+      "url": "https://www.databricks.com/blog/unified-context-missing-layer-enterprise-ai-coworkers",
+      "date": "2026-07-16T18:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Sustainability service now includes water withdrawals data",
+      "summary": "Customers can now view annual water withdrawals data associated with their AWS workloads in AWS Sustainability, alongside existing carbon emissions data. This enhancement helps organizations gain comprehensive visibility into their environmental impact across carbon and water. Water withdrawals data is available by AWS Region, service, and AWS account on an annual basis through the AWS Sustainabil",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-sustainability-water-withdrawals/",
+      "date": "2026-07-16T16:43:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Trust Shouldn’t Be a Product Feature. It Has to Be the Foundation.",
       "summary": "Why enterprise AI success starts with how you protect your data, not just how you use it",
@@ -10,6 +128,30 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 High Memory U7in-24TB instances now available in AWS Europe (Paris) region",
+      "summary": "Amazon EC2 High Memory U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS Europe (Paris) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids). U7in-24TB instances offer 24 TiB of DDR5 memory, enabling customers to scale transaction processing throughput in a fast-growing data environmen",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-europe/",
+      "date": "2026-07-16T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Redshift adds rg.large and rg.12xlarge instance sizes",
+      "summary": "Amazon Redshift announces the general availability of two new RG instance sizes - rg.large and rg.12xlarge. These new sizes deliver the same Graviton-powered performance benefits as existing RG instances, including up to 2.4x faster query performance than previous-generation RA3 instances at 30% lower price per vCPU, giving you more flexibility to right-size your provisioned clusters for any workl",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-adds-rg-large-12xlarge-instance-sizes",
+      "date": "2026-07-16T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -101,6 +243,30 @@
       "category": "salesforce",
       "relevance": 4,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Backup extends logically air-gapped vault support to six additional AWS Regions",
+      "summary": "AWS Backup logically air-gapped vaults are now available in six additional AWS Regions: Asia Pacific (Taipei), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Thailand), Mexico (Central), and Canada West (Calgary). With logically air-gapped vaults now available in these Regions, you can store immutable, isolated backups that are locked by default and encrypted using AWS owned ke",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-logically-air-gapped-vault-regions/",
+      "date": "2026-07-16T10:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Backup extends restore testing support to six additional AWS Regions",
+      "summary": "AWS Backup restore testing is now available in six additional AWS Regions: Asia Pacific (Taipei), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Thailand), Mexico (Central), and Canada West (Calgary). Restore testing helps you automate and periodically run restore tests of supported AWS resources across storage, compute, and database services. You can create restore testing pla",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-restore-testing-regions/",
+      "date": "2026-07-16T10:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -226,31 +392,6 @@
       "image": null
     },
     {
-      "title": "Amazon MQ now supports configurable storage for RabbitMQ brokers",
-      "summary": "Amazon MQ now allows you to configure the EBS Disk storage size for RabbitMQ brokers independently of instance type. When creating or updating a broker, you can define a custom storage size, allowing you to right-size storage independently of your instance size to match your specific messaging workload requirements. Configurable storage is available for RabbitMQ M7g brokers on version 4.2 or later",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mq-rabbitmq-configurable-storage/",
-      "date": "2026-07-15T18:18:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 G7e instances now available in additional regions",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs are now available in the AWS Europe (Frankfurt, Stockholm) and Asia Pacific (Mumbai) Regions. G7e instances offer up to 2.3x inference performance compared to G6e. Customers can use G7e instances to deploy large language models (LLMs), agentic AI models, multimod",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-g7e-additional-regions/",
-      "date": "2026-07-15T18:04:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 44,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Data-Native AI Agents: Why Agents Must Move to Your Data",
       "summary": "Most enterprise AI pilots clear the same low bar: connect an LLM to your data, drop...",
       "url": "https://www.databricks.com/blog/data-native-ai-agents-why-agents-must-move-your-data",
@@ -297,59 +438,6 @@
       "image": null
     },
     {
-      "title": "Amazon RDS and Aurora now support R8g and M8g database instances in additional AWS Regions",
-      "summary": "AWS Graviton4-based R8g database instances are now generally available for Amazon Aurora (MySQL and PostgreSQL compatibility) and Amazon RDS for PostgreSQL, MySQL, and MariaDB in Asia Pacific (Hyderabad, Melbourne, Malaysia), Europe (London, Paris, Zurich), AWS GovCloud (US-East), South America (Sao Paulo), and Mexico (Central) regions. Additionally, M8g instances are now supported for Amazon RDS ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-rds-aurora-r8g-m8g-regions/",
-      "date": "2026-07-15T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS and Aurora expand R8gd and M8gd to additional Regions",
-      "summary": "Amazon Relational Database Service (RDS) now supports R8gd database instances in 12 additional regions and and M8gd database instances in 6 additional Regions with Optimized Reads for Amazon Aurora PostgreSQL, RDS for PostgreSQL, RDS for MySQL, and RDS for MariaDB. R8gd and M8gd instances deliver up to 165% better throughput and up to 120% better price-performance over R6g instances for Aurora Pos",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-aurora-r8gd-m8gd-regions/",
-      "date": "2026-07-15T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon MSK Express Brokers adds support for Apache Kafka version 4.2",
-      "summary": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) Express Brokers now supports Apache Kafka version 4.2. This release includes Eligible Leader Replicas (ELR) enhancements that strengthen availability with improved leader election correctness. It also introduces a new consumer rebalance protocol that helps ensure smoother and faster group rebalances, and a new Streams Rebalance Protocol that e",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-express-version-42/",
-      "date": "2026-07-15T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS now supports up to four storage modifications in 24 hours",
-      "summary": "Amazon RDS now allows up to four storage modifications per database instance within a rolling 24-hour window. These modifications let you increase the size, change the type, and adjust the performance of your RDS storage volumes. You can start a new modification right after storage optimization for the previous modification is complete without having to wait for the six-hour cool-off period to com",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-upto-four-storage-modifications-24-hours",
-      "date": "2026-07-15T16:15:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Breaking Down the Stack: Browser-Bound vs. Headless Architecture",
       "summary": "Maximize your AI investments with a headless architecture. Here’s how.",
       "url": "https://www.salesforce.com/blog/headless-architecture-vs-browser-bound/",
@@ -361,20 +449,6 @@
       "image": null
     },
     {
-      "title": "AWS Glue SAP OData connector and zero-ETL integrations are now available in AWS GovCloud (US) regions",
-      "summary": "AWS Glue SAP OData connector and zero-ETL integrations are now available in AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions, with support for Amazon DynamoDB, Salesforce, and SAP OData as sources. Customers operating in regulated environments can now replicate data from these sources into Amazon Redshift, Amazon S3, or other supported destinations without building or maintaining custom d",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-sap-zero-etl-govcloud",
-      "date": "2026-07-15T15:51:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "A Practitioner’s Guide to AI-Assisted Org Discovery: Map the Org Before You Build",
       "summary": "Part one of this two-part series walks through four discovery domains: custom objects, automation dependencies, integration touchpoints, and antipatterns.",
       "url": "https://www.salesforce.com/blog/ai-assisted-salesforce-org-discovery-map-before-you-build/",
@@ -383,21 +457,6 @@
       "category": "salesforce",
       "relevance": 6,
       "tags": [
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon OpenSearch Service now supports the Agent Toolkit for AWS with a curated skill",
-      "summary": "Amazon OpenSearch Service now integrates with the Agent Toolkit for AWS , enabling you to build, manage, and query OpenSearch Service domains and OpenSearch Serverless collections directly from AI coding agents such as Claude Code, Kiro, and Cursor. The integration is powered by the AWS MCP (Model Context Protocol) server, which executes AWS API calls on your behalf, paired with the curated amazon",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-agent/",
-      "date": "2026-07-15T14:44:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 20,
-      "tags": [
-        "ai",
-        "cloud",
         "automation"
       ],
       "image": null
@@ -455,7 +514,7 @@
       "category": "nvidia",
       "relevance": 1,
       "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/IMG_7018-scaled-e1784111533455.jpg"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/0715-Physical-AI-Activation-and-BaC-LDA_8618.jpg"
     },
     {
       "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
@@ -479,44 +538,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS for Db2 is now available in additional AWS Commercial regions",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for Db2 is now available in the Asia Pacific (Thailand), Asia Pacific (Malaysia), Asia Pacific (Taipei), Mexico (Central), and Canada West (Calgary) Regions. Amazon RDS for Db2 makes it easy to set up, operate, and scale Db2 databases in the cloud. Customers can deploy a Db2 database in minutes with automatically configured parameters for optimal per",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-db2-available-additional-aws-commercial-regions",
-      "date": "2026-07-15T07:39:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Lambda announces self-managed code storage",
-      "summary": "AWS Lambda now supports self-managed Amazon S3 buckets for code storage, enabling you to reference source code directly from your own S3 buckets without Lambda creating intermediate copies. This eliminates code storage limits and reduces function activation time after function creates and updates by removing the copy step. AWS Lambda is a serverless compute service that runs your code without requ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambda-self-managed-code-storage/",
-      "date": "2026-07-15T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate",
-      "summary": "AWS Elastic Disaster Recovery (AWS DRS) now supports the Amazon EBS volume initialization rate, helping recovered volumes reach full performance faster during drills and recoveries. When DRS restores EBS volumes from snapshots, the data loads from Amazon S3 in the background, and I/O to blocks that haven't loaded yet can be slower until initialization finishes. With this launch, you can set a volu",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/",
-      "date": "2026-07-14T22:00:56+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -568,32 +589,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/performance-per-watt-ai-infra-efficiency.jpg"
     },
     {
-      "title": "How Retail Finance teams are using Agentic AI to protect omni-channel margins",
-      "summary": "Ask a retail CFO where the quarter's margin is landing and you will always get a hard-won answer...",
-      "url": "https://www.databricks.com/blog/how-retail-finance-teams-are-using-agentic-ai-protect-omni-channel-margins",
-      "date": "2026-07-14T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Foundational context: Cross-industry & function-specific accelerators for Lakebase",
-      "summary": "Databricks Lakebase is a fully managed, serverless Postgres database built for the...",
-      "url": "https://www.databricks.com/blog/foundational-context-cross-industry-function-specific-accelerators-lakebase",
-      "date": "2026-07-14T13:15:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "How Canada Goose Used AI to Expand Capacity and Create a Revenue-Generating Experience Center",
       "summary": "By augmenting its Style Experts with Agentforce, Canada Goose reduced peak-season wait times by 13.9% and improved customer satisfaction by 21.2%.",
       "url": "https://www.salesforce.com/blog/canada-goose-voice-ai/",
@@ -611,17 +606,6 @@
       "date": "2026-07-14T13:00:00+00:00",
       "source": "Salesforce Blog",
       "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Blocking Slow-Burn Attacks: Contextual Policies in Omnigent",
-      "summary": "Judging an agent one action at a time isn't enough. In this post, we show how a realistic...",
-      "url": "https://www.databricks.com/blog/blocking-slow-burn-attacks-contextual-policies-omnigent",
-      "date": "2026-07-14T12:47:28+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -681,17 +665,6 @@
       "source": "AWS Blog",
       "category": "aws",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Ultra-Fast Anomaly Detection using Apache Spark Real-Time Mode",
-      "summary": "This post establishes a reusable pattern for operational workloads that genuinely move the needle: fraud detection...",
-      "url": "https://www.databricks.com/blog/ultra-fast-anomaly-detection-using-apache-spark-real-time-mode",
-      "date": "2026-07-13T17:25:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 17,
       "tags": [],
       "image": null
     },
@@ -1794,17 +1767,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleLondon_2_1.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "date": "2026-06-16T21:29:50+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo"
     }
   ]
 }
