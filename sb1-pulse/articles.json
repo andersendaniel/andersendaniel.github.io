@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-15T23:54:11.943713+00:00",
+  "generated": "2026-07-16T07:19:34.632020+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Introducing Apache Spark 4.2",
+      "summary": "IntroductionApache Spark 4.2 moves more of the modern data and AI stack into the...",
+      "url": "https://www.databricks.com/blog/introducing-apache-spark-42",
+      "date": "2026-07-16T07:00:01+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
       "summary": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]",
@@ -86,14 +97,17 @@
       "image": null
     },
     {
-      "title": "AI-Enabled Advisory Services for Higher Education",
-      "summary": "The ProblemCall centers are a key student support tool for higher education. Advisors...",
-      "url": "https://www.databricks.com/blog/ai-enabled-advisory-services-higher-education",
-      "date": "2026-07-15T17:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
+      "title": "Amazon EC2 G7e instances now available in additional regions",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs are now available in the AWS Europe (Frankfurt, Stockholm) and Asia Pacific (Mumbai) Regions. G7e instances offer up to 2.3x inference performance compared to G6e. Customers can use G7e instances to deploy large language models (LLMs), agentic AI models, multimod",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-g7e-additional-regions/",
+      "date": "2026-07-15T18:04:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 44,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -107,6 +121,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "AI-Enabled Advisory Services for Higher Education",
+      "summary": "The ProblemCall centers are a key student support tool for higher education. Advisors...",
+      "url": "https://www.databricks.com/blog/ai-enabled-advisory-services-higher-education",
+      "date": "2026-07-15T17:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
       "image": null
     },
     {
@@ -382,19 +407,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 M8in, M8idn, M8ib, M8idb instances are now available in additional regions",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8in, M8idn network optimized, and M8ib, M8idb EBS optimized instances are available in the AWS US East (Ohio), Europe (Ireland), and Asia Pacific (Tokyo) regions. The new instances are powered by custom sixth generation Intel Xeon Scalable processors available only on AWS and deliver up to 43% higher performance compared to previous genera",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/m8in-m8idn-m8ib-m8idb-new-regions",
-      "date": "2026-07-14T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
       "summary": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust.",
       "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
@@ -602,17 +614,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Practical Guide To Python App Hosting",
-      "summary": "Python has become the default language for data-intensive work, AI applications and...",
-      "url": "https://www.databricks.com/blog/python-app-hosting",
-      "date": "2026-07-13T08:46:49+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
