@@ -1,7 +1,86 @@
 {
-  "generated": "2026-07-16T12:16:54.472094+00:00",
+  "generated": "2026-07-16T18:01:24.284848+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Trust Shouldn’t Be a Product Feature. It Has to Be the Foundation.",
+      "summary": "Why enterprise AI success starts with how you protect your data, not just how you use it",
+      "url": "https://www.salesforce.com/blog/data-trust-foundation/",
+      "date": "2026-07-16T16:20:39+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Connect more of your apps to Search",
+      "summary": "Connected apps rendering",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "date": "2026-07-16T16:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "date": "2026-07-16T16:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 13,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "date": "2026-07-16T16:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Unity Catalog managed tables bring interoperability, performance, and unified governance to the Lakehouse",
+      "summary": "Unity Catalog was designed for interoperability at scale. Enterprises have the flexibility...",
+      "url": "https://www.databricks.com/blog/how-unity-catalog-managed-tables-bring-interoperability-performance-and-unified-governance",
+      "date": "2026-07-16T15:13:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
+      "summary": "Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in with five new games arriving in the cloud. Plus, GeForce NOW officially launches in India, moving from beta to public availability — meaning gamers can sign up without a waitlist. […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
+      "date": "2026-07-16T13:00:34+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/blog-1920x1080-no-copy.jpg"
+    },
+    {
+      "title": "Who’s Ready For Multi-Agents? Get Your Business AI-Ready",
+      "summary": "Multiple AI agents are no longer a futuristic concept — they're the competitive advantage small businesses are using right now.",
+      "url": "https://www.salesforce.com/blog/small-business/multi-ai-agents/",
+      "date": "2026-07-16T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "The Pattern Emerging Across AI Transformations",
       "summary": "What happens when intelligence becomes embedded into the core of how a business operates?",
@@ -47,6 +126,20 @@
       "image": null
     },
     {
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "url": "https://openai.com/index/cars24",
+      "date": "2026-07-16T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 5,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
       "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
       "summary": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]",
       "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
@@ -56,6 +149,20 @@
       "relevance": 14,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1.jpg"
+    },
+    {
+      "title": "Amazon CloudWatch Logs Insights adds 25 new query commands and functions",
+      "summary": "Amazon CloudWatch Logs Insights query language now supports 25 new commands and functions that expand your ability to query, transform, correlate, and analyze logs. Customers analyzing logs in CloudWatch Logs Insights often need to perform statistical aggregation, handle null values in time-series data, compare logs across time windows, detect outliers, and enrich events with lookup data. With thi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-cloudwatch-logs-insights-ql/",
+      "date": "2026-07-15T21:56:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
     },
     {
       "title": "Snowflake and ICF: Unlocking Data Value for the Public Sector",
@@ -413,20 +520,6 @@
       "image": null
     },
     {
-      "title": "Amazon CloudWatch announces lookup processor for log enrichment",
-      "summary": "Amazon CloudWatch now supports lookup processor, enabling you to enrich log events with additional context by matching fields in your logs against a lookup table directly within your CloudWatch Pipeline. With the lookup processor, you can upload CSV files containing reference data and configure your pipeline to match incoming log fields against this data to add enriched metadata. For example, you ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-lookup-processor/",
-      "date": "2026-07-14T22:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Take insights anywhere with Genie One on mobile",
       "summary": "We recently announced Genie One, the data-smart AI coworker for business users. Today,...",
       "url": "https://www.databricks.com/blog/take-insights-anywhere-genie-one-mobile",
@@ -581,19 +674,6 @@
       "image": null
     },
     {
-      "title": "How Unity Catalog managed tables bring interoperability, performance, and unified governance to the Lakehouse",
-      "summary": "Unity Catalog was designed for interoperability at scale. Enterprises have the flexibility...",
-      "url": "https://www.databricks.com/blog/how-unity-catalog-managed-tables-bring-interoperability-performance-and-unified-governance",
-      "date": "2026-07-13T22:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
       "summary": "On July 13, 2006, we launched Amazon Simple Queue Service (Amazon SQS) as one of the first three services available to customers, alongside Amazon EC2 and Amazon S3. We had learned firsthand that distributed systems need a reliable way to pass messages between components without creating tight dependencies. If one service called another directly and […]",
       "url": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/",
@@ -648,19 +728,6 @@
       "category": "sap",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "The New AI Trust Architecture: 5 Requirements for Agent-to-Agent Communication",
-      "summary": "In London in 1832, clerks from thirty-one competing banks gathered every afternoon on Lombard Street to settle accounts. Each bank had already mastered the basics — tracking debits, crediting accounts, settling balances. The…",
-      "url": "https://www.salesforce.com/blog/new-ai-trust-architecture/",
-      "date": "2026-07-10T16:40:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [
-        "banking"
-      ],
       "image": null
     },
     {
@@ -798,6 +865,17 @@
       "image": null
     },
     {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "date": "2026-07-09T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "ChatGPT is now a partner for your most ambitious work",
       "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
@@ -814,17 +892,6 @@
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "url": "https://openai.com/index/gpt-5-6",
-      "date": "2026-07-09T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "url": "https://openai.com/index/bio-bug-bounty",
       "date": "2026-07-09T10:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -983,28 +1050,6 @@
       "image": null
     },
     {
-      "title": "Helping K–12 educators build practical AI skills",
-      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "date": "2026-07-08T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Introducing GPT-Live",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "date": "2026-07-08T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "FinOps for AI: Snowflake's AI Cost Management and Governance Tools",
       "summary": "See how Snowflake uses AI to simplify cost analysis and delivers budgets, per-user quotas and granular AI usage views so teams can govern AI spend at scale.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-finops-cost-management-governance-snowflake",
@@ -1153,17 +1198,6 @@
       "tags": [
         "automation"
       ],
-      "image": null
-    },
-    {
-      "title": "Fall in Love with the Problem, Not the Solution: Rethinking AI for Real Impact",
-      "summary": "AI isn’t just about doing more, faster.",
-      "url": "https://news.sap.com/2026/07/fall-in-love-with-problem-not-solution-ai-real-impact/",
-      "date": "2026-07-06T10:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1440,17 +1474,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
-    },
-    {
-      "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
-      "summary": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and systems, and strengthened by a broad open source ecosystem, NVIDIA’s […]",
-      "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
-      "date": "2026-06-30T15:00:57+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 3,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/press-inference-ai-aws-beat-1920x1080-1.png"
     },
     {
       "title": "Cortex Sense for Enterprise AI Agents | Snowflake",
@@ -1782,32 +1805,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Securing the future of AI agents",
-      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
-      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-      "date": "2026-06-16T15:46:31+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 17,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://lh3.googleusercontent.com/X6w_t9eA7TLFiq3JMp1kXlon25qi9N6O0AxPyp7j0qOIu8oz-QDsaOP-oKz7FIuqlA3W1evDbeLYssDJM_fjkqeyscPO_fHJd0xeD0IoDlHkiUQW1w=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Copilot Cowork is now generally available",
-      "summary": "Cowork is the fastest growing feature in the history of our Frontier program, and Cowork has among the highest user satisfaction of any Copilot or agent experience we have shipped. The post Copilot Cowork is now generally available appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/",
-      "date": "2026-06-16T15:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     }
   ]
 }
