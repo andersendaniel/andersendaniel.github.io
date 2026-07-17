@@ -1,7 +1,32 @@
 {
-  "generated": "2026-07-17T17:59:49.408985+00:00",
+  "generated": "2026-07-17T23:46:57.872381+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Tech builds on AI. Finance protects the margin.",
+      "summary": "Ask a tech company CFO where the quarter's margin is landing, and you will get a...",
+      "url": "https://www.databricks.com/blog/tech-builds-ai-finance-protects-margin",
+      "date": "2026-07-17T19:26:20+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon OpenSearch UI now supports one-click dashboard migration",
+      "summary": "Amazon OpenSearch Service now supports one-click migration from legacy OpenSearch Dashboards to OpenSearch UI, for both OpenSearch domains and serverless collections. OpenSearch UI is the new, zero-downtime, serverless interface for search and unified observability across multiple data sources. With this launch, the multiple tenants and thousands of saved objects you created in legacy OpenSearch D",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-ui-one-click-dashboard-migration",
+      "date": "2026-07-17T17:23:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Building a soccer coaching app on Databricks",
       "summary": "Tracking data is now the richest signal in sport, but the real gap is turning the...",
@@ -51,6 +76,19 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/inline-1784235912807.png"
     },
     {
+      "title": "Meta’s Spark Muse 1.1 is now available on Databricks, fully governed by Unity AI Gateway",
+      "summary": "Every new model release promises better reasoning, lower costs, or new capabilities,...",
+      "url": "https://www.databricks.com/blog/metas-spark-muse-11-now-available-databricks-fully-governed-unity-ai-gateway",
+      "date": "2026-07-17T13:08:01+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
       "summary": "Put the power of a full business team in your hands with AI.",
       "url": "https://www.salesforce.com/blog/small-business/ai-tools-for-entrepreneurs/",
@@ -74,7 +112,7 @@
     },
     {
       "title": "A scorecard for the AI age",
-      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "date": "2026-07-17T10:00:00+00:00",
       "source": "OpenAI Blog",
@@ -235,6 +273,17 @@
       "image": null
     },
     {
+      "title": "Amazon Redshift adds rg.large and rg.12xlarge instance sizes",
+      "summary": "Amazon Redshift announces the general availability of two new RG instance sizes - rg.large and rg.12xlarge. These new sizes deliver the same Graviton-powered performance benefits as existing RG instances, including up to 2.4x faster query performance than previous-generation RA3 instances at 30% lower price per vCPU, giving you more flexibility to right-size your provisioned clusters for any workl",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-adds-rg-large-12xlarge-instance-sizes",
+      "date": "2026-07-16T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon EC2 High Memory U7in-24TB instances now available in AWS Europe (Paris) region",
       "summary": "Amazon EC2 High Memory U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS Europe (Paris) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids). U7in-24TB instances offer 24 TiB of DDR5 memory, enabling customers to scale transaction processing throughput in a fast-growing data environmen",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-europe/",
@@ -245,17 +294,6 @@
       "tags": [
         "automation"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon Redshift adds rg.large and rg.12xlarge instance sizes",
-      "summary": "Amazon Redshift announces the general availability of two new RG instance sizes - rg.large and rg.12xlarge. These new sizes deliver the same Graviton-powered performance benefits as existing RG instances, including up to 2.4x faster query performance than previous-generation RA3 instances at 30% lower price per vCPU, giving you more flexibility to right-size your provisioned clusters for any workl",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-adds-rg-large-12xlarge-instance-sizes",
-      "date": "2026-07-16T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -349,8 +387,8 @@
       "image": null
     },
     {
-      "title": "AWS Backup extends logically air-gapped vault support to seven additional AWS Regions",
-      "summary": "AWS Backup logically air-gapped vaults are now available in seven additional AWS Regions: Asia Pacific (Taipei), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Thailand), Israel (Tel Aviv), Mexico (Central), and Canada West (Calgary). With logically air-gapped vaults now available in these Regions, you can store immutable, isolated backups that are locked by default and encrypt",
+      "title": "AWS Backup extends logically air-gapped vault support to six additional AWS Regions",
+      "summary": "AWS Backup logically air-gapped vaults are now available in six additional AWS Regions: Asia Pacific (Taipei), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Thailand), Mexico (Central), and Canada West (Calgary). With logically air-gapped vaults now available in these Regions, you can store immutable, isolated backups that are locked by default and encrypted using AWS owned ke",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-logically-air-gapped-vault-regions/",
       "date": "2026-07-16T10:00:00+00:00",
       "source": "AWS What's New",
@@ -420,20 +458,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1.jpg"
     },
     {
-      "title": "Amazon CloudWatch Logs Insights adds 25 new query commands and functions",
-      "summary": "Amazon CloudWatch Logs Insights query language now supports 25 new commands and functions that expand your ability to query, transform, correlate, and analyze logs. Customers analyzing logs in CloudWatch Logs Insights often need to perform statistical aggregation, handle null values in time-series data, compare logs across time windows, detect outliers, and enrich events with lookup data. With thi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-cloudwatch-logs-insights-ql/",
-      "date": "2026-07-15T21:56:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Snowflake and ICF: Unlocking Data Value for the Public Sector",
       "summary": "See how ICF and Snowflake modernized federal health data management, cut ETL time by 75%, reduced costs by 80% and enabled AI-ready analytics.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/federal-health-cloud-data-management",
@@ -443,19 +467,6 @@
       "relevance": 6,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon CloudWatch Logs announces intelligent tiering for storage",
-      "summary": "Amazon CloudWatch Logs now supports intelligent storage tiering, which automatically classifies your log data across three storage tiers - Standard (existing), Infrequent Access, and Archive Instant Access based on access patterns. This allows you to store logs in Amazon CloudWatch for extended periods at lower-cost tiers without any operational overhead. With today's launch, customers can now ret",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/",
-      "date": "2026-07-15T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -473,17 +484,6 @@
       "image": null
     },
     {
-      "title": "Inkling model from Thinking Machines Lab now on Databricks",
-      "summary": "We are excited to announce Databricks as a day zero launch partner for Thinking Machines Lab (TML)...",
-      "url": "https://www.databricks.com/blog/inkling-thinking-machines-lab-now-databricks",
-      "date": "2026-07-15T18:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Trust Is the Product: How Salesforce Thinks About Data in the AI Era",
       "summary": "In the AI era, the most important question you can ask about your data platform isn’t what it can do — it’s whether it does it with your trust intact. At Salesforce, that…",
       "url": "https://www.salesforce.com/blog/salesforce-data-ownership-approach/",
@@ -492,19 +492,6 @@
       "category": "salesforce",
       "relevance": 7,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Data-Native AI Agents: Why Agents Must Move to Your Data",
-      "summary": "Most enterprise AI pilots clear the same low bar: connect an LLM to your data, drop...",
-      "url": "https://www.databricks.com/blog/data-native-ai-agents-why-agents-must-move-your-data",
-      "date": "2026-07-15T17:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 30,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
