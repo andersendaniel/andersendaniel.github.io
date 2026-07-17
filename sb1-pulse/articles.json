@@ -1,7 +1,88 @@
 {
-  "generated": "2026-07-17T12:04:25.538074+00:00",
+  "generated": "2026-07-17T17:59:49.408985+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Building a soccer coaching app on Databricks",
+      "summary": "Tracking data is now the richest signal in sport, but the real gap is turning the...",
+      "url": "https://www.databricks.com/blog/building-soccer-coaching-app-databricks",
+      "date": "2026-07-17T17:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The cost of saying yes has changed",
+      "summary": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog .",
+      "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+      "date": "2026-07-17T16:46:47+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jul 13 - Jul 17 Resour",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "date": "2026-07-17T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+      "summary": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "date": "2026-07-17T15:00:14+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/inline-1784235912807.png"
+    },
+    {
+      "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
+      "summary": "Put the power of a full business team in your hands with AI.",
+      "url": "https://www.salesforce.com/blog/small-business/ai-tools-for-entrepreneurs/",
+      "date": "2026-07-17T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The Winners of the Energy and Utilities Innovation Award",
+      "summary": "The winners demonstrate the wide range of possibilities through which companies in the energy and utilities sector are actively shaping digital transformation.",
+      "url": "https://news.sap.com/2026/07/winners-energy-and-utilities-innovation-award/",
+      "date": "2026-07-17T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A scorecard for the AI age",
+      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "date": "2026-07-17T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "SAP Completes Acquisition of Prior Labs",
       "summary": "WALLDORF — SAP has completed the acquisition of the pioneer of Tabular Foundation Models.",
@@ -95,6 +176,19 @@
       "image": null
     },
     {
+      "title": "The skills gap behind agentic AI — and how Databricks is closing it with a new context engineer certification and agent trainings",
+      "summary": "Engineering the Future: The Context Engineer CertificationAs organizations race to...",
+      "url": "https://www.databricks.com/blog/skills-gap-behind-agentic-ai-and-how-databricks-closing-it-new-context-engineer-certification",
+      "date": "2026-07-16T18:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
       "title": "What happens in the milliseconds after you tap pay",
       "summary": "You're standing at the register. You tap your card. A tiny spinner appears for maybe...",
       "url": "https://www.databricks.com/blog/what-happens-milliseconds-after-you-tap-pay",
@@ -114,19 +208,6 @@
       "category": "databricks",
       "relevance": 6,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "The skills gap behind agentic AI — and how Databricks is closing it with a new context engineer certification and agent trainings",
-      "summary": "Engineering the Future: The Context Engineer CertificationAs organizations race to...",
-      "url": "https://www.databricks.com/blog/skills-gap-behind-agentic-ai-and-how-databricks-closing-it-new-context-engineer-certification",
-      "date": "2026-07-16T18:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -268,8 +349,8 @@
       "image": null
     },
     {
-      "title": "AWS Backup extends logically air-gapped vault support to six additional AWS Regions",
-      "summary": "AWS Backup logically air-gapped vaults are now available in six additional AWS Regions: Asia Pacific (Taipei), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Thailand), Mexico (Central), and Canada West (Calgary). With logically air-gapped vaults now available in these Regions, you can store immutable, isolated backups that are locked by default and encrypted using AWS owned ke",
+      "title": "AWS Backup extends logically air-gapped vault support to seven additional AWS Regions",
+      "summary": "AWS Backup logically air-gapped vaults are now available in seven additional AWS Regions: Asia Pacific (Taipei), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Thailand), Israel (Tel Aviv), Mexico (Central), and Canada West (Calgary). With logically air-gapped vaults now available in these Regions, you can store immutable, isolated backups that are locked by default and encrypt",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-logically-air-gapped-vault-regions/",
       "date": "2026-07-16T10:00:00+00:00",
       "source": "AWS What's New",
@@ -279,8 +360,8 @@
       "image": null
     },
     {
-      "title": "AWS Backup extends restore testing support to six additional AWS Regions",
-      "summary": "AWS Backup restore testing is now available in six additional AWS Regions: Asia Pacific (Taipei), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Thailand), Mexico (Central), and Canada West (Calgary). Restore testing helps you automate and periodically run restore tests of supported AWS resources across storage, compute, and database services. You can create restore testing pla",
+      "title": "AWS Backup extends restore testing support to seven additional AWS Regions",
+      "summary": "AWS Backup restore testing is now available in seven additional AWS Regions: Asia Pacific (Taipei), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Thailand), Israel (Tel Aviv), Mexico (Central), and Canada West (Calgary). Restore testing helps you automate and periodically run restore tests of supported AWS resources across storage, compute, and database services. You can creat",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-restore-testing-regions/",
       "date": "2026-07-16T10:00:00+00:00",
       "source": "AWS What's New",
@@ -427,17 +508,6 @@
       "image": null
     },
     {
-      "title": "AI-Enabled Advisory Services for Higher Education",
-      "summary": "The ProblemCall centers are a key student support tool for higher education. Advisors...",
-      "url": "https://www.databricks.com/blog/ai-enabled-advisory-services-higher-education",
-      "date": "2026-07-15T17:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
       "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub essentials appeared first on The GitHub Blog .",
       "url": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
@@ -481,6 +551,17 @@
       "tags": [
         "automation"
       ],
+      "image": null
+    },
+    {
+      "title": "Azure Databricks delivers proven business value",
+      "summary": "Microsoft Azure Databricks delivers the first-party advantage of Databricks on Microsoft—and for customers, that advantage shows up as real, measurable value. It is the same Databricks platform your teams already know, co-engineered with Microsoft and delivered as a native Azure service, so it fits naturally into the Microsoft tools, identity, and governance your organization already runs. The pos",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
+      "date": "2026-07-15T15:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 6,
+      "tags": [],
       "image": null
     },
     {
@@ -609,17 +690,6 @@
       "image": null
     },
     {
-      "title": "15+ Lead Magnet Ideas For Your New Gig",
-      "summary": "From free templates to AI-powered quizzes, here's a list of lead magnet ideas that help small businesses attract big customers.",
-      "url": "https://www.salesforce.com/blog/small-business/lead-magnet-ideas-for-smbs/",
-      "date": "2026-07-14T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How to manage AI investments in the agentic era",
       "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
@@ -711,19 +781,6 @@
       "relevance": 13,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "What’s new with Google Cloud",
-      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jul 6 - Jul 10 Webinar",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "date": "2026-07-10T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
       "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
@@ -858,6 +915,17 @@
       "image": null
     },
     {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "url": "https://openai.com/index/gpt-5-6",
+      "date": "2026-07-09T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "ChatGPT is now a partner for your most ambitious work",
       "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
@@ -868,17 +936,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "url": "https://openai.com/index/gpt-5-6",
-      "date": "2026-07-09T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
       "image": null
     },
     {
@@ -1010,17 +1067,6 @@
       "image": null
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "date": "2026-07-08T13:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
       "summary": "A co-innovation project between Natura &Co, Numen, and SAP is turning gross margin analysis from a manual process into a real-time engine for financial decision-making.",
       "url": "https://news.sap.com/2026/07/natura-co-transforming-finance-generative-ai/",
@@ -1118,19 +1164,6 @@
         "developer"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1.jpg"
-    },
-    {
-      "title": "SAP Completes Acquisition of Dremio",
-      "summary": "WALLDORF & AUSTIN — SAP has completed the acquisition of the open, high-performance data lakehouse platform.",
-      "url": "https://news.sap.com/2026/07/sap-completes-dremio-acquisition/",
-      "date": "2026-07-06T18:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
     },
     {
       "title": "How Open Models Are Driving AI Research",
@@ -1369,32 +1402,6 @@
       "image": null
     },
     {
-      "title": "How GitHub maintains compliance for open source dependencies",
-      "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog .",
-      "url": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
-      "date": "2026-06-30T17:28:16+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 2,
-      "tags": [
-        "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
-      "summary": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science […]",
-      "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
-      "date": "2026-06-30T17:00:38+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 22,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/anthropic-nvidia.png"
-    },
-    {
       "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
       "summary": "",
       "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
@@ -1553,19 +1560,6 @@
       "image": null
     },
     {
-      "title": "The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code",
-      "summary": "Poor database performance is never just a database problem. In enterprise teams, it shows up as missed SLAs, delayed releases, frustrated development teams, and rising operational risk. The performance problem compounds further in business impact, often resulting in frustrated customers, retention and conversion risk, and lost revenue. The post The performance dividend: Optimizing PostgreSQL on Az",
-      "url": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
-      "date": "2026-06-26T17:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
       "summary": "Privacy controls — systems that enforce retention, access, allowed-purpose, downstream-sharing, or anonymization policies — require a reliable understanding of data to function. Before such a control can operate effectively, it must know exactly what it is looking at. This can be complex, as demonstrated by a field simply named “age“: In one context, it [...] Read More... The post Privacy-Aware In",
       "url": "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/",
@@ -1710,46 +1704,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gallery_A__Data_Pavilion.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
-      "summary": "Amazon Bedrock's new Fully Managed Knowledge Bases simplifies building enterprise RAG pipelines by providing native data connectors Smart Parsing for automatic multi-format data preparation, and an Agentic Retriever for complex multi-step queries—all integrated with AgentCore Gateway so developers can focus on business outcomes rather than infrastructure management.",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
-      "date": "2026-06-17T15:09:20+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 19,
-      "tags": [
-        "ai",
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
-      "summary": "AWS introduces Web Search on Amazon Bedrock AgentCore, a fully managed tool that enables agents to ground responses in current, cited web knowledge with zero data egress from customer's secured AWS environment. You can focus on building agents instead of manually adding web search to agents on Bedrock AgentCore and managing its infrastructure.",
-      "url": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/",
-      "date": "2026-06-17T15:00:11+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 26,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "date": "2026-06-17T15:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp"
     }
   ]
 }
