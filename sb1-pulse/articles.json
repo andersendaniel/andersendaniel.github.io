@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T23:53:55.221506+00:00",
+  "generated": "2026-07-17T07:12:59.965859+00:00",
   "sources": 21,
   "articles": [
     {
@@ -7,6 +7,17 @@
       "summary": "For most large enterprises, AI transformation is a story of silos — business units...",
       "url": "https://www.databricks.com/blog/your-ai-ready-your-data-foundation-probably-isnt",
       "date": "2026-07-16T22:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "From experiment to insight: how Dotmatics Luma and Databricks make AI-ready science a reality",
+      "summary": "The gap between scientific data and scientific insightModern scientific workflows...",
+      "url": "https://www.databricks.com/blog/experiment-insight-how-dotmatics-luma-and-databricks-make-ai-ready-science-reality",
+      "date": "2026-07-16T21:07:45+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 6,
@@ -73,19 +84,6 @@
       "image": null
     },
     {
-      "title": "The skills gap behind agentic AI — and how Databricks is closing it with a new context engineer certification and agent trainings",
-      "summary": "Engineering the Future: The Context Engineer CertificationAs organizations race to...",
-      "url": "https://www.databricks.com/blog/skills-gap-behind-agentic-ai-and-how-databricks-closing-it-new-context-engineer-certification",
-      "date": "2026-07-16T18:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "What happens in the milliseconds after you tap pay",
       "summary": "You're standing at the register. You tap your card. A tiny spinner appears for maybe...",
       "url": "https://www.databricks.com/blog/what-happens-milliseconds-after-you-tap-pay",
@@ -105,6 +103,19 @@
       "category": "databricks",
       "relevance": 6,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "The skills gap behind agentic AI — and how Databricks is closing it with a new context engineer certification and agent trainings",
+      "summary": "Engineering the Future: The Context Engineer CertificationAs organizations race to...",
+      "url": "https://www.databricks.com/blog/skills-gap-behind-agentic-ai-and-how-databricks-closing-it-new-context-engineer-certification",
+      "date": "2026-07-16T18:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -537,19 +548,6 @@
       "relevance": 1,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Take insights anywhere with Genie One on mobile",
-      "summary": "We recently announced Genie One, the data-smart AI coworker for business users. Today,...",
-      "url": "https://www.databricks.com/blog/take-insights-anywhere-genie-one-mobile",
-      "date": "2026-07-14T22:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "data"
       ],
       "image": null
     },
@@ -1754,19 +1752,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Scaling the UK government’s AI vision",
-      "summary": "An abstract digital design of four angled, colorful rounded capsule shapes and a small sphere over a black background.",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/",
-      "date": "2026-06-17T07:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleLondon_2_1.max-600x600.format-webp.webp"
     }
   ]
 }
