@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-17T07:12:59.965859+00:00",
+  "generated": "2026-07-17T12:04:25.538074+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "SAP Completes Acquisition of Prior Labs",
+      "summary": "WALLDORF — SAP has completed the acquisition of the pioneer of Tabular Foundation Models.",
+      "url": "https://news.sap.com/2026/07/sap-completes-prior-labs-acquisition/",
+      "date": "2026-07-17T09:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Your AI is ready. Your data foundation probably isn’t",
       "summary": "For most large enterprises, AI transformation is a story of silos — business units...",
@@ -1157,19 +1168,6 @@
         "data"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2025/06/llm-blog-gtc-25-paris-3945665-1280x680-1.jpg"
-    },
-    {
-      "title": "How SAP Customer Checkout and Viva.com Are Advancing Payment Processes at the POS Along Checkout Experience",
-      "summary": "Today's customers expect speed, flexibility, and smooth integration.",
-      "url": "https://news.sap.com/2026/07/sap-customer-checkout-viva-com-advancing-payment-processes-pos-checkout-experience/",
-      "date": "2026-07-06T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [
-        "automation"
-      ],
-      "image": null
     },
     {
       "title": "Meet Brain: The AI system behind Azure reliability",
