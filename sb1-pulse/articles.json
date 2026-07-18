@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T11:50:05.943072+00:00",
+  "generated": "2026-07-18T17:52:08.652628+00:00",
   "sources": 21,
   "articles": [
     {
@@ -1689,19 +1689,6 @@
       "relevance": 5,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "Powering the world’s first AI arts museum",
-      "summary": "AI-generated Infinity Room",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/",
-      "date": "2026-06-18T15:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gallery_A__Data_Pavilion.max-600x600.format-webp.webp"
     }
   ]
 }
