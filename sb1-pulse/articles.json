@@ -1,7 +1,44 @@
 {
-  "generated": "2026-07-20T18:50:14.874756+00:00",
+  "generated": "2026-07-20T23:52:23.934118+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "2026 Holiday Predictions: A Unified Yet Fractured Journey",
+      "summary": "Holiday retail planning used to follow a predictable playbook: Optimize the checkout funnel. Launch the campaigns. Stock the shelves. Brace for Cyber Week. But in today’s market, that playbook is obsolete. Data from…",
+      "url": "https://www.salesforce.com/blog/holiday-retail-predictions-2026/",
+      "date": "2026-07-20T21:19:21+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Branching databases like code: a CI/CD pattern for Lakebase, in production at Glaspoort",
+      "summary": "The problem we couldn't ignoreGlaspoort builds and operates fiber infrastructure in the Netherlands...",
+      "url": "https://www.databricks.com/blog/branching-databases-code-cicd-pattern-lakebase-production-glaspoort",
+      "date": "2026-07-20T20:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Data Exports now provides standardized Amazon Bedrock product metadata",
+      "summary": "Today, AWS announces standardized product metadata for Amazon Bedrock in AWS Data Exports (Cost and Usage Report), giving FinOps teams and cloud administrators consistent, structured attributes to understand Bedrock costs. AWS Data Exports lets you create customized exports of your AWS cost and usage data and deliver them to Amazon S3 for querying with Amazon Athena or loading into your data wareh",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-data-exports-amazon-bedrock-product-metadata/",
+      "date": "2026-07-20T18:29:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "Scaling document classification to 100k+ labels",
       "summary": "Across Databricks, thousands of customers build production workloads that map freeform...",
@@ -11,6 +48,30 @@
       "category": "databricks",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Document Intelligence with Snowflake: Activate Business Documents",
+      "summary": "Turn business documents into AI-ready data with Snowflake Cortex AI Functions. Build enterprise search, automate document processing and analyze documents at scale.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/document-intelligence-snowflake-cortex-ai-functions",
+      "date": "2026-07-20T18:05:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Europe (Stockholm, Zurich) regions. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The R8i and R8i-flex instances offer up to 15% better price-",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8i-r8i-flex-instances-in-stockholm-zurich-regions/",
+      "date": "2026-07-20T17:37:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -54,6 +115,19 @@
       "image": null
     },
     {
+      "title": "Amazon EC2 I8ge instances are now available in AWS GovCloud (US) Regions",
+      "summary": "Amazon Web Services (AWS) announces the availability of Amazon EC2 I8ge instances in AWS GovCloud (US-East, US-West) regions. I8ge instances are powered by AWS Graviton4 processors and deliver up to 60% better compute performance compared to previous generation Graviton2-based storage optimized Amazon EC2 instances. I8ge instances use the third generation AWS Nitro SSDs, local NVMe storage, and de",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i8ge-instances-aws-govcloud-us-regions/",
+      "date": "2026-07-20T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "$100 million for open source: A milestone built by the community",
       "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog .",
       "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
@@ -89,6 +163,45 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/siggraph-featured-still-1920x1080-1.jpg"
+    },
+    {
+      "title": "Amazon WorkSpaces Applications now supports Microsoft OneDrive and Google Drive on Multi-Session fleets",
+      "summary": "Amazon WorkSpaces Applications now supports Microsoft OneDrive for Business and Google Drive as persistent storage options on multi-session fleets. Users streaming on multi-session fleets can now connect their OneDrive or Google Drive accounts and access, save, and sync their cloud-based files directly within their streaming sessions, in addition to the existing home folder backed by Amazon S3. Mu",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/storage-multi-session-fleets/",
+      "date": "2026-07-20T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Managed Service for Apache Flink now supports Apache Flink 2.3",
+      "summary": "Amazon Managed Service for Apache Flink now supports Apache Flink version 2.3. This release includes adaptive partition selection for improved backpressure handling, so applications run more smoothly under uneven load. It also introduces better handling of out-of-order updates in change data capture (CDC) pipelines that improves data correctness, and new SQL functions make it easier to convert bet",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-2-3/",
+      "date": "2026-07-20T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Announcing the general availability of a new AWS Local Zone in Athens, Greece",
+      "summary": "Today, AWS announces the general availability of a new Local Zone in Athens, Greece. The Athens Local Zone is the second Local Zone in EMEA with support for Amazon Simple Storage Service (Amazon S3) and Amazon Elastic Block Store (Amazon EBS) Local Snapshots, enabling customers to store and process data within Greece to help meet local data residency requirements. The Athens Local Zone supports Am",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-local-zone-athens-greece/",
+      "date": "2026-07-20T14:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
     },
     {
       "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
@@ -376,78 +489,6 @@
       "image": null
     },
     {
-      "title": "Track cost efficiency trends directly in Billing and Cost Management Dashboards with the new Cost Efficiency widget",
-      "summary": "Today, AWS Billing and Cost Management (BCM) announces support for Cost Efficiency widget in BCM Dashboards. You can now view cost efficiency trends alongside Cost Explorer, Budgets, and reports for Savings Plans and Reserved Instance coverage and utilization reports. This provides a unified view of your spending, commitments, and optimization performance in a single, tailored dashboard. The Cost ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/monitor-cost-efficiency-using-dashboards",
-      "date": "2026-07-16T18:56:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 now surfaces the public SSM parameters associated with public AMIs",
-      "summary": "Amazon EC2 now surfaces the AWS Systems Manager (SSM) Parameter Store parameters associated with public AMIs directly in the AMI metadata. When you describe a public AMI, the response includes the associated public SSM parameter, making it easy to discover and reference in your configurations. Previously, finding the SSM parameter associated with a public AMI required searching through SSM paramet",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-public-images-ssm-parameters",
-      "date": "2026-07-16T18:20:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon S3 Event Notifications now include system-generated tags",
-      "summary": "Amazon S3 Event Notifications now include system-generated tags in events delivered to all destinations including Amazon EventBridge, Amazon SQS, Amazon SNS, and AWS Lambda. System-generated tags are metadata labels attached to your bucket by AWS services. You can use these tags to filter events from thousands of buckets with a single EventBridge rule, instead of listing each bucket name individua",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-event-notifications-system-generated-tags/",
-      "date": "2026-07-16T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "PostgreSQL 19 Beta 2 is now available in Amazon RDS Database Preview Environment",
-      "summary": "Amazon RDS for PostgreSQL 19 Beta 2 is now available in the Amazon RDS Database Preview Environment , allowing you to evaluate the pre-release of PostgreSQL 19 on Amazon RDS for PostgreSQL. You can deploy PostgreSQL 19 Beta 2 in the Amazon RDS Database Preview Environment that has the benefits of a fully managed database. PostgreSQL 19 introduces parallel autovacuum with configurable worker limits",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/postgresql-19-beta-2-amazon-rds-database-preview-environment/",
-      "date": "2026-07-16T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "The skills gap behind agentic AI — and how Databricks is closing it with a new context engineer certification and agent trainings",
-      "summary": "Engineering the Future: The Context Engineer CertificationAs organizations race to...",
-      "url": "https://www.databricks.com/blog/skills-gap-behind-agentic-ai-and-how-databricks-closing-it-new-context-engineer-certification",
-      "date": "2026-07-16T18:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Sustainability service now includes water withdrawals data",
-      "summary": "Customers can now view annual water withdrawals data associated with their AWS workloads in AWS Sustainability, alongside existing carbon emissions data. This enhancement helps organizations gain comprehensive visibility into their environmental impact across carbon and water. Water withdrawals data is available by AWS Region, service, and AWS account on an annual basis through the AWS Sustainabil",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-sustainability-water-withdrawals/",
-      "date": "2026-07-16T16:43:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Trust Shouldn’t Be a Product Feature. It Has to Be the Foundation.",
       "summary": "Why enterprise AI success starts with how you protect your data, not just how you use it",
       "url": "https://www.salesforce.com/blog/data-trust-foundation/",
@@ -455,17 +496,6 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Redshift adds rg.large and rg.12xlarge instance sizes",
-      "summary": "Amazon Redshift announces the general availability of two new RG instance sizes - rg.large and rg.12xlarge. These new sizes deliver the same Graviton-powered performance benefits as existing RG instances, including up to 2.4x faster query performance than previous-generation RA3 instances at 30% lower price per vCPU, giving you more flexibility to right-size your provisioned clusters for any workl",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-adds-rg-large-12xlarge-instance-sizes",
-      "date": "2026-07-16T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -684,17 +714,6 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Simplify Security Visibility with Security Center Essentials",
-      "summary": "Simplify Salesforce security with Security Center Essentials. Learn how to track Health Check scores, audit integrations, and monitor IP ranges in one place.",
-      "url": "https://www.salesforce.com/blog/simplify-security-visibility-with-security-center-essentials/",
-      "date": "2026-07-15T12:38:45+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1613,19 +1632,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Scale Enterprise AI With Dataiku Cobuild on Snowflake",
-      "summary": "Learn how Dataiku Cobuild on Snowflake helps teams scale enterprise AI development with governance, visibility, and operational control.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/dataiku-cobuild-snowflake-ai-governance",
-      "date": "2026-06-25T16:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
     },
     {
       "title": "Copilot in Excel: Built for the era of Frontier Finance",
