@@ -1,7 +1,40 @@
 {
-  "generated": "2026-07-20T07:54:26.500263+00:00",
+  "generated": "2026-07-20T13:01:57.350000+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
+      "summary": "The Netherlands-based, family-owned maritime group is charting a course toward a more intelligent, sustainable future.",
+      "url": "https://news.sap.com/2026/07/damen-sap-business-ai-faster-smarter-shipbuilding/",
+      "date": "2026-07-20T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+      "summary": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA DGX SuperPOD, this one built on […]",
+      "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+      "date": "2026-07-20T10:59:23+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Image-7.png"
+    },
+    {
+      "title": "SAP Business AI: Release Highlights Q2 2026",
+      "summary": "Every business wants to move faster, make better decisions, and empower its people to focus on what matters most.",
+      "url": "https://news.sap.com/2026/07/sap-business-ai-release-highlights-q2-2026/",
+      "date": "2026-07-20T10:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Tech builds on AI. Finance protects the margin.",
       "summary": "Ask a tech company CFO where the quarter's margin is landing, and you will get a...",
@@ -677,17 +710,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/performance-per-watt-ai-infra-efficiency.jpg"
     },
     {
-      "title": "How Canada Goose Used AI to Expand Capacity and Create a Revenue-Generating Experience Center",
-      "summary": "By augmenting its Style Experts with Agentforce, Canada Goose reduced peak-season wait times by 13.9% and improved customer satisfaction by 21.2%.",
-      "url": "https://www.salesforce.com/blog/canada-goose-voice-ai/",
-      "date": "2026-07-14T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How to manage AI investments in the agentic era",
       "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
@@ -1065,17 +1087,6 @@
       "image": null
     },
     {
-      "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
-      "summary": "A co-innovation project between Natura &Co, Numen, and SAP is turning gross margin analysis from a manual process into a real-time engine for financial decision-making.",
-      "url": "https://news.sap.com/2026/07/natura-co-transforming-finance-generative-ai/",
-      "date": "2026-07-08T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 18,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "FinOps for AI: Snowflake's AI Cost Management and Governance Tools",
       "summary": "See how Snowflake uses AI to simplify cost analysis and delivers budgets, per-user quotas and granular AI usage views so teams can govern AI spend at scale.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-finops-cost-management-governance-snowflake",
@@ -1123,19 +1134,6 @@
         "automation"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-press-vera-cpu-agentic-tl-1920x1080-5404450.png"
-    },
-    {
-      "title": "Drive Better HR and Business Decisions with Faster Insights and Governed Data: How SAP Is Reinventing People Analytics",
-      "summary": "For HR and people analytics teams facing growing data demand, fragmented access, and the pressure to deliver more with less, SAP's experience offers a clear road map.",
-      "url": "https://news.sap.com/2026/07/how-sap-is-reinventing-people-analytics/",
-      "date": "2026-07-07T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
     },
     {
       "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
@@ -1326,17 +1324,6 @@
       "relevance": 2,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "NVIDIA and Partners Build in America, for America",
-      "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-      "date": "2026-07-01T13:00:47+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg"
     },
     {
       "title": "Snowflake Marketplace Partners Earn $100M in the First Half of 2026",
