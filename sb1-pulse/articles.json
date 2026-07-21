@@ -1,7 +1,162 @@
 {
-  "generated": "2026-07-21T12:20:54.590096+00:00",
+  "generated": "2026-07-21T18:12:54.953988+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Introducing the ChatGPT for small business program",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "date": "2026-07-21T17:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Snowflake context and Meta campaigns: close the signal loop",
+      "summary": "Learn how Snowflake context and Meta campaigns connect through governed conversion signals, CAPI and campaign diagnostics to optimize ad delivery.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-meta-campaigns-governed-conversion-signals",
+      "date": "2026-07-21T16:30:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent",
+      "summary": "Twenty years ago, I helped build search architectures that went on to dominate modern retail. Back then, the search bar trained consumers to strip away natural language and search for products using as…",
+      "url": "https://www.salesforce.com/blog/new-agentic-commerce-search-capabilities/",
+      "date": "2026-07-21T16:06:31+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "How to build interactive experiences with canvases",
+      "summary": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+      "date": "2026-07-21T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Snowflake CoCo: Built to Scale Enterprise AI with Trust",
+      "summary": "Discover Snowflake CoCo with Desktop, Cloud Agents, AI cost governance and Agent Settings to scale trusted enterprise AI with security and control.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-coco-built-to-scale-enterprise-ai",
+      "date": "2026-07-21T16:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 7,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What's New in Snowflake Cortex Agents for Enterprise AI",
+      "summary": "Learn how new Cortex Agents capabilities simplify building, deploying, and operating enterprise AI agents with managed orchestration, execution, and governance.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-cortex-agents-enterprise-ai-scale",
+      "date": "2026-07-21T16:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 17,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+      "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350-plus factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. The […]",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "date": "2026-07-21T15:36:43+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/vera-tech-blog-vera-rubin-nvl72-1920x1080-1.png"
+    },
+    {
+      "title": "Amazon ECS now provides Action Logs for deployment and orchestration visibility",
+      "summary": "Today, Amazon Elastic Container Service (Amazon ECS) introduces Action Logs, a new observability feature that delivers detailed, timestamped records of the actions Amazon ECS performs on behalf of customers during service deployments and ECS Managed Daemon updates. By surfacing service-side operations that were previously invisible, Action Logs help you monitor and troubleshoot your workloads dire",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-action-logs/",
+      "date": "2026-07-21T15:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "date": "2026-07-21T15:16:30+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+      "summary": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier in driving token generation. Marking a networking milestone, NVIDIA Spectrum-6 […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+      "date": "2026-07-21T15:00:20+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/ethernet-spectrum-x-corp-blog-1920x1080-5205700.jpg"
+    },
+    {
+      "title": "The New Partner Playbook: Building in the Age of Snowflake Cortex AI",
+      "summary": "Explore how Snowflake partners can package domain expertise, build faster with Cortex Code and deliver scalable outcomes in the AI era",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-ai-partner-playbook",
+      "date": "2026-07-21T15:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for Microsoft SQL Server 2016 SP3+GDR KB5089271 (RDS version 13.00.6490.1.v1), SQL Server 2017 CU31+GDR KB5090354 (RDS version 14.00.3530.2.v1), SQL Server 2019 CU32+GDR KB5090407 (RDS v",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server",
+      "date": "2026-07-21T07:45:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS for SQL Server now supports Microsoft SQL Server 2025",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports Microsoft SQL Server 2025 for Enterprise, Standard, and Developer editions. SQL Server 2025 brings AI integration directly into the database engine, enabling customers to invoke external REST endpoints from T-SQL without additional middleware. Customers running RDS for SQL Server can use this capability to integrate existi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-supports-sqlserver-2025",
+      "date": "2026-07-21T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 8,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "2026 Holiday Predictions: A Unified Yet Fractured Journey",
       "summary": "Holiday retail planning used to follow a predictable playbook: Optimize the checkout funnel. Launch the campaigns. Stock the shelves. Brace for Cyber Week. But in today’s market, that playbook is obsolete. Data from…",
@@ -311,20 +466,6 @@
       "image": null
     },
     {
-      "title": "Amazon OpenSearch UI now supports one-click dashboard migration",
-      "summary": "Amazon OpenSearch Service now supports one-click migration from legacy OpenSearch Dashboards to OpenSearch UI, for both OpenSearch domains and serverless collections. OpenSearch UI is the new, zero-downtime, serverless interface for search and unified observability across multiple data sources. With this launch, the multiple tenants and thousands of saved objects you created in legacy OpenSearch D",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-ui-one-click-dashboard-migration",
-      "date": "2026-07-17T17:23:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Building a soccer coaching app on Databricks",
       "summary": "Tracking data is now the richest signal in sport, but the real gap is turning the...",
       "url": "https://www.databricks.com/blog/building-soccer-coaching-app-databricks",
@@ -360,17 +501,6 @@
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
-      "title": "Amazon SageMaker HyperPod now supports partition-level topology for Slurm orchestrated clusters",
-      "summary": "Amazon SageMaker HyperPod now supports network topology configuration at the partition level for Slurm orchestrated clusters. A single cluster can now run tree topology in one partition and block topology in another, with each partition using the topology best suited to its instance types. This improves distributed training performance by keeping job placement aligned with the interconnect charact",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-partition-topology-slurm/",
-      "date": "2026-07-17T15:16:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
       "summary": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
       "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
@@ -382,6 +512,20 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/inline-1784235912807.png"
+    },
+    {
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "date": "2026-07-17T15:00:11+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 18,
+      "tags": [
+        "ai",
+        "security"
+      ],
+      "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo"
     },
     {
       "title": "Meta’s Spark Muse 1.1 is now available on Databricks, fully governed by Unity AI Gateway",
@@ -460,32 +604,6 @@
       "category": "databricks",
       "relevance": 6,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon CloudWatch Synthetics now supports customer managed encryption keys",
-      "summary": "Amazon CloudWatch Synthetics now supports customer managed AWS Key Management Service (KMS) keys for encrypting canary environment variables, giving you full control over the encryption of sensitive configuration data such as API keys, credentials, and tokens. Previously, environment variables were encrypted at rest using only an AWS owned key. Now, in addition to the default AWS owned key, you ca",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/synthetics-customer-managed-keys/",
-      "date": "2026-07-16T20:34:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud (US)",
-      "summary": "Amazon Managed Grafana is now a FedRAMP High authorized service in the AWS GovCloud (US-East) and AWS GovCloud (US-West) regions. Federal agencies, public sector organizations, and other enterprises with FedRAMP High compliance requirements can now use Amazon Managed Grafana to visualize, query, and alert on operational metrics across their AWS and hybrid environments while meeting their strict se",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high/",
-      "date": "2026-07-16T19:31:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -672,30 +790,6 @@
       "image": null
     },
     {
-      "title": "Breaking Down the Stack: Browser-Bound vs. Headless Architecture",
-      "summary": "Maximize your AI investments with a headless architecture. Here’s how.",
-      "url": "https://www.salesforce.com/blog/headless-architecture-vs-browser-bound/",
-      "date": "2026-07-15T16:08:11+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "A Practitioner’s Guide to AI-Assisted Org Discovery: Map the Org Before You Build",
-      "summary": "Part one of this two-part series walks through four discovery domains: custom objects, automation dependencies, integration touchpoints, and antipatterns.",
-      "url": "https://www.salesforce.com/blog/ai-assisted-salesforce-org-discovery-map-before-you-build/",
-      "date": "2026-07-15T15:31:33+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 6,
-      "tags": [
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "Azure Databricks delivers proven business value",
       "summary": "Microsoft Azure Databricks delivers the first-party advantage of Databricks on Microsoft—and for customers, that advantage shows up as real, measurable value. It is the same Databricks platform your teams already know, co-engineered with Microsoft and delivered as a native Azure service, so it fits naturally into the Microsoft tools, identity, and governance your organization already runs. The pos",
       "url": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
@@ -703,17 +797,6 @@
       "source": "Azure Blog",
       "category": "microsoft",
       "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Storytelling in the AI Era: Bring Authenticity Back to Your Marketing",
-      "summary": "In a world flooded with AI-generated content, your most powerful marketing tool is the one thing no algorithm can replicate — your story.",
-      "url": "https://www.salesforce.com/blog/small-business/storytelling-marketing-strategy/",
-      "date": "2026-07-15T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1024,17 +1107,6 @@
       "image": null
     },
     {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "url": "https://openai.com/index/gpt-5-6",
-      "date": "2026-07-09T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "ChatGPT is now a partner for your most ambitious work",
       "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
@@ -1048,9 +1120,9 @@
       "image": null
     },
     {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "url": "https://openai.com/index/bio-bug-bounty",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "url": "https://openai.com/index/gpt-5-6",
       "date": "2026-07-09T10:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -1264,19 +1336,6 @@
       "image": null
     },
     {
-      "title": "How Nations Are Deploying AI for Strategic Priorities",
-      "summary": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turbocharging innovation across every facet of society. Countries are investing in AI capabilities so […",
-      "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
-      "date": "2026-07-06T15:00:25+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 3,
-      "tags": [
-        "data"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2025/06/llm-blog-gtc-25-paris-3945665-1280x680-1.jpg"
-    },
-    {
       "title": "Meet Brain: The AI system behind Azure reliability",
       "summary": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind Azure reliability appeared first on Microsoft Azure Blog .",
       "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
@@ -1286,28 +1345,6 @@
       "relevance": 1,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "How GitHub used secret scanning to reach inbox zero",
-      "summary": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox zero appeared first on The GitHub Blog .",
-      "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
-      "date": "2026-07-02T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Joyride Through July With 12 Games Coming to GeForce NOW",
-      "summary": "Summer is heating up — and GeForce NOW is taking players along for the ride. Start the month with Monopoly: Star Wars Heroes vs. Villains, bringing a galaxy far, far away to the iconic board-game franchise, alongside 12 new games joining the cloud this month. Plus, don’t let the sun set on the biggest GeForce […]",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/",
-      "date": "2026-07-02T13:00:23+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-2-blog-2048x1024-no-copy-logo.jpg"
     },
     {
       "title": "The latest AI news we announced in June 2026",
@@ -1382,17 +1419,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp"
     },
     {
-      "title": "Snowflake Marketplace Partners Earn $100M in the First Half of 2026",
-      "summary": "Snowflake Marketplace partners have earned $100M+ in revenue — 277% YoY growth — as they expand offerings across AI agents, Snowflake Native Apps and AI-ready data.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-marketplace-agentic-ai-growth",
-      "date": "2026-07-01T01:33:32+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
       "summary": "AWS CloudFormation speeds up infrastructure deployment with Express mode, enabling AI agents and developers to receive deployment confirmation in seconds and iterate faster. Available in all commercial Regions at no additional cost.",
       "url": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
@@ -1427,19 +1453,6 @@
       "category": "aws",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Announcing Claude Sonnet 5 on Snowflake Cortex AI",
-      "summary": "Claude Sonnet 5 is now available in private preview on Snowflake Cortex AI, bringing its advanced reasoning and agentic capabilities with Snowflake’s secure governed AI platform",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-sonnet-5-snowflake-cortex-ai",
-      "date": "2026-06-30T18:22:07+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -1493,17 +1506,6 @@
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
     },
     {
-      "title": "Cortex Sense for Enterprise AI Agents | Snowflake",
-      "summary": "See how Cortex Sense (private preview in mid-July 2026) will help enterprise AI agents use metadata, query history, and semantic views to answer with more accuracy.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/enterprise-ai-agents-grounded-context",
-      "date": "2026-06-30T13:49:32+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 18,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
@@ -1513,17 +1515,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Why the Data Platform Determines Legal AI Outcomes",
-      "summary": "A data-platform-centric approach — not a smarter model — is what helps make legal AI governed, context-aware and compounding in institutional intelligence.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/data-platform-legal-ai-outcomes",
-      "date": "2026-06-29T19:25:35+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 8,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Claude in Microsoft Foundry is now generally available",
