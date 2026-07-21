@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T07:29:35.925817+00:00",
+  "generated": "2026-07-21T12:20:54.590096+00:00",
   "sources": 21,
   "articles": [
     {
@@ -1066,17 +1066,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "SAP Welcomes European Commission Decision Concluding the Investigation Into On-Premise Maintenance and Support Policies",
-      "summary": "WALLDORF — SAP remains committed to open competition, customer choice and innovation.",
-      "url": "https://news.sap.com/2026/07/sap-welcomes-european-commission-decision-concluding-investigation-on-premise-maintenance-support-policies/",
-      "date": "2026-07-09T09:52:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 6,
       "tags": [],
       "image": null
     },
