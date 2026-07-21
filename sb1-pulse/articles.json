@@ -1,7 +1,118 @@
 {
-  "generated": "2026-07-21T18:12:54.953988+00:00",
+  "generated": "2026-07-21T23:52:15.662249+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+      "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]",
+      "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+      "date": "2026-07-21T22:35:45+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/wistron-event-july2026-kv-3840x2160-1-scaled.jpg"
+    },
+    {
+      "title": "The last mile: why great first-party data still doesn't make great marketing",
+      "summary": "Last month, a data team and a marketing team sat in the same room and talked past...",
+      "url": "https://www.databricks.com/blog/last-mile-first-party-data-great-marketing",
+      "date": "2026-07-21T22:19:28+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 R6in and R6idn instances are now available in additional regions",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R6in and R6idn instances are available in AWS Europe (Paris) and Canada (Central) regions. These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable processors and built on the AWS Nitro System , deliver up to 200Gbps network bandwidth, 2x more network bandwidth, and up to 2x higher packet-processing ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/",
+      "date": "2026-07-21T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 C6in instances are now available in Asia Pacific (Taipei) Region",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C6in instances are available in AWS Asia Pacific (Taipei). These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable processors and built on the AWS Nitro System , deliver up to 200Gbps network bandwidth, for 2x more network bandwidth over comparable fifth-generation instances. Customers can use C6in ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c6in/",
+      "date": "2026-07-21T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 M6in and M6idn instances are now available in additional regions",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M6in and M6idn instances are available in AWS Asia Pacific (Hyderabad) and South America (Sao Paulo) regions. These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable processors and built on the AWS Nitro System , deliver up to 200Gbps network bandwidth, for 2x more network bandwidth over comparable ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn/",
+      "date": "2026-07-21T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Why R&D Data Belongs in the Lakehouse - and Why Agents Need It There",
+      "summary": "The setupAt cellcentric, a joint venture of Daimler Truck and Volvo Group, we develop...",
+      "url": "https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there",
+      "date": "2026-07-21T19:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale",
+      "summary": "Why we built the Carbon Footprint LedgerAt Dow, our ambition is to be the most innovative,...",
+      "url": "https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale",
+      "date": "2026-07-21T19:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Announcing the Public Preview of Discover and Domains, powered by Unity Catalog",
+      "summary": "Today, we're announcing the Public Preview of Domains and the Discover page, powered...",
+      "url": "https://www.databricks.com/blog/announcing-public-preview-discover-and-domains-powered-unity-catalog",
+      "date": "2026-07-21T19:10:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon ECS advanced deployment strategies now available in AWS European Sovereign Cloud",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now supports built-in blue/green, linear, and canary deployment strategies in the AWS European Sovereign Cloud, making software updates for containerized applications safer and allowing you to release new application versions faster with greater confidence. Built directly into Amazon ECS, these capabilities eliminate the need for custom deployment tool",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-adv-deployments-eu-sovereign-cloud/",
+      "date": "2026-07-21T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "Introducing the ChatGPT for small business program",
       "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
@@ -10,6 +121,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon SES introduces pricing plans",
+      "summary": "Today, Amazon Simple Email Service (SES) introduced pricing plans, making it easy to purchase and access SES capabilities without evaluating them individually. Amazon SES pricing plans include three hierarchical options: Essentials, Pro, and Enterprise. Each plan builds on the one before it, offering progressively more capability at a discount compared to à-la-carte pricing. Businesses depend on e",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-pricing-plans/",
+      "date": "2026-07-21T16:35:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -72,7 +194,7 @@
     },
     {
       "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-      "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350-plus factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. The […]",
+      "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. The […]",
       "url": "https://blogs.nvidia.com/blog/vera-rubin/",
       "date": "2026-07-21T15:36:43+00:00",
       "source": "NVIDIA Blog",
@@ -158,6 +280,30 @@
       "image": null
     },
     {
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "date": "2026-07-21T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 3,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "date": "2026-07-21T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "2026 Holiday Predictions: A Unified Yet Fractured Journey",
       "summary": "Holiday retail planning used to follow a predictable playbook: Optimize the checkout funnel. Launch the campaigns. Stock the shelves. Brace for Cyber Week. But in today’s market, that playbook is obsolete. Data from…",
       "url": "https://www.salesforce.com/blog/holiday-retail-predictions-2026/",
@@ -179,6 +325,17 @@
       "tags": [
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "AWS Partner Central agents expand funding guidance to all programs",
+      "summary": "AWS Partner Central agents now support all AWS Partner funding programs. AWS Partners can get guidance on eligibility requirements, application processes, and program details for any funding program and receive documentation-backed answers in seconds. The agents already automate the full funding lifecycle for four funding programs, supported since the March 2026 launch. This expansion adds Strateg",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-partner-central/",
+      "date": "2026-07-20T20:08:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -320,45 +477,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/siggraph-featured-still-1920x1080-1.jpg"
     },
     {
-      "title": "Amazon WorkSpaces Applications now supports Microsoft OneDrive and Google Drive on Multi-Session fleets",
-      "summary": "Amazon WorkSpaces Applications now supports Microsoft OneDrive for Business and Google Drive as persistent storage options on multi-session fleets. Users streaming on multi-session fleets can now connect their OneDrive or Google Drive accounts and access, save, and sync their cloud-based files directly within their streaming sessions, in addition to the existing home folder backed by Amazon S3. Mu",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/storage-multi-session-fleets/",
-      "date": "2026-07-20T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Managed Service for Apache Flink now supports Apache Flink 2.3",
-      "summary": "Amazon Managed Service for Apache Flink now supports Apache Flink version 2.3. This release includes adaptive partition selection for improved backpressure handling, so applications run more smoothly under uneven load. It also introduces better handling of out-of-order updates in change data capture (CDC) pipelines that improves data correctness, and new SQL functions make it easier to convert bet",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-2-3/",
-      "date": "2026-07-20T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Announcing the general availability of a new AWS Local Zone in Athens, Greece",
-      "summary": "Today, AWS announces the general availability of a new Local Zone in Athens, Greece. The Athens Local Zone is the second Local Zone in EMEA with support for Amazon Simple Storage Service (Amazon S3) and Amazon Elastic Block Store (Amazon EBS) Local Snapshots, enabling customers to store and process data within Greece to help meet local data residency requirements. The Athens Local Zone supports Am",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-local-zone-athens-greece/",
-      "date": "2026-07-20T14:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
       "summary": "The Netherlands-based, family-owned maritime group is charting a course toward a more intelligent, sustainable future.",
       "url": "https://news.sap.com/2026/07/damen-sap-business-ai-faster-smarter-shipbuilding/",
@@ -403,21 +521,6 @@
       "image": null
     },
     {
-      "title": "Amazon CloudWatch announces coding agent insights",
-      "summary": "Amazon CloudWatch announces the launch of coding agent insights, giving engineering leaders visibility into how AI coding tools are driving value across their organization. Coding Agent Insights integrates with Claude apps gateway for AWS to collect telemetry from Claude Code without additional instrumentation. Other supported coding agents include Codex and GitHub Copilot. As organizations scale ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-coding-agent-insights/",
-      "date": "2026-07-20T09:51:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 26,
-      "tags": [
-        "ai",
-        "cloud",
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "AI Transparency: Governance, Explainability, and Data Practices",
       "summary": "AI transparency is the practice of making an artificial intelligence system's data, model behavior...",
       "url": "https://www.databricks.com/blog/ai-transparency",
@@ -427,19 +530,6 @@
       "relevance": 7,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Introducing KNFSD File Cache - Now in Preview",
-      "summary": "Today, AWS announces the availability of KNFSD File Cache, an open-source, Apache-2.0 licensed solution for deploying a scalable, high-speed Network File System (NFS) cache on AWS. KNFSD File Cache mounts exports from one or more source NFS servers, whether on-premises, in another AWS Availability Zone or Region, or in another cloud over AWS Interconnect - multicloud, and re-exports them to NFS cl",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/knfsd-file-cache/",
-      "date": "2026-07-20T08:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -462,17 +552,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Building a soccer coaching app on Databricks",
-      "summary": "Tracking data is now the richest signal in sport, but the real gap is turning the...",
-      "url": "https://www.databricks.com/blog/building-soccer-coaching-app-databricks",
-      "date": "2026-07-17T17:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -528,19 +607,6 @@
       "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo"
     },
     {
-      "title": "Meta’s Spark Muse 1.1 is now available on Databricks, fully governed by Unity AI Gateway",
-      "summary": "Every new model release promises better reasoning, lower costs, or new capabilities,...",
-      "url": "https://www.databricks.com/blog/metas-spark-muse-11-now-available-databricks-fully-governed-unity-ai-gateway",
-      "date": "2026-07-17T13:08:01+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
       "summary": "Put the power of a full business team in your hands with AI.",
       "url": "https://www.salesforce.com/blog/small-business/ai-tools-for-entrepreneurs/",
@@ -581,28 +647,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Your AI is ready. Your data foundation probably isn’t",
-      "summary": "For most large enterprises, AI transformation is a story of silos — business units...",
-      "url": "https://www.databricks.com/blog/your-ai-ready-your-data-foundation-probably-isnt",
-      "date": "2026-07-16T22:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "From experiment to insight: how Dotmatics Luma and Databricks make AI-ready science a reality",
-      "summary": "The gap between scientific data and scientific insightModern scientific workflows...",
-      "url": "https://www.databricks.com/blog/experiment-insight-how-dotmatics-luma-and-databricks-make-ai-ready-science-reality",
-      "date": "2026-07-16T21:07:45+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
       "tags": [],
       "image": null
     },
@@ -754,17 +798,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Trust Is the Product: How Salesforce Thinks About Data in the AI Era",
-      "summary": "In the AI era, the most important question you can ask about your data platform isn’t what it can do — it’s whether it does it with your trust intact. At Salesforce, that…",
-      "url": "https://www.salesforce.com/blog/salesforce-data-ownership-approach/",
-      "date": "2026-07-15T18:28:34+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 7,
-      "tags": [],
       "image": null
     },
     {
@@ -1107,30 +1140,6 @@
       "image": null
     },
     {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "date": "2026-07-09T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "url": "https://openai.com/index/gpt-5-6",
-      "date": "2026-07-09T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers",
       "summary": "SAP continues efforts to let its commercial practices reflect the flexibility and transparency customers need.",
       "url": "https://news.sap.com/2026/07/evolving-maintenance-support-practices-greater-flexibility-sap-customers/",
@@ -1310,17 +1319,6 @@
         "developer"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1.jpg"
-    },
-    {
-      "title": "How Open Models Are Driving AI Research",
-      "summary": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 papers accepted at ICML 2026. Approximately […]",
-      "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
-      "date": "2026-07-06T16:00:00+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 6,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/ICML-Blog-Featured-Image.jpg"
     },
     {
       "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
