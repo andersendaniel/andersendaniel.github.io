@@ -1,7 +1,102 @@
 {
-  "generated": "2026-07-22T12:23:09.864499+00:00",
+  "generated": "2026-07-22T18:05:26.341443+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Architecting Secure Agent Connectivity: A Guide to Choosing Between MCP and APIs",
+      "summary": "A recap of episode six of the Think Like an Architect series, breaking down the technical complexities of securely exposing enterprise data to a third-party AI agent.",
+      "url": "https://www.salesforce.com/blog/architecting-secure-agent-connectivity-mcp-apis/",
+      "date": "2026-07-22T17:37:40+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 19,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EKS now supports EFA and placement groups on Amazon EKS Auto Mode and Karpenter",
+      "summary": "Amazon Elastic Kubernetes Service (EKS) now supports Amazon EC2 placement groups and Elastic Fabric Adapter (EFA) network device configuration for node pools on EKS Auto Mode and the open-source Karpenter project, enabling you to optimize EKS workloads for performance and availability. These capabilities allow you to control EFA network interface configuration and how EC2 instances are physically ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-efa-placement-groups/",
+      "date": "2026-07-22T14:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Build vs. Buy CRM in 2026: The True Cost Comparison",
+      "summary": "Before you spend months building a custom CRM, here’s why the real value goes far beyond a database with a great interface.",
+      "url": "https://www.salesforce.com/blog/build-vs-buy-crm/",
+      "date": "2026-07-22T14:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "date": "2026-07-22T13:38:54+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+      "summary": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on schedule. That creates one of […]",
+      "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "date": "2026-07-22T13:00:11+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [
+        "developer"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/medical-physica-simulation.png"
+    },
+    {
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "date": "2026-07-22T13:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Building AI infrastructure with the Effingham County community",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "date": "2026-07-22T13:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Advancing the next era of national science",
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "date": "2026-07-22T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "From the Factory Floor to the Data Layer: How Leading Companies Are Rewriting the Rules of Agility",
       "summary": "Organizations must build systems that can anticipate, adapt, and act—autonomously, at scale, and in real time.",
@@ -11,6 +106,44 @@
       "category": "sap",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Secrets Manager now publishes secret update notifications to Amazon EventBridge",
+      "summary": "AWS Secrets Manager now automatically publishes events to Amazon EventBridge whenever your secret values change, enabling you to build event-driven workflows that respond in real time to secret updates. Until now, you had to rely on AWS CloudTrail events parsed into EventBridge to know when a secret value changed — requiring you to match multiple API events such as rotation success, PutSecretValue",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-update-notifications",
+      "date": "2026-07-22T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "cloud",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Introducing OpenAI Presence",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "date": "2026-07-22T05:30:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 22,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Direct Connect announces 100G expansion in Lima, Peru",
+      "summary": "Today, AWS announced the expansion of 100 Gbps dedicated connections at the existing AWS Direct Connect location within the Cirion data center in Lima, Peru. You can now establish private, direct network access to all public AWS Regions (except those in China), AWS GovCloud Regions, and AWS Local Zones from this location. This is the first AWS Direct Connect location in Peru to provide 100 Gbps co",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-100g-lima/",
+      "date": "2026-07-22T04:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -36,6 +169,17 @@
       "image": null
     },
     {
+      "title": "AWS Elastic Disaster Recovery is now available in six additional AWS Regions",
+      "summary": "AWS Elastic Disaster Recovery (AWS DRS) is now available in six additional AWS Regions: Asia Pacific (Bangkok), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Taipei), Canada West (Calgary), and Mexico (Central). Elastic Disaster Recovery is the recommended service for disaster recovery to AWS. It helps minimize downtime and data loss with fast, reliable recovery of on-premises",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-additional-regions/",
+      "date": "2026-07-21T22:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon EC2 R6in and R6idn instances are now available in additional regions",
       "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R6in and R6idn instances are available in AWS Europe (Paris) and Canada (Central) regions. These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable processors and built on the AWS Nitro System , deliver up to 200Gbps network bandwidth, 2x more network bandwidth, and up to 2x higher packet-processing ",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/",
@@ -49,9 +193,9 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 C6in instances are now available in Asia Pacific (Taipei) Region",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C6in instances are available in AWS Asia Pacific (Taipei). These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable processors and built on the AWS Nitro System , deliver up to 200Gbps network bandwidth, for 2x more network bandwidth over comparable fifth-generation instances. Customers can use C6in ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c6in/",
+      "title": "Amazon EC2 M6in and M6idn instances are now available in additional regions",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M6in and M6idn instances are available in AWS Asia Pacific (Hyderabad) and South America (Sao Paulo) regions. These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable processors and built on the AWS Nitro System , deliver up to 200Gbps network bandwidth, for 2x more network bandwidth over comparable ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn/",
       "date": "2026-07-21T20:00:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
@@ -62,9 +206,9 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 M6in and M6idn instances are now available in additional regions",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M6in and M6idn instances are available in AWS Asia Pacific (Hyderabad) and South America (Sao Paulo) regions. These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable processors and built on the AWS Nitro System , deliver up to 200Gbps network bandwidth, for 2x more network bandwidth over comparable ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn/",
+      "title": "Amazon EC2 C6in instances are now available in Asia Pacific (Taipei) Region",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C6in instances are available in AWS Asia Pacific (Taipei). These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable processors and built on the AWS Nitro System , deliver up to 200Gbps network bandwidth, for 2x more network bandwidth over comparable fifth-generation instances. Customers can use C6in ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c6in/",
       "date": "2026-07-21T20:00:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
@@ -278,6 +422,17 @@
       "image": null
     },
     {
+      "title": "AWS Marketplace now supports self-service seller signature management for India-based sellers",
+      "summary": "AWS Marketplace now enables India-based sellers to upload and manage their seller signatures directly through AWS Partner Central, eliminating the previous manual, email-based submission process. Sellers located in India are required to provide a valid seller signature for tax invoicing and regulatory compliance. This launch consolidates Goods and Services Tax Identification Number (GSTIN) registr",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-marketplace-india/",
+      "date": "2026-07-21T07:18:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon RDS for SQL Server now supports Microsoft SQL Server 2025",
       "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports Microsoft SQL Server 2025 for Enterprise, Standard, and Developer editions. SQL Server 2025 brings AI integration directly into the database engine, enabling customers to invoke external REST endpoints from T-SQL without additional middleware. Customers running RDS for SQL Server can use this capability to integrate existi",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-supports-sqlserver-2025",
@@ -350,19 +505,6 @@
       "image": null
     },
     {
-      "title": "AWS Data Exports now provides standardized Amazon Bedrock product metadata",
-      "summary": "Today, AWS announces standardized product metadata for Amazon Bedrock in AWS Data Exports (Cost and Usage Report), giving FinOps teams and cloud administrators consistent, structured attributes to understand Bedrock costs. AWS Data Exports lets you create customized exports of your AWS cost and usage data and deliver them to Amazon S3 for querying with Amazon Athena or loading into your data wareh",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-data-exports-amazon-bedrock-product-metadata/",
-      "date": "2026-07-20T18:29:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Scaling document classification to 100k+ labels",
       "summary": "Across Databricks, thousands of customers build production workloads that map freeform...",
       "url": "https://www.databricks.com/blog/scaling-document-classification-100k-labels",
@@ -385,32 +527,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Europe (Stockholm, Zurich) regions. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The R8i and R8i-flex instances offer up to 15% better price-",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8i-r8i-flex-instances-in-stockholm-zurich-regions/",
-      "date": "2026-07-20T17:37:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Selectively log network activity events by identity in AWS CloudTrail",
-      "summary": "Today, AWS launches enhanced event filtering for network activity events for VPC end points, a CloudTrail event type that captures actions transmitted through a Virtual Private Cloud Endpoint . Customers can now control which network activity events are logged based on the IAM user identity making the API call. For example, you can configure selectors to log only access denied events when the call",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors/",
-      "date": "2026-07-20T17:34:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
       "summary": "Last week, my team visited Seoul to meet AWS Korea User Group (AWSKRUG) leaders. AWSKRUG is the largest cloud developer community in Korea, with 20 meetup groups organized by topic and area that collectively host over 100 events each year, primarily in Seoul. My team regularly visits countries across the Asia-Pacific region, listens to feedback […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
@@ -420,32 +536,6 @@
       "relevance": 28,
       "tags": [
         "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Connect delivers more natural agentic voice experiences with expanded language support and speech controls",
-      "summary": "Amazon Connect customers can now deliver more natural, human-sounding agentic voice experiences with expanded support across 50+ languages including Spanish, French, Italian, Japanese, Korean, Portuguese, and Thai, over 100 new voice options, and conversational improvements that make AI interactions sound more fluid and responsive. Amazon Connect's agentic self-service capabilities enable AI agent",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-agentic-voice/",
-      "date": "2026-07-20T16:16:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 I8ge instances are now available in AWS GovCloud (US) Regions",
-      "summary": "Amazon Web Services (AWS) announces the availability of Amazon EC2 I8ge instances in AWS GovCloud (US-East, US-West) regions. I8ge instances are powered by AWS Graviton4 processors and deliver up to 60% better compute performance compared to previous generation Graviton2-based storage optimized Amazon EC2 instances. I8ge instances use the third generation AWS Nitro SSDs, local NVMe storage, and de",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i8ge-instances-aws-govcloud-us-regions/",
-      "date": "2026-07-20T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
         "cloud"
       ],
       "image": null
@@ -662,17 +752,6 @@
       "image": null
     },
     {
-      "title": "Trust Shouldn’t Be a Product Feature. It Has to Be the Foundation.",
-      "summary": "Why enterprise AI success starts with how you protect your data, not just how you use it",
-      "url": "https://www.salesforce.com/blog/data-trust-foundation/",
-      "date": "2026-07-16T16:20:39+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Connect more of your apps to Search",
       "summary": "Connected apps rendering",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
@@ -717,17 +796,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/blog-1920x1080-no-copy.jpg"
     },
     {
-      "title": "Who’s Ready For Multi-Agents? Get Your Business AI-Ready",
-      "summary": "Multiple AI agents are no longer a futuristic concept — they're the competitive advantage small businesses are using right now.",
-      "url": "https://www.salesforce.com/blog/small-business/multi-ai-agents/",
-      "date": "2026-07-16T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The Pattern Emerging Across AI Transformations",
       "summary": "What happens when intelligence becomes embedded into the core of how a business operates?",
       "url": "https://news.sap.com/2026/07/ai-transformations-pattern-emerging/",
@@ -735,17 +803,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Breaking Deadlocks: How A Tech Apprenticeship Alum Secured a £1.2M Enterprise Deal",
-      "summary": "When Ireoluwa Bayo-Tofowomo joined the Salesforce Future Pathways programme in London, she focused on learning the ropes of her tech apprenticeship. Fast forward less than three years, and she isn’t just participating in the business—she’s actively driving revenue.",
-      "url": "https://www.salesforce.com/blog/tech-apprenticeship-1-4m-deal-future-pathways/",
-      "date": "2026-07-16T10:42:59+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 4,
       "tags": [],
       "image": null
     },
@@ -1056,28 +1113,6 @@
       "image": null
     },
     {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "date": "2026-07-10T07:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Getting started with ChatGPT",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "url": "https://openai.com/academy/getting-started",
-      "date": "2026-07-10T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "OpenAI GPT 5.6 on Snowflake Cortex AI",
       "summary": "OpenAI GPT 5.6 is now in private preview on Snowflake Cortex AI. Get OpenAI’s most capable model on Snowflake’s secure, governed platform.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/openai-gpt-5-6-snowflake-cortex-ai",
@@ -1136,19 +1171,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-9-blog-1920x1080-no-copy.jpg"
-    },
-    {
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "date": "2026-07-09T13:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 26,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     },
     {
       "title": "Apache Ossie (Incubating): The New Name for Open Semantic Interchange",
@@ -1268,19 +1290,6 @@
       "image": null
     },
     {
-      "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
-      "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
-      "date": "2026-07-07T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 5,
-      "tags": [
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
       "summary": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
       "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
@@ -1306,19 +1315,6 @@
         "ai"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
-      "summary": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, compute and validation tools. NVIDIA and Hugging Face are […]",
-      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
-      "date": "2026-07-07T06:00:26+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 17,
-      "tags": [
-        "developer"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1.jpg"
     },
     {
       "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
@@ -1655,31 +1651,6 @@
       "category": "aws",
       "relevance": 5,
       "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
-      "summary": "Adopting AV1 for real-time communication at Meta has been a multi-year effort spanning codec selection, device eligibility, rate control, and error resilience. We’re sharing the technical and operational challenges while deploying AV1 and expanding coverage, and how we addressed them for real-time communication. We’re presenting several technologies for improving AV1 call quality, including rate c",
-      "url": "https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/",
-      "date": "2026-06-22T16:00:08+00:00",
-      "source": "Meta Engineering",
-      "category": "meta",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)",
-      "summary": "Last week AWS Summit New York City brought together thousands of customers, partners, and builders for a free, one-day event showcasing the latest in cloud and AI innovation. Dr. Swami Sivasubramanian, VP of Agentic AI at AWS unveiled a stack of AI launches in his keynote, all built around one thesis: agents that compound value […]",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/",
-      "date": "2026-06-22T14:46:17+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 27,
-      "tags": [
-        "ai",
         "cloud"
       ],
       "image": null
