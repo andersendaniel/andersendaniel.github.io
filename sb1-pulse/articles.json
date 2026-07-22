@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-22T07:31:15.895590+00:00",
+  "generated": "2026-07-22T12:23:09.864499+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "From the Factory Floor to the Data Layer: How Leading Companies Are Rewriting the Rules of Agility",
+      "summary": "Organizations must build systems that can anticipate, adapt, and act—autonomously, at scale, and in real time.",
+      "url": "https://news.sap.com/2026/07/factory-floor-data-layer-how-leading-companies-are-rewriting-rules-of-agility/",
+      "date": "2026-07-22T10:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
       "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]",
@@ -1137,17 +1148,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers",
-      "summary": "SAP continues efforts to let its commercial practices reflect the flexibility and transparency customers need.",
-      "url": "https://news.sap.com/2026/07/evolving-maintenance-support-practices-greater-flexibility-sap-customers/",
-      "date": "2026-07-09T09:52:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
