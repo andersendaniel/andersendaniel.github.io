@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T23:52:15.662249+00:00",
+  "generated": "2026-07-22T07:31:15.895590+00:00",
   "sources": 21,
   "articles": [
     {
@@ -11,7 +11,7 @@
       "category": "nvidia",
       "relevance": 1,
       "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/wistron-event-july2026-kv-3840x2160-1-scaled.jpg"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Wistron_D1_Grand_Opening_Ceremony-Factory_Tour-21-MY-edit-scaled.jpg"
     },
     {
       "title": "The last mile: why great first-party data still doesn't make great marketing",
@@ -64,9 +64,9 @@
       "image": null
     },
     {
-      "title": "Why R&D Data Belongs in the Lakehouse - and Why Agents Need It There",
-      "summary": "The setupAt cellcentric, a joint venture of Daimler Truck and Volvo Group, we develop...",
-      "url": "https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there",
+      "title": "How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale",
+      "summary": "Why we built the Carbon Footprint LedgerAt Dow, our ambition is to be the most innovative,...",
+      "url": "https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale",
       "date": "2026-07-21T19:45:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
@@ -77,9 +77,9 @@
       "image": null
     },
     {
-      "title": "How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale",
-      "summary": "Why we built the Carbon Footprint LedgerAt Dow, our ambition is to be the most innovative,...",
-      "url": "https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale",
+      "title": "Why R&D Data Belongs in the Lakehouse - and Why Agents Need It There",
+      "summary": "The setupAt cellcentric, a joint venture of Daimler Truck and Volvo Group, we develop...",
+      "url": "https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there",
       "date": "2026-07-21T19:45:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
