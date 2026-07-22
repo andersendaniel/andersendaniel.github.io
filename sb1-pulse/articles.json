@@ -1,7 +1,117 @@
 {
-  "generated": "2026-07-22T18:05:26.341443+00:00",
+  "generated": "2026-07-22T23:57:36.899778+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Simplify AI agent orchestration with Lakebase Postgres",
+      "summary": "IntroductionTraditionally, auditing is a tedious process that often requires detailed...",
+      "url": "https://www.databricks.com/blog/simplify-ai-agent-orchestration-lakebase-postgres",
+      "date": "2026-07-22T23:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 C7a instances are now available in the US West (N. California) Region",
+      "summary": "Starting today, the compute optimized Amazon EC2 C7a instances are now available in AWS US West (N. California) Region. C7a instances, powered by 4th Gen AMD EPYC processors (code-named Genoa) with a maximum frequency of 3.7 GHz, deliver up to 50% higher performance compared to C6a instances. C7a instances offer new processor capabilities such as AVX-512, VNNI, and bfloat16. They feature Double Da",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region/",
+      "date": "2026-07-22T21:42:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 M8a instances now available in the Asia Pacific (Hyderabad) region",
+      "summary": "Starting today, the general-purpose Amazon EC2 M8a instances are available in AWS Asia Pacific (Hyderabad) region. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver up to 30% higher performance, and up to 19% better price-performance compared to M7a instances. M8a instances deliver 45% more memory bandwidth compared to",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8a-instances-asia-pacific-hyderabad-region/",
+      "date": "2026-07-22T20:55:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Agentic AI ROI: A Framework for Executive Leaders",
+      "summary": "Struggling to scale agentic AI? Learn how the Snowflake AI Data Cloud helps enterprises eliminate operational tax and drive measurable ROI for AI initiatives.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-ai-roi-executive-framework",
+      "date": "2026-07-22T20:33:57+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 19,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Entity Resolution now supports advanced real-time matching",
+      "summary": "AWS Entity Resolution now supports real-time matching with advanced matching workflows, enabling customers to match records in milliseconds using complex rulesets through the GenerateMatchId API. Previously, real-time matching was limited to simple rule-based workflows, while advanced rulesets—which support operators like Exact and ExactManyToMany combined with AND/OR logic—could only be used for ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-entity-resolution/",
+      "date": "2026-07-22T19:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 9,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Copilot vs. raw API access: What are you actually paying for?",
+      "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+      "date": "2026-07-22T19:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 18,
+      "tags": [
+        "automation",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Lambda durable functions now supports customer managed key encryption",
+      "summary": "AWS Lambda durable functions now supports encryption of durable execution data with an AWS Key Management Service (AWS KMS) customer managed key. Lambda durable functions lets you build long-running, reliable workflows directly in your Lambda function code with automatic state management. Lambda encrypts execution state at rest by default with an AWS owned key. Now with support for AWS KMS, you ca",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/durablefunctions-cmk/",
+      "date": "2026-07-22T18:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Enterprise AI Agents for the Era of Agentic AI",
+      "summary": "Explore how enterprise AI agents, real-time data, and agent orchestration are reshaping commerce, supply chains and store operations.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/enterprise-ai-agents-agentic-ai",
+      "date": "2026-07-22T18:04:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 35,
+      "tags": [
+        "ai",
+        "data",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Corretto July 2026 Quarterly Updates",
+      "summary": "On July 22, 2026, Amazon announced quarterly security and critical updates for Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of OpenJDK. Corretto 26.0.2, 25.0.4, 21.0.12, 17.0.20, 11.0.32, and 8u502 are now available for download . Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK. Starting with this release, the default Amazon Corre",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-corretto-july-2026-quarterly-updates",
+      "date": "2026-07-22T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Architecting Secure Agent Connectivity: A Guide to Choosing Between MCP and APIs",
       "summary": "A recap of episode six of the Think Like an Architect series, breaking down the technical complexities of securely exposing enterprise data to a third-party AI agent.",
@@ -10,6 +120,17 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 19,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Organizations increases RCP quota to 2,000 per organization",
+      "summary": "AWS Organizations now supports up to 2,000 resource control policies (RCPs) per organization, doubling the previous limit of 1,000. RCPs enable centralized management of the maximum permissions available to resources across member accounts in your organization. This quota increase helps customers managing large, complex, multi-account environments define more granular resource access controls with",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-organizations-resource-control-policy-limit-increase-2000",
+      "date": "2026-07-22T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -87,6 +208,17 @@
       "image": null
     },
     {
+      "title": "How news organizations are using AI to advance their vital missions",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "date": "2026-07-22T13:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Advancing the next era of national science",
       "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
@@ -106,6 +238,19 @@
       "category": "sap",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for Microsoft SQL Server 2016 SP3+GDR KB5089271 (RDS version 13.00.6490.1.v1), SQL Server 2017 CU31+GDR KB5090354 (RDS version 14.00.3530.2.v1), SQL Server 2019 CU32+GDR KB5090407 (RDS v",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server",
+      "date": "2026-07-22T07:45:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -144,6 +289,17 @@
       "tags": [
         "cloud"
       ],
+      "image": null
+    },
+    {
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "url": "https://openai.com/index/ntt-data",
+      "date": "2026-07-22T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 18,
+      "tags": [],
       "image": null
     },
     {
@@ -219,9 +375,9 @@
       "image": null
     },
     {
-      "title": "How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale",
-      "summary": "Why we built the Carbon Footprint LedgerAt Dow, our ambition is to be the most innovative,...",
-      "url": "https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale",
+      "title": "Why R&D Data Belongs in the Lakehouse - and Why Agents Need It There",
+      "summary": "The setupAt cellcentric, a joint venture of Daimler Truck and Volvo Group, we develop...",
+      "url": "https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there",
       "date": "2026-07-21T19:45:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
@@ -232,9 +388,9 @@
       "image": null
     },
     {
-      "title": "Why R&D Data Belongs in the Lakehouse - and Why Agents Need It There",
-      "summary": "The setupAt cellcentric, a joint venture of Daimler Truck and Volvo Group, we develop...",
-      "url": "https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there",
+      "title": "How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale",
+      "summary": "Why we built the Carbon Footprint LedgerAt Dow, our ambition is to be the most innovative,...",
+      "url": "https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale",
       "date": "2026-07-21T19:45:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
@@ -256,19 +412,6 @@
       "image": null
     },
     {
-      "title": "Amazon ECS advanced deployment strategies now available in AWS European Sovereign Cloud",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) now supports built-in blue/green, linear, and canary deployment strategies in the AWS European Sovereign Cloud, making software updates for containerized applications safer and allowing you to release new application versions faster with greater confidence. Built directly into Amazon ECS, these capabilities eliminate the need for custom deployment tool",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-adv-deployments-eu-sovereign-cloud/",
-      "date": "2026-07-21T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Introducing the ChatGPT for small business program",
       "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
@@ -276,17 +419,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SES introduces pricing plans",
-      "summary": "Today, Amazon Simple Email Service (SES) introduced pricing plans, making it easy to purchase and access SES capabilities without evaluating them individually. Amazon SES pricing plans include three hierarchical options: Essentials, Pro, and Enterprise. Each plan builds on the one before it, offering progressively more capability at a discount compared to à-la-carte pricing. Businesses depend on e",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-pricing-plans/",
-      "date": "2026-07-21T16:35:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -361,17 +493,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/vera-tech-blog-vera-rubin-nvl72-1920x1080-1.png"
     },
     {
-      "title": "Amazon ECS now provides Action Logs for deployment and orchestration visibility",
-      "summary": "Today, Amazon Elastic Container Service (Amazon ECS) introduces Action Logs, a new observability feature that delivers detailed, timestamped records of the actions Amazon ECS performs on behalf of customers during service deployments and ECS Managed Daemon updates. By surfacing service-side operations that were previously invisible, Action Logs help you monitor and troubleshoot your workloads dire",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-action-logs/",
-      "date": "2026-07-21T15:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
       "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
@@ -409,41 +530,15 @@
       "image": null
     },
     {
-      "title": "Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for Microsoft SQL Server 2016 SP3+GDR KB5089271 (RDS version 13.00.6490.1.v1), SQL Server 2017 CU31+GDR KB5090354 (RDS version 14.00.3530.2.v1), SQL Server 2019 CU32+GDR KB5090407 (RDS v",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server",
-      "date": "2026-07-21T07:45:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Marketplace now supports self-service seller signature management for India-based sellers",
-      "summary": "AWS Marketplace now enables India-based sellers to upload and manage their seller signatures directly through AWS Partner Central, eliminating the previous manual, email-based submission process. Sellers located in India are required to provide a valid seller signature for tax invoicing and regulatory compliance. This launch consolidates Goods and Services Tax Identification Number (GSTIN) registr",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-marketplace-india/",
-      "date": "2026-07-21T07:18:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 13,
+      "title": "NVIDIA and Partners Build in America, for America",
+      "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "date": "2026-07-21T13:00:47+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS for SQL Server now supports Microsoft SQL Server 2025",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports Microsoft SQL Server 2025 for Enterprise, Standard, and Developer editions. SQL Server 2025 brings AI integration directly into the database engine, enabling customers to invoke external REST endpoints from T-SQL without additional middleware. Customers running RDS for SQL Server can use this capability to integrate existi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-supports-sqlserver-2025",
-      "date": "2026-07-21T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 8,
-      "tags": [
-        "data"
-      ],
-      "image": null
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg"
     },
     {
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
@@ -491,17 +586,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "AWS Partner Central agents expand funding guidance to all programs",
-      "summary": "AWS Partner Central agents now support all AWS Partner funding programs. AWS Partners can get guidance on eligibility requirements, application processes, and program details for any funding program and receive documentation-backed answers in seconds. The agents already automate the full funding lifecycle for four funding programs, supported since the March 2026 launch. This expansion adds Strateg",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-partner-central/",
-      "date": "2026-07-20T20:08:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -646,17 +730,6 @@
       "image": null
     },
     {
-      "title": "Tech builds on AI. Finance protects the margin.",
-      "summary": "Ask a tech company CFO where the quarter's margin is landing, and you will get a...",
-      "url": "https://www.databricks.com/blog/tech-builds-ai-finance-protects-margin",
-      "date": "2026-07-17T19:26:20+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The cost of saying yes has changed",
       "summary": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog .",
       "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
@@ -706,17 +779,6 @@
         "security"
       ],
       "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
-      "summary": "Put the power of a full business team in your hands with AI.",
-      "url": "https://www.salesforce.com/blog/small-business/ai-tools-for-entrepreneurs/",
-      "date": "2026-07-17T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "The Winners of the Energy and Utilities Innovation Award",
@@ -1019,28 +1081,6 @@
       "image": null
     },
     {
-      "title": "How sales teams use ChatGPT Work",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "date": "2026-07-14T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How data science teams use ChatGPT Work",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "date": "2026-07-14T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
       "summary": "On July 13, 2006, we launched Amazon Simple Queue Service (Amazon SQS) as one of the first three services available to customers, alongside Amazon EC2 and Amazon S3. We had learned firsthand that distributed systems need a reliable way to pass messages between components without creating tight dependencies. If one service called another directly and […]",
       "url": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/",
@@ -1244,19 +1284,6 @@
       "image": null
     },
     {
-      "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-      "summary": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
-      "date": "2026-07-08T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 13,
-      "tags": [
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
       "summary": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
       "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
@@ -1268,17 +1295,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Nemotron_LangChain-scaled.jpg"
     },
     {
-      "title": "FinOps for AI: Snowflake's AI Cost Management and Governance Tools",
-      "summary": "See how Snowflake uses AI to simplify cost analysis and delivers budgets, per-user quotas and granular AI usage views so teams can govern AI spend at scale.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-finops-cost-management-governance-snowflake",
-      "date": "2026-07-07T19:51:05+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "External key management for Azure Managed HSM is now in public preview",
       "summary": "Azure Key Vault Managed Hardware Security Module (HSM) provides strong sovereignty over your encryption keys. Keys are generated and stored in a single-tenant, FIPS 140-3 Level 3 HSM that only you control: Microsoft has no access to your key material, and you govern who can use each key. The post External key management for Azure Managed HSM is now in public preview appeared first on Microsoft Azu",
       "url": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/",
@@ -1288,20 +1304,6 @@
       "relevance": 1,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
-      "summary": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
-      "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
-      "date": "2026-07-07T15:00:52+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 14,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-press-vera-cpu-agentic-tl-1920x1080-5404450.png"
     },
     {
       "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
@@ -1362,17 +1364,6 @@
       "tags": [
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Snowflake Achieves HDS Certification in France, Helping Healthcare Organizations Accelerate Data and AI Innovation",
-      "summary": "Discover how Snowflake’s HDS certification enables healthcare organizations in France to securely host data and accelerate AI innovation. Learn more.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-hds-certification-france",
-      "date": "2026-07-01T16:17:52+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 3,
-      "tags": [],
       "image": null
     },
     {
@@ -1640,19 +1631,6 @@
       "category": "meta",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
-      "summary": "AWS launches a new serverless compute primitive, AWS Lambda MicroVMs. VM-level, isolated sandboxes with no shared kernel or resources between sessions. Rapid launch and resume, full lifecycle control, state preservation up to 8 hours, no infrastructure to manage.",
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "date": "2026-06-22T22:40:07+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     }
   ]
