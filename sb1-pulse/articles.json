@@ -1,7 +1,118 @@
 {
-  "generated": "2026-07-23T12:20:49.234182+00:00",
+  "generated": "2026-07-23T18:08:39.366042+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon Bedrock AgentCore now delivers unified observability with traces and logs in a single log group",
+      "summary": "Amazon Bedrock AgentCore now delivers agent traces and prompts to the same log group as your agent's logs, giving you unified observability for AI agents in a single Amazon CloudWatch log group. Previously, AgentCore split agent telemetry across multiple destinations trace spans went to the shared `aws/spans` log group while event logs containing prompts, inputs, and outputs went to a separate res",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-unified-observability-single-log-group/",
+      "date": "2026-07-23T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 26,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Claude Sonnet 5 is now available on Amazon Bedrock in AWS GovCloud (US)",
+      "summary": "AWS GovCloud (US) now offers Claude Sonnet 5 on Amazon Bedrock. Claude Sonnet 5 delivers strong performance across coding, professional work, and agentic tasks while maintaining the balance of capability, cost, and speed. For coding, it navigates large codebases, lands multi-file changes, and carries debugging and refactoring tasks through to completion with fewer rounds of correction. For agents,",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-sonnet-5-govcloud/",
+      "date": "2026-07-23T16:02:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 26,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+      "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog .",
+      "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+      "date": "2026-07-23T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Why A Frontier Data Agent Outperforms General Coding Agents in Quality and Cost",
+      "summary": "Conventional wisdom in agentic AI says that better answers cost more tokens: let...",
+      "url": "https://www.databricks.com/blog/why-frontier-data-agent-outperforms-general-coding-agents-quality-and-cost",
+      "date": "2026-07-23T15:33:58+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Connect Amazon S3 data to Databricks with Delegated IAM Permissions",
+      "summary": "Importance of Simpler S3 connectivityConnecting Amazon S3 is one of the most important...",
+      "url": "https://www.databricks.com/blog/connect-amazon-s3-data-databricks-delegated-iam-permissions",
+      "date": "2026-07-23T15:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Announcing region expansion of G7e instances on SageMaker AI inference",
+      "summary": "We are pleased to announce the availability of Amazon EC2 G7e instances in Asia Pacific (Seoul), Europe (London), and Asia Pacific (Tokyo) on Amazon SageMaker AI inference. G7e instances feature up to 8 NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs with 96 GB of memory per GPU, 5th Generation Intel Xeon processors, and up to 1,600 Gbps of Elastic Fabric Adapter networking bandwidth, delivering",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/g7e-sagemaker-ai/",
+      "date": "2026-07-23T15:04:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Announcing region expansion of G6 instances on SageMaker AI Inference",
+      "summary": "We are pleased to announce the availability of Amazon EC2 G6 instances in the AWS GovCloud (US-East) region on Amazon SageMaker AI inference. G6 instances are powered by up to 8 NVIDIA L4 Tensor Core GPUs, each with 24 GB of memory, and third-generation AMD EPYC processors, delivering up to 2x the deep learning inference performance compared to G4dn instances. With this region expansion, governmen",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/g6-sagemaker-ai-inference/",
+      "date": "2026-07-23T14:51:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
+      "summary": "Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail in Path of Exile: Curse of the Allflame and charge in Battlefield 6 Season 4 both launching major content for members this week. Then revisit Capcom legends like Breath of […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+      "date": "2026-07-23T13:00:16+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-23-blog-1920x1080-logo.jpg"
+    },
+    {
+      "title": "What are the Best AI Chatbots for Small Business Customer Service?",
+      "summary": "SMBs, ready to meet your AI service chatbot?",
+      "url": "https://www.salesforce.com/blog/small-business/best-ai-chatbots-for-small-business-service/",
+      "date": "2026-07-23T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Salesforce Named a Leader in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
       "summary": "Salesforce today announced that it has been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms — the company’s first time named in this report. Download a complimentary…",
@@ -23,6 +134,17 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/260722-N-UT641-7052-scaled.jpg"
+    },
+    {
+      "title": "Launching Health in ChatGPT",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "date": "2026-07-23T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
     },
     {
       "title": "Simplify AI agent orchestration with Lakebase Postgres",
@@ -68,6 +190,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 M8id instances are now available in Europe (Ireland) region",
+      "summary": "Amazon EC2 M8id instances are now available in (Ireland). These instances are powered by custom Intel Xeon 6 processors and deliver up to 43% higher performance and 3.3x more memory bandwidth compared to previous generation M6id instances. M8id instances offer up to 384 vCPUs, 1.5TiB of memory, and 22.8TB of NVMe SSD storage, 3x more than previous generation instances. These instances deliver up t",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8id-europe-ireland/",
+      "date": "2026-07-22T19:55:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
       "image": null
     },
     {
@@ -154,6 +287,19 @@
       "category": "aws",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker AI inference now supports G7 instances",
+      "summary": "Amazon SageMaker AI inference now supports G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs, enabling you to deploy machine learning models with up to 4.6x AI inference performance compared to previous-generation G6 instances. Customers deploying generative AI models for production inference need high GPU throughput and memory capacity to serve medium-to-large models cost-",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-ai-g7/",
+      "date": "2026-07-22T15:23:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 19,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -276,20 +422,6 @@
       "image": null
     },
     {
-      "title": "AWS Secrets Manager now publishes secret update notifications to Amazon EventBridge",
-      "summary": "AWS Secrets Manager now automatically publishes events to Amazon EventBridge whenever your secret values change, enabling you to build event-driven workflows that respond in real time to secret updates. Until now, you had to rely on AWS CloudTrail events parsed into EventBridge to know when a secret value changed — requiring you to match multiple API events such as rotation success, PutSecretValue",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-update-notifications",
-      "date": "2026-07-22T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud",
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "Introducing OpenAI Presence",
       "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
       "url": "https://openai.com/index/introducing-openai-presence",
@@ -298,19 +430,6 @@
       "category": "openai",
       "relevance": 22,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Direct Connect announces 100G expansion in Lima, Peru",
-      "summary": "Today, AWS announced the expansion of 100 Gbps dedicated connections at the existing AWS Direct Connect location within the Cirion data center in Lima, Peru. You can now establish private, direct network access to all public AWS Regions (except those in China), AWS GovCloud Regions, and AWS Local Zones from this location. This is the first AWS Direct Connect location in Peru to provide 100 Gbps co",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-100g-lima/",
-      "date": "2026-07-22T04:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -344,56 +463,6 @@
       "category": "databricks",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Elastic Disaster Recovery is now available in six additional AWS Regions",
-      "summary": "AWS Elastic Disaster Recovery (AWS DRS) is now available in six additional AWS Regions: Asia Pacific (Bangkok), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Taipei), Canada West (Calgary), and Mexico (Central). Elastic Disaster Recovery is the recommended service for disaster recovery to AWS. It helps minimize downtime and data loss with fast, reliable recovery of on-premises",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-additional-regions/",
-      "date": "2026-07-21T22:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 R6in and R6idn instances are now available in additional regions",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R6in and R6idn instances are available in AWS Europe (Paris) and Canada (Central) regions. These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable processors and built on the AWS Nitro System , deliver up to 200Gbps network bandwidth, 2x more network bandwidth, and up to 2x higher packet-processing ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/",
-      "date": "2026-07-21T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 M6in and M6idn instances are now available in additional regions",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M6in and M6idn instances are available in AWS Asia Pacific (Hyderabad) and South America (Sao Paulo) regions. These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable processors and built on the AWS Nitro System , deliver up to 200Gbps network bandwidth, for 2x more network bandwidth over comparable ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn/",
-      "date": "2026-07-21T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 C6in instances are now available in Asia Pacific (Taipei) Region",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C6in instances are available in AWS Asia Pacific (Taipei). These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable processors and built on the AWS Nitro System , deliver up to 200Gbps network bandwidth, for 2x more network bandwidth over comparable fifth-generation instances. Customers can use C6in ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c6in/",
-      "date": "2026-07-21T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -587,17 +656,6 @@
       "image": null
     },
     {
-      "title": "2026 Holiday Predictions: A Unified Yet Fractured Journey",
-      "summary": "Holiday retail planning used to follow a predictable playbook: Optimize the checkout funnel. Launch the campaigns. Stock the shelves. Brace for Cyber Week. But in today’s market, that playbook is obsolete. Data from…",
-      "url": "https://www.salesforce.com/blog/holiday-retail-predictions-2026/",
-      "date": "2026-07-20T21:19:21+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Branching databases like code: a CI/CD pattern for Lakebase, in production at Glaspoort",
       "summary": "The problem we couldn't ignoreGlaspoort builds and operates fiber infrastructure in the Netherlands...",
       "url": "https://www.databricks.com/blog/branching-databases-code-cicd-pattern-lakebase-production-glaspoort",
@@ -723,30 +781,6 @@
       "date": "2026-07-20T10:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AI Transparency: Governance, Explainability, and Data Practices",
-      "summary": "AI transparency is the practice of making an artificial intelligence system's data, model behavior...",
-      "url": "https://www.databricks.com/blog/ai-transparency",
-      "date": "2026-07-20T08:03:23+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 7,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Responsible AI: Governance, Principles, and Practical Guide",
-      "summary": "Responsible AI: Governance, Principles, and Practical GuideResponsible AI is the...",
-      "url": "https://www.databricks.com/blog/responsible-ai",
-      "date": "2026-07-17T19:32:12+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
       "relevance": 2,
       "tags": [],
       "image": null
@@ -1078,20 +1112,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/performance-per-watt-ai-infra-efficiency.jpg"
     },
     {
-      "title": "How to manage AI investments in the agentic era",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "date": "2026-07-14T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 9,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "Inside Team USA's Olympic Data Collaboration | Snowflake",
       "summary": "At Milano Cortina 2026, Elana Meyers Taylor won gold by 4/100ths of a second. See how Snowflake data collaboration gave the team a competitive edge.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/team-usa-bobsled-performance-data-collaboration",
@@ -1224,17 +1244,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp"
     },
     {
-      "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
-      "summary": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also gets an update in the cloud, […]",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
-      "date": "2026-07-09T13:00:55+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-9-blog-1920x1080-no-copy.jpg"
-    },
-    {
       "title": "Apache Ossie (Incubating): The New Name for Open Semantic Interchange",
       "summary": "Open Semantic Interchange is now Apache Ossie (Incubating) — a vendor-neutral semantic standard for AI and data tools, entering the Apache Incubator with 50+ contributors.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/apache-ossie-open-semantic-interchange-incubator",
@@ -1267,17 +1276,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "GitHub availability report: June 2026",
-      "summary": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
-      "date": "2026-07-08T19:35:51+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1631,17 +1629,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "How Meta Engineered Ultra-Narrow Batteries for AI Glasses",
-      "summary": "Smart glasses like the Ray-Ban Meta and Oakley Meta Vanguards need to pack enough energy to power features like cameras, speakers, AI workloads, and even a display. But it all has to fit into the glasses’ temple arms. So how do you place a battery with enough power to run a pair of smart glasses [...] Read More... The post How Meta Engineered Ultra-Narrow Batteries for AI Glasses appeared first on",
-      "url": "https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
-      "date": "2026-06-23T16:00:38+00:00",
-      "source": "Meta Engineering",
-      "category": "meta",
-      "relevance": 1,
-      "tags": [],
       "image": null
     }
   ]
