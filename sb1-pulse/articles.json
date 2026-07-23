@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-23T07:28:09.766001+00:00",
+  "generated": "2026-07-23T12:20:49.234182+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Salesforce Named a Leader in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
+      "summary": "Salesforce today announced that it has been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms — the company’s first time named in this report. Download a complimentary…",
+      "url": "https://www.salesforce.com/blog/salesforce-2026-gartner-magic-quadrant-conversational-ai-platforms/",
+      "date": "2026-07-23T12:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
       "summary": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate university. “Our nation depends on our men and women […]",
