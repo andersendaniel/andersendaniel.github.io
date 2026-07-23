@@ -1,7 +1,93 @@
 {
-  "generated": "2026-07-23T18:08:39.366042+00:00",
+  "generated": "2026-07-23T23:55:27.805288+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "SAP Announces Q2 and Half-Year 2026 Results",
+      "summary": "WALLDORF — SAP has delivered another quarter of strong current cloud backlog growth.",
+      "url": "https://news.sap.com/2026/07/sap-announces-q2-and-half-year-2026-results/",
+      "date": "2026-07-23T20:09:34+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The Anatomy of an Agentic ITSM Workflow",
+      "summary": "Your onboarding takes weeks. Your best people sit around waiting for their laptops, login instructions and access to apps. There's a better way.",
+      "url": "https://www.salesforce.com/blog/agentic-itsm-workflow/",
+      "date": "2026-07-23T19:14:38+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 5,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "How the FDA Built an AI Platform That 85% of Its Staff Now Use Daily",
+      "summary": "“We showed the value of having a foundational data platform, and that success story...",
+      "url": "https://www.databricks.com/blog/how-fda-built-ai-platform-85-its-staff-now-use-daily",
+      "date": "2026-07-23T19:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 7,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
+      "summary": "AT&T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-scale telecom AI. The post AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD appeared first on Microsoft Azure B",
+      "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+      "date": "2026-07-23T18:30:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Permission isn't purpose: Intent-based authorization in Omnigent",
+      "summary": "In earlier posts, we introduced contextual policies in Omnigent and showed them blocking...",
+      "url": "https://www.databricks.com/blog/permission-isnt-purpose-intent-based-authorization-omnigent",
+      "date": "2026-07-23T18:05:06+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS for MySQL supports MySQL 9.7 in Amazon RDS Database Preview Environment",
+      "summary": "Amazon RDS for MySQL now supports version community MySQL 9.7 in the Amazon RDS Database Preview Environment , allowing you to evaluate the latest Release on Amazon RDS for MySQL. This preview environment provides a sandbox where you can test applications and explore new MySQL 9.7 capabilities before they become generally available. MySQL 9.7 is the latest Long-Term Support release for community M",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-mysql-long-term-9-7-rds-database-preview/",
+      "date": "2026-07-23T18:05:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Provisioning for the Agentic Era: How Databricks Built a Self-Serve Infrastructure Vending Machine",
+      "summary": "At Databricks, our field engineering organization exists to help customers succeed....",
+      "url": "https://www.databricks.com/blog/provisioning-agentic-era-how-databricks-built-self-serve-infrastructure-vending-machine",
+      "date": "2026-07-23T18:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
     {
       "title": "Amazon Bedrock AgentCore now delivers unified observability with traces and logs in a single log group",
       "summary": "Amazon Bedrock AgentCore now delivers agent traces and prompts to the same log group as your agent's logs, giving you unified observability for AI agents in a single Amazon CloudWatch log group. Previously, AgentCore split agent telemetry across multiple destinations trace spans went to the shared `aws/spans` log group while event logs containing prompts, inputs, and outputs went to a separate res",
@@ -12,6 +98,19 @@
       "relevance": 26,
       "tags": [
         "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EVS is now available in additional Regions",
+      "summary": "Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) is now available in the Asia Pacific (Seoul), Europe (Zurich), and Europe (Stockholm) Regions. This expansion provides more options to leverage the scale and flexibility of AWS for running your VMware workloads in the cloud. Amazon EVS lets you run VMware Cloud Foundation (VCF) directly within your Amazon Virtual Private Cloud",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-available-in-additional-regions/",
+      "date": "2026-07-23T16:24:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
         "cloud"
       ],
       "image": null
@@ -92,6 +191,17 @@
       "image": null
     },
     {
+      "title": "Introducing AI spend controls with Unity AI Gateway",
+      "summary": "Today, we're announcing AI Spend Controls in Unity AI Gateway. This release extends...",
+      "url": "https://www.databricks.com/blog/introducing-ai-spend-controls-unity-ai-gateway",
+      "date": "2026-07-23T14:04:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
       "summary": "Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail in Path of Exile: Curse of the Allflame and charge in Battlefield 6 Season 4 both launching major content for members this week. Then revisit Capcom legends like Breath of […]",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
@@ -125,6 +235,19 @@
       "image": null
     },
     {
+      "title": "AWS Wickr announces Data Retention Service feature",
+      "summary": "AWS Wickr now offers a managed Data Retention Service feature for Premium users, enabling organizations to retain conversations across their network for data archiving purposes. AWS Wickr is an enterprise-grade, secure collaboration product that provides end-to-end encrypted messaging, file management, screen sharing, and voice/video conferencing capabilities. The Data Retention Service feature pr",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-wickr-data/",
+      "date": "2026-07-23T04:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
       "summary": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate university. “Our nation depends on our men and women […]",
       "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
@@ -134,6 +257,19 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/260722-N-UT641-7052-scaled.jpg"
+    },
+    {
+      "title": "Amazon EC2 High Memory U7i instances now available in additional regions",
+      "summary": "Amazon EC2 High Memory U7in-16TB instances (u7in-16tb.224xlarge) are now available in AWS South America (São Paulo) region, and U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS Europe (Ireland) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids). U7in-16TB instances offer 16 TiB of D",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-u7i/",
+      "date": "2026-07-23T00:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "automation"
+      ],
+      "image": null
     },
     {
       "title": "Launching Health in ChatGPT",
@@ -257,17 +393,6 @@
       "image": null
     },
     {
-      "title": "Amazon Corretto July 2026 Quarterly Updates",
-      "summary": "On July 22, 2026, Amazon announced quarterly security and critical updates for Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of OpenJDK. Corretto 26.0.2, 25.0.4, 21.0.12, 17.0.20, 11.0.32, and 8u502 are now available for download . Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK. Starting with this release, the default Amazon Corre",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-corretto-july-2026-quarterly-updates",
-      "date": "2026-07-22T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Architecting Secure Agent Connectivity: A Guide to Choosing Between MCP and APIs",
       "summary": "A recap of episode six of the Think Like an Architect series, breaking down the technical complexities of securely exposing enterprise data to a third-party AI agent.",
       "url": "https://www.salesforce.com/blog/architecting-secure-agent-connectivity-mcp-apis/",
@@ -276,44 +401,6 @@
       "category": "salesforce",
       "relevance": 19,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Organizations increases RCP quota to 2,000 per organization",
-      "summary": "AWS Organizations now supports up to 2,000 resource control policies (RCPs) per organization, doubling the previous limit of 1,000. RCPs enable centralized management of the maximum permissions available to resources across member accounts in your organization. This quota increase helps customers managing large, complex, multi-account environments define more granular resource access controls with",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-organizations-resource-control-policy-limit-increase-2000",
-      "date": "2026-07-22T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker AI inference now supports G7 instances",
-      "summary": "Amazon SageMaker AI inference now supports G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs, enabling you to deploy machine learning models with up to 4.6x AI inference performance compared to previous-generation G6 instances. Customers deploying generative AI models for production inference need high GPU throughput and memory capacity to serve medium-to-large models cost-",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-ai-g7/",
-      "date": "2026-07-22T15:23:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 19,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EKS now supports EFA and placement groups on Amazon EKS Auto Mode and Karpenter",
-      "summary": "Amazon Elastic Kubernetes Service (EKS) now supports Amazon EC2 placement groups and Elastic Fabric Adapter (EFA) network device configuration for node pools on EKS Auto Mode and the open-source Karpenter project, enabling you to optimize EKS workloads for performance and availability. These capabilities allow you to control EFA network interface configuration and how EC2 instances are physically ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-efa-placement-groups/",
-      "date": "2026-07-22T14:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud",
-        "data"
-      ],
       "image": null
     },
     {
@@ -409,19 +496,6 @@
       "image": null
     },
     {
-      "title": "Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for Microsoft SQL Server 2016 SP3+GDR KB5089271 (RDS version 13.00.6490.1.v1), SQL Server 2017 CU31+GDR KB5090354 (RDS version 14.00.3530.2.v1), SQL Server 2019 CU32+GDR KB5090407 (RDS v",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server",
-      "date": "2026-07-22T07:45:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Introducing OpenAI Presence",
       "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
       "url": "https://openai.com/index/introducing-openai-presence",
@@ -489,17 +563,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Announcing the Public Preview of Discover and Domains, powered by Unity Catalog",
-      "summary": "Today, we're announcing the Public Preview of Domains and the Discover page, powered...",
-      "url": "https://www.databricks.com/blog/announcing-public-preview-discover-and-domains-powered-unity-catalog",
-      "date": "2026-07-21T19:10:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -656,30 +719,6 @@
       "image": null
     },
     {
-      "title": "Branching databases like code: a CI/CD pattern for Lakebase, in production at Glaspoort",
-      "summary": "The problem we couldn't ignoreGlaspoort builds and operates fiber infrastructure in the Netherlands...",
-      "url": "https://www.databricks.com/blog/branching-databases-code-cicd-pattern-lakebase-production-glaspoort",
-      "date": "2026-07-20T20:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Scaling document classification to 100k+ labels",
-      "summary": "Across Databricks, thousands of customers build production workloads that map freeform...",
-      "url": "https://www.databricks.com/blog/scaling-document-classification-100k-labels",
-      "date": "2026-07-20T18:15:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Document Intelligence with Snowflake: Activate Business Documents",
       "summary": "Turn business documents into AI-ready data with Snowflake Cortex AI Functions. Build enterprise search, automate document processing and analyze documents at scale.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/document-intelligence-snowflake-cortex-ai-functions",
@@ -715,17 +754,6 @@
       "tags": [
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "The three ways AI unlocks transformation in Retail, Travel, and Consumer Goods",
-      "summary": "It is 5:45 on a Friday morning, and a store manager is standing in the back office...",
-      "url": "https://www.databricks.com/blog/three-ways-ai-unlocks-transformation-retail-travel-and-consumer-goods",
-      "date": "2026-07-20T15:01:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -936,6 +964,17 @@
       "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo"
     },
     {
+      "title": "How Codex became a collaborator for OpenAI’s creative team",
+      "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
+      "url": "https://openai.com/index/codex-collaborator-creative-team",
+      "date": "2026-07-16T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
       "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
       "url": "https://openai.com/index/cars24",
@@ -1051,17 +1090,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/0715-Physical-AI-Activation-and-BaC-LDA_8618.jpg"
-    },
-    {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "date": "2026-07-15T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
@@ -1570,19 +1598,6 @@
       "category": "microsoft",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Accelerate modern Linux workloads with Azure Files",
-      "summary": "Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
-      "date": "2026-06-29T15:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 7,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
