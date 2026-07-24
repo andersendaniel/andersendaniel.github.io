@@ -1,7 +1,34 @@
 {
-  "generated": "2026-07-24T18:14:26.642552+00:00",
+  "generated": "2026-07-24T23:58:08.794234+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon MWAA now supports Apache Airflow version 2.11.2",
+      "summary": "Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 2.11.2. Amazon MWAA is a managed service that runs Apache Airflow at scale without the operational overhead of managing the underlying infrastructure. Apache Airflow 2.11.2 is a maintenance release that includes security improvements, bug fixes, and dependency upgrades. This release upgrades core dependencies wi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mwaa-now-supports-apache-airflow-version-2-11-2",
+      "date": "2026-07-24T21:57:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Kinesis Data Streams now supports scaling down ingest capacity with warm throughput",
+      "summary": "Amazon Kinesis Data Streams is a serverless streaming data service that makes it easy to capture, process, and store data streams at any scale. On-demand streams automatically increase ingest capacity in response to rising data ingest usage. With On-demand Advantage mode, you can proactively manage stream capacity using warm throughput to prepare streams for sudden changes in data traffic. We are ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/kinesis/on-demand-scale-down",
+      "date": "2026-07-24T18:55:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Why Marketers Need to Move Beyond Attribution and Embrace Agentic Optimization",
       "summary": "Your marketing data should do more than explain what happened. It should help you decide what to do next.",
@@ -16,17 +43,54 @@
       "image": null
     },
     {
+      "title": "Announcing Claude Opus 5 on Snowflake Cortex AI",
+      "summary": "Claude Opus 5 is now available in public preview on Snowflake Cortex AI, bringing advanced reasoning and agentic capabilities with Snowflake’s secure governed AI platform.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-opus-5-snowflake-cortex-ai",
+      "date": "2026-07-24T16:22:01+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Lambda now publishes logs for Lambda Managed Instances capacity providers",
+      "summary": "AWS Lambda now publishes logs for Lambda Managed Instances (LMI) capacity providers to Amazon CloudWatch Logs, giving you visibility into scaling activity and instance lifecycle operations. LMI enables you to run Lambda functions on Amazon EC2 instances while maintaining serverless operational simplicity. Capacity providers are resources that let you define compute resources that Lambda provisions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-managed-instances-logs/",
+      "date": "2026-07-24T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "What’s new with Google Cloud",
-      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jul 20 - Jul 24 Apigee",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jul 20 - Jul 24 Claude",
       "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "date": "2026-07-24T16:00:00+00:00",
       "source": "Google Cloud Blog",
       "category": "google",
-      "relevance": 2,
+      "relevance": 13,
       "tags": [
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "Amazon SES simplifies sending emails over SMTP using Mail Manager",
+      "summary": "Amazon Simple Email Service (SES) now offers a simplified console experience for sending emails over SMTP using Mail Manager. Mail Manager is a capability within SES for managing email flow, but configuring its resources individually to set up SMTP sending requires multiple steps. The new guided setup creates and configures these resources automatically, so developers can get started in just a few",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-simplified-smtp-mail-manager",
+      "date": "2026-07-24T15:03:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
     },
     {
       "title": "Claude Opus 5 is now available on AWS",
@@ -240,33 +304,6 @@
       "image": null
     },
     {
-      "title": "Amazon EVS is now available in additional Regions",
-      "summary": "Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) is now available in the Asia Pacific (Seoul), Europe (Zurich), and Europe (Stockholm) Regions. This expansion provides more options to leverage the scale and flexibility of AWS for running your VMware workloads in the cloud. Amazon EVS lets you run VMware Cloud Foundation (VCF) directly within your Amazon Virtual Private Cloud",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-available-in-additional-regions/",
-      "date": "2026-07-23T16:24:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Claude Sonnet 5 is now available on Amazon Bedrock in AWS GovCloud (US)",
-      "summary": "AWS GovCloud (US) now offers Claude Sonnet 5 on Amazon Bedrock. Claude Sonnet 5 delivers strong performance across coding, professional work, and agentic tasks while maintaining the balance of capability, cost, and speed. For coding, it navigates large codebases, lands multi-file changes, and carries debugging and refactoring tasks through to completion with fewer rounds of correction. For agents,",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-sonnet-5-govcloud/",
-      "date": "2026-07-23T16:02:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 26,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
       "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog .",
       "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
@@ -299,32 +336,6 @@
       "category": "databricks",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Announcing region expansion of G7e instances on SageMaker AI inference",
-      "summary": "We are pleased to announce the availability of Amazon EC2 G7e instances in Asia Pacific (Seoul), Europe (London), and Asia Pacific (Tokyo) on Amazon SageMaker AI inference. G7e instances feature up to 8 NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs with 96 GB of memory per GPU, 5th Generation Intel Xeon processors, and up to 1,600 Gbps of Elastic Fabric Adapter networking bandwidth, delivering",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/g7e-sagemaker-ai/",
-      "date": "2026-07-23T15:04:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Announcing region expansion of G6 instances on SageMaker AI Inference",
-      "summary": "We are pleased to announce the availability of Amazon EC2 G6 instances in the AWS GovCloud (US-East) region on Amazon SageMaker AI inference. G6 instances are powered by up to 8 NVIDIA L4 Tensor Core GPUs, each with 24 GB of memory, and third-generation AMD EPYC processors, delivering up to 2x the deep learning inference performance compared to G4dn instances. With this region expansion, governmen",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/g6-sagemaker-ai-inference/",
-      "date": "2026-07-23T14:51:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -369,19 +380,6 @@
       "category": "salesforce",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Wickr announces Data Retention Service feature",
-      "summary": "AWS Wickr now offers a managed Data Retention Service feature for Premium users, enabling organizations to retain conversations across their network for data archiving purposes. AWS Wickr is an enterprise-grade, secure collaboration product that provides end-to-end encrypted messaging, file management, screen sharing, and voice/video conferencing capabilities. The Data Retention Service feature pr",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-wickr-data/",
-      "date": "2026-07-23T04:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -607,9 +605,9 @@
       "image": null
     },
     {
-      "title": "Why R&D Data Belongs in the Lakehouse - and Why Agents Need It There",
-      "summary": "The setupAt cellcentric, a joint venture of Daimler Truck and Volvo Group, we develop...",
-      "url": "https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there",
+      "title": "How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale",
+      "summary": "Why we built the Carbon Footprint LedgerAt Dow, our ambition is to be the most innovative,...",
+      "url": "https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale",
       "date": "2026-07-21T19:45:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
@@ -620,9 +618,9 @@
       "image": null
     },
     {
-      "title": "How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale",
-      "summary": "Why we built the Carbon Footprint LedgerAt Dow, our ambition is to be the most innovative,...",
-      "url": "https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale",
+      "title": "Why R&D Data Belongs in the Lakehouse - and Why Agents Need It There",
+      "summary": "The setupAt cellcentric, a joint venture of Daimler Truck and Volvo Group, we develop...",
+      "url": "https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there",
       "date": "2026-07-21T19:45:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
@@ -1332,17 +1330,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Transforming FP&A with AI Modernization",
-      "summary": "Discover how the AI-driven Snowplan V2 revolutionizes financial planning and analysis, enabling faster, forecasting and smarter decision-making for finance teams.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/fpa-ai-modernization-snowplan-v2",
-      "date": "2026-07-08T16:58:32+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
