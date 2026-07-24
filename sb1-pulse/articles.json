@@ -1,7 +1,42 @@
 {
-  "generated": "2026-07-23T23:55:27.805288+00:00",
+  "generated": "2026-07-24T07:27:33.056202+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+      "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, this week’s discussions and announcements advance […]",
+      "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+      "date": "2026-07-24T04:34:27+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/jhh-k-ai-summit-1920x1080-2.jpg"
+    },
+    {
+      "title": "Real-Time Engagement with Time Spent Tracking in Data 360 with Web SDK",
+      "summary": "Almost every business accumulates massive amounts of behavioral data in their search for rich and actionable customer insight, yet they often miss the most critical signal: the duration of actual attention rather than…",
+      "url": "https://www.salesforce.com/blog/real-time-engagement-with-time-spent-tracking-in-data-360-with-web-sdk/",
+      "date": "2026-07-24T03:08:51+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon ECS Service Connect now supports Zone-Aware routing",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) introduces zone-aware routing for ECS Service Connect, enabling customers to reduce cross Availability Zone (AZ) data transfer costs and latency by automatically prioritizing service-to-service traffic within the same AZ. With this launch, ECS Service Connect preferentially routes requests to endpoints in the same AZ as the originating task while dynam",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/",
+      "date": "2026-07-23T23:46:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "SAP Announces Q2 and Half-Year 2026 Results",
       "summary": "WALLDORF — SAP has delivered another quarter of strong current cloud backlog growth.",
@@ -39,19 +74,6 @@
       "image": null
     },
     {
-      "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
-      "summary": "AT&T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-scale telecom AI. The post AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD appeared first on Microsoft Azure B",
-      "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
-      "date": "2026-07-23T18:30:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Permission isn't purpose: Intent-based authorization in Omnigent",
       "summary": "In earlier posts, we introduced contextual policies in Omnigent and showed them blocking...",
       "url": "https://www.databricks.com/blog/permission-isnt-purpose-intent-based-authorization-omnigent",
@@ -72,6 +94,21 @@
       "relevance": 2,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Lambda durable execution SDK for .NET is now generally available",
+      "summary": "Today, AWS announces the general availability of the AWS Lambda Durable Execution SDK for .NET, empowering C# developers to build resilient, long-running workflows using Lambda durable functions. With this SDK, developers can create multi-step applications like payment processing pipelines, AI agent orchestration, and human-in-the-loop approvals directly in their applications without implementing ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambdadf-dotnet/",
+      "date": "2026-07-23T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 18,
+      "tags": [
+        "data",
+        "automation",
+        "developer"
       ],
       "image": null
     },
@@ -98,6 +135,19 @@
       "relevance": 26,
       "tags": [
         "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch Logs now supports Application Load Balancer logs",
+      "summary": "Amazon CloudWatch Logs now supports Application Load Balancer (ALB) logs as vended logs, improving observability and simplifying debugging for network traffic patterns. You can now analyze ALB access, connection and health check logs directly in CloudWatch to gain insights into client connections, traffic distribution, connection status and target health, helping you identify and troubleshoot netw",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-logs/",
+      "date": "2026-07-23T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
         "cloud"
       ],
       "image": null
@@ -340,19 +390,6 @@
       "image": null
     },
     {
-      "title": "AWS Entity Resolution now supports advanced real-time matching",
-      "summary": "AWS Entity Resolution now supports real-time matching with advanced matching workflows, enabling customers to match records in milliseconds using complex rulesets through the GenerateMatchId API. Previously, real-time matching was limited to simple rule-based workflows, while advanced rulesets—which support operators like Exact and ExactManyToMany combined with AND/OR logic—could only be used for ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-entity-resolution/",
-      "date": "2026-07-22T19:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 9,
-      "tags": [
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "Copilot vs. raw API access: What are you actually paying for?",
       "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
@@ -364,17 +401,6 @@
         "automation",
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "AWS Lambda durable functions now supports customer managed key encryption",
-      "summary": "AWS Lambda durable functions now supports encryption of durable execution data with an AWS Key Management Service (AWS KMS) customer managed key. Lambda durable functions lets you build long-running, reliable workflows directly in your Lambda function code with automatic state management. Lambda encrypts execution state at rest by default with an AWS owned key. Now with support for AWS KMS, you ca",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/durablefunctions-cmk/",
-      "date": "2026-07-22T18:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
       "image": null
     },
     {
@@ -1127,19 +1153,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"
     },
     {
-      "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-      "summary": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for AI factories. As agentic AI drives token demand […]",
-      "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
-      "date": "2026-07-14T15:00:20+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/performance-per-watt-ai-infra-efficiency.jpg"
-    },
-    {
       "title": "Inside Team USA's Olympic Data Collaboration | Snowflake",
       "summary": "At Milano Cortina 2026, Elana Meyers Taylor won gold by 4/100ths of a second. See how Snowflake data collaboration gave the team a competitive edge.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/team-usa-bobsled-performance-data-collaboration",
@@ -1598,6 +1611,19 @@
       "category": "microsoft",
       "relevance": 13,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Accelerate modern Linux workloads with Azure Files",
+      "summary": "Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+      "date": "2026-06-29T15:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 7,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
