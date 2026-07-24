@@ -1,7 +1,83 @@
 {
-  "generated": "2026-07-24T12:15:55.640018+00:00",
+  "generated": "2026-07-24T18:14:26.642552+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Why Marketers Need to Move Beyond Attribution and Embrace Agentic Optimization",
+      "summary": "Your marketing data should do more than explain what happened. It should help you decide what to do next.",
+      "url": "https://www.salesforce.com/blog/agentic-marketing-optimization/",
+      "date": "2026-07-24T16:29:13+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jul 20 - Jul 24 Apigee",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "date": "2026-07-24T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "Claude Opus 5 is now available on AWS",
+      "summary": "AWS now offers Claude Opus 5 — the most advanced Opus model yet, and compatible with zero data retention (ZDR) — bringing a step-change in coding, long-running agents, and complex professional work to teams building at the highest level. Claude Opus 5 delivers advances in coding, understanding and navigating codebases like an experienced engineer and writing production-quality code while adapting ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws/",
+      "date": "2026-07-24T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 15,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Opus 4.8, Sonnet 5, and User Activity Monitoring now available on Kiro in AWS GovCloud (US)",
+      "summary": "Two new models are now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions. Claude Opus 4.8 is the most intelligent Opus model, delivering stronger self-verification, more efficient tool calling, and better follow-through on long-horizon projects. It plans before it edits, catches its own mistakes, and finds creative paths around obstacles instead of stalling, making it well suited",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/kiro-opus-sonnet-monitoring-launch-aws-govcloud-us/",
+      "date": "2026-07-24T14:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 15,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS announces aws-bench, an open-source benchmark for AI agents on AWS",
+      "summary": "Today, AWS announces a research preview of aws-bench, an open-source benchmark that measures how accurately and efficiently AI agents complete real-world AWS tasks. Model providers and AI researchers building agents that operate on AWS infrastructure need an objective, reproducible way to measure performance and diagnose failures. aws-bench provides a public suite of test cases derived from analys",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/",
+      "date": "2026-07-24T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Employee Agents Vs. Customer-Facing Agents? Spot the Differences",
+      "summary": "Not all AI agents do the same job — here's how small teams can figure out which type works best for them.",
+      "url": "https://www.salesforce.com/blog/small-business/employee-agents-vs-customer-facing-agents/",
+      "date": "2026-07-24T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
       "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, this week’s discussions and announcements advance […]",
@@ -150,6 +226,17 @@
       "tags": [
         "cloud"
       ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 I8ge instances are now generally available in additional AWS regions",
+      "summary": "Amazon Web Services (AWS) announces the availability of Amazon EC2 I8ge instances in AWS Europe (London) and Canada (Central) regions. I8ge instances are powered by AWS Graviton4 processors and deliver up to 60% better compute performance compared to previous generation Graviton2-based storage optimized Amazon EC2 instances. I8ge instances use the third generation AWS Nitro SSDs, local NVMe storag",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-i8ge-additional-regions/",
+      "date": "2026-07-23T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
       "image": null
     },
     {
@@ -309,19 +396,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/260722-N-UT641-7052-scaled.jpg"
     },
     {
-      "title": "Amazon EC2 High Memory U7i instances now available in additional regions",
-      "summary": "Amazon EC2 High Memory U7in-16TB instances (u7in-16tb.224xlarge) are now available in AWS South America (São Paulo) region, and U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS Europe (Ireland) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids). U7in-16TB instances offer 16 TiB of D",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-u7i/",
-      "date": "2026-07-23T00:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "Launching Health in ChatGPT",
       "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "url": "https://openai.com/index/health-in-chatgpt",
@@ -344,28 +418,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 C7a instances are now available in the US West (N. California) Region",
-      "summary": "Starting today, the compute optimized Amazon EC2 C7a instances are now available in AWS US West (N. California) Region. C7a instances, powered by 4th Gen AMD EPYC processors (code-named Genoa) with a maximum frequency of 3.7 GHz, deliver up to 50% higher performance compared to C6a instances. C7a instances offer new processor capabilities such as AVX-512, VNNI, and bfloat16. They feature Double Da",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region/",
-      "date": "2026-07-22T21:42:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 M8a instances now available in the Asia Pacific (Hyderabad) region",
-      "summary": "Starting today, the general-purpose Amazon EC2 M8a instances are available in AWS Asia Pacific (Hyderabad) region. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver up to 30% higher performance, and up to 19% better price-performance compared to M7a instances. M8a instances deliver 45% more memory bandwidth compared to",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8a-instances-asia-pacific-hyderabad-region/",
-      "date": "2026-07-22T20:55:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Agentic AI ROI: A Framework for Executive Leaders",
       "summary": "Struggling to scale agentic AI? Learn how the Snowflake AI Data Cloud helps enterprises eliminate operational tax and drive measurable ROI for AI initiatives.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-ai-roi-executive-framework",
@@ -376,17 +428,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 M8id instances are now available in Europe (Ireland) region",
-      "summary": "Amazon EC2 M8id instances are now available in (Ireland). These instances are powered by custom Intel Xeon 6 processors and deliver up to 43% higher performance and 3.3x more memory bandwidth compared to previous generation M6id instances. M8id instances offer up to 384 vCPUs, 1.5TiB of memory, and 22.8TB of NVMe SSD storage, 3x more than previous generation instances. These instances deliver up t",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8id-europe-ireland/",
-      "date": "2026-07-22T19:55:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
       "image": null
     },
     {
@@ -614,19 +655,6 @@
       "image": null
     },
     {
-      "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent",
-      "summary": "Twenty years ago, I helped build search architectures that went on to dominate modern retail. Back then, the search bar trained consumers to strip away natural language and search for products using as…",
-      "url": "https://www.salesforce.com/blog/new-agentic-commerce-search-capabilities/",
-      "date": "2026-07-21T16:06:31+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "How to build interactive experiences with canvases",
       "summary": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
@@ -849,19 +877,6 @@
       "relevance": 1,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "What’s new with Google Cloud",
-      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jul 13 - Jul 17 Resour",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "date": "2026-07-17T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
       "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
@@ -1657,19 +1672,6 @@
       "category": "microsoft",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Introducing computer use in Gemini 3.5 Flash",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-      "date": "2026-06-24T16:30:01+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 12,
-      "tags": [
-        "ai"
-      ],
       "image": null
     }
   ]
