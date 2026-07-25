@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T11:59:17.630162+00:00",
+  "generated": "2026-07-25T17:54:15.085795+00:00",
   "sources": 21,
   "articles": [
     {
@@ -1275,13 +1275,13 @@
       "image": null
     },
     {
-      "title": "GPT-5.6 now available in Microsoft Foundry",
-      "summary": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post GPT-5.6 now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/",
+      "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
+      "summary": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post Frontier models and production agents: Advancing Microsoft Foundry for the agentic era appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
       "date": "2026-07-09T17:00:00+00:00",
       "source": "Azure Blog",
       "category": "microsoft",
-      "relevance": 15,
+      "relevance": 3,
       "tags": [
         "ai",
         "data"
@@ -1638,28 +1638,6 @@
       "source": "Meta Engineering",
       "category": "meta",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "summary": "The Google Finance logo, surrounded by elements of the user interface",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "date": "2026-06-25T16:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Copilot in Excel: Built for the era of Frontier Finance",
-      "summary": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice. The post Copilot in Excel: Built for the era of Frontier Finance appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
-      "date": "2026-06-25T13:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
       "tags": [],
       "image": null
     }
