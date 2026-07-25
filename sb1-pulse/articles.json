@@ -1,7 +1,20 @@
 {
-  "generated": "2026-07-24T23:58:08.794234+00:00",
+  "generated": "2026-07-25T07:11:36.786619+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC",
+      "summary": "Agents using Microsoft Azure Virtual Desktop (AVD) or Windows 365 Cloud PC can now take calls directly from their virtual desktop session with audio optimization enabled. To get started, IT administrators need to complete a one-time setup for their virtual desktop environment. Once configured, media is redirected from the virtual desktop to the agent's local device, improving audio quality. Agents",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/",
+      "date": "2026-07-24T23:11:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "Amazon MWAA now supports Apache Airflow version 2.11.2",
       "summary": "Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 2.11.2. Amazon MWAA is a managed service that runs Apache Airflow at scale without the operational overhead of managing the underlying infrastructure. Apache Airflow 2.11.2 is a maintenance release that includes security improvements, bug fixes, and dependency upgrades. This release upgrades core dependencies wi",
@@ -151,7 +164,7 @@
       "category": "nvidia",
       "relevance": 1,
       "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/jhh-k-ai-summit-1920x1080-2.jpg"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-korea-ai-1920x1080-1.png"
     },
     {
       "title": "Real-Time Engagement with Time Spent Tracking in Data 360 with Web SDK",
@@ -211,6 +224,19 @@
       "category": "databricks",
       "relevance": 7,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
+      "summary": "AT&T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-scale telecom AI. The post AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD appeared first on Microsoft Azure B",
+      "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+      "date": "2026-07-23T18:30:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -290,17 +316,6 @@
       "tags": [
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 I8ge instances are now generally available in additional AWS regions",
-      "summary": "Amazon Web Services (AWS) announces the availability of Amazon EC2 I8ge instances in AWS Europe (London) and Canada (Central) regions. I8ge instances are powered by AWS Graviton4 processors and deliver up to 60% better compute performance compared to previous generation Graviton2-based storage optimized Amazon EC2 instances. I8ge instances use the third generation AWS Nitro SSDs, local NVMe storag",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-i8ge-additional-regions/",
-      "date": "2026-07-23T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
       "image": null
     },
     {
@@ -1613,19 +1628,6 @@
       "category": "microsoft",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Accelerate modern Linux workloads with Azure Files",
-      "summary": "Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
-      "date": "2026-06-29T15:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 7,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
