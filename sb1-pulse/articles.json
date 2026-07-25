@@ -1,7 +1,20 @@
 {
-  "generated": "2026-07-25T17:54:15.085795+00:00",
+  "generated": "2026-07-25T23:54:58.428031+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Agentic Transformation Pitfall: The Confident, Wrong Answers",
+      "summary": "AI agents can produce confident but incorrect answers without the right context. See how certified data, AI Skills, and Tableau MCP improve answer accuracy.",
+      "url": "https://www.salesforce.com/blog/ai-agent-answer-accuracy/",
+      "date": "2026-07-25T18:00:07+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
     {
       "title": "Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC",
       "summary": "Agents using Microsoft Azure Virtual Desktop (AVD) or Windows 365 Cloud PC can now take calls directly from their virtual desktop session with audio optimization enabled. To get started, IT administrators need to complete a one-time setup for their virtual desktop environment. Once configured, media is redirected from the virtual desktop to the agent's local device, improving audio quality. Agents",
@@ -1627,17 +1640,6 @@
       "source": "Azure Blog",
       "category": "microsoft",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
-      "summary": "Privacy controls — systems that enforce retention, access, allowed-purpose, downstream-sharing, or anonymization policies — require a reliable understanding of data to function. Before such a control can operate effectively, it must know exactly what it is looking at. This can be complex, as demonstrated by a field simply named “age“: In one context, it [...] Read More... The post Privacy-Aware In",
-      "url": "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/",
-      "date": "2026-06-25T22:30:51+00:00",
-      "source": "Meta Engineering",
-      "category": "meta",
-      "relevance": 2,
       "tags": [],
       "image": null
     }
