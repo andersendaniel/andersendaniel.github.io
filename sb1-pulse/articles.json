@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-26T17:57:46.371885+00:00",
+  "generated": "2026-07-26T23:56:00.361333+00:00",
   "sources": 21,
   "articles": [
     {
@@ -237,6 +237,19 @@
       "category": "databricks",
       "relevance": 7,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
+      "summary": "AT&T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-scale telecom AI. The post AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD appeared first on Microsoft Azure B",
+      "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+      "date": "2026-07-23T18:30:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -702,7 +715,7 @@
     },
     {
       "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-      "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. The […]",
+      "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. […]",
       "url": "https://blogs.nvidia.com/blog/vera-rubin/",
       "date": "2026-07-21T15:36:43+00:00",
       "source": "NVIDIA Blog",
@@ -1275,13 +1288,13 @@
       "image": null
     },
     {
-      "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
-      "summary": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post Frontier models and production agents: Advancing Microsoft Foundry for the agentic era appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
+      "title": "GPT-5.6 now available in Microsoft Foundry",
+      "summary": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post GPT-5.6 now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/",
       "date": "2026-07-09T17:00:00+00:00",
       "source": "Azure Blog",
       "category": "microsoft",
-      "relevance": 3,
+      "relevance": 15,
       "tags": [
         "ai",
         "data"
@@ -1628,19 +1641,6 @@
       "category": "microsoft",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Accelerate modern Linux workloads with Azure Files",
-      "summary": "Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
-      "date": "2026-06-29T15:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 7,
-      "tags": [
-        "data"
-      ],
       "image": null
     }
   ]
