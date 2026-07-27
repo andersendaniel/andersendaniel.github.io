@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-26T23:56:00.361333+00:00",
+  "generated": "2026-07-27T08:24:57.945082+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+      "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) applications for the NVIDIA Vera CPU. NVIDIA is now deploying Vera across […]",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+      "date": "2026-07-27T00:45:42+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 5,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-corp-blog-vera-superchip-1280x680-4939150.jpg"
+    },
     {
       "title": "Agentic Transformation Pitfall: The Confident, Wrong Answers",
       "summary": "AI agents can produce confident but incorrect answers without the right context. See how certified data, AI Skills, and Tableau MCP improve answer accuracy.",
@@ -633,9 +644,9 @@
       "image": null
     },
     {
-      "title": "How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale",
-      "summary": "Why we built the Carbon Footprint LedgerAt Dow, our ambition is to be the most innovative,...",
-      "url": "https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale",
+      "title": "Why R&D Data Belongs in the Lakehouse - and Why Agents Need It There",
+      "summary": "The setupAt cellcentric, a joint venture of Daimler Truck and Volvo Group, we develop...",
+      "url": "https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there",
       "date": "2026-07-21T19:45:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
@@ -646,9 +657,9 @@
       "image": null
     },
     {
-      "title": "Why R&D Data Belongs in the Lakehouse - and Why Agents Need It There",
-      "summary": "The setupAt cellcentric, a joint venture of Daimler Truck and Volvo Group, we develop...",
-      "url": "https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there",
+      "title": "How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale",
+      "summary": "Why we built the Carbon Footprint LedgerAt Dow, our ambition is to be the most innovative,...",
+      "url": "https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale",
       "date": "2026-07-21T19:45:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
@@ -1172,17 +1183,6 @@
       "image": null
     },
     {
-      "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-      "summary": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust.",
-      "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
-      "date": "2026-07-14T16:45:13+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 10,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nemotron-labs-open-models-blog-feature-image.jpg"
-    },
-    {
       "title": "Celebrating 25 years of visual search innovation",
       "summary": "Google Images logo surrounded by illustrations of people searching for different images",
       "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
@@ -1288,13 +1288,13 @@
       "image": null
     },
     {
-      "title": "GPT-5.6 now available in Microsoft Foundry",
-      "summary": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post GPT-5.6 now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/",
+      "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
+      "summary": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post Frontier models and production agents: Advancing Microsoft Foundry for the agentic era appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
       "date": "2026-07-09T17:00:00+00:00",
       "source": "Azure Blog",
       "category": "microsoft",
-      "relevance": 15,
+      "relevance": 3,
       "tags": [
         "ai",
         "data"
