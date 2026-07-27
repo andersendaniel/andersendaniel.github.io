@@ -1,7 +1,82 @@
 {
-  "generated": "2026-07-27T13:35:14.923681+00:00",
+  "generated": "2026-07-27T18:20:34.984097+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "The harness is all you need (mostly)",
+      "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
+      "url": "https://github.blog/company/the-harness-is-all-you-need-mostly/",
+      "date": "2026-07-27T18:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 17,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Observability at Scale: Whatnot at Snowflake Summit",
+      "summary": "Discover how Whatnot used observability, AI analytics and real-time monitoring in Snowflake to support hyper-growth and faster decisions.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/observability-at-scale-whatnot-snowflake-summit",
+      "date": "2026-07-27T16:30:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 9,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Connecting Cargo: How Live Positioning Is Streamlining Supply Chains",
+      "summary": "Container tracking technology and real-time data is revolutionizing supply chain visibility.",
+      "url": "https://news.sap.com/2026/07/hapag-lloyd-connecting-cargo-live-positioning-streamlining-supply-chains/",
+      "date": "2026-07-27T16:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 18,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Elemental MediaTailor adds configurable ad timeout and concurrency controls for improved ad fill and faster startup",
+      "summary": "AWS Elemental MediaTailor now gives you direct control over ad decision server (ADS) timeout. Previously, changing these settings required contacting AWS Support. You can now configure individual HTTP ad request timeouts, total ad personalization time budgets for live, VOD, and live ad prefetch, and enable parallel ADS requests. These settings allow you to optimize ad delivery performance for your",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/mediatail-configurable-ad-timeout-and-concurrency",
+      "date": "2026-07-27T16:09:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Getting started",
+      "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
+      "date": "2026-07-27T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 41,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
+      "summary": "Last week I had the privilege of spending three days in São Paulo with technical builders from across Latin America, brought together for a regional tech event full of deep-dive sessions, hands-on workshops, and conversations with customers and partners. What struck me most wasn’t any single session, it was the energy of a technical community […]",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/",
+      "date": "2026-07-27T14:54:41+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 12,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
       "summary": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
@@ -349,19 +424,6 @@
       "relevance": 26,
       "tags": [
         "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon CloudWatch Logs now supports Application Load Balancer logs",
-      "summary": "Amazon CloudWatch Logs now supports Application Load Balancer (ALB) logs as vended logs, improving observability and simplifying debugging for network traffic patterns. You can now analyze ALB access, connection and health check logs directly in CloudWatch to gain insights into client connections, traffic distribution, connection status and target health, helping you identify and troubleshoot netw",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-logs/",
-      "date": "2026-07-23T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
         "cloud"
       ],
       "image": null
@@ -1322,31 +1384,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
-      "summary": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
-      "date": "2026-07-08T21:11:56+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 4,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "ML Jobs in Snowflake Data Clean Rooms Now GA",
-      "summary": "ML Jobs in Snowflake Data Clean Rooms is now generally available, enabling collaborative model training and scoring across multiparty data without moving raw records.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ml-jobs-snowflake-data-clean-rooms",
-      "date": "2026-07-08T20:43:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 3,
       "tags": [],
       "image": null
     },
