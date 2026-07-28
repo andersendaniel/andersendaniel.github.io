@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-27T23:57:37.502093+00:00",
+  "generated": "2026-07-28T07:34:50.467022+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Get Started with Genie One: Top AI Cowork Use Cases for Business Users",
+      "summary": "When most people think of AI helping their everyday work, a simple chatbot that answers...",
+      "url": "https://www.databricks.com/blog/get-started-genie-one-top-ai-cowork-use-cases-business-users",
+      "date": "2026-07-28T01:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "The EU Digital Product Passport: a traceability deadline",
       "summary": "Informational only, not legal advice. Confirm all regulatory details against the...",
@@ -10,6 +21,46 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Neptune now supports tag-based access control for IAM",
+      "summary": "Amazon Neptune Database now supports tag-based access control (TBAC) for IAM, enabling customers to use AWS resource tags and IAM principal tags as conditions in IAM policies and Service Control Policies (SCPs) to control access to Neptune data-plane operations. Neptune already provides robust security through VPC isolation, TLS encryption, and IAM authentication, but customers managing multiple c",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/",
+      "date": "2026-07-27T22:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "security",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Glue Data Quality now supports anomaly detection and writing results to the AWS Glue Data Catalog",
+      "summary": "AWS Glue Data Quality now supports anomaly detection for Catalog-based data quality evaluations and the ability to write evaluation results to AWS Glue Data Catalog (GDC) tables. These capabilities work across both ETL jobs and Catalog evaluations, giving you a consistent data quality experience regardless of workflow type. With anomaly detection support for GDC, you can identify unexpected change",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-catalog-anomaly-detection-write-results",
+      "date": "2026-07-27T20:45:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Glue Data Quality now supports distribution statistics for data profiling",
+      "summary": "AWS Glue Data Quality now supports a new Distribution Analyzer that generates frequency distribution profiles for your data. Using this new Distribution Analyzer in the Data Quality Definition Language (DQDL), you can generate histograms for numeric columns and value distributions for categorical, date, and boolean columns. With support for custom bin counts, you can explore the shape and patterns",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-distribution-profiling",
+      "date": "2026-07-27T20:23:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
       "tags": [
         "data"
       ],
@@ -139,6 +190,19 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/osaia-logo-garden_press-kit_1920x1080_V4.png"
     },
     {
+      "title": "Building AI Literacy: Frameworks, Tools, and Practices",
+      "summary": "AI literacy is an individual's ability to comprehend and effectively utilize AI tools...",
+      "url": "https://www.databricks.com/blog/ai-literacy",
+      "date": "2026-07-27T08:05:38+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Amazon RDS for SQL Server now supports restoring TDE databases on Mult-AZ instances",
       "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports restoring Transparent Data Encryption (TDE)-enabled SQL Server databases on Multi-AZ instances and instances configured with a read replica in the same region, using native backup and restore. Previously, TDE-enabled database restore was available only for Single-AZ instances, requiring you to disable TDE or migrate to a S",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-tde-for-maz/",
@@ -223,6 +287,19 @@
       "tags": [
         "cloud",
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AI Applications in Finance: A Practical Use Case Guide",
+      "summary": "Artificial intelligence in finance refers to the use of machine learning, natural...",
+      "url": "https://www.databricks.com/blog/ai-applications-in-finance",
+      "date": "2026-07-24T18:24:38+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 10,
+      "tags": [
+        "ai"
       ],
       "image": null
     },
@@ -316,19 +393,6 @@
       "image": null
     },
     {
-      "title": "AWS announces aws-bench, an open-source benchmark for AI agents on AWS",
-      "summary": "Today, AWS announces a research preview of aws-bench, an open-source benchmark that measures how accurately and efficiently AI agents complete real-world AWS tasks. Model providers and AI researchers building agents that operate on AWS infrastructure need an objective, reproducible way to measure performance and diagnose failures. aws-bench provides a public suite of test cases derived from analys",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/",
-      "date": "2026-07-24T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Employee Agents Vs. Customer-Facing Agents? Spot the Differences",
       "summary": "Not all AI agents do the same job — here's how small teams can figure out which type works best for them.",
       "url": "https://www.salesforce.com/blog/small-business/employee-agents-vs-customer-facing-agents/",
@@ -336,17 +400,6 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Clean Rooms supports larger worker types up to 32 vCPUs for SQL",
-      "summary": "AWS Clean Rooms now supports larger worker types of 32 vCPUs with 244 GB of memory for SQL analyses, allowing you to run more compute and memory-intensive workloads. Previously, the largest worker type available was 16 vCPUs with 120 GB of memory. Larger workers can help improve performance for complex queries on large datasets, optimizing costs for customers. For example, an advertiser collaborat",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-clean-rooms-32-vcpu-worker-types-sql",
-      "date": "2026-07-24T12:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -370,19 +423,6 @@
       "category": "salesforce",
       "relevance": 5,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon ECS Service Connect now supports Zone-Aware routing",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) introduces zone-aware routing for ECS Service Connect, enabling customers to reduce cross Availability Zone (AZ) data transfer costs and latency by automatically prioritizing service-to-service traffic within the same AZ. With this launch, ECS Service Connect preferentially routes requests to endpoints in the same AZ as the originating task while dynam",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/",
-      "date": "2026-07-23T23:46:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -419,19 +459,6 @@
       "category": "databricks",
       "relevance": 7,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
-      "summary": "AT&T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-scale telecom AI. The post AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD appeared first on Microsoft Azure B",
-      "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
-      "date": "2026-07-23T18:30:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -556,17 +583,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Simplify AI agent orchestration with Lakebase Postgres",
-      "summary": "IntroductionTraditionally, auditing is a tedious process that often requires detailed...",
-      "url": "https://www.databricks.com/blog/simplify-ai-agent-orchestration-lakebase-postgres",
-      "date": "2026-07-22T23:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -734,30 +750,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Wistron_D1_Grand_Opening_Ceremony-Factory_Tour-21-MY-edit-scaled.jpg"
-    },
-    {
-      "title": "The last mile: why great first-party data still doesn't make great marketing",
-      "summary": "Last month, a data team and a marketing team sat in the same room and talked past...",
-      "url": "https://www.databricks.com/blog/last-mile-first-party-data-great-marketing",
-      "date": "2026-07-21T22:19:28+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale",
-      "summary": "Why we built the Carbon Footprint LedgerAt Dow, our ambition is to be the most innovative,...",
-      "url": "https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale",
-      "date": "2026-07-21T19:45:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
     },
     {
       "title": "Introducing the ChatGPT for small business program",
@@ -1356,13 +1348,13 @@
       "image": null
     },
     {
-      "title": "GPT-5.6 now available in Microsoft Foundry",
-      "summary": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post GPT-5.6 now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/",
+      "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
+      "summary": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post Frontier models and production agents: Advancing Microsoft Foundry for the agentic era appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
       "date": "2026-07-09T17:00:00+00:00",
       "source": "Azure Blog",
       "category": "microsoft",
-      "relevance": 15,
+      "relevance": 3,
       "tags": [
         "ai",
         "data"
@@ -1684,6 +1676,19 @@
       "category": "microsoft",
       "relevance": 13,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Accelerate modern Linux workloads with Azure Files",
+      "summary": "Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+      "date": "2026-06-29T15:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 7,
+      "tags": [
+        "data"
+      ],
       "image": null
     }
   ]
