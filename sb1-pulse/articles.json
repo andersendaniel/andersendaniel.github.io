@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-28T07:34:50.467022+00:00",
+  "generated": "2026-07-28T12:50:23.091829+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Beyond the Ice: How SAP and the NHL are Investing in the Next Generation",
+      "summary": "The future of hockey will also be shaped in classrooms, communities, and innovation hubs worldwide.",
+      "url": "https://news.sap.com/2026/07/how-sap-and-the-nhl-are-investing-next-generation/",
+      "date": "2026-07-28T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Get Started with Genie One: Top AI Cowork Use Cases for Business Users",
       "summary": "When most people think of AI helping their everyday work, a simple chatbot that answers...",
@@ -1323,17 +1334,6 @@
         "automation",
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "Luxury on Cloud Nine: Redefining Excellence at Swarovski with SAP Cloud ERP",
-      "summary": "The luxury brand is laying the foundation for AI and to reach its strategic targets by 2030.",
-      "url": "https://news.sap.com/2026/07/swarovski-redefining-excellence-sap-cloud-erp/",
-      "date": "2026-07-10T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
