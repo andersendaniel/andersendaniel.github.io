@@ -1,7 +1,44 @@
 {
-  "generated": "2026-07-28T18:08:55.614414+00:00",
+  "generated": "2026-07-28T23:54:38.401876+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How NorthStar Anesthesia built a scheduling app for a workforce of 3,000 clinicians in weeks",
+      "summary": "IntroductionNorthStar Anesthesia manages anesthesia staffing services across 25+ U.S...",
+      "url": "https://www.databricks.com/blog/how-northstar-anesthesia-built-scheduling-app-workforce-3000-clinicians-weeks",
+      "date": "2026-07-28T22:09:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Adaptive Compute: Now GA Across Select AWS, Azure and Google Cloud Regions",
+      "summary": "Snowflake Adaptive Compute is now GA across select AWS, Azure and Google Cloud regions, offering improved price-performance for variable and AI workloads with no manual tuning required.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/adaptive-compute-ga-azure-google-cloud",
+      "date": "2026-07-28T20:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EKS Provisioned Control Plane now delivers faster pod autoscaling",
+      "summary": "Amazon EKS now delivers faster pod autoscaling across all Provisioned Control Plane clusters by increasing Horizontal Pod Autoscaler (HPA) sync concurrency to up to 40 times the default Kubernetes value. This reduces the time it takes for HPA-driven workloads to scale in response to increased load, enabling faster responsiveness to demand. The Kubernetes Horizontal Pod Autoscaler (HPA) continuousl",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-provisioned-control/",
+      "date": "2026-07-28T17:18:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "Scientific computing in the age of agentic AI",
       "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
@@ -13,6 +50,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "From prototype to production: High QPS for Databricks AI Search",
+      "summary": "Search is everywhere: product discovery on retail sites, voice queries on smart...",
+      "url": "https://www.databricks.com/blog/prototype-production-high-qps-databricks-ai-search",
+      "date": "2026-07-28T16:50:57+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
       "image": null
     },
     {
@@ -159,6 +207,30 @@
       "image": null
     },
     {
+      "title": "AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre",
+      "summary": "AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre as source or destination locations. AWS DataSync is a secure, high-speed data transfer service that simplifies moving data over a network. Enhanced mode processes data in parallel, removes file count limitations, and provides detailed transfer metrics. Previously, customers who wanted to move data to or from EFS or FSx fo",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-amazon-efs-fsx-lustre/",
+      "date": "2026-07-28T10:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS DataSync Enhanced mode adds HDFS, Azure Blob, and object storage locations with Hyper-V agent support",
+      "summary": "AWS DataSync Enhanced mode now supports agent-based data transfers with Hadoop Distributed File Systems (HDFS), Microsoft Azure Blob Storage, and self-managed object storage. Additionally, Enhanced mode agents can now be deployed on Microsoft Hyper-V. Using a DataSync agent, customers can transfer data to and from these locations with the parallelism, unlimited file counts, and detailed metrics th",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-hdfs-azure-blob-hyper-v/",
+      "date": "2026-07-28T10:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "Amazon S3 Tables now support the Variant data type for Apache Iceberg V3",
       "summary": "Amazon S3 Tables now support the Variant data type as defined in the Apache Iceberg Version 3 (V3) specification. You can now write semi-structured data like JSON directly to S3 Tables without defining a fixed schema in advance, allowing you to land data faster while still getting efficient analytical query performance. With the Variant data type, Apache Iceberg V3-compatible engines shred your se",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-tables-variant-iceberg-v3/",
@@ -242,6 +314,19 @@
       "category": "aws",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EKS now supports AWS PrivateLink for the cluster OIDC endpoint",
+      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports AWS PrivateLink for the cluster OIDC discovery and JWKS endpoint . You can now reach the endpoint used by IAM roles for service accounts (IRSA) privately from your VPC without requiring internet egress. Each EKS cluster publishes public signing keys at its OIDC endpoint for IRSA. With AWS PrivateLink for the cluster OIDC endpoint, tools r",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-oidc-endpoint-privatelink",
+      "date": "2026-07-27T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -444,19 +529,6 @@
       "image": null
     },
     {
-      "title": "Amazon MWAA now supports Apache Airflow version 2.11.2",
-      "summary": "Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 2.11.2. Amazon MWAA is a managed service that runs Apache Airflow at scale without the operational overhead of managing the underlying infrastructure. Apache Airflow 2.11.2 is a maintenance release that includes security improvements, bug fixes, and dependency upgrades. This release upgrades core dependencies wi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mwaa-now-supports-apache-airflow-version-2-11-2",
-      "date": "2026-07-24T21:57:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "AI in supply chain: from demand forecasting to AI agents",
       "summary": "AI in supply chain management is the application of machine learning, generative...",
       "url": "https://www.databricks.com/blog/ai-in-supply-chain",
@@ -466,20 +538,6 @@
       "relevance": 18,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Kinesis Data Streams now supports scaling down ingest capacity with warm throughput",
-      "summary": "Amazon Kinesis Data Streams is a serverless streaming data service that makes it easy to capture, process, and store data streams at any scale. On-demand streams automatically increase ingest capacity in response to rising data ingest usage. With On-demand Advantage mode, you can proactively manage stream capacity using warm throughput to prepare streams for sudden changes in data traffic. We are ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/kinesis/on-demand-scale-down",
-      "date": "2026-07-24T18:55:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud",
-        "data"
       ],
       "image": null
     },
@@ -530,19 +588,6 @@
       "relevance": 14,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Lambda now publishes logs for Lambda Managed Instances capacity providers",
-      "summary": "AWS Lambda now publishes logs for Lambda Managed Instances (LMI) capacity providers to Amazon CloudWatch Logs, giving you visibility into scaling activity and instance lifecycle operations. LMI enables you to run Lambda functions on Amazon EC2 instances while maintaining serverless operational simplicity. Capacity providers are resources that let you define compute resources that Lambda provisions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-managed-instances-logs/",
-      "date": "2026-07-24T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -618,17 +663,6 @@
       "image": null
     },
     {
-      "title": "How the FDA Built an AI Platform That 85% of Its Staff Now Use Daily",
-      "summary": "“We showed the value of having a foundational data platform, and that success story...",
-      "url": "https://www.databricks.com/blog/how-fda-built-ai-platform-85-its-staff-now-use-daily",
-      "date": "2026-07-23T19:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 7,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
       "summary": "AT&T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-scale telecom AI. The post AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD appeared first on Microsoft Azure B",
       "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
@@ -639,17 +673,6 @@
       "tags": [
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Permission isn't purpose: Intent-based authorization in Omnigent",
-      "summary": "In earlier posts, we introduced contextual policies in Omnigent and showed them blocking...",
-      "url": "https://www.databricks.com/blog/permission-isnt-purpose-intent-based-authorization-omnigent",
-      "date": "2026-07-23T18:05:06+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -673,17 +696,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-23-blog-1920x1080-logo.jpg"
-    },
-    {
-      "title": "What are the Best AI Chatbots for Small Business Customer Service?",
-      "summary": "SMBs, ready to meet your AI service chatbot?",
-      "url": "https://www.salesforce.com/blog/small-business/best-ai-chatbots-for-small-business-service/",
-      "date": "2026-07-23T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
@@ -1392,17 +1404,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "OpenAI GPT 5.6 on Snowflake Cortex AI",
-      "summary": "OpenAI GPT 5.6 is now in private preview on Snowflake Cortex AI. Get OpenAI’s most capable model on Snowflake’s secure, governed platform.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/openai-gpt-5-6-snowflake-cortex-ai",
-      "date": "2026-07-09T17:19:49+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 15,
       "tags": [],
       "image": null
     },
