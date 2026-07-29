@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-29T07:39:25.058108+00:00",
+  "generated": "2026-07-29T12:57:23.419134+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience",
+      "summary": "Modern B2B buyers expect seamless experiences across web, mobile, marketplaces, and partner portals.",
+      "url": "https://news.sap.com/2026/07/omnichannel-commerce-b2b-digital-transformationadvanced-success-plan-sap-cx/",
+      "date": "2026-07-29T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 16,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "How NorthStar Anesthesia built a scheduling app for a workforce of 3,000 clinicians in weeks",
       "summary": "IntroductionNorthStar Anesthesia manages anesthesia staffing services across 25+ U.S...",
@@ -414,6 +425,19 @@
       "tags": [
         "ai",
         "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
+      "summary": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences. The post What customers value most in Microsoft Databases—from reliability to AI readiness appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+      "date": "2026-07-27T15:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "data"
       ],
       "image": null
     },
@@ -1397,17 +1421,6 @@
       "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo"
     },
     {
-      "title": "AI Is Exposing Fragmented Systems in Financial Services",
-      "summary": "Since 2021, SAP and SAP Fioneer have significantly expanded joint capabilities for the financial services sector.",
-      "url": "https://news.sap.com/2026/07/ai-exposing-fragmented-systems-financial-services/",
-      "date": "2026-07-13T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "GPT-5.6 now available in Microsoft Foundry",
       "summary": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post GPT-5.6 now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
       "url": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/",
@@ -1704,17 +1717,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
-      "summary": "At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI. The post The 2026 Agent Confidence Index: Where 300 builders see real momentum appeared first on Microsoft Azure Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
-      "date": "2026-06-29T15:15:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     }
   ]
 }
