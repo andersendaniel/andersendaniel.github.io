@@ -1,7 +1,53 @@
 {
-  "generated": "2026-07-29T12:57:23.419134+00:00",
+  "generated": "2026-07-29T18:02:50.770789+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Bringing real-time fraud prevention to government benefits",
+      "summary": "Asked to do the impossibleFraud and improper payments cost federal benefits programs...",
+      "url": "https://www.databricks.com/blog/bringing-real-time-fraud-prevention-government-benefits",
+      "date": "2026-07-29T17:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 17,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Agents for production lines: Trusted decisions in real time",
+      "summary": "Executive summary09:14, mid-shift. The filler trips. The line manager has minutes,...",
+      "url": "https://www.databricks.com/blog/agents-production-lines-trusted-decisions-real-time",
+      "date": "2026-07-29T17:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+      "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog .",
+      "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+      "date": "2026-07-29T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 2,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Is Your Team In Sync? Learn The Ways of Human-AI Synergy",
+      "summary": "When your team and AI work side by side, your business can build customer experiences that set you apart.",
+      "url": "https://www.salesforce.com/blog/small-business/human-ai-synergy/",
+      "date": "2026-07-29T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience",
       "summary": "Modern B2B buyers expect seamless experiences across web, mobile, marketplaces, and partner portals.",
@@ -10,6 +56,17 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 16,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "date": "2026-07-29T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 15,
       "tags": [],
       "image": null
     },
@@ -35,6 +92,17 @@
       "tags": [
         "cloud"
       ],
+      "image": null
+    },
+    {
+      "title": "The audience is the asset. Media finance teams need to understand them to protect the margin.",
+      "summary": "Ask a CFO at a media company where this year's margin is landing and you will always get a hard-won answer...",
+      "url": "https://www.databricks.com/blog/audience-asset-media-finance-teams-need-understand-them-protect-margin",
+      "date": "2026-07-28T19:03:18+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -75,19 +143,6 @@
       "image": null
     },
     {
-      "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
-      "summary": "Second-generation AWS Outposts racks are now supported in the Asia Pacific (Mumbai) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocation space for a truly consistent hybrid experience. Organizations from startups to enterprises and the public sector in and outside of India can now order their Outposts racks connected",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai/",
-      "date": "2026-07-28T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
       "summary": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region, allowing customers to surface insights from Cost Explorer and Cost Optimization Hub on their Console Home dashboard. With the Cost and Usage widget, customers can track month-to-date and forecasted costs, identify savings opportunities, and see how their spend breaks down by service over t",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
@@ -95,6 +150,19 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 5,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
+      "summary": "Second-generation AWS Outposts racks are now supported in the Asia Pacific (Mumbai) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocation space for a truly consistent hybrid experience. Organizations from startups to enterprises and the public sector in and outside of India can now order their Outposts racks connected",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai/",
+      "date": "2026-07-28T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
       "tags": [
         "cloud"
       ],
@@ -429,19 +497,6 @@
       "image": null
     },
     {
-      "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
-      "summary": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences. The post What customers value most in Microsoft Databases—from reliability to AI readiness appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
-      "date": "2026-07-27T15:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
       "summary": "Last week I had the privilege of spending three days in São Paulo with technical builders from across Latin America, brought together for a regional tech event full of deep-dive sessions, hands-on workshops, and conversations with customers and partners. What struck me most wasn’t any single session, it was the energy of a technical community […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/",
@@ -553,43 +608,6 @@
       "image": null
     },
     {
-      "title": "AI in supply chain: from demand forecasting to AI agents",
-      "summary": "AI in supply chain management is the application of machine learning, generative...",
-      "url": "https://www.databricks.com/blog/ai-in-supply-chain",
-      "date": "2026-07-24T20:22:44+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 18,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "AI in healthcare: applications and best practices",
-      "summary": "AI in healthcare refers to the application of artificial intelligence, including...",
-      "url": "https://www.databricks.com/blog/ai-in-healthcare",
-      "date": "2026-07-24T18:26:57+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AI Applications in Finance: A Practical Use Case Guide",
-      "summary": "Artificial intelligence in finance refers to the use of machine learning, natural...",
-      "url": "https://www.databricks.com/blog/ai-applications-in-finance",
-      "date": "2026-07-24T18:24:38+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 10,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Why Marketers Need to Move Beyond Attribution and Embrace Agentic Optimization",
       "summary": "Your marketing data should do more than explain what happened. It should help you decide what to do next.",
       "url": "https://www.salesforce.com/blog/agentic-marketing-optimization/",
@@ -651,17 +669,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-korea-ai-1920x1080-1.png"
     },
     {
-      "title": "Real-Time Engagement with Time Spent Tracking in Data 360 with Web SDK",
-      "summary": "Almost every business accumulates massive amounts of behavioral data in their search for rich and actionable customer insight, yet they often miss the most critical signal: the duration of actual attention rather than…",
-      "url": "https://www.salesforce.com/blog/real-time-engagement-with-time-spent-tracking-in-data-360-with-web-sdk/",
-      "date": "2026-07-24T03:08:51+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "SAP Announces Q2 and Half-Year 2026 Results",
       "summary": "WALLDORF — SAP has delivered another quarter of strong current cloud backlog growth.",
       "url": "https://news.sap.com/2026/07/sap-announces-q2-and-half-year-2026-results/",
@@ -670,20 +677,6 @@
       "category": "sap",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "The Anatomy of an Agentic ITSM Workflow",
-      "summary": "Your onboarding takes weeks. Your best people sit around waiting for their laptops, login instructions and access to apps. There's a better way.",
-      "url": "https://www.salesforce.com/blog/agentic-itsm-workflow/",
-      "date": "2026-07-23T19:14:38+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 5,
-      "tags": [
-        "ai",
-        "automation"
-      ],
       "image": null
     },
     {
@@ -1270,17 +1263,6 @@
       "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo"
     },
     {
-      "title": "How Codex became a collaborator for OpenAI’s creative team",
-      "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
-      "url": "https://openai.com/index/codex-collaborator-creative-team",
-      "date": "2026-07-16T07:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Snowflake and ICF: Unlocking Data Value for the Public Sector",
       "summary": "See how ICF and Snowflake modernized federal health data management, cut ETL time by 75%, reduced costs by 80% and enabled AI-ready analytics.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/federal-health-cloud-data-management",
@@ -1304,17 +1286,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
-      "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub essentials appeared first on The GitHub Blog .",
-      "url": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
-      "date": "2026-07-15T17:29:31+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1666,57 +1637,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Claude in Microsoft Foundry is now generally available",
-      "summary": "Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post Claude in Microsoft Foundry is now generally available appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
-      "date": "2026-06-29T17:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
-      "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I am […]",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
-      "date": "2026-06-29T16:30:30+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "date": "2026-06-29T16:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.",
-      "summary": "Google Meet's \"Take notes for me\" feature is available to Google AI Pro and Ultra subscribers in select languages.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/",
-      "date": "2026-06-29T16:00:00+00:00",
-      "source": "Google Cloud",
-      "category": "google",
-      "relevance": 14,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp"
     }
   ]
 }
