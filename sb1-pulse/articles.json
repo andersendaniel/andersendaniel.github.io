@@ -1,7 +1,99 @@
 {
-  "generated": "2026-07-29T18:02:50.770789+00:00",
+  "generated": "2026-07-29T23:56:51.410946+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon EC2 Auto Scaling now supports Instance Refresh in CloudFormation",
+      "summary": "Amazon EC2 Auto Scaling now supports Instance Refresh as a new AWS CloudFormation update policy. When you configure the new AutoScalingInstanceRefresh update policy and update properties that require instance replacement, CloudFormation automatically triggers an Instance Refresh. With this integration, you can now access Instance Refresh capabilities including replace root volume for in-place upda",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-auto-scaling-instance-refresh-cloudformation",
+      "date": "2026-07-29T21:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Redshift Data API announces long polling, session management, and flexible batch execution",
+      "summary": "Amazon Redshift Data API introduces new capabilities that reduce the number of API calls to retrieve SQL statement metadata or results, provide visibility into sessions, and allow batch statements to execute on separate transactions. Long polling: Long polling enables you to retrieve SQL statement metadata or results without polling repeatedly until the SQL statement reaches a terminal state, by d",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-data-api-longpolling-listsession-flexiblebatchexecute/",
+      "date": "2026-07-29T20:45:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Unlock Intent-Driven Shopping: Inside the July 2026 B2C Commerce Release",
+      "summary": "For years, ecommerce search bars trained shoppers to search for what they’re looking for with as few keywords as possible. People stripped away full sentences and relied on keyword-heavy fragments like “women black…",
+      "url": "https://www.salesforce.com/blog/b2c-commerce-july-26-release/",
+      "date": "2026-07-29T20:22:45+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A Practitioner’s Guide to AI-Assisted Org Discovery: Build Reusable AI Skills for Repeatable Discovery",
+      "summary": "Part two of this two-part series explores how to write skills for governed discovery.",
+      "url": "https://www.salesforce.com/blog/ai-assisted-salesforce-org-discovery-build-reusable-ai-skills/",
+      "date": "2026-07-29T19:37:41+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Why Data Privacy and Archiving Are the New Marketing Growth Engines",
+      "summary": "Data privacy in marketing is no longer just about compliance. It's is the foundation for building customer trust, powering AI, and scaling campaign performance.",
+      "url": "https://www.salesforce.com/blog/data-privacy-marketing/",
+      "date": "2026-07-29T19:26:15+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Quality care is the mission. Finance protects the margin.",
+      "summary": "Ask a health system CFO where this year's margin is landing and you will always get a hard-won answer...",
+      "url": "https://www.databricks.com/blog/quality-care-mission-finance-protects-margin",
+      "date": "2026-07-29T18:59:31+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Energy runs on volatile markets. Finance protects the margin.",
+      "summary": "Ask an energy CFO where this year's margin is landing and you will always get a hard-won answer...",
+      "url": "https://www.databricks.com/blog/energy-runs-volatile-markets-finance-protects-margin",
+      "date": "2026-07-29T18:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Manufacturing runs on capital. Finance protects the margin.",
+      "summary": "Ask a manufacturing CFO where this year's margin is landing and you will always get a hard-won answer...",
+      "url": "https://www.databricks.com/blog/manufacturing-runs-capital-finance-protects-margin",
+      "date": "2026-07-29T18:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Bringing real-time fraud prevention to government benefits",
       "summary": "Asked to do the impossibleFraud and improper payments cost federal benefits programs...",
@@ -25,6 +117,33 @@
       "image": null
     },
     {
+      "title": "How agentic AI can help telecom finance teams protect the margin when every moment matters",
+      "summary": "How preventing revenue leakage became finance's front lineIn telecom, revenue is...",
+      "url": "https://www.databricks.com/blog/how-agentic-ai-can-help-telecom-finance-teams-protect-margin-when-every-moment-matters",
+      "date": "2026-07-29T17:26:32+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Apache Iceberg Lakehouse: Snowflake & Google Cloud",
+      "summary": "Discover how Snowflake and Google Cloud use Apache Iceberg to build an open, AI-ready lakehouse. Achieve data interoperability without vendor lock-in.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-google-cloud-open-lakehouse",
+      "date": "2026-07-29T16:21:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
       "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog .",
       "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
@@ -38,6 +157,41 @@
       "image": null
     },
     {
+      "title": "AWS WAF adds pre-parse text transformations and new text transformations",
+      "summary": "Today, AWS WAF adds pre-parse text transformations for query arguments and ten new text transformations for use in any rule statement. Both help you normalize request content so that AWS WAF inspects requests the same way your application interprets them. Pre-parse text transformations normalize a raw query string before AWS WAF parses it into key-value pairs, closing HTTP parameter pollution and ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf/",
+      "date": "2026-07-29T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in GA",
+      "summary": "AWS announces the general availability (GA) of AWS Interconnect — multicloud with Oracle Cloud Infrastructure (OCI). Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons including interoperability requirements, the freedom to choose technology that best suits their needs, and the ability to build and deploy applications on a",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-announces-AWS-interconnect-multicloud-OCI-GA/",
+      "date": "2026-07-29T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "date": "2026-07-29T15:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Is Your Team In Sync? Learn The Ways of Human-AI Synergy",
       "summary": "When your team and AI work side by side, your business can build customer experiences that set you apart.",
       "url": "https://www.salesforce.com/blog/small-business/human-ai-synergy/",
@@ -46,6 +200,19 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EFS now supports cross-account Replication in AWS GovCloud (US)",
+      "summary": "Amazon EFS now supports cross-account Replication in AWS GovCloud (US), allowing customers to replicate file systems between AWS accounts. EFS Replication enables you to easily maintain an up-to-date replica of your file system in the AWS GovCloud (US) Region of your choice. With this launch, EFS Replication customers can meet business continuity, multi-account disaster recovery, and compliance re",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-efs-cross-account-replication-aws-gov-cloud-us",
+      "date": "2026-07-29T12:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -68,6 +235,31 @@
       "category": "openai",
       "relevance": 15,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS IAM Identity Center extends multi-Region support to Identity Center directory",
+      "summary": "IAM Identity Center helps you configure the single sign-on experience of your workforce to AWS accounts and applications. You can now replicate IAM Identity Center from the primary AWS Region where you first enabled it to additional Regions of your choice when using Identity Center directory as your identity source. This extends the multi-Region support capability, previously available for Identit",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-iam-identity-center-extends-multi-region-support-to-identity-center-directory",
+      "date": "2026-07-29T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "date": "2026-07-29T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "automation"
+      ],
       "image": null
     },
     {
@@ -143,19 +335,6 @@
       "image": null
     },
     {
-      "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
-      "summary": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region, allowing customers to surface insights from Cost Explorer and Cost Optimization Hub on their Console Home dashboard. With the Cost and Usage widget, customers can track month-to-date and forecasted costs, identify savings opportunities, and see how their spend breaks down by service over t",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
-      "date": "2026-07-28T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
       "summary": "Second-generation AWS Outposts racks are now supported in the Asia Pacific (Mumbai) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocation space for a truly consistent hybrid experience. Organizations from startups to enterprises and the public sector in and outside of India can now order their Outposts racks connected",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai/",
@@ -163,6 +342,19 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 7,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
+      "summary": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region, allowing customers to surface insights from Cost Explorer and Cost Optimization Hub on their Console Home dashboard. With the Cost and Usage widget, customers can track month-to-date and forecasted costs, identify savings opportunities, and see how their spend breaks down by service over t",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
+      "date": "2026-07-28T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
       "tags": [
         "cloud"
       ],
@@ -321,30 +513,6 @@
       "image": null
     },
     {
-      "title": "Get Started with Genie One: Top AI Cowork Use Cases for Business Users",
-      "summary": "When most people think of AI helping their everyday work, a simple chatbot that answers...",
-      "url": "https://www.databricks.com/blog/get-started-genie-one-top-ai-cowork-use-cases-business-users",
-      "date": "2026-07-28T01:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The EU Digital Product Passport: a traceability deadline",
-      "summary": "Informational only, not legal advice. Confirm all regulatory details against the...",
-      "url": "https://www.databricks.com/blog/eu-digital-product-passport-traceability-deadline",
-      "date": "2026-07-27T23:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Amazon Neptune now supports tag-based access control for IAM",
       "summary": "Amazon Neptune Database now supports tag-based access control (TBAC) for IAM, enabling customers to use AWS resource tags and IAM principal tags as conditions in IAM policies and Service Control Policies (SCPs) to control access to Neptune data-plane operations. Neptune already provides robust security through VPC isolation, TLS encryption, and IAM authentication, but customers managing multiple c",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/",
@@ -385,30 +553,6 @@
       "image": null
     },
     {
-      "title": "Amazon GameLift Streams now supports Custom Aspect Ratio and Dynamic Resolution",
-      "summary": "Amazon GameLift Streams now supports Custom Aspect Ratio and Dynamic Resolution, giving you greater control over the streaming experience across diverse player devices and network conditions. With Custom Aspect Ratio, you can configure a specific resolution per stream session to match your player's device — including portrait, landscape, ultra-wide, and square aspect ratios. This eliminates letter",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams/",
-      "date": "2026-07-27T18:58:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EKS now supports AWS PrivateLink for the cluster OIDC endpoint",
-      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports AWS PrivateLink for the cluster OIDC discovery and JWKS endpoint . You can now reach the endpoint used by IAM roles for service accounts (IRSA) privately from your VPC without requiring internet egress. Each EKS cluster publishes public signing keys at its OIDC endpoint for IRSA. With AWS PrivateLink for the cluster OIDC endpoint, tools r",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-oidc-endpoint-privatelink",
-      "date": "2026-07-27T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "The harness is all you need (mostly)",
       "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
@@ -419,17 +563,6 @@
       "tags": [
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "AWS Security Hub MCP App brings exposure findings into your AI-assisted workflow (Preview)",
-      "summary": "AWS announces the preview of the AWS Security Hub MCP App, a local Model Context Protocol (MCP) server that brings your Security Hub exposure findings directly into Claude Desktop. This capability can help accelerates your security investigations by reducing context switching and manual triage, letting you explore and act on your exposures without leaving your AI-assisted workflow. With the Securi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-mcp-app/",
-      "date": "2026-07-27T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 19,
-      "tags": [],
       "image": null
     },
     {
@@ -472,17 +605,6 @@
       "image": null
     },
     {
-      "title": "AWS Elemental MediaTailor adds configurable ad timeout and concurrency controls for improved ad fill and faster startup",
-      "summary": "AWS Elemental MediaTailor now gives you direct control over ad decision server (ADS) timeout. Previously, changing these settings required contacting AWS Support. You can now configure individual HTTP ad request timeouts, total ad personalization time budgets for live, VOD, and live ad prefetch, and enable parallel ADS requests. These settings allow you to optimize ad delivery performance for your",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/mediatail-configurable-ad-timeout-and-concurrency",
-      "date": "2026-07-27T16:09:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "GitHub Copilot app for Beginners: Getting started",
       "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
@@ -493,6 +615,19 @@
       "tags": [
         "ai",
         "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
+      "summary": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences. The post What customers value most in Microsoft Databases—from reliability to AI readiness appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+      "date": "2026-07-27T15:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [
+        "data"
       ],
       "image": null
     },
@@ -521,45 +656,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/osaia-logo-garden_press-kit_1920x1080._V5.png"
     },
     {
-      "title": "AI customer service: strategy, agents, and solutions guide",
-      "summary": "AI customer service refers to the use of artificial intelligence — including natural language processing, ...",
-      "url": "https://www.databricks.com/blog/ai-customer-service",
-      "date": "2026-07-27T08:42:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Building AI Literacy: Frameworks, Tools, and Practices",
-      "summary": "AI literacy is an individual's ability to comprehend and effectively utilize AI tools...",
-      "url": "https://www.databricks.com/blog/ai-literacy",
-      "date": "2026-07-27T08:05:38+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS for SQL Server now supports restoring TDE databases on Mult-AZ instances",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports restoring Transparent Data Encryption (TDE)-enabled SQL Server databases on Multi-AZ instances and instances configured with a read replica in the same region, using native backup and restore. Previously, TDE-enabled database restore was available only for Single-AZ instances, requiring you to disable TDE or migrate to a S",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-tde-for-maz/",
-      "date": "2026-07-27T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "How AI is expanding what people do at work",
       "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
@@ -580,45 +676,6 @@
       "relevance": 5,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-corp-blog-vera-superchip-1280x680-4939150.jpg"
-    },
-    {
-      "title": "Agentic Transformation Pitfall: The Confident, Wrong Answers",
-      "summary": "AI agents can produce confident but incorrect answers without the right context. See how certified data, AI Skills, and Tableau MCP improve answer accuracy.",
-      "url": "https://www.salesforce.com/blog/ai-agent-answer-accuracy/",
-      "date": "2026-07-25T18:00:07+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC",
-      "summary": "Agents using Microsoft Azure Virtual Desktop (AVD) or Windows 365 Cloud PC can now take calls directly from their virtual desktop session with audio optimization enabled. To get started, IT administrators need to complete a one-time setup for their virtual desktop environment. Once configured, media is redirected from the virtual desktop to the agent's local device, improving audio quality. Agents",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/",
-      "date": "2026-07-24T23:11:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Why Marketers Need to Move Beyond Attribution and Embrace Agentic Optimization",
-      "summary": "Your marketing data should do more than explain what happened. It should help you decide what to do next.",
-      "url": "https://www.salesforce.com/blog/agentic-marketing-optimization/",
-      "date": "2026-07-24T16:29:13+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     },
     {
       "title": "Announcing Claude Opus 5 on Snowflake Cortex AI",
@@ -645,17 +702,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
-    },
-    {
-      "title": "Employee Agents Vs. Customer-Facing Agents? Spot the Differences",
-      "summary": "Not all AI agents do the same job — here's how small teams can figure out which type works best for them.",
-      "url": "https://www.salesforce.com/blog/small-business/employee-agents-vs-customer-facing-agents/",
-      "date": "2026-07-24T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     },
     {
       "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
@@ -1175,17 +1221,6 @@
       "image": null
     },
     {
-      "title": "A scorecard for the AI age",
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "date": "2026-07-17T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "SAP Completes Acquisition of Prior Labs",
       "summary": "WALLDORF — SAP has completed the acquisition of the pioneer of Tabular Foundation Models.",
       "url": "https://news.sap.com/2026/07/sap-completes-prior-labs-acquisition/",
@@ -1217,17 +1252,6 @@
       "relevance": 13,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Why teens deserve access to safe AI",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "date": "2026-07-16T16:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
@@ -1344,17 +1368,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Inside Team USA's Olympic Data Collaboration | Snowflake",
-      "summary": "At Milano Cortina 2026, Elana Meyers Taylor won gold by 4/100ths of a second. See how Snowflake data collaboration gave the team a competitive edge.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/team-usa-bobsled-performance-data-collaboration",
-      "date": "2026-07-14T08:27:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 2,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
