@@ -1,7 +1,133 @@
 {
-  "generated": "2026-07-30T12:26:27.266164+00:00",
+  "generated": "2026-07-30T18:11:35.056800+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+      "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+      "date": "2026-07-30T17:30:24+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 12,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "OpenAI GPT-5.6 Terra and GPT-5.6 Luna pricing update on Amazon Bedrock",
+      "summary": "On 7/30, OpenAI announced updated pricing for GPT-5.6 Terra and GPT-5.6 Luna. GPT-5.6 Terra is the balanced model for everyday production work, delivering GPT-5.5-level performance at lower cost. GPT-5.6 Luna is the fast, affordable model for high-volume inference tasks where latency and cost per token matter most. GPT-5.6 Sol pricing remains unchanged. Pricing on Amazon Bedrock matches OpenAI fir",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-terra-luna-pricing-bedrock/",
+      "date": "2026-07-30T16:18:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 27,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS announces general availability of Policy-Based Routing on AWS Transit Gateway",
+      "summary": "AWS Transit Gateway now supports Policy-Based Routing (PBR), giving network administrators granular control over how traffic is forwarded across their AWS network. With PBR, forwarding decisions can be based on a combination of packet attributes including source and destination IP addresses, ports, and protocol rather than destination IP address alone. Previously, customers needing traffic steerin",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-transit-gateway-policy-based-routing/",
+      "date": "2026-07-30T15:39:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "date": "2026-07-30T15:00:59+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon MSK Express brokers now delivers Apache Kafka data to Amazon S3",
+      "summary": "Amazon MSK Express brokers now delivers data to Amazon S3 general purpose buckets, providing a fully managed capability to deliver Apache Kafka data in Amazon S3 for downstream processing in the easiest and most reliable way. This capability automatically scales to deliver high-throughput Kafka data to S3 with end-to-end reliability for mission-critical workloads, while reducing ingestion and deli",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-express-brokers-delivers-to-amazon-s3",
+      "date": "2026-07-30T14:07:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Statement on the Decision of the German Federal Cartel Office Not to Initiate Antitrust Proceedings Against SAP",
+      "summary": "WALLDORF — SAP welcomes the decision of the Bundeskartellamt.",
+      "url": "https://news.sap.com/2026/07/statement-on-the-decision-of-the-german-federal-cartel-office-not-to-initiate-antitrust-proceedings-against-sap/",
+      "date": "2026-07-30T13:05:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
+      "summary": "Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When it’s time to switch from studying to gaming, members can jump into Halo: Campaign Evolved, as GeForce NOW is bringing one […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
+      "date": "2026-07-30T13:00:20+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-30-bts-nv-blog-1280x680-logo.jpg"
+    },
+    {
+      "title": "Grok 4.3 from xAI is now available on Amazon Bedrock in AWS GovCloud (US-West)",
+      "summary": "xAI's Grok 4.3 model is now available on Amazon Bedrock in AWS GovCloud (US-West). With this launch, xAI joins Amazon Bedrock as a model provider in AWS GovCloud (US-West), giving you even more choice as you build generative AI applications across reasoning, agentic, and enterprise workflows. Grok 4.3 is a reasoning-first model that offers configurable reasoning effort (none, low, medium, high). I",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/grok-4-3-bedrock-govcloud/",
+      "date": "2026-07-30T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 35,
+      "tags": [
+        "ai",
+        "cloud",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Gemma 4 models are now available on Amazon Bedrock in AWS GovCloud (US-West)",
+      "summary": "The Gemma 4 family of open-weight models from Google DeepMind on Amazon Bedrock in AWS GovCloud (US-West). With Gemma 4, you can build generative AI applications across reasoning, multimodal understanding, agentic, and software engineering workflows. The Gemma 4 family on Amazon Bedrock includes three variants - Gemma 4 31B, Gemma 4 26B-A4B, and Gemma 4 E2B - spanning dense and mixture-of-experts ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-bedrock-govcloud/",
+      "date": "2026-07-30T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 31,
+      "tags": [
+        "ai",
+        "cloud",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "What Can You Actually Do With Salesforce Foundations (For Free)?",
+      "summary": "Foundations gives existing Salesforce customers access to AI tools — here's exactly what that means for your business.",
+      "url": "https://www.salesforce.com/blog/small-business/what-does-foundations-do/",
+      "date": "2026-07-30T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "The Humanity and AI of It All: The State of Customer Experience",
       "summary": "CX is now a cross-functional discipline and the stakes for getting it wrong are higher than ever.",
@@ -9,6 +135,28 @@
       "date": "2026-07-30T12:15:00+00:00",
       "source": "SAP News",
       "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "date": "2026-07-30T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 22,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon OpenSearch Service now supports OpenSearch version 3.7",
+      "summary": "You can now run OpenSearch version 3.7 on Amazon OpenSearch Service. OpenSearch 3.7 introduces improvements in vector search performance, search relevance, and Query Insights. With this launch, 1-bit scalar quantization on the Faiss and Lucene engines compresses vectors, reducing the storage and memory required by vector workloads while maintaining search accuracy. You can now retrieve vectors fas",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service/",
+      "date": "2026-07-30T02:30:15+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -47,6 +195,19 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "NBCUniversal’s Seamless Migration: Unlocking Scalable Analytics with Databricks",
+      "summary": "As one of the world's leading media and entertainment companies, NBCUniversal relies...",
+      "url": "https://www.databricks.com/blog/nbcuniversals-seamless-migration-unlocking-scalable-analytics-databricks",
+      "date": "2026-07-29T20:35:57+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 18,
       "tags": [
         "data"
       ],
@@ -372,43 +533,6 @@
       "image": null
     },
     {
-      "title": "From prototype to production: High QPS for Databricks AI Search",
-      "summary": "Search is everywhere: product discovery on retail sites, voice queries on smart...",
-      "url": "https://www.databricks.com/blog/prototype-production-high-qps-databricks-ai-search",
-      "date": "2026-07-28T16:50:57+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
-      "summary": "Second-generation AWS Outposts racks are now supported in the Asia Pacific (Mumbai) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocation space for a truly consistent hybrid experience. Organizations from startups to enterprises and the public sector in and outside of India can now order their Outposts racks connected",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai/",
-      "date": "2026-07-28T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
-      "summary": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region, allowing customers to surface insights from Cost Explorer and Cost Optimization Hub on their Console Home dashboard. With the Cost and Usage widget, customers can track month-to-date and forecasted costs, identify savings opportunities, and see how their spend breaks down by service over t",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
-      "date": "2026-07-28T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
@@ -455,6 +579,19 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson_FeaturedImage.png"
     },
     {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "date": "2026-07-28T13:21:37+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 12,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w528-h297-n-nu-rw-lo"
+    },
+    {
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
       "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
@@ -475,19 +612,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Stop Customer Churn in Banking",
-      "summary": "Why poor service is driving your customers away...and how to fix It.",
-      "url": "https://www.salesforce.com/blog/customer-churn-in-banking/",
-      "date": "2026-07-28T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 24,
-      "tags": [
-        "banking"
-      ],
-      "image": null
     },
     {
       "title": "Enterprise AI Security: Agentic Controls and MCP Governance",
@@ -512,55 +636,6 @@
       "category": "sap",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre",
-      "summary": "AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre as source or destination locations. AWS DataSync is a secure, high-speed data transfer service that simplifies moving data over a network. Enhanced mode processes data in parallel, removes file count limitations, and provides detailed transfer metrics. Previously, customers who wanted to move data to or from EFS or FSx fo",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-amazon-efs-fsx-lustre/",
-      "date": "2026-07-28T10:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS DataSync Enhanced mode adds HDFS, Azure Blob, and object storage locations with Hyper-V agent support",
-      "summary": "AWS DataSync Enhanced mode now supports agent-based data transfers with Hadoop Distributed File Systems (HDFS), Microsoft Azure Blob Storage, and self-managed object storage. Additionally, Enhanced mode agents can now be deployed on Microsoft Hyper-V. Using a DataSync agent, customers can transfer data to and from these locations with the parallelism, unlimited file counts, and detailed metrics th",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-hdfs-azure-blob-hyper-v/",
-      "date": "2026-07-28T10:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon S3 Tables now support the Variant data type for Apache Iceberg V3",
-      "summary": "Amazon S3 Tables now support the Variant data type as defined in the Apache Iceberg Version 3 (V3) specification. You can now write semi-structured data like JSON directly to S3 Tables without defining a fixed schema in advance, allowing you to land data faster while still getting efficient analytical query performance. With the Variant data type, Apache Iceberg V3-compatible engines shred your se",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-tables-variant-iceberg-v3/",
-      "date": "2026-07-28T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Neptune now supports tag-based access control for IAM",
-      "summary": "Amazon Neptune Database now supports tag-based access control (TBAC) for IAM, enabling customers to use AWS resource tags and IAM principal tags as conditions in IAM policies and Service Control Policies (SCPs) to control access to Neptune data-plane operations. Neptune already provides robust security through VPC isolation, TLS encryption, and IAM authentication, but customers managing multiple c",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/",
-      "date": "2026-07-27T22:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "security",
-        "data"
-      ],
       "image": null
     },
     {
@@ -1172,28 +1247,6 @@
       "image": null
     },
     {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "date": "2026-07-20T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The cost of saying yes has changed",
-      "summary": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog .",
-      "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
-      "date": "2026-07-17T16:46:47+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
       "summary": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
       "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
@@ -1265,17 +1318,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"
     },
     {
-      "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
-      "summary": "Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in with five new games arriving in the cloud. Plus, GeForce NOW officially launches in India, moving from beta to public availability — meaning gamers can sign up without a waitlist. […]",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
-      "date": "2026-07-16T13:00:34+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/blog-1920x1080-no-copy.jpg"
-    },
-    {
       "title": "The Pattern Emerging Across AI Transformations",
       "summary": "What happens when intelligence becomes embedded into the core of how a business operates?",
       "url": "https://news.sap.com/2026/07/ai-transformations-pattern-emerging/",
@@ -1305,19 +1347,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "The Open Interoperability Standard: Why Bidirectional Iceberg REST Matters",
-      "summary": "Discover why true data agency requires bidirectional interoperability. Learn how Snowflake Horizon implements the Iceberg REST Catalog protocol end-to-end, and why Databricks Unity Catalog's inbound-only approach falls short.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/bidirectional-interoperability-snowflake-horizon-databricks",
-      "date": "2026-07-15T19:38:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
       "tags": [
         "data"
       ],
@@ -1354,19 +1383,6 @@
       "category": "sap",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
-      "summary": "AI has moved from experiment to execution.",
-      "url": "https://news.sap.com/2026/07/business-value-ai-spiking-increased-adoption-agentic-expectations/",
-      "date": "2026-07-15T08:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -1600,56 +1616,6 @@
       "relevance": 1,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "summary": "",
-      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-      "date": "2026-06-30T16:02:40+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 12,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "10 Years of Meta’s Commitment to Python",
-      "summary": "This year marks Meta’s 10th consecutive year as a sponsor of the Python Software Foundation (PSF), the charitable organization dedicated to advancing, supporting, and protecting the open-source Python programming language and the community that sustains it. Python is one of the world’s most influential programming languages, and we use it across our engineering stack, from [...] Read More... The p",
-      "url": "https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/",
-      "date": "2026-06-30T16:00:46+00:00",
-      "source": "Meta Engineering",
-      "category": "meta",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
-      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-      "date": "2026-06-30T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "What Google Cloud announced in AI this month",
-      "summary": "Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. Our main focus in June was helping your teams build, scale, and secure AI. Today, we’re sharing a fresh roundup of updates designed to help you run smarter, more secure applications while keeping everything",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "date": "2026-06-30T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
     }
   ]
 }
