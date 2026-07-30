@@ -1,7 +1,56 @@
 {
-  "generated": "2026-07-30T18:11:35.056800+00:00",
+  "generated": "2026-07-30T23:57:35.706050+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon Redshift RG large and 12xlarge instances now available on the trailing track",
+      "summary": "Amazon Redshift now supports Graviton-based RG instances on the trailing track . Starting today, rg.large and rg.12xlarge instance types are available for customers running workloads on the trailing track on patch P202 and onwards. The trailing track is designed for customers who prioritize stability for production workloads, running on a version already validated through the leading track. With R",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-large-12xlarge-trailing-track",
+      "date": "2026-07-30T20:02:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Foundations for an AI-forward healthcare organization",
+      "summary": "The challenge for healthcare executives adopting AI is the noise when trying to advance an initiative...",
+      "url": "https://www.databricks.com/blog/foundations-ai-forward-healthcare-organization",
+      "date": "2026-07-30T19:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Agentic media buying cannot scale without the right foundation. See how buyers and sellers get there on Databricks.",
+      "summary": "The bottleneck in media buying today isn't talent, it's coordinationEvery day, billions...",
+      "url": "https://www.databricks.com/blog/agentic-media-buying-cannot-scale-without-right-foundation-see-how-buyers-and-sellers-get",
+      "date": "2026-07-30T19:10:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "IAM Policy Simulator moves to the IAM console and adds additional capabilities",
+      "summary": "AWS Identity and Access Management (IAM) announces a major update to IAM Policy Simulator , the tool you use to test and validate the permissions your IAM policies grant before you deploy them. This update changes the simulator in three ways: it now lives in the IAM console, it can test service control policies (SCPs), and it adds flexibility to model more of the scenarios that security and platfo",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/iam-policy-simulator-iam-console/",
+      "date": "2026-07-30T17:43:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
     {
       "title": "Stacked sessions and pull requests in the GitHub Copilot app",
       "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
@@ -16,8 +65,8 @@
       "image": null
     },
     {
-      "title": "OpenAI GPT-5.6 Terra and GPT-5.6 Luna pricing update on Amazon Bedrock",
-      "summary": "On 7/30, OpenAI announced updated pricing for GPT-5.6 Terra and GPT-5.6 Luna. GPT-5.6 Terra is the balanced model for everyday production work, delivering GPT-5.5-level performance at lower cost. GPT-5.6 Luna is the fast, affordable model for high-volume inference tasks where latency and cost per token matter most. GPT-5.6 Sol pricing remains unchanged. Pricing on Amazon Bedrock matches OpenAI fir",
+      "title": "Amazon Bedrock announces up to 80% lower prices for OpenAI GPT‑5.6 models",
+      "summary": "Today, OpenAI announced lower prices for GPT‑5.6 Luna and GPT‑5.6 Terra. Effective July 30, 2026, on-demand inference prices on Amazon Bedrock for GPT‑5.6 Luna are reduced by 80%, while prices for GPT‑5.6 Terra are reduced by 20%. These reductions are in-line with OpenAI's first-party pricing changes for these models. GPT‑5.6 Luna is optimized for fast, high-volume workloads and can use tools to c",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-terra-luna-pricing-bedrock/",
       "date": "2026-07-30T16:18:00+00:00",
       "source": "AWS What's New",
@@ -56,6 +105,19 @@
       "title": "Amazon MSK Express brokers now delivers Apache Kafka data to Amazon S3",
       "summary": "Amazon MSK Express brokers now delivers data to Amazon S3 general purpose buckets, providing a fully managed capability to deliver Apache Kafka data in Amazon S3 for downstream processing in the easiest and most reliable way. This capability automatically scales to deliver high-throughput Kafka data to S3 with end-to-end reliability for mission-critical workloads, while reducing ingestion and deli",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-express-brokers-delivers-to-amazon-s3",
+      "date": "2026-07-30T14:07:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon MSK Express brokers now deliver data to streaming tables for Apache Iceberg",
+      "summary": "Amazon MSK Express brokers now deliver data to streaming tables for Apache Iceberg, a new capability that continuously materializes Apache Kafka topics as Apache Iceberg tables on Amazon S3 Tables. Amazon MSK data delivery to streaming tables can reduce the cost of ingesting and delivering Apache Kafka data into Amazon S3 Tables by up to 60% versus self-managed deployments and reduces downstream q",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-streaming-tables-for-apache-iceberg",
       "date": "2026-07-30T14:07:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
@@ -147,6 +209,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 22,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Managed Microsoft AD now supports Standard to Enterprise Edition upgrade",
+      "summary": "AWS Directory Service now allows you to upgrade your AWS Managed Microsoft AD directory from Standard Edition to Enterprise Edition directly through the AWS Management Console, AWS CLI, and API without migrating to a new directory or re-joining your existing workloads. Standard Edition is designed for organizations with up to 5,000 users and objects, while Enterprise Edition supports up to 500,000",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-microsoft-ad-edition-upgrade/",
+      "date": "2026-07-30T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -366,19 +439,6 @@
       "image": null
     },
     {
-      "title": "AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in GA",
-      "summary": "AWS announces the general availability (GA) of AWS Interconnect — multicloud with Oracle Cloud Infrastructure (OCI). Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons including interoperability requirements, the freedom to choose technology that best suits their needs, and the ability to build and deploy applications on a",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-announces-AWS-interconnect-multicloud-OCI-GA/",
-      "date": "2026-07-29T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
@@ -386,17 +446,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Connect Customer now automatically finds example agent evaluations for tailored coaching",
-      "summary": "Amazon Connect Customer now automatically surfaces relevant examples of an agent's evaluations when managers are preparing coaching feedback, so they can deliver actionable, evidence-backed coaching to agents. When a manager prepares agent coaching feedback in Amazon Connect Customer, they automatically receive examples of recent evaluations where the agent scored high or low on the chosen coachin",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-example-evaluations-for-agent-coaching/",
-      "date": "2026-07-29T14:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -409,19 +458,6 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EFS now supports cross-account Replication in AWS GovCloud (US)",
-      "summary": "Amazon EFS now supports cross-account Replication in AWS GovCloud (US), allowing customers to replicate file systems between AWS accounts. EFS Replication enables you to easily maintain an up-to-date replica of your file system in the AWS GovCloud (US) Region of your choice. With this launch, EFS Replication customers can meet business continuity, multi-account disaster recovery, and compliance re",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-efs-cross-account-replication-aws-gov-cloud-us",
-      "date": "2026-07-29T12:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -447,17 +483,6 @@
       "image": null
     },
     {
-      "title": "AWS IAM Identity Center extends multi-Region support to Identity Center directory",
-      "summary": "IAM Identity Center helps you configure the single sign-on experience of your workforce to AWS accounts and applications. You can now replicate IAM Identity Center from the primary AWS Region where you first enabled it to additional Regions of your choice when using Identity Center directory as your identity source. This extends the multi-Region support capability, previously available for Identit",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-iam-identity-center-extends-multi-region-support-to-identity-center-directory",
-      "date": "2026-07-29T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
       "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
@@ -472,17 +497,6 @@
       "image": null
     },
     {
-      "title": "How NorthStar Anesthesia built a scheduling app for a workforce of 3,000 clinicians in weeks",
-      "summary": "IntroductionNorthStar Anesthesia manages anesthesia staffing services across 25+ U.S...",
-      "url": "https://www.databricks.com/blog/how-northstar-anesthesia-built-scheduling-app-workforce-3000-clinicians-weeks",
-      "date": "2026-07-28T22:09:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Adaptive Compute: Now GA Across Select AWS, Azure and Google Cloud Regions",
       "summary": "Snowflake Adaptive Compute is now GA across select AWS, Azure and Google Cloud regions, offering improved price-performance for variable and AI workloads with no manual tuning required.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/adaptive-compute-ga-azure-google-cloud",
@@ -490,30 +504,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "The audience is the asset. Media finance teams need to understand them to protect the margin.",
-      "summary": "Ask a CFO at a media company where this year's margin is landing and you will always get a hard-won answer...",
-      "url": "https://www.databricks.com/blog/audience-asset-media-finance-teams-need-understand-them-protect-margin",
-      "date": "2026-07-28T19:03:18+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EKS Provisioned Control Plane now delivers faster pod autoscaling",
-      "summary": "Amazon EKS now delivers faster pod autoscaling across all Provisioned Control Plane clusters by increasing Horizontal Pod Autoscaler (HPA) sync concurrency to up to 40 times the default Kubernetes value. This reduces the time it takes for HPA-driven workloads to scale in response to increased load, enabling faster responsiveness to demand. The Kubernetes Horizontal Pod Autoscaler (HPA) continuousl",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-provisioned-control/",
-      "date": "2026-07-28T17:18:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
       "tags": [
         "cloud"
       ],
@@ -739,7 +729,7 @@
       "tags": [
         "security"
       ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/osaia-logo-garden_press-kit_1920x1080._V5.png"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/osaia-logo-garden_press-kit_1920x1080-Jul30v2.png"
     },
     {
       "title": "How AI is expanding what people do at work",
@@ -1340,19 +1330,6 @@
       "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo"
     },
     {
-      "title": "Snowflake and ICF: Unlocking Data Value for the Public Sector",
-      "summary": "See how ICF and Snowflake modernized federal health data management, cut ETL time by 75%, reduced costs by 80% and enabled AI-ready analytics.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/federal-health-cloud-data-management",
-      "date": "2026-07-15T20:04:47+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
       "summary": "Hierarchical Interest Representation is a research area for Meta Ads. We’re exploring an upstream representation layer over the universe of Ads entities – users, advertisers, products, services – learning unified embeddings that connect users’ inferred interests with the breadth of what advertisers offer in their deep funnel ads. The innovations in Hierarchical Interest Representation are [...] Re",
       "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
@@ -1579,43 +1556,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
-      "summary": "AWS CloudFormation speeds up infrastructure deployment with Express mode, enabling AI agents and developers to receive deployment confirmation in seconds and iterate faster. Available in all commercial Regions at no additional cost.",
-      "url": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
-      "date": "2026-06-30T21:30:33+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 15,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
-      "summary": "Amazon EC2 C9g and C9gd instances, powered by AWS Graviton5, are now generally available. They deliver up to 25% better compute performance than Graviton4-based instances, 5x larger cache, fastest memory of any processor instances in the cloud, and local NVMe storage options (C9gd).",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
-      "date": "2026-06-30T20:56:44+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Automate public TLS certificate issuance with ACME support in AWS Certificate Manager",
-      "summary": "AWS Certificate Manager now supports the ACME protocol for public TLS certificates, enabling automated issuance and renewal through any ACMEv2-compatible client on any workload. Administrators get centralized governance, IAM-based access controls, and domain scoping, reducing operational risk as certificate lifetimes continue to reduce.",
-      "url": "https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/",
-      "date": "2026-06-30T20:15:11+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     }
   ]
 }
