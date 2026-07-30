@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-30T07:30:51.768531+00:00",
+  "generated": "2026-07-30T12:26:27.266164+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "The Humanity and AI of It All: The State of Customer Experience",
+      "summary": "CX is now a cross-functional discipline and the stakes for getting it wrong are higher than ever.",
+      "url": "https://news.sap.com/2026/07/state-of-cx-the-humanity-ai/",
+      "date": "2026-07-30T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Convert proprietary code to open ANSI SQL with Genie Code",
       "summary": "Migrating from a legacy data warehouse is a complex undertaking, requiring teams...",
@@ -372,19 +383,6 @@
       "image": null
     },
     {
-      "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
-      "summary": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region, allowing customers to surface insights from Cost Explorer and Cost Optimization Hub on their Console Home dashboard. With the Cost and Usage widget, customers can track month-to-date and forecasted costs, identify savings opportunities, and see how their spend breaks down by service over t",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
-      "date": "2026-07-28T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
       "summary": "Second-generation AWS Outposts racks are now supported in the Asia Pacific (Mumbai) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocation space for a truly consistent hybrid experience. Organizations from startups to enterprises and the public sector in and outside of India can now order their Outposts racks connected",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai/",
@@ -392,6 +390,19 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 7,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
+      "summary": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region, allowing customers to surface insights from Cost Explorer and Cost Optimization Hub on their Console Home dashboard. With the Cost and Usage widget, customers can track month-to-date and forecasted costs, identify savings opportunities, and see how their spend breaks down by service over t",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
+      "date": "2026-07-28T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
       "tags": [
         "cloud"
       ],
