@@ -1,7 +1,40 @@
 {
-  "generated": "2026-07-31T07:46:54.051279+00:00",
+  "generated": "2026-07-31T12:51:55.817590+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Advancing responsible AI across Europe",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "date": "2026-07-31T15:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "SAP Acknowledged as a Leader in First-Ever Gartner® Magic Quadrant™ for Digital Twin of an Organization Platforms",
+      "summary": "SAP offers businesses a dynamic digital twin of an organization with continuous observability and AI-driven actionability features.",
+      "url": "https://news.sap.com/2026/07/sap-leader-gartner-magic-quadrant-digital-twin-organization-platforms/",
+      "date": "2026-07-31T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Univé builds an AI-ready workforce",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "url": "https://openai.com/index/unive",
+      "date": "2026-07-31T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 18,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Amazon SageMaker Unified Studio brings richer Git version control to all project tools",
       "summary": "Amazon SageMaker Unified Studio gives project members full Git version control directly within the tools you already use - Query Editor, Visual ETL, Workflows, and Notebooks. The enhanced Repositories experience replaces the previous automatic sync approach with flexible, file-level version control. This brings a consistent source control experience across all project tools, including Notebooks, w",
@@ -1026,17 +1059,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Wistron_D1_Grand_Opening_Ceremony-Factory_Tour-21-MY-edit-scaled.jpg"
     },
     {
-      "title": "Introducing the ChatGPT for small business program",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "date": "2026-07-21T17:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Snowflake context and Meta campaigns: close the signal loop",
       "summary": "Learn how Snowflake context and Meta campaigns connect through governed conversion signals, CAPI and campaign diagnostics to optimize ad delivery.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-meta-campaigns-governed-conversion-signals",
@@ -1140,19 +1162,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg"
-    },
-    {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "date": "2026-07-21T07:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 3,
-      "tags": [
-        "security"
-      ],
-      "image": null
     },
     {
       "title": "Document Intelligence with Snowflake: Activate Business Documents",
@@ -1350,17 +1359,6 @@
       "source": "Azure Blog",
       "category": "microsoft",
       "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience",
-      "summary": "The plan puts proactive and prescriptive guidance at every decision point.",
-      "url": "https://news.sap.com/2026/07/unified-customer-data-advanced-success-plan-sap-customer-experience/",
-      "date": "2026-07-15T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
