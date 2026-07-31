@@ -1,7 +1,18 @@
 {
-  "generated": "2026-07-30T23:57:35.706050+00:00",
+  "generated": "2026-07-31T07:46:54.051279+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon SageMaker Unified Studio brings richer Git version control to all project tools",
+      "summary": "Amazon SageMaker Unified Studio gives project members full Git version control directly within the tools you already use - Query Editor, Visual ETL, Workflows, and Notebooks. The enhanced Repositories experience replaces the previous automatic sync approach with flexible, file-level version control. This brings a consistent source control experience across all project tools, including Notebooks, w",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git/",
+      "date": "2026-07-30T22:37:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Amazon Redshift RG large and 12xlarge instances now available on the trailing track",
       "summary": "Amazon Redshift now supports Graviton-based RG instances on the trailing track . Starting today, rg.large and rg.12xlarge instance types are available for customers running workloads on the trailing track on patch P202 and onwards. The trailing track is designed for customers who prioritize stability for production workloads, running on a version already validated through the leading track. With R",
@@ -248,6 +259,19 @@
       "image": null
     },
     {
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "url": "https://openai.com/index/avatarin",
+      "date": "2026-07-30T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
       "title": "Amazon EC2 Auto Scaling now supports Instance Refresh in CloudFormation",
       "summary": "Amazon EC2 Auto Scaling now supports Instance Refresh as a new AWS CloudFormation update policy. When you configure the new AutoScalingInstanceRefresh update policy and update properties that require instance replacement, CloudFormation automatically triggers an Instance Refresh. With this integration, you can now access Instance Refresh capabilities including replace root volume for in-place upda",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-auto-scaling-instance-refresh-cloudformation",
@@ -425,17 +449,6 @@
       "tags": [
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "AWS WAF adds pre-parse text transformations and new text transformations",
-      "summary": "Today, AWS WAF adds pre-parse text transformations for query arguments and ten new text transformations for use in any rule statement. Both help you normalize request content so that AWS WAF inspects requests the same way your application interprets them. Pre-parse text transformations normalize a raw query string before AWS WAF parses it into key-value pairs, closing HTTP parameter pollution and ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf/",
-      "date": "2026-07-29T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1139,17 +1152,6 @@
       "tags": [
         "security"
       ],
-      "image": null
-    },
-    {
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "date": "2026-07-21T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
