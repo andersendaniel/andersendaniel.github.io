@@ -1,16 +1,30 @@
 {
-  "generated": "2026-07-31T18:15:56.421471+00:00",
+  "generated": "2026-07-31T23:56:46.783047+00:00",
   "sources": 21,
   "articles": [
     {
-      "title": "Disrupting a Criminal Scam Operation",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "date": "2026-08-04T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
+      "title": "Backstage with Lakebase, part 3",
+      "summary": "In the first part of this series, running Backstage on Databricks Lakebase gave us...",
+      "url": "https://www.databricks.com/blog/backstage-lakebase-part-3",
+      "date": "2026-07-31T22:21:47+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Aurora DSQL adds multi-Region cluster support in four more Regions",
+      "summary": "Starting today, Amazon Aurora DSQL supports multi-Region clusters in four additional AWS Regions: Europe (Stockholm), Europe (Spain), Asia Pacific (Mumbai), and Asia Pacific (Singapore). Aurora DSQL is the fastest serverless, distributed SQL database, with active-active high availability and multi-Region strong consistency. Each multi-Region cluster provides a writable endpoint in both peered Regi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-adds-multi-region-clusters-four-more-regions/",
+      "date": "2026-07-31T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 10,
+      "tags": [
+        "cloud",
+        "data"
+      ],
       "image": null
     },
     {
@@ -38,6 +52,19 @@
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
+      "title": "Amazon RDS for Oracle now offers Reserved Instances for R8i and M8i instances",
+      "summary": "Amazon RDS for Oracle now offers 1-year and 3-year Reserved Instances for R8i and M8i instances with up to 53% cost savings compared to On-Demand prices. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. R8i and M8i instances offer up to 15% better pri",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-r8i-m8i/",
+      "date": "2026-07-31T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "Advancing responsible AI across Europe",
       "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
@@ -55,6 +82,17 @@
       "date": "2026-07-31T15:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
+      "summary": "AWS Lambda now supports Java 8, Java 11, and Java 17 runtimes on Amazon Linux 2023 (AL2023), available as both managed runtimes and container base images. These new runtimes enable customers running Lambda functions on Java 8, 11, or 17 to migrate from Amazon Linux 2 (AL2) to AL2023 without requiring a simultaneous Java version upgrade. The existing Lambda runtimes for Java 8, 11 and 17 run on AL2",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux/",
+      "date": "2026-07-31T14:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -142,6 +180,17 @@
         "cloud",
         "automation"
       ],
+      "image": null
+    },
+    {
+      "title": "Disrupting a Criminal Scam Operation",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "date": "2026-07-31T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
       "image": null
     },
     {
@@ -303,36 +352,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-30-bts-nv-blog-1280x680-logo.jpg"
     },
     {
-      "title": "Grok 4.3 from xAI is now available on Amazon Bedrock in AWS GovCloud (US-West)",
-      "summary": "xAI's Grok 4.3 model is now available on Amazon Bedrock in AWS GovCloud (US-West). With this launch, xAI joins Amazon Bedrock as a model provider in AWS GovCloud (US-West), giving you even more choice as you build generative AI applications across reasoning, agentic, and enterprise workflows. Grok 4.3 is a reasoning-first model that offers configurable reasoning effort (none, low, medium, high). I",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/grok-4-3-bedrock-govcloud/",
-      "date": "2026-07-30T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 35,
-      "tags": [
-        "ai",
-        "cloud",
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "Gemma 4 models are now available on Amazon Bedrock in AWS GovCloud (US-West)",
-      "summary": "The Gemma 4 family of open-weight models from Google DeepMind on Amazon Bedrock in AWS GovCloud (US-West). With Gemma 4, you can build generative AI applications across reasoning, multimodal understanding, agentic, and software engineering workflows. The Gemma 4 family on Amazon Bedrock includes three variants - Gemma 4 31B, Gemma 4 26B-A4B, and Gemma 4 E2B - spanning dense and mixture-of-experts ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-bedrock-govcloud/",
-      "date": "2026-07-30T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 31,
-      "tags": [
-        "ai",
-        "cloud",
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "What Can You Actually Do With Salesforce Foundations (For Free)?",
       "summary": "Foundations gives existing Salesforce customers access to AI tools — here's exactly what that means for your business.",
       "url": "https://www.salesforce.com/blog/small-business/what-does-foundations-do/",
@@ -362,17 +381,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 22,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Managed Microsoft AD now supports Standard to Enterprise Edition upgrade",
-      "summary": "AWS Directory Service now allows you to upgrade your AWS Managed Microsoft AD directory from Standard Edition to Enterprise Edition directly through the AWS Management Console, AWS CLI, and API without migrating to a new directory or re-joining your existing workloads. Standard Edition is designed for organizations with up to 5,000 users and objects, while Enterprise Edition supports up to 500,000",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-microsoft-ad-edition-upgrade/",
-      "date": "2026-07-30T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -501,19 +509,6 @@
       "category": "databricks",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "How agentic AI can help telecom finance teams protect the margin when every moment matters",
-      "summary": "How preventing revenue leakage became finance's front lineIn telecom, revenue is...",
-      "url": "https://www.databricks.com/blog/how-agentic-ai-can-help-telecom-finance-teams-protect-margin-when-every-moment-matters",
-      "date": "2026-07-29T17:26:32+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
