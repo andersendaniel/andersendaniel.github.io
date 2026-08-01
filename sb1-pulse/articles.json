@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T11:58:49.883240+00:00",
+  "generated": "2026-08-01T17:56:17.884314+00:00",
   "sources": 21,
   "articles": [
     {
@@ -1478,17 +1478,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Meet Brain: The AI system behind Azure reliability",
-      "summary": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind Azure reliability appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-      "date": "2026-07-02T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
-      "tags": [],
       "image": null
     }
   ]
