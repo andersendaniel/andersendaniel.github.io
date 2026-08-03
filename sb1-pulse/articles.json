@@ -1,7 +1,83 @@
 {
-  "generated": "2026-08-03T13:35:56.057475+00:00",
+  "generated": "2026-08-03T18:46:21.428003+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
+      "summary": "Meta’s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes into the details on how we achieved: doubling end-to-end (E2E) training efficiency to 20–25% Model FLOPs Utilization (MFU) while scaling training FLOPs 4x in [...] Read More... The ",
+      "url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
+      "date": "2026-08-03T18:00:17+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 26,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
+      "summary": "Last week I had the joy of participating in Amazon’s “Bring Your Kids to Work Day” with my 7 year old son. We commuted together into the New York City office, his first real rush hour train ride, and spent the day exploring how Amazon uses AI, machine learning, and robotics to deliver packages to […]",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
+      "date": "2026-08-03T16:12:30+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 31,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora PostgreSQL",
+      "summary": "Today, AWS Transform for full-stack Windows modernization announced general availability of offline source transformation, enabling customers to modernize Microsoft SQL Server databases to Amazon Aurora PostgreSQL without requiring a live database connection. AWS Transform now converts SQL Server storage objects, powered by AWS DMS, and code objects (stored procedures) using an agentic, interactiv",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-windows-sql-schema-aurora",
+      "date": "2026-08-03T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon ECR now supports image layers up to 200 GB",
+      "summary": "Amazon Elastic Container Registry (Amazon ECR) has increased the maximum image layer size limit to 200 GB, for images pushed via Docker push. Previously, packaging assets required splitting data across multiple layers or offloading to external storage systems. With this update, customers can store up to 200 GB in a single image layer, eliminating extra complexity for use cases like embedding large",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-image-layers/",
+      "date": "2026-08-03T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS WAF now supports Miggo Security managed rule groups for emerging threats and AI/ML application protection",
+      "summary": "AWS WAF now supports two new partner managed rule groups from Miggo Security, available through AWS Marketplace: Miggo Rules for AWS WAF – High Emerging Application Threats , and Miggo Rules for AWS WAF – AI/ML Application Protection . These rule groups give AWS WAF customers continuously updated protection against vulnerabilities that are being actively exploited, have public proof-of-concept cod",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf-miggo-managed-rule-groups",
+      "date": "2026-08-03T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "The New Monday Morning Report: How Generative AI can deliver the insights your executives need.",
+      "summary": "A VP of Sales at a major CPG has three decks open before her first coffee. One from...",
+      "url": "https://www.databricks.com/blog/new-monday-morning-report-how-generative-ai-can-deliver-insights-your-executives-need",
+      "date": "2026-08-03T14:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Ingest semi-structured data faster and more efficiently with Variant - Now Generally Available",
       "summary": "For years, ingesting semi-structured data like JSON, XML, or CSV meant a difficult...",
@@ -22,6 +98,19 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Databricks Completes Acquisition of Panther: Accelerating the Security Lakehouse Era",
+      "summary": "Today, we are thrilled to announce that Databricks has officially completed the acquisition...",
+      "url": "https://www.databricks.com/blog/databricks-completes-acquisition-panther-accelerating-security-lakehouse-era",
+      "date": "2026-08-03T13:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -73,7 +162,7 @@
     },
     {
       "title": "How Tom Tailor Revamped and Future-Proofed Its Loyalty Program",
-      "summary": "The luxury fashion brand used Agentforce Marketing to connect with customers in a deeper way",
+      "summary": "The lifestyle fashion brand used Agentforce Marketing to connect with customers in a deeper way",
       "url": "https://www.salesforce.com/blog/tom-tailor-loyalty-program/",
       "date": "2026-07-31T16:35:10+00:00",
       "source": "Salesforce Blog",
@@ -131,17 +220,6 @@
       "image": null
     },
     {
-      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
-      "summary": "AWS Lambda now supports Java 8, Java 11, and Java 17 runtimes on Amazon Linux 2023 (AL2023), available as both managed runtimes and container base images. These new runtimes enable customers running Lambda functions on Java 8, 11, or 17 to migrate from Amazon Linux 2 (AL2) to AL2023 without requiring a simultaneous Java version upgrade. The existing Lambda runtimes for Java 8, 11 and 17 run on AL2",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux/",
-      "date": "2026-07-31T14:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
       "summary": "Amazon Location Service now supports proximity-based point of interest discovery with GrabMaps data in the Asia Pacific (Singapore) and Asia Pacific (Malaysia) AWS Regions. Builders creating local discovery, delivery, and mobility applications in Southeast Asia can surface relevant nearby places using hyperlocal data validated by millions of daily Grab journeys. SearchNearby returns places within ",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps",
@@ -152,6 +230,17 @@
       "tags": [
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
+      "summary": "AWS Lambda now supports Java 8, Java 11, and Java 17 runtimes on Amazon Linux 2023 (AL2023), available as both managed runtimes and container base images. These new runtimes enable customers running Lambda functions on Java 8, 11, or 17 to migrate from Amazon Linux 2 (AL2) to AL2023 without requiring a simultaneous Java version upgrade. The existing Lambda runtimes for Java 8, 11 and 17 run on AL2",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux/",
+      "date": "2026-07-31T14:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -197,6 +286,17 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Web Services now introduces Context Ontology Accelerator",
+      "summary": "Today, AWS announces Context Ontology Accelerator, an open source accelerator that helps organizations build an ontology of their business — a machine-readable model of their products, customers, policies, and the rules that define how they operate so AI agents make accurate, consistent, explainable, and auditable decisions. Context Ontology Accelerator connects to your structured and/or unstructu",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-context--ontology-accelarator-generally-available",
+      "date": "2026-07-31T10:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 15,
       "tags": [],
       "image": null
     },
@@ -298,19 +398,6 @@
       "image": null
     },
     {
-      "title": "IAM Policy Simulator moves to the IAM console and adds additional capabilities",
-      "summary": "AWS Identity and Access Management (IAM) announces a major update to IAM Policy Simulator , the tool you use to test and validate the permissions your IAM policies grant before you deploy them. This update changes the simulator in three ways: it now lives in the IAM console, it can test service control policies (SCPs), and it adds flexibility to model more of the scenarios that security and platfo",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/iam-policy-simulator-iam-console/",
-      "date": "2026-07-30T17:43:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "Stacked sessions and pull requests in the GitHub Copilot app",
       "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
@@ -324,30 +411,6 @@
       "image": null
     },
     {
-      "title": "Amazon Bedrock announces up to 80% lower prices for OpenAI GPT‑5.6 models",
-      "summary": "Today, OpenAI announced lower prices for GPT‑5.6 Luna and GPT‑5.6 Terra. Effective July 30, 2026, on-demand inference prices on Amazon Bedrock for GPT‑5.6 Luna are reduced by 80%, while prices for GPT‑5.6 Terra are reduced by 20%. These reductions are in-line with OpenAI's first-party pricing changes for these models. GPT‑5.6 Luna is optimized for fast, high-volume workloads and can use tools to c",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-terra-luna-pricing-bedrock/",
-      "date": "2026-07-30T16:18:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 27,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS announces general availability of Policy-Based Routing on AWS Transit Gateway",
-      "summary": "AWS Transit Gateway now supports Policy-Based Routing (PBR), giving network administrators granular control over how traffic is forwarded across their AWS network. With PBR, forwarding decisions can be based on a combination of packet attributes including source and destination IP addresses, ports, and protocol rather than destination IP address alone. Previously, customers needing traffic steerin",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-transit-gateway-policy-based-routing/",
-      "date": "2026-07-30T15:39:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
       "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
@@ -357,19 +420,6 @@
       "relevance": 13,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon MSK Express brokers now delivers Apache Kafka data to Amazon S3",
-      "summary": "Amazon MSK Express brokers now delivers data to Amazon S3 general purpose buckets, providing a fully managed capability to deliver Apache Kafka data in Amazon S3 for downstream processing in the easiest and most reliable way. This capability automatically scales to deliver high-throughput Kafka data to S3 with end-to-end reliability for mission-critical workloads, while reducing ingestion and deli",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-express-brokers-delivers-to-amazon-s3",
-      "date": "2026-07-30T14:07:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
       ],
       "image": null
     },
@@ -394,6 +444,17 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-30-bts-nv-blog-1280x680-logo.jpg"
+    },
+    {
+      "title": "The next measure of AI momentum is work transformed",
+      "summary": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter. The post The next measure of AI momentum is work transformed appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [],
+      "image": null
     },
     {
       "title": "What Can You Actually Do With Salesforce Foundations (For Free)?",
@@ -519,28 +580,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Manufacturing runs on capital. Finance protects the margin.",
-      "summary": "Ask a manufacturing CFO where this year's margin is landing and you will always get a hard-won answer...",
-      "url": "https://www.databricks.com/blog/manufacturing-runs-capital-finance-protects-margin",
-      "date": "2026-07-29T18:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Bringing real-time fraud prevention to government benefits",
-      "summary": "Asked to do the impossibleFraud and improper payments cost federal benefits programs...",
-      "url": "https://www.databricks.com/blog/bringing-real-time-fraud-prevention-government-benefits",
-      "date": "2026-07-29T17:45:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 17,
       "tags": [],
       "image": null
     },
