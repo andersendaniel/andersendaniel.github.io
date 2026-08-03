@@ -1,7 +1,40 @@
 {
-  "generated": "2026-08-03T08:23:58.903625+00:00",
+  "generated": "2026-08-03T13:35:56.057475+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Ingest semi-structured data faster and more efficiently with Variant - Now Generally Available",
+      "summary": "For years, ingesting semi-structured data like JSON, XML, or CSV meant a difficult...",
+      "url": "https://www.databricks.com/blog/ingest-semi-structured-data-faster-and-more-efficiently-variant-now-generally-available",
+      "date": "2026-08-03T13:44:24+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "7 AEO Strategies for Startups (Plus Tools to Get Answers)",
+      "summary": "Your customers are asking AI for answers — here's how to make sure your startup is the one they find.",
+      "url": "https://www.salesforce.com/blog/small-business/aeo-strategies-for-startups/",
+      "date": "2026-08-03T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AI Agent Sprawl: Why AI Governance Is Now a Board-Level Issue",
+      "summary": "As adoption of AI agents accelerates, governance is struggling to keep pace.",
+      "url": "https://news.sap.com/2026/08/agent-sprawl-why-ai-governance-is-now-board-level-issue/",
+      "date": "2026-08-03T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
       "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
@@ -98,6 +131,17 @@
       "image": null
     },
     {
+      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
+      "summary": "AWS Lambda now supports Java 8, Java 11, and Java 17 runtimes on Amazon Linux 2023 (AL2023), available as both managed runtimes and container base images. These new runtimes enable customers running Lambda functions on Java 8, 11, or 17 to migrate from Amazon Linux 2 (AL2) to AL2023 without requiring a simultaneous Java version upgrade. The existing Lambda runtimes for Java 8, 11 and 17 run on AL2",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux/",
+      "date": "2026-07-31T14:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
       "summary": "Amazon Location Service now supports proximity-based point of interest discovery with GrabMaps data in the Asia Pacific (Singapore) and Asia Pacific (Malaysia) AWS Regions. Builders creating local discovery, delivery, and mobility applications in Southeast Asia can surface relevant nearby places using hyperlocal data validated by millions of daily Grab journeys. SearchNearby returns places within ",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps",
@@ -108,17 +152,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
-      "summary": "AWS Lambda now supports Java 8, Java 11, and Java 17 runtimes on Amazon Linux 2023 (AL2023), available as both managed runtimes and container base images. These new runtimes enable customers running Lambda functions on Java 8, 11, or 17 to migrate from Amazon Linux 2 (AL2) to AL2023 without requiring a simultaneous Java version upgrade. The existing Lambda runtimes for Java 8, 11 and 17 run on AL2",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux/",
-      "date": "2026-07-31T14:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -363,17 +396,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-30-bts-nv-blog-1280x680-logo.jpg"
     },
     {
-      "title": "The next measure of AI momentum is work transformed",
-      "summary": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter. The post The next measure of AI momentum is work transformed appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "What Can You Actually Do With Salesforce Foundations (For Free)?",
       "summary": "Foundations gives existing Salesforce customers access to AI tools — here's exactly what that means for your business.",
       "url": "https://www.salesforce.com/blog/small-business/what-does-foundations-do/",
@@ -519,17 +541,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 17,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Agents for production lines: Trusted decisions in real time",
-      "summary": "Executive summary09:14, mid-shift. The filler trips. The line manager has minutes,...",
-      "url": "https://www.databricks.com/blog/agents-production-lines-trusted-decisions-real-time",
-      "date": "2026-07-29T17:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1323,17 +1334,6 @@
       "relevance": 13,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "The Pattern Emerging Across AI Transformations",
-      "summary": "What happens when intelligence becomes embedded into the core of how a business operates?",
-      "url": "https://news.sap.com/2026/07/ai-transformations-pattern-emerging/",
-      "date": "2026-07-16T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Our approach to bioresilience",
