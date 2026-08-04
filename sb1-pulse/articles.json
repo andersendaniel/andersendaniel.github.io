@@ -1,7 +1,29 @@
 {
-  "generated": "2026-08-04T07:32:57.346664+00:00",
+  "generated": "2026-08-04T12:55:37.520753+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How Salling Group Uses SAP and AI to Improve Everyday Retail",
+      "summary": "The European retailer is positioned to apply AI at scale with its SAP Cloud ERP backbone.",
+      "url": "https://news.sap.com/2026/08/salling-group-ai-improve-everyday-retail/",
+      "date": "2026-08-04T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Digital Transformation Isn’t About Technology, It’s About a Strong Foundation",
+      "summary": "Ipiranga’s journey offers a powerful reminder that digital transformation is about assertive fundamentals.",
+      "url": "https://news.sap.com/2026/08/ipiranga-digital-transformation-strong-foundation/",
+      "date": "2026-08-04T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Apple is getting this wrong",
       "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
@@ -913,7 +935,7 @@
       "tags": [
         "security"
       ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/osaia-logo-garden_press-kit_1920x1080-Jul30v2.png"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/osaia-logo-garden_press-kit_1920x1080-1.png"
     },
     {
       "title": "How AI is expanding what people do at work",
@@ -1328,17 +1350,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "SAP Completes Acquisition of Prior Labs",
-      "summary": "WALLDORF — SAP has completed the acquisition of the pioneer of Tabular Foundation Models.",
-      "url": "https://news.sap.com/2026/07/sap-completes-prior-labs-acquisition/",
-      "date": "2026-07-17T09:00:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
