@@ -1,7 +1,128 @@
 {
-  "generated": "2026-08-04T18:24:49.897856+00:00",
+  "generated": "2026-08-04T23:58:19.535455+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon Connect Customer now lets you export cases to CSV from the agent workspace",
+      "summary": "Amazon Connect Customer now supports exporting cases to a CSV file directly from the agent workspace, making it easier to share case data with internal teams and external stakeholders such as vendors, legal teams, or business partners. Agents can filter and select cases and choose which case fields to include in the export. Admins can control access using a security profile permission. Cases is av",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases/",
+      "date": "2026-08-04T21:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock launches Web Search for OpenAI GPT models",
+      "summary": "Today, we are announcing the general availability of Web Search on Amazon Bedrock, a built-in server side tool that performs web search entirely within AWS, enabling OpenAI models (GPT-5.4, GPT-5.5, and GPT-5.6 Sol/Terra/Luna) to ground responses with current web knowledge while maintaining data residency within your secured AWS environment with zero data egress. Previously, adding web grounding r",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/",
+      "date": "2026-08-04T20:37:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 27,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Run interactive workloads on Amazon EMR on EC2 with Spark Connect",
+      "summary": "Amazon EMR on EC2 now supports interactive Apache Spark sessions with Spark Connect. Data engineers and data scientists can develop and debug Apache Spark applications interactively from managed notebooks in Amazon SageMaker Unified Studio and their own IDEs, such as Jupyter and Visual Studio Code, with each session running on dedicated EMR on EC2 clusters. You can also monitor and debug active an",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-emr-ec2-spark-connect/",
+      "date": "2026-08-04T20:29:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Security Hub Extended adds supply chain security as its 10th category",
+      "summary": "The AWS Security Hub Extended plan now includes Supply Chain Security as its 10th security category, with Chainguard and Socket as the curated partners. As developers adopt open-source libraries at scale, security teams need confidence that the packages entering their environments are trustworthy and free from malicious code. With this addition, you can detect and block malicious dependencies befo",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-hub-extended-adds-supply-chain-security",
+      "date": "2026-08-04T19:14:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+      "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+      "date": "2026-08-04T19:02:34+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 28,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "date": "2026-08-04T19:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 7,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 C8g instances now available in additional regions",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g instances are available in AWS Europe (Paris), AWS Africa (Cape Town), AWS Israel (Tel Aviv), and AWS Canada West (Calgary) regions. These instances are powered by AWS Graviton4 processors and deliver up to 30% better performance compared to AWS Graviton3-based instances. Amazon EC2 C8g instances are built for compute-intensive workload",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8g-instances-additional-regions/",
+      "date": "2026-08-04T18:57:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Application and Network Load Balancers now support RFC 9151 compliant security policies",
+      "summary": "AWS Application Load Balancer (ALB) and Network Load Balancer (NLB) now support new TLS-based security policies that comply with RFC 9151 TLS server requirements for Commercial National Security Algorithm (CNSA) 1.0 suite requirements. These policies implement the cryptographic requirements defined by the US National Security Agency (NSA) for secure communications using TLS 1.2 and TLS 1.3 protoco",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-application-network/",
+      "date": "2026-08-04T18:28:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon S3 Vectors is now available in the AWS European Sovereign Cloud (Germany) Region",
+      "summary": "Amazon S3 Vectors is now available in the AWS European Sovereign Cloud (Germany) Region. Amazon S3 Vectors is purpose-built vector storage for AI agents, inference, Retrieval Augmented Generation (RAG), and semantic search at billion-vector scale. S3 Vectors is designed to provide the same elasticity, durability, and availability as Amazon S3, with a dedicated set of APIs that let you store, acces",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-vectors-european-sovereign-cloud-germany/",
+      "date": "2026-08-04T18:15:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 20,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Connect Customer now supports capacity planning in 15 or 30 minute intervals",
+      "summary": "Amazon Connect Customer now lets you generate capacity plans at the interval level (15-minute or 30-minute intervals), giving workforce planners visibility into more granular staffing requirements across Voice, Chat, Task, and Email channels. Interval-level plans capture how demand shifts throughout the day — such as a lunchtime surge in chat contacts or an end-of-day change in call volume — so yo",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-interval-capacity-plan",
+      "date": "2026-08-04T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Turn one giant AI-generated pull request to a reviewable stack",
       "summary": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog .",
@@ -13,6 +134,17 @@
       "tags": [
         "developer"
       ],
+      "image": null
+    },
+    {
+      "title": "Unity AI Gateway is Generally Available",
+      "summary": "The last six months have seen a rapid rise in AI-powered productivity and a proliferation...",
+      "url": "https://www.databricks.com/blog/unity-ai-gateway-generally-available",
+      "date": "2026-08-04T16:10:09+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 4,
+      "tags": [],
       "image": null
     },
     {
@@ -166,6 +298,33 @@
       "image": null
     },
     {
+      "title": "Amazon RDS for SQL Server supports Developer Edition in additional AWS regions",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server Developer Edition is now available in 13 additional AWS Regions: Asia Pacific (Hong Kong, Taipei, Hyderabad, Jakarta, Malaysia, Melbourne, New Zealand, Thailand), Canada West (Calgary), Europe (Milan, Spain), Israel (Tel Aviv), and Mexico (Central). SQL Server Developer Edition includes all the functionality of Enterprise Edition and i",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-developer-edition-in-additional-aws-regions/",
+      "date": "2026-08-04T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 11,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "RDS SQL Server now supports publishing SQL Server Audit logs to CloudWatch",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports publishing SQL Server Audit logs to CloudWatch. SQL Server Audit is a native SQL Server feature that allows tracking and logging events that occur on the Database Engine. On Amazon RDS, you can create audits and audit specifications in the same way that you create them for on-premises SQL Server database servers. Now you c",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-publish-sql-audit-to-cw/",
+      "date": "2026-08-04T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "New ways to learn and teach with ChatGPT Work and Codex",
       "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
       "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
@@ -223,17 +382,6 @@
       "image": null
     },
     {
-      "title": "AWS Resilience Hub now provides recommended resilience tests",
-      "summary": "AWS Resilience Hub now offers recommended resilience tests that help platform engineering and site reliability teams validate how their services respond to and recover from known failure scenarios. Resilience Hub provides pre-configured tests based on your service's architecture, configuration, and resilience policy. It uses AWS Fault Injection Service (FIS) to inject controlled faults and then ev",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-resilience-hub/",
-      "date": "2026-08-03T19:02:58+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
       "summary": "Meta’s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes into the details on how we achieved: doubling end-to-end (E2E) training efficiency to 20–25% Model FLOPs Utilization (MFU) while scaling training FLOPs 4x in [...] Read More... The ",
       "url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
@@ -243,30 +391,6 @@
       "relevance": 26,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 I7i instances now available in Asia Pacific (Thailand) and Israel (Tel Aviv) Regions",
-      "summary": "Amazon Web Services (AWS) announces the availability of high performance Storage Optimized Amazon EC2 I7i instances in the Asia Pacific (Thailand) and Israel (Tel Aviv) Regions. Powered by 5th Gen Intel Xeon Processors with an all-core turbo frequency of 3.2 GHz, these new instances deliver up to 23% better compute performance and more than 10% better price performance over previous generation I4i",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i7i-instances-in-additional-regions/",
-      "date": "2026-08-03T17:28:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker AI serverless model customization now supports full fine-tuning",
-      "summary": "Amazon SageMaker AI serverless model customization now supports full fine-tuning for over 25 open-source models. These include popular models from gpt-oss, Gemma, Llama, Nemotron, and Qwen model families. In addition to parameter-efficient methods such as LoRA, which update a small subset of model weights, you can now update all parameters in the model for deeper adaptation when your use case requ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-fft",
-      "date": "2026-08-03T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 18,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -282,57 +406,6 @@
         "ai",
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora PostgreSQL",
-      "summary": "Today, AWS Transform for full-stack Windows modernization announced general availability of offline source transformation, enabling customers to modernize Microsoft SQL Server databases to Amazon Aurora PostgreSQL without requiring a live database connection. AWS Transform now converts SQL Server storage objects, powered by AWS DMS, and code objects (stored procedures) using an agentic, interactiv",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-windows-sql-schema-aurora",
-      "date": "2026-08-03T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "ai",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS WAF now supports Miggo Security managed rule groups for emerging threats and AI/ML application protection",
-      "summary": "AWS WAF now supports two new partner managed rule groups from Miggo Security, available through AWS Marketplace: Miggo Rules for AWS WAF – High Emerging Application Threats , and Miggo Rules for AWS WAF – AI/ML Application Protection . These rule groups give AWS WAF customers continuously updated protection against vulnerabilities that are being actively exploited, have public proof-of-concept cod",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf-miggo-managed-rule-groups",
-      "date": "2026-08-03T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Config now supports 15 new resource types",
-      "summary": "AWS Config now supports 15 additional AWS resource types across key services including Amazon Bedrock, Amazon OpenSearch Serverless, and Amazon SageMaker. This expansion provides greater coverage over your AWS environment, enabling you to more effectively discover, assess, audit, and remediate an even broader range of resources. With this launch, if you have enabled recording for all resource type",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-config-new-resource-types",
-      "date": "2026-08-03T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 16,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon ECR now supports image layers up to 200 GB",
-      "summary": "Amazon Elastic Container Registry (Amazon ECR) has increased the maximum image layer size limit to 200 GB, for images pushed via Docker push. Previously, packaging assets required splitting data across multiple layers or offloading to external storage systems. With this update, customers can store up to 200 GB in a single image layer, eliminating extra complexity for use cases like embedding large",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-image-layers/",
-      "date": "2026-08-03T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -445,19 +518,6 @@
       "category": "databricks",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio now supports Teradata Vantage",
-      "summary": "Amazon SageMaker Unified Studio now supports Teradata Vantage as a data source, enabling you to query and analyze your enterprise data warehouse data directly alongside your other data assets. With this new connection, you can combine business-critical data stored in Teradata with data from sources like Amazon Redshift, Amazon S3, and relational databases — all within a single, governed environmen",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-teradata",
-      "date": "2026-07-31T20:19:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -732,17 +792,6 @@
       "image": null
     },
     {
-      "title": "Quality care is the mission. Finance protects the margin.",
-      "summary": "Ask a health system CFO where this year's margin is landing and you will always get a hard-won answer...",
-      "url": "https://www.databricks.com/blog/quality-care-mission-finance-protects-margin",
-      "date": "2026-07-29T18:59:31+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Apache Iceberg Lakehouse: Snowflake & Google Cloud",
       "summary": "Discover how Snowflake and Google Cloud use Apache Iceberg to build an open, AI-ready lakehouse. Achieve data interoperability without vendor lock-in.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-google-cloud-open-lakehouse",
@@ -826,19 +875,6 @@
       "relevance": 2,
       "tags": [
         "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Scientific computing in the age of agentic AI",
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "date": "2026-07-28T17:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [
-        "ai"
       ],
       "image": null
     },
@@ -1038,7 +1074,7 @@
       "tags": [
         "security"
       ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/osaia-logo-garden_press-kit_1920x1080-1.png"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/osaia-logo-garden_press-kit_1920x1080_84_use.png"
     },
     {
       "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
