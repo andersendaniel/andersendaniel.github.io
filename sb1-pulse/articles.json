@@ -1,7 +1,18 @@
 {
-  "generated": "2026-08-04T00:03:11.635719+00:00",
+  "generated": "2026-08-04T07:32:57.346664+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Apple is getting this wrong",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "date": "2026-08-03T22:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Smarter Merchandising and Platform Extensibility: New Features for B2B Commerce in July",
       "summary": "For B2B organizations, the digital storefront has become the central hub for driving growth. However, many B2B buyers abandon standard digital storefronts when they cannot find the right items quickly. If your storefront…",
@@ -14,14 +25,27 @@
       "image": null
     },
     {
-      "title": "AWS HealthOmics now supports task-level timeout for WDL workflows",
-      "summary": "AWS HealthOmics now supports task-level timeout for Workflow Description Language (WDL) workflows, enabling you to set maximum execution duration for individual tasks. AWS HealthOmics is a HIPAA-eligible service that helps healthcare and life sciences customers accelerate scientific breakthroughs at scale with fully managed bioinformatics workflows. With task-level timeout, you can define time bou",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-healthomics-wdl-task-level-timeout/",
-      "date": "2026-08-03T20:00:00+00:00",
+      "title": "AWS Transform continuous modernization is now generally available",
+      "summary": "AWS Transform continuous modernization is now generally available in all AWS Regions where AWS Transform is supported . This capability helps engineering teams analyze and remediate technical debt across source code repositories at scale. Teams can connect GitHub organizations, GitLab groups, and Bitbucket workspaces, run analyses on demand or on a recurring schedule, and prioritize findings acros",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available",
+      "date": "2026-08-03T21:15:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
-      "relevance": 4,
+      "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock",
+      "summary": "GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock, enabling you to process full codebases, lengthy documents, and multi-turn agent histories in a single request. Models reason over broader context and return more accurate, coherent responses without chunking or information loss. With a context window size of 1 million tokens, you can analyze entire reposito",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/gpt-sol-terra-luna-long-context-bedrock",
+      "date": "2026-08-03T21:03:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 26,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -206,6 +230,17 @@
       "image": null
     },
     {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "url": "https://openai.com/index/circles",
+      "date": "2026-08-03T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Ten advances in mathematics and theoretical computer science",
       "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
       "url": "https://openai.com/index/ten-advances-in-mathematics",
@@ -325,43 +360,6 @@
       "category": "openai",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
-      "summary": "Amazon Location Service now supports proximity-based point of interest discovery with GrabMaps data in the Asia Pacific (Singapore) and Asia Pacific (Malaysia) AWS Regions. Builders creating local discovery, delivery, and mobility applications in Southeast Asia can surface relevant nearby places using hyperlocal data validated by millions of daily Grab journeys. SearchNearby returns places within ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps",
-      "date": "2026-07-31T14:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
-      "summary": "AWS Lambda now supports Java 8, Java 11, and Java 17 runtimes on Amazon Linux 2023 (AL2023), available as both managed runtimes and container base images. These new runtimes enable customers running Lambda functions on Java 8, 11, or 17 to migrate from Amazon Linux 2 (AL2) to AL2023 without requiring a simultaneous Java version upgrade. The existing Lambda runtimes for Java 8, 11 and 17 run on AL2",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux/",
-      "date": "2026-07-31T14:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon CloudWatch announces managed Prometheus collectors",
-      "summary": "Amazon CloudWatch now supports collecting Prometheus metrics from your AWS infrastructure using fully managed collectors — enabling you to monitor Amazon EKS, Amazon EC2, Amazon ECS, Amazon MSK, and Amazon OpenSearch Service workloads without deploying or managing any agents. Previously, getting Prometheus metrics into CloudWatch required deploying, scaling, and maintaining a self-managed OpenTele",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-managed-collectors/",
-      "date": "2026-07-31T13:06:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -1021,17 +1019,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/260722-N-UT641-7052-scaled.jpg"
     },
     {
-      "title": "Launching Health in ChatGPT",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "date": "2026-07-23T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Agentic AI ROI: A Framework for Executive Leaders",
       "summary": "Struggling to scale agentic AI? Learn how the Snowflake AI Data Cloud helps enterprises eliminate operational tax and drive measurable ROI for AI initiatives.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-ai-roi-executive-framework",
@@ -1107,17 +1094,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "date": "2026-07-22T13:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "From the Factory Floor to the Data Layer: How Leading Companies Are Rewriting the Rules of Agility",
