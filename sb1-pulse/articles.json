@@ -1,7 +1,91 @@
 {
-  "generated": "2026-08-05T12:49:06.913674+00:00",
+  "generated": "2026-08-05T18:16:03.851817+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "AWS Marketplace adds AI Insights so buyers can understand pricing before they buy",
+      "summary": "You can now understand how a product's pricing works before you buy it. Available in the pricing section of the listing in AWS Marketplace, AI Insights explains each product's pricing in plain language: what a pricing unit maps to, how your bill changes as usage scales, how multiple pricing dimensions combine into one cost, and what is and isn't included. Answering these questions used to mean hav",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/",
+      "date": "2026-08-05T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon DynamoDB now supports real-time vector search",
+      "summary": "Today, AWS announces the general availability of vector search for Amazon DynamoDB, a new feature to index and search vectors in real time. As vector datasets grow into the billions or trillions, vector search at scale traditionally trades off search speed, scale, and accuracy: latency climbs with vector count unless you accept lower recall or throughput. DynamoDB now supports native vector search",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search",
+      "date": "2026-08-05T16:59:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "CTO Circle: Lessons on Building AI-Native Engineering Teams",
+      "summary": "350+ CTOs at Snowflake Summit shared lessons on building AI-native engineering orgs — from deploying AI in production to redesigning engineering teams.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/cto-circle-ai-native-engineering",
+      "date": "2026-08-05T16:39:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
+      "summary": "Amazon Aurora serverless now delivers higher initial capacity during scale-up events, reaching up to 12 ACUs within a second and continuing to scale up to 256 ACUs as your workload grows. When the workload finishes, Aurora serverless automatically scales down to zero. This makes it especially well-suited for agentic AI applications, which typically have bursts of activity, long idle windows, and u",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling",
+      "date": "2026-08-05T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 17,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon DynamoDB now supports real-time vector search at any scale",
+      "summary": "DynamoDB now supports native vector search with single-digit millisecond latency at 99%+ recall. It is designed for any scale, even trillions of vectors and requires zero infrastructure management.",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/",
+      "date": "2026-08-05T14:45:10+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "NVIDIA and Partners Build in America, for America",
+      "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "date": "2026-08-05T13:00:47+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg"
+    },
+    {
+      "title": "How To Grow a Revenue Hub With AI Agents",
+      "summary": "Here's how to put AI agents to work in your revenue hub.",
+      "url": "https://www.salesforce.com/blog/small-business/grow-a-revenue-hub-with-ai/",
+      "date": "2026-08-05T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Support Accreditation: SAP’s Enablement Course to Unlock Faster, Smarter, AI-Powered Customer Support",
       "summary": "What if you could resolve issues faster, work more independently, and stay ahead of AI-driven innovation all in just over 60 minutes of learning?",
@@ -335,20 +419,6 @@
       "image": null
     },
     {
-      "title": "RDS SQL Server now supports publishing SQL Server Audit logs to CloudWatch",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports publishing SQL Server Audit logs to CloudWatch. SQL Server Audit is a native SQL Server feature that allows tracking and logging events that occur on the Database Engine. On Amazon RDS, you can create audits and audit specifications in the same way that you create them for on-premises SQL Server database servers. Now you c",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-publish-sql-audit-to-cw/",
-      "date": "2026-08-04T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "New ways to learn and teach with ChatGPT Work and Codex",
       "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
       "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
@@ -379,30 +449,6 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Transform continuous modernization is now generally available",
-      "summary": "AWS Transform continuous modernization is now generally available in all AWS Regions where AWS Transform is supported . This capability helps engineering teams analyze and remediate technical debt across source code repositories at scale. Teams can connect GitHub organizations, GitLab groups, and Bitbucket workspaces, run analyses on demand or on a recurring schedule, and prioritize findings acros",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available",
-      "date": "2026-08-03T21:15:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock",
-      "summary": "GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock, enabling you to process full codebases, lengthy documents, and multi-turn agent histories in a single request. Models reason over broader context and return more accurate, coherent responses without chunking or information loss. With a context window size of 1 million tokens, you can analyze entire reposito",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/gpt-sol-terra-luna-long-context-bedrock",
-      "date": "2026-08-03T21:03:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 26,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -802,17 +848,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Unlock Intent-Driven Shopping: Inside the July 2026 B2C Commerce Release",
-      "summary": "For years, ecommerce search bars trained shoppers to search for what they’re looking for with as few keywords as possible. People stripped away full sentences and relied on keyword-heavy fragments like “women black…",
-      "url": "https://www.salesforce.com/blog/b2c-commerce-july-26-release/",
-      "date": "2026-07-29T20:22:45+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1351,19 +1386,6 @@
       "image": null
     },
     {
-      "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
-      "summary": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier in driving token generation. Marking a networking milestone, NVIDIA Spectrum-6 […]",
-      "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
-      "date": "2026-07-21T15:00:20+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/ethernet-spectrum-x-corp-blog-1920x1080-5205700.jpg"
-    },
-    {
       "title": "The New Partner Playbook: Building in the Age of Snowflake Cortex AI",
       "summary": "Explore how Snowflake partners can package domain expertise, build faster with Cortex Code and deliver scalable outcomes in the AI era",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-ai-partner-playbook",
@@ -1371,17 +1393,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Document Intelligence with Snowflake: Activate Business Documents",
-      "summary": "Turn business documents into AI-ready data with Snowflake Cortex AI Functions. Build enterprise search, automate document processing and analyze documents at scale.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/document-intelligence-snowflake-cortex-ai-functions",
-      "date": "2026-07-20T18:05:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 6,
       "tags": [],
       "image": null
     },
@@ -1599,19 +1610,6 @@
         "ai"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
-      "summary": "A couple of editions ago I wrote about what I find so energizing about working with startups. Last week I got a fresh dose of it: I spent a few days with the AWS Startups team, listening to stories of founders talking about the problems they’re actually solving. One story that stayed with me came […]",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
-      "date": "2026-07-06T15:46:43+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 25,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     }
   ]
 }
