@@ -1,7 +1,18 @@
 {
-  "generated": "2026-08-05T07:34:37.738662+00:00",
+  "generated": "2026-08-05T12:49:06.913674+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Support Accreditation: SAP’s Enablement Course to Unlock Faster, Smarter, AI-Powered Customer Support",
+      "summary": "What if you could resolve issues faster, work more independently, and stay ahead of AI-driven innovation all in just over 60 minutes of learning?",
+      "url": "https://news.sap.com/2026/08/support-accreditation-course-unlock-customer-support/",
+      "date": "2026-08-05T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality",
       "summary": "You can now use your Network Firewall with all its existing filtering capabilities and features as an explicit forward proxy. On Nov 25, 2025, AWS introduced Network Firewall proxy in public preview to help customers exert centralized security controls against data exfiltration and malware injection. At the time, the Network Firewall proxy was introduced as a standalone product, separate from Netw",
@@ -711,6 +722,17 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-30-bts-nv-blog-1280x680-logo.jpg"
     },
     {
+      "title": "The next measure of AI momentum is work transformed",
+      "summary": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter. The post The next measure of AI momentum is work transformed appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "What Can You Actually Do With Salesforce Foundations (For Free)?",
       "summary": "Foundations gives existing Salesforce customers access to AI tools — here's exactly what that means for your business.",
       "url": "https://www.salesforce.com/blog/small-business/what-does-foundations-do/",
@@ -1412,17 +1434,6 @@
         "security"
       ],
       "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "The Winners of the Energy and Utilities Innovation Award",
-      "summary": "The winners demonstrate the wide range of possibilities through which companies in the energy and utilities sector are actively shaping digital transformation.",
-      "url": "https://news.sap.com/2026/07/winners-energy-and-utilities-innovation-award/",
-      "date": "2026-07-17T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 6,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Connect more of your apps to Search",
