@@ -1,7 +1,20 @@
 {
-  "generated": "2026-08-04T23:58:19.535455+00:00",
+  "generated": "2026-08-05T07:34:37.738662+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality",
+      "summary": "You can now use your Network Firewall with all its existing filtering capabilities and features as an explicit forward proxy. On Nov 25, 2025, AWS introduced Network Firewall proxy in public preview to help customers exert centralized security controls against data exfiltration and malware injection. At the time, the Network Firewall proxy was introduced as a standalone product, separate from Netw",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview/",
+      "date": "2026-08-04T22:24:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Amazon Connect Customer now lets you export cases to CSV from the agent workspace",
       "summary": "Amazon Connect Customer now supports exporting cases to a CSV file directly from the agent workspace, making it easier to share case data with internal teams and external stakeholders such as vendors, legal teams, or business partners. Agents can filter and select cases and choose which case fields to include in the export. Admins can control access using a security profile permission. Cases is av",
@@ -696,17 +709,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-30-bts-nv-blog-1280x680-logo.jpg"
-    },
-    {
-      "title": "The next measure of AI momentum is work transformed",
-      "summary": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter. The post The next measure of AI momentum is work transformed appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     },
     {
       "title": "What Can You Actually Do With Salesforce Foundations (For Free)?",
