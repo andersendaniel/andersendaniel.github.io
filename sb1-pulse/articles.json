@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-06T07:35:08.438479+00:00",
+  "generated": "2026-08-06T12:53:10.232873+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "BigQuery to Databricks: A Strategic Framework for Modern Migration",
+      "summary": "Migration as a strategic evolutionBigQuery is often the standard for starting fast, but for many enterprises...",
+      "url": "https://www.databricks.com/blog/bigquery-databricks-strategic-framework-modern-migration",
+      "date": "2026-08-06T13:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AI Adoption and SAP Transformation: What Customers Report from Practice",
+      "summary": "How do new technologies actually work in day-to-day operations?",
+      "url": "https://news.sap.com/2026/08/ai-adoption-transformation-what-customers-report/",
+      "date": "2026-08-06T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "AWS Lambda announces scalable network bandwidth up to 3,000 Mbps for functions outside a VPC",
       "summary": "AWS Lambda now supports scalable network bandwidth for Lambda functions, enabling faster data transfer to and from your execution environment for latency-sensitive workloads. This feature enables functions outside a VPC configured with 2 GB of memory or more to access network bandwidth that scales proportionally, from 625 Mbps at 2 GB up to 3,000 Mbps at 10 GB. Customers use Lambda to build latenc",
@@ -95,6 +119,19 @@
       "category": "snowflake",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Glue Data Catalog now supports  metadata exports to S3 Tables (Preview)",
+      "summary": "AWS Glue Data Catalog is a centralized metadata repository that helps you discover and understand data, with semantic search and support for adding business context to datasets currently in preview. Today, we are adding two new capabilities to this preview: exporting catalog metadata exports to S3 Tables for metadata querying, and expanding the semantic search preview to catalogs encrypted with AW",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-catalog-s3-tables/",
+      "date": "2026-08-05T15:42:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -276,19 +313,6 @@
       "category": "aws",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon S3 Vectors is now available in the AWS European Sovereign Cloud (Germany) Region",
-      "summary": "Amazon S3 Vectors is now available in the AWS European Sovereign Cloud (Germany) Region. Amazon S3 Vectors is purpose-built vector storage for AI agents, inference, Retrieval Augmented Generation (RAG), and semantic search at billion-vector scale. S3 Vectors is designed to provide the same elasticity, durability, and availability as Amazon S3, with a dedicated set of APIs that let you store, acces",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-vectors-european-sovereign-cloud-germany/",
-      "date": "2026-08-04T18:15:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 20,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -861,19 +885,6 @@
       "image": null
     },
     {
-      "title": "NBCUniversal’s Seamless Migration: Unlocking Scalable Analytics with Databricks",
-      "summary": "As one of the world's leading media and entertainment companies, NBCUniversal relies...",
-      "url": "https://www.databricks.com/blog/nbcuniversals-seamless-migration-unlocking-scalable-analytics-databricks",
-      "date": "2026-07-29T20:35:57+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 18,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Apache Iceberg Lakehouse: Snowflake & Google Cloud",
       "summary": "Discover how Snowflake and Google Cloud use Apache Iceberg to build an open, AI-ready lakehouse. Achieve data interoperability without vendor lock-in.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-google-cloud-open-lakehouse",
@@ -1434,17 +1445,6 @@
       "image": null
     },
     {
-      "title": "SAP Business AI: Release Highlights Q2 2026",
-      "summary": "Every business wants to move faster, make better decisions, and empower its people to focus on what matters most.",
-      "url": "https://news.sap.com/2026/07/sap-business-ai-release-highlights-q2-2026/",
-      "date": "2026-07-20T10:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Introducing Gemini 3.5 Flash Cyber",
       "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
       "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
@@ -1609,19 +1609,6 @@
       "relevance": 1,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "summary": "Managed agents feature bundle launch",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "date": "2026-07-07T08:54:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp"
     }
   ]
 }
