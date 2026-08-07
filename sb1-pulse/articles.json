@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T01:40:32.785503+00:00",
+  "generated": "2026-08-07T06:06:16.080275+00:00",
   "sources": 21,
   "articles": [
     {
@@ -230,6 +230,19 @@
       "relevance": 2,
       "tags": [],
       "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
+      "summary": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
+      "date": "2026-08-06T15:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 14,
+      "tags": [
+        "developer"
+      ],
+      "image": null
     },
     {
       "title": "Amazon WorkSpaces Applications now publishes enhanced observability metrics",
