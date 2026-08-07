@@ -1,7 +1,29 @@
 {
-  "generated": "2026-08-07T06:06:16.080275+00:00",
+  "generated": "2026-08-07T11:40:33.318796+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Innovating with AI Because Reinvention Is in Cirque du Soleil’s DNA",
+      "summary": "Cirque du Soleil knows firsthand how to leverage SAP technology not only to run its operations, but also to reinvent them.",
+      "url": "https://news.sap.com/2026/08/innovating-with-ai-cirque-du-soleil/",
+      "date": "2026-08-07T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "date": "2026-08-07T09:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 18,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
       "summary": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU support, and sessions lasting up to 14 days.",
@@ -232,15 +254,15 @@
       "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo"
     },
     {
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
-      "summary": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
+      "title": "Amazon WorkSpaces now publishes enhanced observability metrics",
+      "summary": "Amazon WorkSpaces now publishes additional performance and session health metrics to Amazon CloudWatch, enabling IT administrators to gain deeper visibility into their virtual desktop workloads. These new metrics span network performance, compute and storage resource utilization, and session lifecycle events — all available at no additional cost. With these metrics, administrators can proactively ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-observability-metrics",
       "date": "2026-08-06T15:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 14,
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
       "tags": [
-        "developer"
+        "cloud"
       ],
       "image": null
     },
@@ -255,19 +277,6 @@
       "tags": [
         "cloud",
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon WorkSpaces now publishes enhanced observability metrics",
-      "summary": "Amazon WorkSpaces now publishes additional performance and session health metrics to Amazon CloudWatch, enabling IT administrators to gain deeper visibility into their virtual desktop workloads. These new metrics span network performance, compute and storage resource utilization, and session lifecycle events — all available at no additional cost. With these metrics, administrators can proactively ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-observability-metrics",
-      "date": "2026-08-06T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -342,13 +351,13 @@
       "image": null
     },
     {
-      "title": "AWS Backup extends logically air-gapped vault support for Amazon Neptune to three additional AWS Regions",
-      "summary": "AWS Backup logically air-gapped vault support for Amazon Neptune is now available in three additional AWS Regions: Asia Pacific (Melbourne), Europe (Spain), and Europe (Zurich). With this expansion, you can store Neptune backups in logically air-gapped vaults in these Regions. Logically air-gapped vaults are immutable, locked by default, and encrypted using AWS owned keys or customer-managed keys.",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-logically-air-gapped-vault-neptune-regions/",
+      "title": "Amazon SES now helps identify automated open and click events in event notifications",
+      "summary": "Amazon Simple Email Service (SES) now helps you identify automated email interactions. Open and Click event notifications now include an isBotEvent field that indicates whether the event was likely triggered by an automated system or a human recipient. Customers who publish Open or Click events through a configuration set event destination will now see an isBotEvent field with a value of Likely or",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/",
       "date": "2026-08-06T07:00:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
-      "relevance": 5,
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -957,19 +966,6 @@
       "image": null
     },
     {
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-      "url": "https://openai.com/index/avatarin",
-      "date": "2026-07-30T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Apache Iceberg Lakehouse: Snowflake & Google Cloud",
       "summary": "Discover how Snowflake and Google Cloud use Apache Iceberg to build an open, AI-ready lakehouse. Achieve data interoperability without vendor lock-in.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-google-cloud-open-lakehouse",
@@ -1431,17 +1427,6 @@
         "ai",
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
-      "summary": "The Netherlands-based, family-owned maritime group is charting a course toward a more intelligent, sustainable future.",
-      "url": "https://news.sap.com/2026/07/damen-sap-business-ai-faster-smarter-shipbuilding/",
-      "date": "2026-07-20T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
