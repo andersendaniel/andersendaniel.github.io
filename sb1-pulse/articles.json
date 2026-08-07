@@ -1,7 +1,287 @@
 {
-  "generated": "2026-08-06T12:53:10.232873+00:00",
+  "generated": "2026-08-07T01:40:32.785503+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
+      "summary": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU support, and sessions lasting up to 14 days.",
+      "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
+      "date": "2026-08-06T22:58:00+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 26,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now supports fractional GPU scheduling with Amazon EC2 G6f instances, enabling you to run your workloads on GPU partitions as small as one-eighth of an NVIDIA L4 Tensor Core GPU with 3 GB of GPU memory. Fractional GPUs give you the flexibility to right-size your containers for small-model AI inference, model experimentation, graphics rendering, and oth",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/",
+      "date": "2026-08-06T22:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Lambda console extends console-to-IDE integration to Kiro and Cursor",
+      "summary": "AWS Lambda console now extends its console-to-IDE integration to support Kiro and Cursor IDEs. This expansion builds on the existing console-to-IDE transition for Visual Studio Code (VS Code), providing a seamless transition between cloud and local development environments for serverless developers using these popular IDEs. With the expanded console-to-IDE integration, developers can start from th",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor/",
+      "date": "2026-08-06T21:53:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 19,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "What are Agentic Workflows?",
+      "summary": "As organizations move beyond single-prompt AI interactions, agentic workflows are...",
+      "url": "https://www.databricks.com/blog/agentic-workflows",
+      "date": "2026-08-06T21:36:15+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "What is Tool Calling?",
+      "summary": "Tool calling is the ability of an AI model to interact with external tools, APIs,...",
+      "url": "https://www.databricks.com/blog/what-is-tool-calling",
+      "date": "2026-08-06T21:31:30+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 4,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Agentic AI in HR: Why Employee Trust Starts with the Data Foundation",
+      "summary": "The secret to unlocking agentic HR service comes down to trusting your data, and the tools that access it.",
+      "url": "https://www.salesforce.com/blog/data-first-agentic-hr/",
+      "date": "2026-08-06T20:51:37+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 G7 instances are now available in the AWS Europe (Spain) Region",
+      "summary": "Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in Europe (Spain) Region. G7 instances deliver up to 4.6x AI inference performance and up to 2.1 graphics performance compared to G6 instances. G7 instances also deliver faster performance for GPU-accelerated data analytics workloads. Customers can use G7 instances ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-g7-available-spain",
+      "date": "2026-08-06T20:51:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 12,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AgentCore runtime instances are now generally available",
+      "summary": "Today, AWS announces runtime instances, a new feature in Amazon Bedrock AgentCore that lets you run agents on your own Amazon EC2 instances without managing infrastructure. AgentCore runtime provides purpose-built infrastructure to deploy and operate AI agents securely at scale. Runtime instances complement the existing microVM-based option in AgentCore runtime and give teams running sustained, re",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-bedrock-agentcore-runtime-instances-generally-available/",
+      "date": "2026-08-06T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 25,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "A guide to slash commands in the GitHub Copilot app",
+      "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+      "date": "2026-08-06T19:49:34+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 16,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Glue Schema Registry is now available in ten more AWS regions",
+      "summary": "You can now use the AWS Glue Schema Registry , a serverless and free feature of AWS Glue , in the Asia Pacific (New Zealand), Asia Pacific (Thailand), Asia Pacific (Hyderabad), Asia Pacific (Osaka), Asia Pacific (Malaysia), Asia Pacific (Melbourne), Mexico (Central), Israel (Tel Aviv), Asia Pacific (Taipei), Canada West (Calgary) regions to validate and control the evolution of streaming data usin",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-gsr-10-more-regions",
+      "date": "2026-08-06T18:56:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "4 Steps to Eliminate Identity Debt and Build Reliable Agentic AI with Data 360",
+      "summary": "Audit your existing Data 360 data streams, establish a robust system of context, and implement a structured architecture to ensure reliable agent behavior.",
+      "url": "https://www.salesforce.com/blog/eliminate-identity-debt-data-360/",
+      "date": "2026-08-06T18:00:41+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 18,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Transform for migrations automates post-launch actions",
+      "summary": "AWS Transform now automates the configuration and execution of post-launch actions through the migration workflow. Define actions at the account level and apply them automatically to each source server across your target accounts, including multi-account migrations. Automating these actions removes the slow, error-prone work of configuring them server by server, so your team moves more servers wit",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-for-migrations-automates-post-launch-actions",
+      "date": "2026-08-06T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Security Agent now supports email-based MFA for penetration testing",
+      "summary": "AWS Security Agent (now part of AWS Continuum ) now enables penetration testing of applications that use email-based multi-factor authentication (MFA) as part of their login flow. Previously, applications requiring one-time codes or verification links sent by email were out of scope for automated pentesting because the agent had no mechanism to intercept those messages. This launch expands coverag",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent-mfa/",
+      "date": "2026-08-06T16:54:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "How we took malware advisories beyond npm",
+      "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on The GitHub Blog .",
+      "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+      "date": "2026-08-06T16:51:12+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS now provides visibility into storage volume initialization status",
+      "summary": "Amazon RDS now provides visibility into the initialization status of database storage volumes created from snapshots. You can use this status to determine when your storage is fully initialized after a restore and is ready to support latency-sensitive database workloads at fully provisioned performance. When you restore a database instance to a point-in-time, or create a read replica creation, or ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-storage-volume-initialization-visibility",
+      "date": "2026-08-06T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Introducing OfficeQA Pro V2: A New Benchmark for Enterprise Grounded-Reasoning",
+      "summary": "Today, we are releasing OfficeQA Pro V2, a new benchmark designed to evaluate whether...",
+      "url": "https://www.databricks.com/blog/introducing-officeqa-pro-v2-new-benchmark-enterprise-grounded-reasoning",
+      "date": "2026-08-06T16:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Kimi K3 from Moonshot AI is now available on Databricks through Unity AI Gateway",
+      "summary": "A year ago, the best open-weight models trailed their proprietary counterparts by...",
+      "url": "https://www.databricks.com/blog/kimi-k3-moonshot-ai-now-available-databricks-through-unity-ai-gateway",
+      "date": "2026-08-06T15:50:57+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "summary": "",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "date": "2026-08-06T15:06:15+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Amazon WorkSpaces Applications now publishes enhanced observability metrics",
+      "summary": "Amazon WorkSpaces Applications now publishes additional performance and session health metrics to Amazon CloudWatch, enabling IT administrators to gain deeper visibility into their application streaming workloads. These new metrics span network performance, compute resource utilization, and session lifecycle events — all available at no additional cost. With these metrics, administrators can proac",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-observability-metrics",
+      "date": "2026-08-06T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon WorkSpaces now publishes enhanced observability metrics",
+      "summary": "Amazon WorkSpaces now publishes additional performance and session health metrics to Amazon CloudWatch, enabling IT administrators to gain deeper visibility into their virtual desktop workloads. These new metrics span network performance, compute and storage resource utilization, and session lifecycle events — all available at no additional cost. With these metrics, administrators can proactively ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-observability-metrics",
+      "date": "2026-08-06T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon MSK now delivers Kafka Authorizer Logs to customers",
+      "summary": "Amazon Managed Streaming for Apache Kafka (MSK) now supports Authorizer Log Delivery for Provisioned clusters, including both Standard and Express brokers, at no additional cost. With authorizer logs, you get detailed visibility into user and application access, identify and address client authorization issues , and meet your organization's security requirements. Each denied authorization request ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-kafka-authorizer-logs/",
+      "date": "2026-08-06T14:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+      "summary": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector.",
+      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+      "date": "2026-08-06T13:00:00+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nv-ov-ito-social-1920x1080-1.jpg"
+    },
     {
       "title": "BigQuery to Databricks: A Strategic Framework for Modern Migration",
       "summary": "Migration as a strategic evolutionBigQuery is often the standard for starting fast, but for many enterprises...",
@@ -27,24 +307,57 @@
       "image": null
     },
     {
-      "title": "AWS Lambda announces scalable network bandwidth up to 3,000 Mbps for functions outside a VPC",
-      "summary": "AWS Lambda now supports scalable network bandwidth for Lambda functions, enabling faster data transfer to and from your execution environment for latency-sensitive workloads. This feature enables functions outside a VPC configured with 2 GB of memory or more to access network bandwidth that scales proportionally, from 625 Mbps at 2 GB up to 3,000 Mbps at 10 GB. Customers use Lambda to build latenc",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-network-bandwidth/",
-      "date": "2026-08-05T21:35:00+00:00",
+      "title": "AWS Backup for Amazon S3 now supports direct access to backup data",
+      "summary": "AWS Backup for Amazon S3 now supports creating S3 Access Points, providing immediate read-only access to backup data using standard S3 APIs without initiating a restore. This enables targeted file recovery, data validation, compliance auditing, and forensic investigation while your backup data remains protected in your backup vault. You can create an access point for an S3 recovery point and read ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-amazon-s3-direct-access/",
+      "date": "2026-08-06T10:00:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "date": "2026-08-06T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Backup extends logically air-gapped vault support for Amazon Neptune to three additional AWS Regions",
+      "summary": "AWS Backup logically air-gapped vault support for Amazon Neptune is now available in three additional AWS Regions: Asia Pacific (Melbourne), Europe (Spain), and Europe (Zurich). With this expansion, you can store Neptune backups in logically air-gapped vaults in these Regions. Logically air-gapped vaults are immutable, locked by default, and encrypted using AWS owned keys or customer-managed keys.",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-logically-air-gapped-vault-neptune-regions/",
+      "date": "2026-08-06T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "date": "2026-08-06T06:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
       "relevance": 1,
       "tags": [],
       "image": null
     },
     {
-      "title": "Amazon Keyspaces (for Apache Cassandra) is now available in the Canada West (Calgary) Region (ca-west-1)",
-      "summary": "Amazon Keyspaces (for Apache Cassandra) is now available in the Canada West (Calgary) Region (ca-west-1), allowing customers in the Canada West Region to build Cassandra-compatible applications with lower latency while keeping their data within the Region to meet data residency requirements. Amazon Keyspaces (for Apache Cassandra) is a scalable, highly available, and managed Apache Cassandra–compa",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-canada-west/",
-      "date": "2026-08-05T20:06:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "date": "2026-08-06T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -57,19 +370,6 @@
       "category": "meta",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions",
-      "summary": "AWS Glue Data Quality now offers improved anomaly detection with a new observation mode that reduces detection of false anomalies and removes pricing for anomaly detection in ETL jobs. Customers using notebook-based or exploratory workflows now benefit from smarter anomaly detection that gracefully handles irregular data arrival intervals. This new capability avoids over-extrapolating trends by us",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-quality-anomaly-detection-free",
-      "date": "2026-08-05T18:25:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -87,30 +387,6 @@
       "image": null
     },
     {
-      "title": "AWS Marketplace adds AI Insights so buyers can understand pricing before they buy",
-      "summary": "You can now understand how a product's pricing works before you buy it. Available in the pricing section of the listing in AWS Marketplace, AI Insights explains each product's pricing in plain language: what a pricing unit maps to, how your bill changes as usage scales, how multiple pricing dimensions combine into one cost, and what is and isn't included. Answering these questions used to mean hav",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/",
-      "date": "2026-08-05T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon DynamoDB now supports real-time vector search",
-      "summary": "Today, AWS announces the general availability of vector search for Amazon DynamoDB, a new feature to index and search vectors in real time. As vector datasets grow into the billions or trillions, vector search at scale traditionally trades off search speed, scale, and accuracy: latency climbs with vector count unless you accept lower recall or throughput. DynamoDB now supports native vector search",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search",
-      "date": "2026-08-05T16:59:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "CTO Circle: Lessons on Building AI-Native Engineering Teams",
       "summary": "350+ CTOs at Snowflake Summit shared lessons on building AI-native engineering orgs — from deploying AI in production to redesigning engineering teams.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/cto-circle-ai-native-engineering",
@@ -119,44 +395,6 @@
       "category": "snowflake",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Glue Data Catalog now supports  metadata exports to S3 Tables (Preview)",
-      "summary": "AWS Glue Data Catalog is a centralized metadata repository that helps you discover and understand data, with semantic search and support for adding business context to datasets currently in preview. Today, we are adding two new capabilities to this preview: exporting catalog metadata exports to S3 Tables for metadata querying, and expanding the semantic search preview to catalogs encrypted with AW",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-catalog-s3-tables/",
-      "date": "2026-08-05T15:42:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS IAM Identity Center makes management of AWS account access optional for new organization instances",
-      "summary": "AWS IAM Identity Center now lets you decide whether to enable management of AWS account access when you create a new organization instance. This allows you to use IAM Identity Center to manage access to AWS applications only, without the need to manage access to AWS accounts. This feature is available at the time of initial configuration of an IAM Identity Center instance and does not affect exist",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-identity-center-accounts-optional/",
-      "date": "2026-08-05T15:12:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
-      "summary": "Amazon Aurora serverless now delivers higher initial capacity during scale-up events, reaching up to 12 ACUs within a second and continuing to scale up to 256 ACUs as your workload grows. When the workload finishes, Aurora serverless automatically scales down to zero. This makes it especially well-suited for agentic AI applications, which typically have bursts of activity, long idle windows, and u",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling",
-      "date": "2026-08-05T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 17,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -206,66 +444,6 @@
       "image": null
     },
     {
-      "title": "[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality",
-      "summary": "You can now use your Network Firewall with all its existing filtering capabilities and features as an explicit forward proxy. On Nov 25, 2025, AWS introduced Network Firewall proxy in public preview to help customers exert centralized security controls against data exfiltration and malware injection. At the time, the Network Firewall proxy was introduced as a standalone product, separate from Netw",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview/",
-      "date": "2026-08-04T22:24:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Connect Customer now lets you export cases to CSV from the agent workspace",
-      "summary": "Amazon Connect Customer now supports exporting cases to a CSV file directly from the agent workspace, making it easier to share case data with internal teams and external stakeholders such as vendors, legal teams, or business partners. Agents can filter and select cases and choose which case fields to include in the export. Admins can control access using a security profile permission. Cases is av",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases/",
-      "date": "2026-08-04T21:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Bedrock launches Web Search for OpenAI GPT models",
-      "summary": "Today, we are announcing the general availability of Web Search on Amazon Bedrock, a built-in server side tool that performs web search entirely within AWS, enabling OpenAI models (GPT-5.4, GPT-5.5, and GPT-5.6 Sol/Terra/Luna) to ground responses with current web knowledge while maintaining data residency within your secured AWS environment with zero data egress. Previously, adding web grounding r",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/",
-      "date": "2026-08-04T20:37:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 27,
-      "tags": [
-        "ai",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Run interactive workloads on Amazon EMR on EC2 with Spark Connect",
-      "summary": "Amazon EMR on EC2 now supports interactive Apache Spark sessions with Spark Connect. Data engineers and data scientists can develop and debug Apache Spark applications interactively from managed notebooks in Amazon SageMaker Unified Studio and their own IDEs, such as Jupyter and Visual Studio Code, with each session running on dedicated EMR on EC2 clusters. You can also monitor and debug active an",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-emr-ec2-spark-connect/",
-      "date": "2026-08-04T20:29:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Security Hub Extended adds supply chain security as its 10th category",
-      "summary": "The AWS Security Hub Extended plan now includes Supply Chain Security as its 10th security category, with Chainguard and Socket as the curated partners. As developers adopt open-source libraries at scale, security teams need confidence that the packages entering their environments are trustworthy and free from malicious code. With this addition, you can detect and block malicious dependencies befo",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-hub-extended-adds-supply-chain-security",
-      "date": "2026-08-04T19:14:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
       "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
@@ -289,30 +467,6 @@
       "tags": [
         "security"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 C8g instances now available in additional regions",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g instances are available in AWS Europe (Paris), AWS Africa (Cape Town), AWS Israel (Tel Aviv), and AWS Canada West (Calgary) regions. These instances are powered by AWS Graviton4 processors and deliver up to 30% better performance compared to AWS Graviton3-based instances. Amazon EC2 C8g instances are built for compute-intensive workload",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8g-instances-additional-regions/",
-      "date": "2026-08-04T18:57:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Application and Network Load Balancers now support RFC 9151 compliant security policies",
-      "summary": "AWS Application Load Balancer (ALB) and Network Load Balancer (NLB) now support new TLS-based security policies that comply with RFC 9151 TLS server requirements for Commercial National Security Algorithm (CNSA) 1.0 suite requirements. These policies implement the cryptographic requirements defined by the US National Security Agency (NSA) for secure communications using TLS 1.2 and TLS 1.3 protoco",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-application-network/",
-      "date": "2026-08-04T18:28:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -627,28 +781,6 @@
       "image": null
     },
     {
-      "title": "Backstage with Lakebase, part 3",
-      "summary": "In the first part of this series, running Backstage on Databricks Lakebase gave us...",
-      "url": "https://www.databricks.com/blog/backstage-lakebase-part-3",
-      "date": "2026-07-31T22:21:47+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Tom Tailor Revamped and Future-Proofed Its Loyalty Program",
-      "summary": "The lifestyle fashion brand used Agentforce Marketing to connect with customers in a deeper way",
-      "url": "https://www.salesforce.com/blog/tom-tailor-loyalty-program/",
-      "date": "2026-07-31T16:35:10+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "What’s new with Google Cloud",
       "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jul 27 - Jul 31 Data C",
       "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -698,17 +830,6 @@
       "image": null
     },
     {
-      "title": "Learn AI Skills for Free: 10 Trailhead Courses Built for Founders",
-      "summary": "Trailhead's free AI courses are built for business owners just like you.",
-      "url": "https://www.salesforce.com/blog/small-business/ai-skills-for-founders/",
-      "date": "2026-07-31T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "SAP Acknowledged as a Leader in First-Ever Gartner® Magic Quadrant™ for Digital Twin of an Organization Platforms",
       "summary": "SAP offers businesses a dynamic digital twin of an organization with continuous observability and AI-driven actionability features.",
       "url": "https://news.sap.com/2026/07/sap-leader-gartner-magic-quadrant-digital-twin-organization-platforms/",
@@ -739,31 +860,6 @@
       "category": "openai",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Foundations for an AI-forward healthcare organization",
-      "summary": "The challenge for healthcare executives adopting AI is the noise when trying to advance an initiative...",
-      "url": "https://www.databricks.com/blog/foundations-ai-forward-healthcare-organization",
-      "date": "2026-07-30T19:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Agentic media buying cannot scale without the right foundation. See how buyers and sellers get there on Databricks.",
-      "summary": "The bottleneck in media buying today isn't talent, it's coordinationEvery day, billions...",
-      "url": "https://www.databricks.com/blog/agentic-media-buying-cannot-scale-without-right-foundation-see-how-buyers-and-sellers-get",
-      "date": "2026-07-30T19:10:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "ai",
-        "data"
-      ],
       "image": null
     },
     {
@@ -826,17 +922,6 @@
       "image": null
     },
     {
-      "title": "What Can You Actually Do With Salesforce Foundations (For Free)?",
-      "summary": "Foundations gives existing Salesforce customers access to AI tools — here's exactly what that means for your business.",
-      "url": "https://www.salesforce.com/blog/small-business/what-does-foundations-do/",
-      "date": "2026-07-30T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The Humanity and AI of It All: The State of Customer Experience",
       "summary": "CX is now a cross-functional discipline and the stakes for getting it wrong are higher than ever.",
       "url": "https://news.sap.com/2026/07/state-of-cx-the-humanity-ai/",
@@ -856,19 +941,6 @@
       "category": "openai",
       "relevance": 22,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Convert proprietary code to open ANSI SQL with Genie Code",
-      "summary": "Migrating from a legacy data warehouse is a complex undertaking, requiring teams...",
-      "url": "https://www.databricks.com/blog/convert-proprietary-code-open-ansi-sql-genie-code",
-      "date": "2026-07-30T01:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -912,17 +984,6 @@
       "image": null
     },
     {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "date": "2026-07-29T15:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience",
       "summary": "Modern B2B buyers expect seamless experiences across web, mobile, marketplaces, and partner portals.",
       "url": "https://news.sap.com/2026/07/omnichannel-commerce-b2b-digital-transformationadvanced-success-plan-sap-cx/",
@@ -931,31 +992,6 @@
       "category": "sap",
       "relevance": 16,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "date": "2026-07-29T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 15,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "date": "2026-07-29T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 19,
-      "tags": [
-        "ai",
-        "automation"
-      ],
       "image": null
     },
     {
@@ -1229,17 +1265,6 @@
       "image": null
     },
     {
-      "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
-      "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog .",
-      "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
-      "date": "2026-07-23T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
       "summary": "Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail in Path of Exile: Curse of the Allflame and charge in Battlefield 6 Season 4 both launching major content for members this week. Then revisit Capcom legends like Breath of […]",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
@@ -1271,20 +1296,6 @@
       "relevance": 19,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Copilot vs. raw API access: What are you actually paying for?",
-      "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
-      "date": "2026-07-22T19:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 18,
-      "tags": [
-        "automation",
-        "developer"
       ],
       "image": null
     },
@@ -1350,17 +1361,6 @@
       "image": null
     },
     {
-      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
-      "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]",
-      "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
-      "date": "2026-07-21T22:35:45+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Wistron_D1_Grand_Opening_Ceremony-Factory_Tour-21-MY-edit-scaled.jpg"
-    },
-    {
       "title": "Snowflake context and Meta campaigns: close the signal loop",
       "summary": "Learn how Snowflake context and Meta campaigns connect through governed conversion signals, CAPI and campaign diagnostics to optimize ad delivery.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-meta-campaigns-governed-conversion-signals",
@@ -1392,19 +1392,6 @@
       "relevance": 17,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-      "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. […]",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin/",
-      "date": "2026-07-21T15:36:43+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/vera-tech-blog-vera-rubin-nvl72-1920x1080-1.png"
     },
     {
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -1597,17 +1584,6 @@
       "tags": [
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "External key management for Azure Managed HSM is now in public preview",
-      "summary": "Azure Key Vault Managed Hardware Security Module (HSM) provides strong sovereignty over your encryption keys. Keys are generated and stored in a single-tenant, FIPS 140-3 Level 3 HSM that only you control: Microsoft has no access to your key material, and you govern who can use each key. The post External key management for Azure Managed HSM is now in public preview appeared first on Microsoft Azu",
-      "url": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/",
-      "date": "2026-07-07T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
-      "tags": [],
       "image": null
     }
   ]
