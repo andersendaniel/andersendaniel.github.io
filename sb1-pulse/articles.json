@@ -1,7 +1,59 @@
 {
-  "generated": "2026-08-07T17:43:08.821226+00:00",
+  "generated": "2026-08-07T23:27:59.163902+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Europe (Milan) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The R8i and R8i-flex instances offer up to 15% better price-performance, ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/",
+      "date": "2026-08-07T21:11:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Timestream for InfluxDB now supports backup and restore",
+      "summary": "Amazon Timestream for InfluxDB now lets you create and manage your own backups and restore your data on demand. You can trigger one-time, on-demand backups, schedule automated recurring backups at the frequency and retention you choose, and restore a backup to a new resource or in place of an existing one. This capability is available for both the InfluxDB 2 and InfluxDB 3 engines through the AWS ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/",
+      "date": "2026-08-07T19:21:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Cognito now available as a skill in the Agent Toolkit for AWS",
+      "summary": "Amazon Cognito is now available as a core skill (aws-auth) in the Agent Toolkit for AWS . AI coding agents using the toolkit can now set up, configure, secure, and troubleshoot Amazon Cognito using best-practice workflows, helping developers implement secure sign-in flows for users, AI agents, and microservices faster. The Amazon Cognito (aws-auth) skill covers user pool and app client configurati",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/",
+      "date": "2026-08-07T18:00:48+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 22,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity",
+      "summary": "Pacsun has long been synonymous with the California lifestyle and an effortlessly cool aesthetic that blends surf, skate, and street culture. But for retailers targeting digitally-native, highly social Gen Z and Gen Alpha…",
+      "url": "https://www.salesforce.com/blog/pacsun-customer-story/",
+      "date": "2026-08-07T17:59:33+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
     {
       "title": "AWS IAM Identity Center supports one-click multi-Region option for new organization instances",
       "summary": "AWS IAM Identity Center now makes it easier to enable multi-Region support when creating a new organization instance. Previously, enabling multi-Region support required multiple steps including creating a customer managed KMS key, configuring key policies, and manually adding Regions. Now, customers creating a new IAM Identity Center instance in supported Regions can enable multi-Region in one cli",
@@ -25,6 +77,20 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore adds memory, policy, and harness in AWS GovCloud (US-West)",
+      "summary": "Today, Amazon Bedrock AgentCore introduces new capabilities in AWS GovCloud (US-West). AgentCore is the platform to build, connect, and optimize agents. With these capabilities, teams operating in regulated environments can build context-aware agents and take them from prototype to production faster, with the controls needed to scale across their organization. AgentCore memory gives agents short-t",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-policy-harness-govcloud/",
+      "date": "2026-08-07T15:52:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
     },
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
@@ -93,6 +159,41 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 18,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon GameLift Servers now supports 21 new EC2 instance types",
+      "summary": "Amazon GameLift Servers now supports 21 additional Amazon EC2 instance types for managed EC2 fleets and managed container fleets. Amazon GameLift Servers is a fully managed service that enables game developers and studios to deploy, operate, and scale dedicated game servers in the cloud. This expansion gives customer access to the latest compute-optimized and general-purpose instance families. The",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/gamelift-ec2-instance-expansion/",
+      "date": "2026-08-07T08:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon OpenSearch Service announces additional upgrade runway for existing domains and support dates for additional versions",
+      "summary": "In November 2024, Amazon OpenSearch Service announced Extended Support for legacy Elasticsearch and OpenSearch engine versions (see also the detailed blog post ). Since that announcement, many customers have upgraded to newer versions. However, some customers need more time to plan and complete their migrations. To provide this flexibility, we are continuing security and operating system patch cov",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-additional-upgrade-runway-support-dates",
+      "date": "2026-08-07T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon SES now helps identify automated open and click events in event notifications",
+      "summary": "Amazon Simple Email Service (SES) now helps you identify automated email interactions. Open and Click event notifications now include an isBotEvent field that indicates whether the event was likely triggered by an automated system or a human recipient. Customers who publish Open or Click events through a configuration set event destination will now see an isBotEvent field with a value of Likely or",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/",
+      "date": "2026-08-07T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -242,20 +343,6 @@
       "image": null
     },
     {
-      "title": "AWS Glue Schema Registry is now available in ten more AWS regions",
-      "summary": "You can now use the AWS Glue Schema Registry , a serverless and free feature of AWS Glue , in the Asia Pacific (New Zealand), Asia Pacific (Thailand), Asia Pacific (Hyderabad), Asia Pacific (Osaka), Asia Pacific (Malaysia), Asia Pacific (Melbourne), Mexico (Central), Israel (Tel Aviv), Asia Pacific (Taipei), Canada West (Calgary) regions to validate and control the evolution of streaming data usin",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-gsr-10-more-regions",
-      "date": "2026-08-06T18:56:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "4 Steps to Eliminate Identity Debt and Build Reliable Agentic AI with Data 360",
       "summary": "Audit your existing Data 360 data streams, establish a robust system of context, and implement a structured architecture to ensure reliable agent behavior.",
       "url": "https://www.salesforce.com/blog/eliminate-identity-debt-data-360/",
@@ -269,49 +356,12 @@
       "image": null
     },
     {
-      "title": "AWS Transform for migrations automates post-launch actions",
-      "summary": "AWS Transform now automates the configuration and execution of post-launch actions through the migration workflow. Define actions at the account level and apply them automatically to each source server across your target accounts, including multi-account migrations. Automating these actions removes the slow, error-prone work of configuring them server by server, so your team moves more servers wit",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-for-migrations-automates-post-launch-actions",
-      "date": "2026-08-06T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Security Agent now supports email-based MFA for penetration testing",
-      "summary": "AWS Security Agent (now part of AWS Continuum ) now enables penetration testing of applications that use email-based multi-factor authentication (MFA) as part of their login flow. Previously, applications requiring one-time codes or verification links sent by email were out of scope for automated pentesting because the agent had no mechanism to intercept those messages. This launch expands coverag",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent-mfa/",
-      "date": "2026-08-06T16:54:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "How we took malware advisories beyond npm",
       "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on The GitHub Blog .",
       "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
       "date": "2026-08-06T16:51:12+00:00",
       "source": "GitHub Blog",
       "category": "github",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS now provides visibility into storage volume initialization status",
-      "summary": "Amazon RDS now provides visibility into the initialization status of database storage volumes created from snapshots. You can use this status to determine when your storage is fully initialized after a restore and is ready to support latency-sensitive database workloads at fully provisioned performance. When you restore a database instance to a point-in-time, or create a read replica creation, or ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-storage-volume-initialization-visibility",
-      "date": "2026-08-06T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
       "relevance": 1,
       "tags": [
         "data"
@@ -365,33 +415,6 @@
       "image": null
     },
     {
-      "title": "Amazon WorkSpaces Applications now publishes enhanced observability metrics",
-      "summary": "Amazon WorkSpaces Applications now publishes additional performance and session health metrics to Amazon CloudWatch, enabling IT administrators to gain deeper visibility into their application streaming workloads. These new metrics span network performance, compute resource utilization, and session lifecycle events — all available at no additional cost. With these metrics, administrators can proac",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-observability-metrics",
-      "date": "2026-08-06T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon WorkSpaces now publishes enhanced observability metrics",
-      "summary": "Amazon WorkSpaces now publishes additional performance and session health metrics to Amazon CloudWatch, enabling IT administrators to gain deeper visibility into their virtual desktop workloads. These new metrics span network performance, compute and storage resource utilization, and session lifecycle events — all available at no additional cost. With these metrics, administrators can proactively ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-observability-metrics",
-      "date": "2026-08-06T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
       "summary": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector.",
       "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
@@ -401,19 +424,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nv-ov-ito-social-1920x1080-1.jpg"
-    },
-    {
-      "title": "BigQuery to Databricks: A Strategic Framework for Modern Migration",
-      "summary": "Migration as a strategic evolutionBigQuery is often the standard for starting fast, but for many enterprises...",
-      "url": "https://www.databricks.com/blog/bigquery-databricks-strategic-framework-modern-migration",
-      "date": "2026-08-06T13:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
     },
     {
       "title": "AI Adoption and SAP Transformation: What Customers Report from Practice",
@@ -740,17 +750,6 @@
       "image": null
     },
     {
-      "title": "Smarter Merchandising and Platform Extensibility: New Features for B2B Commerce in July",
-      "summary": "For B2B organizations, the digital storefront has become the central hub for driving growth. However, many B2B buyers abandon standard digital storefronts when they cannot find the right items quickly. If your storefront…",
-      "url": "https://www.salesforce.com/blog/b2b-commerce-innovations-july-26/",
-      "date": "2026-08-03T21:47:26+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
       "summary": "Meta’s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes into the details on how we achieved: doubling end-to-end (E2E) training efficiency to 20–25% Model FLOPs Utilization (MFU) while scaling training FLOPs 4x in [...] Read More... The ",
       "url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
@@ -796,6 +795,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Ingest semi-structured data faster and more efficiently with Variant - Now Generally Available",
+      "summary": "For years, ingesting semi-structured data like JSON, XML, or CSV meant a difficult...",
+      "url": "https://www.databricks.com/blog/ingest-semi-structured-data-faster-and-more-efficiently-variant-now-generally-available",
+      "date": "2026-08-03T13:44:24+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1229,7 +1239,7 @@
       "tags": [
         "security"
       ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/osaia-logo-garden_press-kit_1920x1080_84_use.png"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/osaia-logo-garden_press-kit_1920x1080-1.png"
     },
     {
       "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
