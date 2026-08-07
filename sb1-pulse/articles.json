@@ -1,7 +1,79 @@
 {
-  "generated": "2026-08-07T11:40:33.318796+00:00",
+  "generated": "2026-08-07T17:43:08.821226+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "AWS IAM Identity Center supports one-click multi-Region option for new organization instances",
+      "summary": "AWS IAM Identity Center now makes it easier to enable multi-Region support when creating a new organization instance. Previously, enabling multi-Region support required multiple steps including creating a customer managed KMS key, configuring key policies, and manually adding Regions. Now, customers creating a new IAM Identity Center instance in supported Regions can enable multi-Region in one cli",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances",
+      "date": "2026-08-07T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 3 - Aug 7 Navigate",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "date": "2026-08-07T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "date": "2026-08-07T15:20:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 6,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "5 AI Service Report Insights for Growing Businesses",
+      "summary": "The latest State of Service report is packed with data on how AI is reshaping customer service — here's what it means for your lean team.",
+      "url": "https://www.salesforce.com/blog/small-business/state-of-service-report-insights-for-growing-businesses/",
+      "date": "2026-08-07T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Managing AI Coding Costs at Scale",
+      "summary": "AI coding tools deliver immense value: at Databricks, agentic coding has measurably...",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "date": "2026-08-07T11:50:39+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "What is an AI Assistant?",
+      "summary": "AI assistants use language models, data retrieval, and reasoning to understand requests...",
+      "url": "https://www.databricks.com/blog/what-is-an-ai-assistant",
+      "date": "2026-08-07T11:44:24+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Innovating with AI Because Reinvention Is in Cirque du Soleil’s DNA",
       "summary": "Cirque du Soleil knows firsthand how to leverage SAP technology not only to run its operations, but also to reinvent them.",
@@ -22,6 +94,19 @@
       "category": "openai",
       "relevance": 18,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Parallel Computing Service is now in scope for FedRAMP, SOC, ISO, CSA STAR, and PCI",
+      "summary": "AWS Parallel Computing Service (PCS), a managed service that simplifies running and scaling high performance computing (HPC) workloads on AWS using Slurm, has expanded its security and compliance coverage. Federal agencies, public sector organizations, and enterprises in regulated industries can now use PCS to run sensitive and mission-critical HPC workloads while meeting their governance, securit",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-pcs-august/",
+      "date": "2026-08-07T04:58:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "security"
+      ],
       "image": null
     },
     {
@@ -86,6 +171,19 @@
       "relevance": 4,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS WAF now supports a Salt Security managed rule group for API and MCP threat detection",
+      "summary": "AWS WAF now supports the Salt Security managed rule group, available through AWS Marketplace: Salt Managed Rules for AWS WAF - AI Agent & API Security . This rule group gives AWS WAF customers detection and mitigation for API-focused attacks and for traffic from AI agents and Model Context Protocol (MCP) endpoints, without writing or maintaining custom rules. The rule group detects common and comp",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-waf-salt-security-managed-rules/",
+      "date": "2026-08-06T21:10:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 16,
+      "tags": [
+        "security"
       ],
       "image": null
     },
@@ -254,15 +352,15 @@
       "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo"
     },
     {
-      "title": "Amazon WorkSpaces now publishes enhanced observability metrics",
-      "summary": "Amazon WorkSpaces now publishes additional performance and session health metrics to Amazon CloudWatch, enabling IT administrators to gain deeper visibility into their virtual desktop workloads. These new metrics span network performance, compute and storage resource utilization, and session lifecycle events — all available at no additional cost. With these metrics, administrators can proactively ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-observability-metrics",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
+      "summary": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
       "date": "2026-08-06T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 14,
       "tags": [
-        "cloud"
+        "developer"
       ],
       "image": null
     },
@@ -281,15 +379,15 @@
       "image": null
     },
     {
-      "title": "Amazon MSK now delivers Kafka Authorizer Logs to customers",
-      "summary": "Amazon Managed Streaming for Apache Kafka (MSK) now supports Authorizer Log Delivery for Provisioned clusters, including both Standard and Express brokers, at no additional cost. With authorizer logs, you get detailed visibility into user and application access, identify and address client authorization issues , and meet your organization's security requirements. Each denied authorization request ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-kafka-authorizer-logs/",
-      "date": "2026-08-06T14:00:00+00:00",
+      "title": "Amazon WorkSpaces now publishes enhanced observability metrics",
+      "summary": "Amazon WorkSpaces now publishes additional performance and session health metrics to Amazon CloudWatch, enabling IT administrators to gain deeper visibility into their virtual desktop workloads. These new metrics span network performance, compute and storage resource utilization, and session lifecycle events — all available at no additional cost. With these metrics, administrators can proactively ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-observability-metrics",
+      "date": "2026-08-06T15:00:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 2,
       "tags": [
-        "data"
+        "cloud"
       ],
       "image": null
     },
@@ -329,17 +427,6 @@
       "image": null
     },
     {
-      "title": "AWS Backup for Amazon S3 now supports direct access to backup data",
-      "summary": "AWS Backup for Amazon S3 now supports creating S3 Access Points, providing immediate read-only access to backup data using standard S3 APIs without initiating a restore. This enables targeted file recovery, data validation, compliance auditing, and forensic investigation while your backup data remains protected in your backup vault. You can create an access point for an S3 recovery point and read ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-amazon-s3-direct-access/",
-      "date": "2026-08-06T10:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
@@ -347,17 +434,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SES now helps identify automated open and click events in event notifications",
-      "summary": "Amazon Simple Email Service (SES) now helps you identify automated email interactions. Open and Click event notifications now include an isBotEvent field that indicates whether the event was likely triggered by an automated system or a human recipient. Customers who publish Open or Click events through a configuration set event destination will now see an isBotEvent field with a value of Likely or",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/",
-      "date": "2026-08-06T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -724,41 +800,6 @@
       "image": null
     },
     {
-      "title": "Ingest semi-structured data faster and more efficiently with Variant - Now Generally Available",
-      "summary": "For years, ingesting semi-structured data like JSON, XML, or CSV meant a difficult...",
-      "url": "https://www.databricks.com/blog/ingest-semi-structured-data-faster-and-more-efficiently-variant-now-generally-available",
-      "date": "2026-08-03T13:44:24+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "7 AEO Strategies for Startups (Plus Tools to Get Answers)",
-      "summary": "Your customers are asking AI for answers — here's how to make sure your startup is the one they find.",
-      "url": "https://www.salesforce.com/blog/small-business/aeo-strategies-for-startups/",
-      "date": "2026-08-03T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Databricks Completes Acquisition of Panther: Accelerating the Security Lakehouse Era",
-      "summary": "Today, we are thrilled to announce that Databricks has officially completed the acquisition...",
-      "url": "https://www.databricks.com/blog/databricks-completes-acquisition-panther-accelerating-security-lakehouse-era",
-      "date": "2026-08-03T13:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "AI Agent Sprawl: Why AI Governance Is Now a Board-Level Issue",
       "summary": "As adoption of AI agents accelerates, governance is struggling to keep pace.",
       "url": "https://news.sap.com/2026/08/agent-sprawl-why-ai-governance-is-now-board-level-issue/",
@@ -801,19 +842,6 @@
       "relevance": 1,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "What’s new with Google Cloud",
-      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jul 27 - Jul 31 Data C",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "date": "2026-07-31T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
       "title": "What Google Cloud announced in AI this month",
@@ -951,17 +979,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "date": "2026-07-30T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 22,
       "tags": [],
       "image": null
     },
@@ -1570,19 +1587,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Built to bounce back: How Azure resiliency evolved",
-      "summary": "Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints. The post Built to bounce back: How Azure resiliency evolved appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
-      "date": "2026-07-08T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
     }
   ]
 }
