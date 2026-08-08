@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T23:27:59.163902+00:00",
+  "generated": "2026-08-08T05:38:15.654066+00:00",
   "sources": 21,
   "articles": [
     {
@@ -63,6 +63,19 @@
       "category": "aws",
       "relevance": 4,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon VPC IPAM now supports BGP route protection monitoring and delegated RPKI for BYOIP prefixes",
+      "summary": "Amazon Virtual Private Cloud (VPC) IP Address Manager (IPAM) now supports BGP route protection monitoring and delegated Resource Public Key Infrastructure (RPKI) management for Bring Your Own IP (BYOIP) prefixes. Network administrators can centrally monitor BGP route protection and automate Route Origin Authorization (ROA) management across their organization. Using BGP route monitoring, you can v",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-vpc-ipam-bgp-rpki-byoip/",
+      "date": "2026-08-07T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
