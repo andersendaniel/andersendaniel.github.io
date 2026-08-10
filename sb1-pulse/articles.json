@@ -1,7 +1,18 @@
 {
-  "generated": "2026-08-10T06:07:44.903817+00:00",
+  "generated": "2026-08-10T11:42:46.426935+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "AI’s Dual Role in Procurement Transformation",
+      "summary": "The gap between AI’s promise and procurement’s reality is widening. Here’s what needs to change.",
+      "url": "https://news.sap.com/2026/08/ai-dual-role-procurement-transformation/",
+      "date": "2026-08-10T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
       "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure. Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]",
