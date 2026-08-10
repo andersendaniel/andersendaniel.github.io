@@ -1,7 +1,44 @@
 {
-  "generated": "2026-08-10T17:46:27.846163+00:00",
+  "generated": "2026-08-10T23:28:28.804546+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon GameLift Streams Now Offers Service-managed Shader Caching",
+      "summary": "Amazon GameLift Streams now manages shader cache capture and distribution for your applications. You capture a shader cache from a stream session, and the service automatically makes it available for future sessions across your streaming locations. No application changes are required. Capturing shader caches can help reduce loading times and visual stuttering, during the session. With service-mana",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-GameLift-Streams-Shader-Caching/",
+      "date": "2026-08-10T21:15:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Using the GitHub Copilot SDK for Java",
+      "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog .",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+      "date": "2026-08-10T19:30:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 17,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Innocent until combined: Blocking the lethal trifecta with Omnigent Contextual Policies",
+      "summary": "In earlier posts, we introduced contextual policies in Omnigent, showed them blocking...",
+      "url": "https://www.databricks.com/blog/innocent-until-combined-blocking-lethal-trifecta-omnigent-contextual-policies",
+      "date": "2026-08-10T18:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "What building an AI-native finance function taught me",
       "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
@@ -11,6 +48,19 @@
       "category": "openai",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon OpenSearch Serverless now supports up to 10,000 collections per collection group",
+      "summary": "The next generation of Amazon OpenSearch Serverless now supports up to 10,000 collections within a single collection group, increased from the previous limit of 1,500. Collection groups organize multiple collections and enable them to share OpenSearch Compute Units (OCUs), even when the collections are encrypted with different AWS KMS keys. With this higher limit, you can consolidate significantly",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-serverless-supports-10000-collections-per-collection-group/",
+      "date": "2026-08-10T15:51:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -93,6 +143,19 @@
       "image": null
     },
     {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "date": "2026-08-10T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 19,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
       "title": "Putting frontier cyber models in more trusted hands",
       "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
       "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
@@ -109,6 +172,30 @@
       "title": "Premium seats are coming to ChatGPT Business",
       "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
       "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "date": "2026-08-10T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "url": "https://openai.com/index/zapier",
+      "date": "2026-08-10T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 18,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
       "date": "2026-08-10T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -376,19 +463,6 @@
       "image": null
     },
     {
-      "title": "AWS Lambda console extends console-to-IDE integration to Kiro and Cursor",
-      "summary": "AWS Lambda console now extends its console-to-IDE integration to support Kiro and Cursor IDEs. This expansion builds on the existing console-to-IDE transition for Visual Studio Code (VS Code), providing a seamless transition between cloud and local development environments for serverless developers using these popular IDEs. With the expanded console-to-IDE integration, developers can start from th",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor/",
-      "date": "2026-08-06T21:53:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 19,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "What are Agentic Workflows?",
       "summary": "As organizations move beyond single-prompt AI interactions, agentic workflows are...",
       "url": "https://www.databricks.com/blog/agentic-workflows",
@@ -416,19 +490,6 @@
       "image": null
     },
     {
-      "title": "AWS WAF now supports a Salt Security managed rule group for API and MCP threat detection",
-      "summary": "AWS WAF now supports the Salt Security managed rule group, available through AWS Marketplace: Salt Managed Rules for AWS WAF - AI Agent & API Security . This rule group gives AWS WAF customers detection and mitigation for API-focused attacks and for traffic from AI agents and Model Context Protocol (MCP) endpoints, without writing or maintaining custom rules. The rule group detects common and comp",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-waf-salt-security-managed-rules/",
-      "date": "2026-08-06T21:10:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 16,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "Agentic AI in HR: Why Employee Trust Starts with the Data Foundation",
       "summary": "The secret to unlocking agentic HR service comes down to trusting your data, and the tools that access it.",
       "url": "https://www.salesforce.com/blog/data-first-agentic-hr/",
@@ -438,20 +499,6 @@
       "relevance": 14,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 G7 instances are now available in the AWS Europe (Spain) Region",
-      "summary": "Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in Europe (Spain) Region. G7 instances deliver up to 4.6x AI inference performance and up to 2.1 graphics performance compared to G6 instances. G7 instances also deliver faster performance for GPU-accelerated data analytics workloads. Customers can use G7 instances ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-g7-available-spain",
-      "date": "2026-08-06T20:51:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 12,
-      "tags": [
-        "cloud",
-        "data"
       ],
       "image": null
     },
@@ -808,19 +855,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp"
     },
     {
-      "title": "Why Siloed Data is Sabotaging Your Service ROI in Banking",
-      "summary": "You cannot proactively serve a customer you cannot fully see. It is that simple. Yet every day, your service teams are asked to do exactly that. Your customer service representatives log in, pick…",
-      "url": "https://www.salesforce.com/blog/siloed-data-banking-service-roi/",
-      "date": "2026-08-04T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 25,
-      "tags": [
-        "banking"
-      ],
-      "image": null
-    },
-    {
       "title": "How Salling Group Uses SAP and AI to Improve Everyday Retail",
       "summary": "The European retailer is positioned to apply AI at scale with its SAP Cloud ERP backbone.",
       "url": "https://news.sap.com/2026/08/salling-group-ai-improve-everyday-retail/",
@@ -850,17 +884,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "date": "2026-08-03T22:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -903,17 +926,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
     },
     {
-      "title": "The New Monday Morning Report: How Generative AI can deliver the insights your executives need.",
-      "summary": "A VP of Sales at a major CPG has three decks open before her first coffee. One from...",
-      "url": "https://www.databricks.com/blog/new-monday-morning-report-how-generative-ai-can-deliver-insights-your-executives-need",
-      "date": "2026-08-03T14:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AI Agent Sprawl: Why AI Governance Is Now a Board-Level Issue",
       "summary": "As adoption of AI agents accelerates, governance is struggling to keep pace.",
       "url": "https://news.sap.com/2026/08/agent-sprawl-why-ai-governance-is-now-board-level-issue/",
@@ -921,28 +933,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "date": "2026-08-03T07:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-      "url": "https://openai.com/index/circles",
-      "date": "2026-08-03T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1236,20 +1226,6 @@
       "relevance": 18,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "GitHub Copilot app for Beginners: Getting started",
-      "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
-      "date": "2026-07-27T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 41,
-      "tags": [
-        "ai",
-        "developer"
       ],
       "image": null
     },
