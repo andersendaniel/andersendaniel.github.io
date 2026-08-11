@@ -1,7 +1,90 @@
 {
-  "generated": "2026-08-11T17:53:22.230049+00:00",
+  "generated": "2026-08-11T23:33:32.150740+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Taking AUTO CDC to the next level: Solving the hardest real-world use cases",
+      "summary": "Change data capture is one of the most common things data engineers build on Spark...",
+      "url": "https://www.databricks.com/blog/taking-auto-cdc-next-level-solving-hardest-real-world-use-cases",
+      "date": "2026-08-11T23:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 R8a instances are now available in Canada (Central) region",
+      "summary": "Starting today, Amazon EC2 R8a instances are now available in Canada (Central) Region. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver up to 30% higher performance, and up to 19% better price-performance compared to R7a instances. R8a instances deliver 45% more memory bandwidth compared to R7a instances, making these ins",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/",
+      "date": "2026-08-11T22:03:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Why Headless Architecture Is the Future of ITSM (and Why CIOs Are Choosing Buy + Build)",
+      "summary": "The question for IT leaders isn’t whether to adopt agentic AI across ITSM operations. It’s how. And getting that architectural decision wrong will cost you. Two failure modes are emerging. On one end:…",
+      "url": "https://www.salesforce.com/blog/headless-itsm/",
+      "date": "2026-08-11T21:35:29+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Build a Salesforce Center of Excellence That Keeps Pace with AI",
+      "summary": "Create a Center of Excellence built to manage technical debt, strengthen adoption, and support continuous change.",
+      "url": "https://www.salesforce.com/blog/center-of-excellence-ai-governance/",
+      "date": "2026-08-11T20:35:57+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint",
+      "summary": "Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Amazon Bedrock now supports cost allocation by AWS Identity and Access Management (IAM) principal, including IAM users and roles, for model inference requests made through the bedrock-mant",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle/",
+      "date": "2026-08-11T20:25:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 47,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Open-sourcing Metals v2: Databricks’ Java and Scala language server for multi‑million line codebases",
+      "summary": "Most code at Databricks is now written by agents. For the moments engineers still...",
+      "url": "https://www.databricks.com/blog/open-sourcing-metals-v2-databricks-java-and-scala-language-server-multi-million-line-codebases",
+      "date": "2026-08-11T19:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "From coder to orchestrator: How agents shift the role of a developer",
+      "summary": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog .",
+      "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
+      "date": "2026-08-11T18:38:17+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
     {
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "summary": "AMIE promotional video",
@@ -52,6 +135,30 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/800vdc.jpg"
     },
     {
+      "title": "AWS Glue adds one-click access to SageMaker Unified Studio from the AWS console",
+      "summary": "AWS Glue now provides direct access to Amazon SageMaker Unified Studio, helping data engineers and analysts move from viewing the catalog in the Glue console to querying their data, running data quality checks, and building data pipelines in SageMaker Unified Studio with a single click. This new integration helps customers who already work in the Glue console access data and AI capabilities in Sag",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/smus-glue-access",
+      "date": "2026-08-11T14:57:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Secrets Manager adds managed external secrets support for Jenkins and SonarQube",
+      "summary": "AWS Secrets Manager now extends its managed external secrets capability to include Jenkins API Tokens and SonarQube Tokens, enabling you to automatically rotate these third-party credentials directly from the AWS console without writing any custom rotation code. For Jenkins, Secrets Manager mints a new token and revokes the old one only after the replacement is verified active, so your continuous ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-integration-jenkins-sonarqube/",
+      "date": "2026-08-11T14:57:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon Connect Customer launches performance dashboard for Cases",
       "summary": "Amazon Connect Customer now provides a performance dashboard for cases that helps managers monitor case volume, resolution trends, and performance against service level agreement (SLA) targets. Managers can compare current and prior-period performance across metrics such as cases created, average resolution time, first-contact resolution percentage, and SLA achievement rate. They can also analyze ",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-dashboard/",
@@ -100,6 +207,17 @@
       "image": null
     },
     {
+      "title": "AWS Clean Rooms supports exporting privacy-enhanced analysis logs for SQL",
+      "summary": "AWS Clean Rooms now supports exporting privacy-enhanced analysis logs for SQL analyses , offering customers greater optimization and troubleshooting capabilities. With this launch, you can export privacy-enhanced analysis logs to an S3 bucket for SQL queries that ran in an AWS Clean Rooms collaboration, providing insight into Spark execution details that can help you optimize and troubleshoot your",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-export-analysis-log-sql",
+      "date": "2026-08-11T12:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "How a Small AI Use Case Is Automating Document Processing in the Supply Chain of Lemvigh-Müller",
       "summary": "For the 180-year-old Danish wholesaler, an efficient supply chain isn't a nice-to-have. It's the business model.",
       "url": "https://news.sap.com/2026/08/ai-automating-document-processing-lemvigh-muller/",
@@ -119,6 +237,19 @@
       "category": "openai",
       "relevance": 13,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Daybreak models are now available on AWS",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "date": "2026-08-11T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 27,
+      "tags": [
+        "security"
+      ],
       "image": null
     },
     {
@@ -201,19 +332,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 High Memory U7i instances now available in AWS South America (São Paulo) region",
-      "summary": "Amazon EC2 High Memory U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS South America (São Paulo) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids). U7in-24TB instances offer 24 TiB of DDR5 memory, enabling customers to scale transaction processing throughput in a fast-growing data",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-south-america",
-      "date": "2026-08-10T23:02:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "GLM-5.2 FP8, NVIDIA-Nemotron-Nano-12B-v2 and GLM-OCR models now available on Amazon SageMaker JumpStart",
       "summary": "Z.ai's GLM-5.2 FP8, NVIDIA's Nemotron-Nano-12B-v2, and Z.ai's GLM-OCR models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models bring specialized capabilities spanning long-horizon agentic engineering, efficient hybrid reasoning, and advanced document understanding, enabling customers to deploy high-performan",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/glm-5.2-fp8-nemotron-nano-12b-v2-glm-ocr-on-sagemaker-jumpstart/",
@@ -227,6 +345,19 @@
       "image": null
     },
     {
+      "title": "Amazon EC2 High Memory U7i instances now available in AWS South America (São Paulo) region",
+      "summary": "Amazon EC2 High Memory U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS South America (São Paulo) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids). U7in-24TB instances offer 24 TiB of DDR5 memory, enabling customers to scale transaction processing throughput in a fast-growing data",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-south-america",
+      "date": "2026-08-10T23:02:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
       "title": "Amazon GameLift Streams Now Offers Service-managed Shader Caching",
       "summary": "Amazon GameLift Streams now manages shader cache capture and distribution for your applications. You capture a shader cache from a stream session, and the service automatically makes it available for future sessions across your streaming locations. No application changes are required. Capturing shader caches can help reduce loading times and visual stuttering, during the session. With service-mana",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-GameLift-Streams-Shader-Caching/",
@@ -235,6 +366,19 @@
       "category": "aws",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Identity and Access Management streamlines assignment of IAM roles to workforce users with account access manager",
+      "summary": "AWS Identity and Access Management (IAM) launched account access manager, a feature that streamlines assignment of IAM roles to workforce users. Administrators use account access manager to assign the IAM roles in their AWS accounts to the workforce users and groups in AWS IAM Identity Center. The feature brings together permissions management flexibility, user awareness, and a single point of fed",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-aam/",
+      "date": "2026-08-10T20:07:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 16,
+      "tags": [
+        "security"
+      ],
       "image": null
     },
     {
@@ -272,19 +416,6 @@
       "category": "openai",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon OpenSearch Serverless now supports up to 10,000 collections per collection group",
-      "summary": "The next generation of Amazon OpenSearch Serverless now supports up to 10,000 collections within a single collection group, increased from the previous limit of 1,500. Collection groups organize multiple collections and enable them to share OpenSearch Compute Units (OCUs), even when the collections are encrypted with different AWS KMS keys. With this higher limit, you can consolidate significantly",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-serverless-supports-10000-collections-per-collection-group/",
-      "date": "2026-08-10T15:51:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -441,45 +572,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1.jpg"
     },
     {
-      "title": "Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Europe (Milan) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The R8i and R8i-flex instances offer up to 15% better price-performance, ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/",
-      "date": "2026-08-07T21:11:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Timestream for InfluxDB now supports backup and restore",
-      "summary": "Amazon Timestream for InfluxDB now lets you create and manage your own backups and restore your data on demand. You can trigger one-time, on-demand backups, schedule automated recurring backups at the frequency and retention you choose, and restore a backup to a new resource or in place of an existing one. This capability is available for both the InfluxDB 2 and InfluxDB 3 engines through the AWS ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/",
-      "date": "2026-08-07T19:21:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Cognito now available as a skill in the Agent Toolkit for AWS",
-      "summary": "Amazon Cognito is now available as a core skill (aws-auth) in the Agent Toolkit for AWS . AI coding agents using the toolkit can now set up, configure, secure, and troubleshoot Amazon Cognito using best-practice workflows, helping developers implement secure sign-in flows for users, AI agents, and microservices faster. The Amazon Cognito (aws-auth) skill covers user pool and app client configurati",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/",
-      "date": "2026-08-07T18:00:48+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 22,
-      "tags": [
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity",
       "summary": "Pacsun has long been synonymous with the California lifestyle and an effortlessly cool aesthetic that blends surf, skate, and street culture. But for retailers targeting digitally-native, highly social Gen Z and Gen Alpha…",
       "url": "https://www.salesforce.com/blog/pacsun-customer-story/",
@@ -516,17 +608,6 @@
       "tags": [
         "security"
       ],
-      "image": null
-    },
-    {
-      "title": "5 AI Service Report Insights for Growing Businesses",
-      "summary": "The latest State of Service report is packed with data on how AI is reshaping customer service — here's what it means for your lean team.",
-      "url": "https://www.salesforce.com/blog/small-business/state-of-service-report-insights-for-growing-businesses/",
-      "date": "2026-08-07T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 3,
-      "tags": [],
       "image": null
     },
     {
@@ -604,32 +685,6 @@
       "image": null
     },
     {
-      "title": "What is Tool Calling?",
-      "summary": "Tool calling is the ability of an AI model to interact with external tools, APIs,...",
-      "url": "https://www.databricks.com/blog/what-is-tool-calling",
-      "date": "2026-08-06T21:31:30+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 4,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Agentic AI in HR: Why Employee Trust Starts with the Data Foundation",
-      "summary": "The secret to unlocking agentic HR service comes down to trusting your data, and the tools that access it.",
-      "url": "https://www.salesforce.com/blog/data-first-agentic-hr/",
-      "date": "2026-08-06T20:51:37+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "A guide to slash commands in the GitHub Copilot app",
       "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
@@ -653,17 +708,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Introducing OfficeQA Pro V2: A New Benchmark for Enterprise Grounded-Reasoning",
-      "summary": "Today, we are releasing OfficeQA Pro V2, a new benchmark designed to evaluate whether...",
-      "url": "https://www.databricks.com/blog/introducing-officeqa-pro-v2-new-benchmark-enterprise-grounded-reasoning",
-      "date": "2026-08-06T16:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [],
       "image": null
     },
     {
@@ -826,19 +870,6 @@
       "relevance": 28,
       "tags": [
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "date": "2026-08-04T19:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 7,
-      "tags": [
-        "security"
       ],
       "image": null
     },
@@ -1058,17 +1089,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-30-bts-nv-blog-1280x680-logo.jpg"
     },
     {
-      "title": "The next measure of AI momentum is work transformed",
-      "summary": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter. The post The next measure of AI momentum is work transformed appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The Humanity and AI of It All: The State of Customer Experience",
       "summary": "CX is now a cross-functional discipline and the stakes for getting it wrong are higher than ever.",
       "url": "https://news.sap.com/2026/07/state-of-cx-the-humanity-ai/",
@@ -1223,19 +1243,6 @@
       "category": "sap",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "The harness is all you need (mostly)",
-      "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-      "date": "2026-07-27T18:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 17,
-      "tags": [
-        "developer"
-      ],
       "image": null
     },
     {
