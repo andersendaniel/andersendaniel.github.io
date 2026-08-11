@@ -1,7 +1,90 @@
 {
-  "generated": "2026-08-10T23:28:28.804546+00:00",
+  "generated": "2026-08-11T05:50:09.597455+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Trailblazing Women Summit: 6 Ideas That Will Change How You Lead",
+      "summary": "“Look around this room — this is what critical mass looks like.” Opening the Trailblazing Women Summit (TWS) 2026, Arundhati Bhattacharya, Chairperson and CEO of Salesforce India, reflected on how far corporate representation…",
+      "url": "https://www.salesforce.com/blog/trailblazing-women-summit-2026-leadership-lessons/",
+      "date": "2026-08-11T04:33:32+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "No Code? No Problem. How Salesforce Employees Are Building AI Skills Every Day",
+      "summary": "What if the only limit to what you could build was your own curiosity and‌ not your ability to code? Across Salesforce, account executives, solutions engineers, and data specialists are doing exactly that.…",
+      "url": "https://www.salesforce.com/blog/slackbot-no-code-ai-tools-salesforce/",
+      "date": "2026-08-11T01:31:16+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "How to ground Genie Agents in both structured data and documents without losing governance",
+      "summary": "Building an agent to automate simple business tasks can be easy. But creating one...",
+      "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
+      "date": "2026-08-10T23:08:50+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "FLUX.2-small-decoder and gemma-4-12B-it models now available on Amazon SageMaker JumpStart",
+      "summary": "Black Forest Labs' FLUX.2-small-decoder and Google's gemma-4-12B-it models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These two models bring specialized capabilities spanning efficient image generation decoding and unified multimodal understanding, enabling customers to deploy high-performance, scalable AI solutions on ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart/",
+      "date": "2026-08-10T23:08:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "langcache-embed-v3-small, Mellum2-12B-A2.5B-Thinking, and LightOnOCR-2-1B models now available on Amazon SageMaker JumpStart",
+      "summary": "Redis's langcache-embed-v3-small, JetBrains' Mellum2-12B-A2.5B-Thinking, and LightOn's LightOnOCR-2-1B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models bring specialized capabilities spanning semantic caching optimization, code-focused reasoning, and end-to-end document OCR, enabling customers to dep",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/langcache-embed-v3-small-mellum2-12B-A2.5B-thinking-lightOnOCR-2-1B-on-sagemaker-jumpstart/",
+      "date": "2026-08-10T23:05:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 High Memory U7i instances now available in AWS South America (São Paulo) region",
+      "summary": "Amazon EC2 High Memory U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS South America (São Paulo) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids). U7in-24TB instances offer 24 TiB of DDR5 memory, enabling customers to scale transaction processing throughput in a fast-growing data",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-south-america",
+      "date": "2026-08-10T23:02:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "GLM-5.2 FP8, NVIDIA-Nemotron-Nano-12B-v2 and GLM-OCR models now available on Amazon SageMaker JumpStart",
+      "summary": "Z.ai's GLM-5.2 FP8, NVIDIA's Nemotron-Nano-12B-v2, and Z.ai's GLM-OCR models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models bring specialized capabilities spanning long-horizon agentic engineering, efficient hybrid reasoning, and advanced document understanding, enabling customers to deploy high-performan",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/glm-5.2-fp8-nemotron-nano-12b-v2-glm-ocr-on-sagemaker-jumpstart/",
+      "date": "2026-08-10T23:02:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
     {
       "title": "Amazon GameLift Streams Now Offers Service-managed Shader Caching",
       "summary": "Amazon GameLift Streams now manages shader cache capture and distribution for your applications. You capture a shader cache from a stream session, and the service automatically makes it available for future sessions across your streaming locations. No application changes are required. Capturing shader caches can help reduce loading times and visual stuttering, during the session. With service-mana",
@@ -403,41 +486,6 @@
       "image": null
     },
     {
-      "title": "Amazon OpenSearch Service announces additional upgrade runway for existing domains and support dates for additional versions",
-      "summary": "In November 2024, Amazon OpenSearch Service announced Extended Support for legacy Elasticsearch and OpenSearch engine versions (see also the detailed blog post ). Since that announcement, many customers have upgraded to newer versions. However, some customers need more time to plan and complete their migrations. To provide this flexibility, we are continuing security and operating system patch cov",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-additional-upgrade-runway-support-dates",
-      "date": "2026-08-07T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SES now helps identify automated open and click events in event notifications",
-      "summary": "Amazon Simple Email Service (SES) now helps you identify automated email interactions. Open and Click event notifications now include an isBotEvent field that indicates whether the event was likely triggered by an automated system or a human recipient. Customers who publish Open or Click events through a configuration set event destination will now see an isBotEvent field with a value of Likely or",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/",
-      "date": "2026-08-07T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Parallel Computing Service is now in scope for FedRAMP, SOC, ISO, CSA STAR, and PCI",
-      "summary": "AWS Parallel Computing Service (PCS), a managed service that simplifies running and scaling high performance computing (HPC) workloads on AWS using Slurm, has expanded its security and compliance coverage. Federal agencies, public sector organizations, and enterprises in regulated industries can now use PCS to run sensitive and mission-critical HPC workloads while meeting their governance, securit",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-pcs-august/",
-      "date": "2026-08-07T04:58:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
       "summary": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU support, and sessions lasting up to 14 days.",
       "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
@@ -449,17 +497,6 @@
         "ai",
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances",
-      "summary": "Amazon Elastic Container Service (Amazon ECS) now supports fractional GPU scheduling with Amazon EC2 G6f instances, enabling you to run your workloads on GPU partitions as small as one-eighth of an NVIDIA L4 Tensor Core GPU with 3 GB of GPU memory. Fractional GPUs give you the flexibility to right-size your containers for small-model AI inference, model experimentation, graphics rendering, and oth",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/",
-      "date": "2026-08-06T22:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [],
       "image": null
     },
     {
@@ -703,17 +740,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg"
     },
     {
-      "title": "How To Grow a Revenue Hub With AI Agents",
-      "summary": "Here's how to put AI agents to work in your revenue hub.",
-      "url": "https://www.salesforce.com/blog/small-business/grow-a-revenue-hub-with-ai/",
-      "date": "2026-08-05T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Support Accreditation: SAP’s Enablement Course to Unlock Faster, Smarter, AI-Powered Customer Support",
       "summary": "What if you could resolve issues faster, work more independently, and stay ahead of AI-driven innovation all in just over 60 minutes of learning?",
       "url": "https://news.sap.com/2026/08/support-accreditation-course-unlock-customer-support/",
@@ -806,28 +832,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/ai-storage-fms-1920x1080-1.jpg"
-    },
-    {
-      "title": "Meet Agentforce Coworker: your AI teammate everywhere. And it actually does the work.",
-      "summary": "Agentforce Coworker is Generally Available. It’s 8:47 a.m. A top-tier customer wants a custom renewal proposal — based on their case history, account data, and usage metrics — by end of day. You…",
-      "url": "https://www.salesforce.com/blog/agentforce-coworker-salesforce-ai-teammate/",
-      "date": "2026-08-04T14:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Databricks joins the Open Secure AI Alliance to advance AI safety and security",
-      "summary": "Databricks is a sponsor at Black Hat USA 2026 this week. Find us at Booths #5106...",
-      "url": "https://www.databricks.com/blog/databricks-joins-open-secure-ai-alliance-advance-ai-safety-and-security",
-      "date": "2026-08-04T14:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
-      "tags": [],
-      "image": null
     },
     {
       "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
