@@ -1,7 +1,104 @@
 {
-  "generated": "2026-08-11T11:39:38.134808+00:00",
+  "generated": "2026-08-11T17:53:22.230049+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "summary": "AMIE promotional video",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "date": "2026-08-11T17:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 5,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart",
+      "summary": "NVIDIA's LocateAnything-3B, Qwen's Qwen-AgentWorld-35B-A3B, and Qwen's Qwen3.5-122B-A10B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models bring specialized capabilities spanning visual grounding, agent environment simulation, and large-scale multimodal reasoning, enabling customers to deploy high-per",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/",
+      "date": "2026-08-11T15:22:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Lightning model is now available on Amazon SageMaker JumpStart",
+      "summary": "NVIDIA's Nemotron 3.5 Lightning is now available on Amazon SageMaker JumpStart, giving AWS customers access to the fastest open model in its class for persistent agent workloads and rapid task execution. Nemotron 3.5 Lightning is engineered for persistent agents and high-throughput enterprise automation across domains including personal assistants, financial document processing, cybersecurity tria",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-lightning-on-sagemaker-jumpstart/",
+      "date": "2026-08-11T15:21:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 16,
+      "tags": [
+        "security",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+      "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU. In traditional power delivery, electricity travels from the grid as an alternating current (AC) […]",
+      "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+      "date": "2026-08-11T15:00:06+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/800vdc.jpg"
+    },
+    {
+      "title": "Amazon Connect Customer launches performance dashboard for Cases",
+      "summary": "Amazon Connect Customer now provides a performance dashboard for cases that helps managers monitor case volume, resolution trends, and performance against service level agreement (SLA) targets. Managers can compare current and prior-period performance across metrics such as cases created, average resolution time, first-contact resolution percentage, and SLA achievement rate. They can also analyze ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-dashboard/",
+      "date": "2026-08-11T13:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ecosystem. That includes NVIDIA’s latest open models, software […]",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+      "date": "2026-08-11T13:00:25+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 4,
+      "tags": [
+        "developer"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/raig-rolling-blog-local-ai-community-open-source.jpg"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+      "summary": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloads. This release follows Nemotron […]",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "date": "2026-08-11T13:00:05+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg"
+    },
+    {
+      "title": "Modern Risk Demands a Real-Time Foundation: The CRO’s Mandate",
+      "summary": "In a volatile macroeconomic environment, enterprise risk management today is constrained...",
+      "url": "https://www.databricks.com/blog/modern-risk-demands-real-time-foundation-cros-mandate",
+      "date": "2026-08-11T12:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 10,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "How a Small AI Use Case Is Automating Document Processing in the Supply Chain of Lemvigh-Müller",
       "summary": "For the 180-year-old Danish wholesaler, an efficient supply chain isn't a nice-to-have. It's the business model.",
@@ -10,6 +107,28 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Testing ads in ChatGPT",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "date": "2026-08-11T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Electric joins Databricks to bring WASM Postgres to AI agent sandboxes",
+      "summary": "Today, we’re excited to welcome Electric to Databricks. The world is building a new...",
+      "url": "https://www.databricks.com/blog/electric-joins-databricks-bring-wasm-postgres-ai-agent-sandboxes",
+      "date": "2026-08-11T07:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -374,30 +493,6 @@
       "image": null
     },
     {
-      "title": "AWS IAM Identity Center supports one-click multi-Region option for new organization instances",
-      "summary": "AWS IAM Identity Center now makes it easier to enable multi-Region support when creating a new organization instance. Previously, enabling multi-Region support required multiple steps including creating a customer managed KMS key, configuring key policies, and manually adding Regions. Now, customers creating a new IAM Identity Center instance in supported Regions can enable multi-Region in one cli",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances",
-      "date": "2026-08-07T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon VPC IPAM now supports BGP route protection monitoring and delegated RPKI for BYOIP prefixes",
-      "summary": "Amazon Virtual Private Cloud (VPC) IP Address Manager (IPAM) now supports BGP route protection monitoring and delegated Resource Public Key Infrastructure (RPKI) management for Bring Your Own IP (BYOIP) prefixes. Network administrators can centrally monitor BGP route protection and automate Route Origin Authorization (ROA) management across their organization. Using BGP route monitoring, you can v",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-vpc-ipam-bgp-rpki-byoip/",
-      "date": "2026-08-07T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "What’s new with Google Cloud",
       "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 3 - Aug 7 Navigate",
       "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -409,20 +504,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore adds memory, policy, and harness in AWS GovCloud (US-West)",
-      "summary": "Today, Amazon Bedrock AgentCore introduces new capabilities in AWS GovCloud (US-West). AgentCore is the platform to build, connect, and optimize agents. With these capabilities, teams operating in regulated environments can build context-aware agents and take them from prototype to production faster, with the controls needed to scale across their organization. AgentCore memory gives agents short-t",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-policy-harness-govcloud/",
-      "date": "2026-08-07T15:52:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
     },
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
@@ -492,19 +573,6 @@
       "category": "openai",
       "relevance": 18,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon GameLift Servers now supports 21 new EC2 instance types",
-      "summary": "Amazon GameLift Servers now supports 21 additional Amazon EC2 instance types for managed EC2 fleets and managed container fleets. Amazon GameLift Servers is a fully managed service that enables game developers and studios to deploy, operate, and scale dedicated game servers in the cloud. This expansion gives customer access to the latest compute-optimized and general-purpose instance families. The",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/gamelift-ec2-instance-expansion/",
-      "date": "2026-08-07T08:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -595,17 +663,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Kimi K3 from Moonshot AI is now available on Databricks through Unity AI Gateway",
-      "summary": "A year ago, the best open-weight models trailed their proprietary counterparts by...",
-      "url": "https://www.databricks.com/blog/kimi-k3-moonshot-ai-now-available-databricks-through-unity-ai-gateway",
-      "date": "2026-08-06T15:50:57+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
       "tags": [],
       "image": null
     },
@@ -799,17 +856,6 @@
       "image": null
     },
     {
-      "title": "Unity AI Gateway is Generally Available",
-      "summary": "The last six months have seen a rapid rise in AI-powered productivity and a proliferation...",
-      "url": "https://www.databricks.com/blog/unity-ai-gateway-generally-available",
-      "date": "2026-08-04T16:10:09+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
       "summary": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent with the aims of the Genesis Mission, the program will support state and multistate groups […]",
       "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
@@ -886,17 +932,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "date": "2026-08-04T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -1304,17 +1339,6 @@
       "image": null
     },
     {
-      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-      "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, this week’s discussions and announcements advance […]",
-      "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-      "date": "2026-07-24T04:34:27+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-korea-ai-1920x1080-1.png"
-    },
-    {
       "title": "SAP Announces Q2 and Half-Year 2026 Results",
       "summary": "WALLDORF — SAP has delivered another quarter of strong current cloud backlog growth.",
       "url": "https://news.sap.com/2026/07/sap-announces-q2-and-half-year-2026-results/",
@@ -1337,28 +1361,6 @@
         "cloud"
       ],
       "image": null
-    },
-    {
-      "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
-      "summary": "Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail in Path of Exile: Curse of the Allflame and charge in Battlefield 6 Season 4 both launching major content for members this week. Then revisit Capcom legends like Breath of […]",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
-      "date": "2026-07-23T13:00:16+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-23-blog-1920x1080-logo.jpg"
-    },
-    {
-      "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
-      "summary": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate university. “Our nation depends on our men and women […]",
-      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
-      "date": "2026-07-23T02:00:46+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/260722-N-UT641-7052-scaled.jpg"
     },
     {
       "title": "Agentic AI ROI: A Framework for Executive Leaders",
