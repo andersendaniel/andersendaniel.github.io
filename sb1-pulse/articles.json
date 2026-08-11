@@ -1,7 +1,29 @@
 {
-  "generated": "2026-08-11T05:50:09.597455+00:00",
+  "generated": "2026-08-11T11:39:38.134808+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How a Small AI Use Case Is Automating Document Processing in the Supply Chain of Lemvigh-Müller",
+      "summary": "For the 180-year-old Danish wholesaler, an efficient supply chain isn't a nice-to-have. It's the business model.",
+      "url": "https://news.sap.com/2026/08/ai-automating-document-processing-lemvigh-muller/",
+      "date": "2026-08-11T10:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Inside Salesforce’s Global Delivery Centers: Where Leaders Are Redesigning for AI",
+      "summary": "The next generation of delivery leaders won’t be measured by how many people they manage. They’ll be measured by how well humans and agents work together. Mohammad has spent two and a half…",
+      "url": "https://www.salesforce.com/blog/agentic-ai-delivery-leadership-india/",
+      "date": "2026-08-11T06:31:51+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Trailblazing Women Summit: 6 Ideas That Will Change How You Lead",
       "summary": "“Look around this room — this is what critical mass looks like.” Opening the Trailblazing Women Summit (TWS) 2026, Arundhati Bhattacharya, Chairperson and CEO of Salesforce India, reflected on how far corporate representation…",
@@ -549,19 +571,6 @@
       "relevance": 16,
       "tags": [
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "4 Steps to Eliminate Identity Debt and Build Reliable Agentic AI with Data 360",
-      "summary": "Audit your existing Data 360 data streams, establish a robust system of context, and implement a structured architecture to ensure reliable agent behavior.",
-      "url": "https://www.salesforce.com/blog/eliminate-identity-debt-data-360/",
-      "date": "2026-08-06T18:00:41+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 18,
-      "tags": [
-        "ai"
       ],
       "image": null
     },
@@ -1400,17 +1409,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "From the Factory Floor to the Data Layer: How Leading Companies Are Rewriting the Rules of Agility",
-      "summary": "Organizations must build systems that can anticipate, adapt, and act—autonomously, at scale, and in real time.",
-      "url": "https://news.sap.com/2026/07/factory-floor-data-layer-how-leading-companies-are-rewriting-rules-of-agility/",
-      "date": "2026-07-22T10:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Snowflake context and Meta campaigns: close the signal loop",
