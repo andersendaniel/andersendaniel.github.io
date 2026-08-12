@@ -1,7 +1,51 @@
 {
-  "generated": "2026-08-12T11:42:10.335471+00:00",
+  "generated": "2026-08-12T17:54:00.465453+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Putting sign language AI into users’ hands",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "date": "2026-08-12T14:01:59+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+      "summary": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees. Huang topped the list, with 99% of employees approving of the job he does. “As AI and shifting expectations […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+      "date": "2026-08-12T14:00:00+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GlassdoorBestCEOs2026_16x9.png"
+    },
+    {
+      "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
+      "summary": "WhatsApp is committed to helping people stay safe while protecting the privacy of their messages. As scam tactics evolve — from impersonation to social engineering to AI-generated lures — we’re always evolving as well, so that our protections stay ahead of scammers while protecting people’s personal messages with end-to-end encryption. Today, we’re sharing an early [...] Read More... The post How ",
+      "url": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
+      "date": "2026-08-12T13:00:28+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How to Make AI a Trusted Business Partner With Anti-Hallucination Practices",
+      "summary": "Learn how to make AI more reliable for your business with these anti-hallucination strategies.",
+      "url": "https://www.salesforce.com/blog/small-business/ai-anti-hallucination-practices/",
+      "date": "2026-08-12T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "The Future of Data Analytics: Why AI is rewriting the Analyst’s Job Description",
       "summary": "The Data Analyst role has been declared dead more times than we can count. AI will...",
@@ -27,6 +71,19 @@
       "image": null
     },
     {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "date": "2026-08-12T06:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 29,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
       "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
       "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies […]",
       "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
@@ -36,6 +93,21 @@
       "relevance": 3,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/jhh-support-blog-visual-logo-lock-up-3x4-1.png"
+    },
+    {
+      "title": "Amazon Quick agentic AI capabilities are now available in AWS GovCloud (US-West)",
+      "summary": "Today, AWS announces that Amazon Quick's agentic AI capabilities are now available in AWS GovCloud (US-West), bringing an agentic AI teammate to government and regulated-industry teams within an isolated, FedRAMP Class D (formerly High) authorized environment. Building on the analytics and business intelligence capabilities already available to customers in AWS GovCloud (US), Quick now turns quest",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-aws-govcloud-us-west/",
+      "date": "2026-08-11T23:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 18,
+      "tags": [
+        "ai",
+        "cloud",
+        "data"
+      ],
+      "image": null
     },
     {
       "title": "Taking AUTO CDC to the next level: Solving the hardest real-world use cases",
@@ -404,19 +476,6 @@
       "image": null
     },
     {
-      "title": "AWS Identity and Access Management streamlines assignment of IAM roles to workforce users with account access manager",
-      "summary": "AWS Identity and Access Management (IAM) launched account access manager, a feature that streamlines assignment of IAM roles to workforce users. Administrators use account access manager to assign the IAM roles in their AWS accounts to the workforce users and groups in AWS IAM Identity Center. The feature brings together permissions management flexibility, user awareness, and a single point of fed",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-aam/",
-      "date": "2026-08-10T20:07:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 16,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "Using the GitHub Copilot SDK for Java",
       "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog .",
       "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
@@ -495,17 +554,6 @@
       "date": "2026-08-10T14:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Salesforce Connectors: CRM Integrations For Small Business",
-      "summary": "Your tools work better together — here's how Salesforce CRM integrations help small businesses master the customer experience.",
-      "url": "https://www.salesforce.com/blog/small-business/salesforce-integrations-for-small-teams/",
-      "date": "2026-08-10T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -605,19 +653,6 @@
         "cloud"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1.jpg"
-    },
-    {
-      "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity",
-      "summary": "Pacsun has long been synonymous with the California lifestyle and an effortlessly cool aesthetic that blends surf, skate, and street culture. But for retailers targeting digitally-native, highly social Gen Z and Gen Alpha…",
-      "url": "https://www.salesforce.com/blog/pacsun-customer-story/",
-      "date": "2026-08-07T17:59:33+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     },
     {
       "title": "What’s new with Google Cloud",
@@ -796,17 +831,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "date": "2026-08-06T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -1341,19 +1365,6 @@
       "image": null
     },
     {
-      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-      "summary": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-      "date": "2026-07-27T09:00:07+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 20,
-      "tags": [
-        "security"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/osaia-logo-garden_press-kit_1920x1080-1.png"
-    },
-    {
       "title": "Announcing Claude Opus 5 on Snowflake Cortex AI",
       "summary": "Claude Opus 5 is now available in public preview on Snowflake Cortex AI, bringing advanced reasoning and agentic capabilities with Snowflake’s secure governed AI platform.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-opus-5-snowflake-cortex-ai",
@@ -1579,30 +1590,6 @@
       "relevance": 1,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
-      "summary": "AWS Builder Center turned one year old last week. Launched on July 9, 2025, the platform has grown from a community hub with Wishlist voting, community profiles, and a toolbox into a full ecosystem with sandbox environments, workshops, Spaces, and a Builders’ Library. To mark the anniversary, Rick Suttles published a full feature timeline covering […]",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/",
-      "date": "2026-07-13T16:18:20+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Empowering India’s next generation of innovators with ATL Saathi",
-      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "date": "2026-07-13T12:37:28+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo"
     }
   ]
 }
