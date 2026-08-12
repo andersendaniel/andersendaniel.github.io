@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-12T06:08:48.495137+00:00",
+  "generated": "2026-08-12T11:42:10.335471+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "The Future of Data Analytics: Why AI is rewriting the Analyst’s Job Description",
+      "summary": "The Data Analyst role has been declared dead more times than we can count. AI will...",
+      "url": "https://www.databricks.com/blog/future-data-analytics-why-ai-rewriting-analysts-job-description",
+      "date": "2026-08-12T13:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Service-Led Growth Starts with the Business Model",
+      "summary": "Technology can help scale a service business, but it does not define how value is created, delivered, or monetized.",
+      "url": "https://news.sap.com/2026/08/service-led-growth-starts-with-business-model/",
+      "date": "2026-08-12T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
       "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies […]",
@@ -682,20 +706,6 @@
       "image": null
     },
     {
-      "title": "What are Agentic Workflows?",
-      "summary": "As organizations move beyond single-prompt AI interactions, agentic workflows are...",
-      "url": "https://www.databricks.com/blog/agentic-workflows",
-      "date": "2026-08-06T21:36:15+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "A guide to slash commands in the GitHub Copilot app",
       "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
@@ -1354,17 +1364,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "SAP Announces Q2 and Half-Year 2026 Results",
-      "summary": "WALLDORF — SAP has delivered another quarter of strong current cloud backlog growth.",
-      "url": "https://news.sap.com/2026/07/sap-announces-q2-and-half-year-2026-results/",
-      "date": "2026-07-23T20:09:34+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
