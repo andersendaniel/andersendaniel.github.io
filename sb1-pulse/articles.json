@@ -1,7 +1,18 @@
 {
-  "generated": "2026-08-11T23:33:32.150740+00:00",
+  "generated": "2026-08-12T06:08:48.495137+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+      "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+      "date": "2026-08-12T00:38:21+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 3,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/jhh-support-blog-visual-logo-lock-up-3x4-1.png"
+    },
     {
       "title": "Taking AUTO CDC to the next level: Solving the hardest real-world use cases",
       "summary": "Change data capture is one of the most common things data engineers build on Spark...",
@@ -1089,6 +1100,17 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-30-bts-nv-blog-1280x680-logo.jpg"
     },
     {
+      "title": "The next measure of AI momentum is work transformed",
+      "summary": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter. The post The next measure of AI momentum is work transformed appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "The Humanity and AI of It All: The State of Customer Experience",
       "summary": "CX is now a cross-functional discipline and the stakes for getting it wrong are higher than ever.",
       "url": "https://news.sap.com/2026/07/state-of-cx-the-humanity-ai/",
@@ -1320,17 +1342,6 @@
         "security"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/osaia-logo-garden_press-kit_1920x1080-1.png"
-    },
-    {
-      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
-      "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) applications for the NVIDIA Vera CPU. NVIDIA is now deploying Vera across […]",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
-      "date": "2026-07-27T00:45:42+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 5,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-corp-blog-vera-superchip-1280x680-4939150.jpg"
     },
     {
       "title": "Announcing Claude Opus 5 on Snowflake Cortex AI",
