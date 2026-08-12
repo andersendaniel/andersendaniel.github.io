@@ -1,7 +1,138 @@
 {
-  "generated": "2026-08-12T17:54:00.465453+00:00",
+  "generated": "2026-08-12T23:34:13.787454+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "GitHub availability report: July 2026",
+      "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
+      "date": "2026-08-12T22:17:32+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Databricks Network Configuration delivery to Tens of Millions of Serverless VMs",
+      "summary": "SummaryDatabricks' serverless platform launches tens of millions of VMs daily, and...",
+      "url": "https://www.databricks.com/blog/databricks-network-configuration-delivery-tens-millions-serverless-vms",
+      "date": "2026-08-12T20:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 7,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Amtrak is building the data backbone for its largest transformation in over 50 years",
+      "summary": "\"Every new trainset is a data-generating asset. The intelligence platform that connects...",
+      "url": "https://www.databricks.com/blog/how-amtrak-building-data-backbone-its-largest-transformation-over-50-years",
+      "date": "2026-08-12T19:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What Is Dreamforce? Everything About Salesforce’s Annual Event",
+      "summary": "Dreamforce is Salesforce's annual event for becoming an Agentic Enterprise — where attendees learn, connect, have fun, and give back.",
+      "url": "https://www.salesforce.com/blog/what-is-dreamforce/",
+      "date": "2026-08-12T19:21:55+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 4,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Write your first prompt with the GitHub Copilot app",
+      "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+      "date": "2026-08-12T19:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 13,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Your contributors are AI-first now. Is your project?",
+      "summary": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared first on The GitHub Blog .",
+      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
+      "date": "2026-08-12T18:00:08+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EKS now supports advanced Kubernetes control plane configuration parameters",
+      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports configuring parameters for Kubernetes control plane components including the scheduler, controller manager, and API server. You can tune pod placement strategies to improve resource utilization, adjust how quickly horizontal pod autoscaling responds to changes in demand, set resource lifecycle parameters such as event retention duration, ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters",
+      "date": "2026-08-12T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Connect Customer supports manual assignment of queued agent-first callbacks",
+      "summary": "Amazon Connect Customer now lets agents view and self-assign queued agent-first callbacks alongside emails, tasks, and chats. This gives agents the option to prioritize work that needs immediate follow-up or for which they already have relevant context. For example, an agent familiar with a customer’s issue can assign the callback to themselves, avoiding another handoff and helping resolve the iss",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/",
+      "date": "2026-08-12T17:15:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Quick adds deny by default for custom permissions",
+      "summary": "Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reach users. Previously, new AI capabilities were available to all users on release, requiring administrators to react after the fact. With deny by default, administrators restrict the AI capability category in a custom permissions profile and assign it to ",
+      "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/",
+      "date": "2026-08-12T17:15:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Quick now supports data loss prevention with Microsoft Purview",
+      "summary": "Amazon Quick now integrates with Microsoft Purview to enforce data loss prevention (DLP) policies across your Quick environment. Organizations need to ensure that sensitive files aren't shared outside approved channels. With this integration, IT administrators and security teams can apply their existing Purview sensitivity labels to automatically control how files are handled in Quick capabilities",
+      "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-dlp-purview/",
+      "date": "2026-08-12T17:09:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "How a major freight railroad scaled pipeline creation with Genie Code",
+      "summary": "One of Canada’s largest railway networks spans roughly 20,000 route miles across...",
+      "url": "https://www.databricks.com/blog/how-major-freight-railroad-scaled-pipeline-creation-genie-code",
+      "date": "2026-08-12T16:35:18+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Putting sign language AI into users’ hands",
       "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
@@ -93,6 +224,17 @@
       "relevance": 3,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/jhh-support-blog-visual-logo-lock-up-3x4-1.png"
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "url": "https://openai.com/index/ringcentral",
+      "date": "2026-08-12T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
     },
     {
       "title": "Amazon Quick agentic AI capabilities are now available in AWS GovCloud (US-West)",
@@ -417,65 +559,6 @@
       "image": null
     },
     {
-      "title": "FLUX.2-small-decoder and gemma-4-12B-it models now available on Amazon SageMaker JumpStart",
-      "summary": "Black Forest Labs' FLUX.2-small-decoder and Google's gemma-4-12B-it models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These two models bring specialized capabilities spanning efficient image generation decoding and unified multimodal understanding, enabling customers to deploy high-performance, scalable AI solutions on ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart/",
-      "date": "2026-08-10T23:08:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "langcache-embed-v3-small, Mellum2-12B-A2.5B-Thinking, and LightOnOCR-2-1B models now available on Amazon SageMaker JumpStart",
-      "summary": "Redis's langcache-embed-v3-small, JetBrains' Mellum2-12B-A2.5B-Thinking, and LightOn's LightOnOCR-2-1B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models bring specialized capabilities spanning semantic caching optimization, code-focused reasoning, and end-to-end document OCR, enabling customers to dep",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/langcache-embed-v3-small-mellum2-12B-A2.5B-thinking-lightOnOCR-2-1B-on-sagemaker-jumpstart/",
-      "date": "2026-08-10T23:05:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "GLM-5.2 FP8, NVIDIA-Nemotron-Nano-12B-v2 and GLM-OCR models now available on Amazon SageMaker JumpStart",
-      "summary": "Z.ai's GLM-5.2 FP8, NVIDIA's Nemotron-Nano-12B-v2, and Z.ai's GLM-OCR models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models bring specialized capabilities spanning long-horizon agentic engineering, efficient hybrid reasoning, and advanced document understanding, enabling customers to deploy high-performan",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/glm-5.2-fp8-nemotron-nano-12b-v2-glm-ocr-on-sagemaker-jumpstart/",
-      "date": "2026-08-10T23:02:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 High Memory U7i instances now available in AWS South America (São Paulo) region",
-      "summary": "Amazon EC2 High Memory U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS South America (São Paulo) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids). U7in-24TB instances offer 24 TiB of DDR5 memory, enabling customers to scale transaction processing throughput in a fast-growing data",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-south-america",
-      "date": "2026-08-10T23:02:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon GameLift Streams Now Offers Service-managed Shader Caching",
-      "summary": "Amazon GameLift Streams now manages shader cache capture and distribution for your applications. You capture a shader cache from a stream session, and the service automatically makes it available for future sessions across your streaming locations. No application changes are required. Capturing shader caches can help reduce loading times and visual stuttering, during the session. With service-mana",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-GameLift-Streams-Shader-Caching/",
-      "date": "2026-08-10T21:15:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Using the GitHub Copilot SDK for Java",
       "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog .",
       "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
@@ -526,17 +609,6 @@
       "image": null
     },
     {
-      "title": "Introducing FILE type: a native column type for multimodal data",
-      "summary": "Your data estate holds far more than structured tables, metrics, and transaction...",
-      "url": "https://www.databricks.com/blog/introducing-file-type-native-column-type-multimodal-data",
-      "date": "2026-08-10T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Evolve your marketing with new AI tools",
       "summary": "Advisor UI in Google Ads and Google Analytics",
       "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
@@ -581,19 +653,6 @@
       "image": null
     },
     {
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "date": "2026-08-10T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 19,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "Putting frontier cyber models in more trusted hands",
       "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
       "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
@@ -607,14 +666,16 @@
       "image": null
     },
     {
-      "title": "Premium seats are coming to ChatGPT Business",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "date": "2026-08-10T00:00:00+00:00",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "date": "2026-08-10T10:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
-      "relevance": 13,
-      "tags": [],
+      "relevance": 19,
+      "tags": [
+        "security"
+      ],
       "image": null
     },
     {
@@ -628,6 +689,17 @@
       "tags": [
         "automation"
       ],
+      "image": null
+    },
+    {
+      "title": "Premium seats are coming to ChatGPT Business",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "date": "2026-08-10T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
       "image": null
     },
     {
@@ -678,30 +750,6 @@
       "tags": [
         "security"
       ],
-      "image": null
-    },
-    {
-      "title": "Managing AI Coding Costs at Scale",
-      "summary": "AI coding tools deliver immense value: at Databricks, agentic coding has measurably...",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "date": "2026-08-07T11:50:39+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "What is an AI Assistant?",
-      "summary": "AI assistants use language models, data retrieval, and reasoning to understand requests...",
-      "url": "https://www.databricks.com/blog/what-is-an-ai-assistant",
-      "date": "2026-08-07T11:44:24+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
-      "tags": [],
       "image": null
     },
     {
@@ -820,17 +868,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "date": "2026-08-06T06:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1086,19 +1123,6 @@
       "image": null
     },
     {
-      "title": "Stacked sessions and pull requests in the GitHub Copilot app",
-      "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
-      "date": "2026-07-30T17:30:24+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 12,
-      "tags": [
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
       "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
@@ -1170,19 +1194,6 @@
       "image": null
     },
     {
-      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
-      "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog .",
-      "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
-      "date": "2026-07-29T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 2,
-      "tags": [
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience",
       "summary": "Modern B2B buyers expect seamless experiences across web, mobile, marketplaces, and partner portals.",
       "url": "https://news.sap.com/2026/07/omnichannel-commerce-b2b-digital-transformationadvanced-success-plan-sap-cx/",
@@ -1218,17 +1229,6 @@
         "ai"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Disrupting supply chain attacks on npm and GitHub Actions",
-      "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog .",
-      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-      "date": "2026-07-28T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
@@ -1579,17 +1579,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
-      "summary": "On July 13, 2006, we launched Amazon Simple Queue Service (Amazon SQS) as one of the first three services available to customers, alongside Amazon EC2 and Amazon S3. We had learned firsthand that distributed systems need a reliable way to pass messages between components without creating tight dependencies. If one service called another directly and […]",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/",
-      "date": "2026-07-13T18:13:57+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     }
   ]
 }
