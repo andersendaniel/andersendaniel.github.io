@@ -1,7 +1,126 @@
 {
-  "generated": "2026-08-13T17:52:50.586710+00:00",
+  "generated": "2026-08-13T23:34:47.913010+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Scale Agent Development with Salesforce Headless 360",
+      "summary": "Take your Agent Development Lifecycle headless with CLI-driven, AI-assisted workflows that help teams build complex agents faster while preserving quality as they scale.",
+      "url": "https://www.salesforce.com/blog/agent-development-lifecycle-headless/",
+      "date": "2026-08-13T21:06:25+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Scottish Water Made Its Capital Investment Data Conversational With Databricks Genie",
+      "summary": "Across Scottish Water’s Capital Investment (CI) programme, teams need fast answers...",
+      "url": "https://www.databricks.com/blog/how-scottish-water-made-its-capital-investment-data-conversational-databricks-genie",
+      "date": "2026-08-13T21:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Client VPN now supports CLI, administration controls, and faster connections",
+      "summary": "AWS Client VPN introduces a rebuilt AWS VPN Client v6.0.x which offers new features like command-line interface (CLI) support, enterprise administrative controls, and faster connection establishment time, making it easier you to automate VPN connectivity and centralize device management across your organization. The AWS VPN Client CLI provides full feature parity with the GUI. You can now script V",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/",
+      "date": "2026-08-13T20:49:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What are AI Hallucinations?",
+      "summary": "AI hallucinations are outputs that sound coherent and confident but are factually wrong, fabricated...",
+      "url": "https://www.databricks.com/blog/ai-hallucinations",
+      "date": "2026-08-13T19:35:16+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Experimentation Phase of AI Is Over. Here’s What Commerce Leaders Are Focusing on Now",
+      "summary": "Until recently, agentic AI in commerce has largely lived in the pilot phase. Businesses tested AI-powered agents for increasingly complex tasks, like generating product pages, drafting and localizing product descriptions at catalog scale,…",
+      "url": "https://www.salesforce.com/blog/commerce-leaders-ai-focus/",
+      "date": "2026-08-13T18:56:34+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
+      "summary": "AWS GovCloud (US) now offers Claude Opus 5 — the most advanced Opus model yet, and compatible with zero data retention (ZDR) — bringing a step-change in coding, long-running agents, and complex professional work to teams building at the highest level. Claude Opus 5 is available via the bedrock-runtime endpoint in both AWS GovCloud (US) regions, and available via the bedrock-mantle endpoint in AWS ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/",
+      "date": "2026-08-13T18:23:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 28,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Accessibility is the Blueprint for Trustworthy AI",
+      "summary": "AI changes how software behaves, but it doesn't change what people need to trust it. Accessible design is the solution.",
+      "url": "https://www.salesforce.com/blog/ai-accessibility-builds-trust/",
+      "date": "2026-08-13T18:19:08+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Quick Microsoft 365 extensions are now generally available",
+      "summary": "Today, Amazon Quick announces the general availability of Microsoft 365 extensions for Excel, PowerPoint, Word, and Outlook. These extensions enable Quick to perform tasks directly within users' M365 environments, using AI to handle complex local tasks such as redlining documents, building financial models, creating presentation-ready decks, and managing Outlook inboxes. The Excel extension helps ",
+      "url": "https://aws.amazon.com/amazon-quick-microsoft-365-extensions-generally-available",
+      "date": "2026-08-13T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Smart Routing in Unity AI Gateway: Match frontier quality with 30%+ lower cost per task",
+      "summary": "The price and performance frontier for coding tasks features a huge diversity of models and harnesses: in 2026 alone...",
+      "url": "https://www.databricks.com/blog/smart-routing-unity-ai-gateway-match-frontier-quality-30-lower-cost-task",
+      "date": "2026-08-13T17:52:04+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Spot Placement Score now includes Local Zones",
+      "summary": "Today, AWS announces support for AWS Local Zones in Spot placement score, helping you identify locations where your Spot capacity request is most likely to succeed. Spot placement score evaluates your target capacity and compute requirements and returns scores for AWS Regions or Availability Zones. Previously, Spot placement scores excluded local zone capacity information when reporting zonal and ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/spot-placement-score-local-zones/",
+      "date": "2026-08-13T17:13:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Introducing Gemini 3.7 Flash",
       "summary": "",
@@ -75,6 +194,17 @@
       "image": null
     },
     {
+      "title": "AWS Certificate Manager supports switching from e-mail to DNS validation",
+      "summary": "AWS Certificate Manager (ACM) now enables you to change the domain validation method on your existing ACM issued public TLS certificates from e-mail to DNS, without reissuing the certificate or changing its existing Amazon Resource Name (ARN). Due to the Certification Authority/Browser (CA/B) Forum's mandated deprecation of email-based domain validation for publicly trusted certificates, effective",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/AWS-Certificate-Manager-Email-DNS-Switch",
+      "date": "2026-08-13T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
       "summary": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations that make Frame Generation feel even more responsive while streaming. On top of that, Performance members will see higher frame […]",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
@@ -105,6 +235,19 @@
       "category": "sap",
       "relevance": 14,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "date": "2026-08-13T11:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 27,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -148,17 +291,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 7,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Amtrak is building the data backbone for its largest transformation in over 50 years",
-      "summary": "\"Every new trainset is a data-generating asset. The intelligence platform that connects...",
-      "url": "https://www.databricks.com/blog/how-amtrak-building-data-backbone-its-largest-transformation-over-50-years",
-      "date": "2026-08-12T19:45:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
       "tags": [],
       "image": null
     },
@@ -272,17 +404,6 @@
       "image": null
     },
     {
-      "title": "The Economics of Agent Optimization: From pilots to measurable returns",
-      "summary": "Learn how AI cost management helps organizations move from AI pilots to measurable ROI through greater visibility, governance, and optimization. The post The Economics of Agent Optimization: From pilots to measurable returns appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
-      "date": "2026-08-12T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Putting sign language AI into users’ hands",
       "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
       "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
@@ -386,38 +507,12 @@
       "image": null
     },
     {
-      "title": "Amazon Quick agentic AI capabilities are now available in AWS GovCloud (US-West)",
-      "summary": "Today, AWS announces that Amazon Quick's agentic AI capabilities are now available in AWS GovCloud (US-West), bringing an agentic AI teammate to government and regulated-industry teams within an isolated, FedRAMP Class D (formerly High) authorized environment. Building on the analytics and business intelligence capabilities already available to customers in AWS GovCloud (US), Quick now turns quest",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-aws-govcloud-us-west/",
-      "date": "2026-08-11T23:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 18,
-      "tags": [
-        "ai",
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Taking AUTO CDC to the next level: Solving the hardest real-world use cases",
       "summary": "Change data capture is one of the most common things data engineers build on Spark...",
       "url": "https://www.databricks.com/blog/taking-auto-cdc-next-level-solving-hardest-real-world-use-cases",
       "date": "2026-08-11T23:00:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 R8a instances are now available in Canada (Central) region",
-      "summary": "Starting today, Amazon EC2 R8a instances are now available in Canada (Central) Region. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver up to 30% higher performance, and up to 19% better price-performance compared to R7a instances. R8a instances deliver 45% more memory bandwidth compared to R7a instances, making these ins",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/",
-      "date": "2026-08-11T22:03:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -444,19 +539,6 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint",
-      "summary": "Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Amazon Bedrock now supports cost allocation by AWS Identity and Access Management (IAM) principal, including IAM users and roles, for model inference requests made through the bedrock-mant",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle/",
-      "date": "2026-08-11T20:25:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 47,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -495,33 +577,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp"
     },
     {
-      "title": "LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart",
-      "summary": "NVIDIA's LocateAnything-3B, Qwen's Qwen-AgentWorld-35B-A3B, and Qwen's Qwen3.5-122B-A10B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models bring specialized capabilities spanning visual grounding, agent environment simulation, and large-scale multimodal reasoning, enabling customers to deploy high-per",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/",
-      "date": "2026-08-11T15:22:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "NVIDIA Nemotron 3.5 Lightning model is now available on Amazon SageMaker JumpStart",
-      "summary": "NVIDIA's Nemotron 3.5 Lightning is now available on Amazon SageMaker JumpStart, giving AWS customers access to the fastest open model in its class for persistent agent workloads and rapid task execution. Nemotron 3.5 Lightning is engineered for persistent agents and high-throughput enterprise automation across domains including personal assistants, financial document processing, cybersecurity tria",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-lightning-on-sagemaker-jumpstart/",
-      "date": "2026-08-11T15:21:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 16,
-      "tags": [
-        "security",
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
       "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU. In traditional power delivery, electricity travels from the grid as an alternating current (AC) […]",
       "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
@@ -531,30 +586,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/800vdc.jpg"
-    },
-    {
-      "title": "AWS Glue adds one-click access to SageMaker Unified Studio from the AWS console",
-      "summary": "AWS Glue now provides direct access to Amazon SageMaker Unified Studio, helping data engineers and analysts move from viewing the catalog in the Glue console to querying their data, running data quality checks, and building data pipelines in SageMaker Unified Studio with a single click. This new integration helps customers who already work in the Glue console access data and AI capabilities in Sag",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/smus-glue-access",
-      "date": "2026-08-11T14:57:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Secrets Manager adds managed external secrets support for Jenkins and SonarQube",
-      "summary": "AWS Secrets Manager now extends its managed external secrets capability to include Jenkins API Tokens and SonarQube Tokens, enabling you to automatically rotate these third-party credentials directly from the AWS console without writing any custom rotation code. For Jenkins, Secrets Manager mints a new token and revokes the old one only after the replacement is verified active, so your continuous ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-integration-jenkins-sonarqube/",
-      "date": "2026-08-11T14:57:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
@@ -640,39 +671,6 @@
       "image": null
     },
     {
-      "title": "Inside Salesforce’s Global Delivery Centers: Where Leaders Are Redesigning for AI",
-      "summary": "The next generation of delivery leaders won’t be measured by how many people they manage. They’ll be measured by how well humans and agents work together. Mohammad has spent two and a half…",
-      "url": "https://www.salesforce.com/blog/agentic-ai-delivery-leadership-india/",
-      "date": "2026-08-11T06:31:51+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Trailblazing Women Summit: 6 Ideas That Will Change How You Lead",
-      "summary": "“Look around this room — this is what critical mass looks like.” Opening the Trailblazing Women Summit (TWS) 2026, Arundhati Bhattacharya, Chairperson and CEO of Salesforce India, reflected on how far corporate representation…",
-      "url": "https://www.salesforce.com/blog/trailblazing-women-summit-2026-leadership-lessons/",
-      "date": "2026-08-11T04:33:32+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How to ground Genie Agents in both structured data and documents without losing governance",
-      "summary": "Building an agent to automate simple business tasks can be easy. But creating one...",
-      "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-      "date": "2026-08-10T23:08:50+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Using the GitHub Copilot SDK for Java",
       "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog .",
       "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
@@ -682,19 +680,6 @@
       "relevance": 17,
       "tags": [
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "Innocent until combined: Blocking the lethal trifecta with Omnigent Contextual Policies",
-      "summary": "In earlier posts, we introduced contextual policies in Omnigent, showed them blocking...",
-      "url": "https://www.databricks.com/blog/innocent-until-combined-blocking-lethal-trifecta-omnigent-contextual-policies",
-      "date": "2026-08-10T18:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
       ],
       "image": null
     },
@@ -852,19 +837,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
-    },
-    {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "date": "2026-08-07T15:20:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 6,
-      "tags": [
-        "security"
-      ],
-      "image": null
     },
     {
       "title": "Innovating with AI Because Reinvention Is in Cirque du Soleil’s DNA",
@@ -1042,19 +1014,6 @@
       "source": "GitHub Blog",
       "category": "github",
       "relevance": 28,
-      "tags": [
-        "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "Turn one giant AI-generated pull request to a reviewable stack",
-      "summary": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog .",
-      "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
-      "date": "2026-08-04T16:47:18+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
       "tags": [
         "developer"
       ],
