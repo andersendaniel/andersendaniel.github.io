@@ -1,7 +1,101 @@
 {
-  "generated": "2026-08-13T11:41:33.947678+00:00",
+  "generated": "2026-08-13T17:52:50.586710+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "date": "2026-08-13T17:04:18+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 12,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Connect AI Agents to Telemetry with Observe MCP & CLI",
+      "summary": "Observe by Snowflake's redesigned MCP server and new CLI give AI agents direct access to telemetry, enabling faster, more cost-efficient incident investigation.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/observe-mcp-server-cli-ai-agents-telemetry",
+      "date": "2026-08-13T16:48:55+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "summary": "The video shows Sheets canvas in action.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "date": "2026-08-13T16:45:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock",
+      "summary": "Security teams can now access Daybreak Red and Daybreak Blue from OpenAI on Amazon Bedrock. Both are part of Daybreak, the cyber defense initiative from OpenAI that gives defenders governed access to frontier AI for cybersecurity work. Daybreak Blue is the starting point for most security teams across defensive workflows including vulnerability discovery, detection engineering, and incident respon",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/",
+      "date": "2026-08-13T16:12:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 22,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "What 50 open source projects taught us about security in the AI era",
+      "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about security in the AI era appeared first on The GitHub Blog .",
+      "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+      "date": "2026-08-13T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 7,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "SAP Positioned as a Leader in the Inaugural Gartner® Magic Quadrant™ for Supply Chain Management Suites",
+      "summary": "For more than 50 years, SAP has helped organizations navigate supply chain volatility by connecting planning, execution, and business processes across the enterprise.",
+      "url": "https://news.sap.com/2026/08/sap-a-leader-inaugural-gartner-magic-quadrant-scm-suites/",
+      "date": "2026-08-13T15:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
+      "summary": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations that make Frame Generation feel even more responsive while streaming. On top of that, Performance members will see higher frame […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+      "date": "2026-08-13T13:00:33+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-13-blog-1920x1080-logo.jpg"
+    },
+    {
+      "title": "Amazon S3 adds additional policy details to access denied error messages",
+      "summary": "Amazon S3 now includes the specific AWS Identity and Access Management (IAM) and AWS Organizations policy Amazon Resource Name (ARN) in HTTP 403 Access Denied error messages for same-account and same-organization requests. This helps you quickly identify the exact policy responsible for a denied request and remediate the issue directly. Previously, S3 access denied error messages included the poli",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/s3-additional-policy-details-access-denied-error-messages/",
+      "date": "2026-08-13T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "SAP Order Management Services Named a Leader in IDC MarketScape: Worldwide AI-Enabled Order Orchestration and Fulfillment Applications for Retail and B2C 2026 Vendor Assessment",
       "summary": "SAP is committed to innovation in order management.",
@@ -10,6 +104,28 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "date": "2026-08-13T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "date": "2026-08-13T09:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -153,6 +269,17 @@
       "tags": [
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "The Economics of Agent Optimization: From pilots to measurable returns",
+      "summary": "Learn how AI cost management helps organizations move from AI pilots to measurable ROI through greater visibility, governance, and optimization. The post The Economics of Agent Optimization: From pilots to measurable returns appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
+      "date": "2026-08-12T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -430,17 +557,6 @@
       "image": null
     },
     {
-      "title": "Amazon Connect Customer launches performance dashboard for Cases",
-      "summary": "Amazon Connect Customer now provides a performance dashboard for cases that helps managers monitor case volume, resolution trends, and performance against service level agreement (SLA) targets. Managers can compare current and prior-period performance across metrics such as cases created, average resolution time, first-contact resolution percentage, and SLA achievement rate. They can also analyze ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-dashboard/",
-      "date": "2026-08-11T13:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
       "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ecosystem. That includes NVIDIA’s latest open models, software […]",
       "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
@@ -474,17 +590,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 10,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Clean Rooms supports exporting privacy-enhanced analysis logs for SQL",
-      "summary": "AWS Clean Rooms now supports exporting privacy-enhanced analysis logs for SQL analyses , offering customers greater optimization and troubleshooting capabilities. With this launch, you can export privacy-enhanced analysis logs to an S3 bucket for SQL queries that ran in an AWS Clean Rooms collaboration, providing insight into Spark execution details that can help you optimize and troubleshoot your",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-export-analysis-log-sql",
-      "date": "2026-08-11T12:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -554,19 +659,6 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "No Code? No Problem. How Salesforce Employees Are Building AI Skills Every Day",
-      "summary": "What if the only limit to what you could build was your own curiosity and‌ not your ability to code? Across Salesforce, account executives, solutions engineers, and data specialists are doing exactly that.…",
-      "url": "https://www.salesforce.com/blog/slackbot-no-code-ai-tools-salesforce/",
-      "date": "2026-08-11T01:31:16+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -786,17 +878,6 @@
       "image": null
     },
     {
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "date": "2026-08-07T09:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 18,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
       "summary": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU support, and sessions lasting up to 14 days.",
       "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
@@ -879,17 +960,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "date": "2026-08-06T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -1253,17 +1323,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
     },
     {
-      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-      "summary": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how the NVIDIA Jetson platform for edge […]",
-      "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-      "date": "2026-07-28T15:00:19+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 3,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson_FeaturedImage.png"
-    },
-    {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "summary": "",
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
@@ -1310,17 +1369,6 @@
         "ai",
         "security"
       ],
-      "image": null
-    },
-    {
-      "title": "Beyond the Ice: How SAP and the NHL are Investing in the Next Generation",
-      "summary": "The future of hockey will also be shaped in classrooms, communities, and innovation hubs worldwide.",
-      "url": "https://news.sap.com/2026/07/how-sap-and-the-nhl-are-investing-next-generation/",
-      "date": "2026-07-28T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1472,17 +1520,6 @@
       "image": null
     },
     {
-      "title": "What's New in Snowflake Cortex Agents for Enterprise AI",
-      "summary": "Learn how new Cortex Agents capabilities simplify building, deploying, and operating enterprise AI agents with managed orchestration, execution, and governance.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-cortex-agents-enterprise-ai-scale",
-      "date": "2026-07-21T16:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 17,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
       "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
@@ -1577,17 +1614,6 @@
       "relevance": 6,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "Celebrating 25 years of visual search innovation",
-      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "date": "2026-07-14T16:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"
     }
   ]
 }
