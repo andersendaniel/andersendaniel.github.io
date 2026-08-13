@@ -1,7 +1,18 @@
 {
-  "generated": "2026-08-13T06:11:49.247914+00:00",
+  "generated": "2026-08-13T11:41:33.947678+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "SAP Order Management Services Named a Leader in IDC MarketScape: Worldwide AI-Enabled Order Orchestration and Fulfillment Applications for Retail and B2C 2026 Vendor Assessment",
+      "summary": "SAP is committed to innovation in order management.",
+      "url": "https://news.sap.com/2026/08/sap-order-management-services-a-leader-idc-marketscape-worldwide-ai-enabled-order-orchestration-fulfillment-applications-retail-b2c-2026-vendor-assessment/",
+      "date": "2026-08-13T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "GitHub availability report: July 2026",
       "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog .",
@@ -690,6 +701,17 @@
       "image": null
     },
     {
+      "title": "Premium seats are coming to ChatGPT Business",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "date": "2026-08-10T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
       "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
       "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
@@ -711,17 +733,6 @@
       "tags": [
         "automation"
       ],
-      "image": null
-    },
-    {
-      "title": "Premium seats are coming to ChatGPT Business",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "date": "2026-08-10T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
       "image": null
     },
     {
@@ -1333,19 +1344,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 9,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Connecting Cargo: How Live Positioning Is Streamlining Supply Chains",
-      "summary": "Container tracking technology and real-time data is revolutionizing supply chain visibility.",
-      "url": "https://news.sap.com/2026/07/hapag-lloyd-connecting-cargo-live-positioning-streamlining-supply-chains/",
-      "date": "2026-07-27T16:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 18,
       "tags": [
         "data"
       ],
