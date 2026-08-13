@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T23:34:13.787454+00:00",
+  "generated": "2026-08-13T06:11:49.247914+00:00",
   "sources": 21,
   "articles": [
     {
@@ -73,6 +73,17 @@
       "image": null
     },
     {
+      "title": "AWS IAM now provides role manager to set up IAM roles automatically",
+      "summary": "Today, AWS announces the general availability of role manager, a capability in AWS Identity and Access Management (IAM) that automatically sets up the IAM roles your AWS services need. When you set up a supported service in the console, role manager creates a default role on your behalf, or reuses one that already exists in your account if it already matches the required permissions. You can enabl",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager",
+      "date": "2026-08-12T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon EKS now supports advanced Kubernetes control plane configuration parameters",
       "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports configuring parameters for Kubernetes control plane components including the scheduler, controller manager, and API server. You can tune pod placement strategies to improve resource utilization, adjust how quickly horizontal pod autoscaling responds to changes in demand, set resource lifecycle parameters such as event retention duration, ",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters",
@@ -86,9 +97,9 @@
       "image": null
     },
     {
-      "title": "Amazon Connect Customer supports manual assignment of queued agent-first callbacks",
-      "summary": "Amazon Connect Customer now lets agents view and self-assign queued agent-first callbacks alongside emails, tasks, and chats. This gives agents the option to prioritize work that needs immediate follow-up or for which they already have relevant context. For example, an agent familiar with a customer’s issue can assign the callback to themselves, avoiding another handoff and helping resolve the iss",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/",
+      "title": "Amazon Quick adds deny by default for custom permissions",
+      "summary": "Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reach users. Previously, new AI capabilities were available to all users on release, requiring administrators to react after the fact. With deny by default, administrators restrict the AI capability category in a custom permissions profile and assign it to ",
+      "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/",
       "date": "2026-08-12T17:15:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
@@ -97,9 +108,9 @@
       "image": null
     },
     {
-      "title": "Amazon Quick adds deny by default for custom permissions",
-      "summary": "Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reach users. Previously, new AI capabilities were available to all users on release, requiring administrators to react after the fact. With deny by default, administrators restrict the AI capability category in a custom permissions profile and assign it to ",
-      "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/",
+      "title": "Amazon Connect Customer supports manual assignment of queued agent-first callbacks",
+      "summary": "Amazon Connect Customer now lets agents view and self-assign queued agent-first callbacks alongside emails, tasks, and chats. This gives agents the option to prioritize work that needs immediate follow-up or for which they already have relevant context. For example, an agent familiar with a customer’s issue can assign the callback to themselves, avoiding another handoff and helping resolve the iss",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/",
       "date": "2026-08-12T17:15:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
@@ -679,6 +690,17 @@
       "image": null
     },
     {
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "date": "2026-08-10T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "How Zapier transformed core marketing processes with ChatGPT Work",
       "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
       "url": "https://openai.com/index/zapier",
@@ -695,17 +717,6 @@
       "title": "Premium seats are coming to ChatGPT Business",
       "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
       "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "date": "2026-08-10T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
       "date": "2026-08-10T00:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
