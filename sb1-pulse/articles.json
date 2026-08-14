@@ -1,7 +1,20 @@
 {
-  "generated": "2026-08-13T23:34:47.913010+00:00",
+  "generated": "2026-08-14T06:08:40.493082+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "AWS Billing and Cost Management introduces Managed Dashboards",
+      "summary": "AWS Billing and Cost Management (BCM) Dashboards now include Managed Dashboards. These are a collection of preconfigured and read-only dashboards located in your dashboard list. They deliver actionable cost insights with your account data pre-populated without setup. There are five curated dashboards. Cost Overview & Trends tracks your spending patterns across services, accounts, and regions over ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/",
+      "date": "2026-08-14T02:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Scale Agent Development with Salesforce Headless 360",
       "summary": "Take your Agent Development Lifecycle headless with CLI-driven, AI-assisted workflows that help teams build complex agents faster while preserving quality as they scale.",
@@ -227,6 +240,17 @@
       "image": null
     },
     {
+      "title": "AWS Clean Rooms supports minimum aggregation thresholds in custom analysis rules",
+      "summary": "AWS Clean Rooms now supports minimum aggregation thresholds for the Custom analysis rule type . Minimum aggregation helps protect the privacy of individual data subjects by preventing queries from returning results about individuals or small groups. With this launch, organizations can enforce minimum aggregation on custom SQL queries, ensuring that every row a query outputs represents at least the",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-minimum-aggregation-custom-analysis-rules",
+      "date": "2026-08-13T12:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "SAP Order Management Services Named a Leader in IDC MarketScape: Worldwide AI-Enabled Order Orchestration and Fulfillment Applications for Retail and B2C 2026 Vendor Assessment",
       "summary": "SAP is committed to innovation in order management.",
       "url": "https://news.sap.com/2026/08/sap-order-management-services-a-leader-idc-marketscape-worldwide-ai-enabled-order-orchestration-fulfillment-applications-retail-b2c-2026-vendor-assessment/",
@@ -367,30 +391,6 @@
       "image": null
     },
     {
-      "title": "Amazon Connect Customer supports manual assignment of queued agent-first callbacks",
-      "summary": "Amazon Connect Customer now lets agents view and self-assign queued agent-first callbacks alongside emails, tasks, and chats. This gives agents the option to prioritize work that needs immediate follow-up or for which they already have relevant context. For example, an agent familiar with a customer’s issue can assign the callback to themselves, avoiding another handoff and helping resolve the iss",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/",
-      "date": "2026-08-12T17:15:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Quick now supports data loss prevention with Microsoft Purview",
-      "summary": "Amazon Quick now integrates with Microsoft Purview to enforce data loss prevention (DLP) policies across your Quick environment. Organizations need to ensure that sensitive files aren't shared outside approved channels. With this integration, IT administrators and security teams can apply their existing Purview sensitivity labels to automatically control how files are handled in Quick capabilities",
-      "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-dlp-purview/",
-      "date": "2026-08-12T17:09:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "How a major freight railroad scaled pipeline creation with Genie Code",
       "summary": "One of Canada’s largest railway networks spans roughly 20,000 route miles across...",
       "url": "https://www.databricks.com/blog/how-major-freight-railroad-scaled-pipeline-creation-genie-code",
@@ -401,6 +401,17 @@
       "tags": [
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "The Economics of Agent Optimization: From pilots to measurable returns",
+      "summary": "Learn how AI cost management helps organizations move from AI pilots to measurable ROI through greater visibility, governance, and optimization. The post The Economics of Agent Optimization: From pilots to measurable returns appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
+      "date": "2026-08-12T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
