@@ -1,7 +1,20 @@
 {
-  "generated": "2026-08-14T17:47:27.283472+00:00",
+  "generated": "2026-08-14T23:15:47.290046+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Using AI_Functions in Your Data Warehouse: Top Use Cases",
+      "summary": "In most organizations, data warehouses hold structured data, while unstructured data...",
+      "url": "https://www.databricks.com/blog/using-aifunctions-your-data-warehouse-top-use-cases",
+      "date": "2026-08-14T21:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
       "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of […]",
@@ -28,7 +41,7 @@
     },
     {
       "title": "How to bring your software delivery workflow into GitHub with agent apps",
-      "summary": "See how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .",
+      "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
       "date": "2026-08-14T16:00:00+00:00",
       "source": "GitHub Blog",
@@ -38,14 +51,17 @@
       "image": null
     },
     {
-      "title": "Zero-Copy Data Architecture: Snowflake Summit 2026",
-      "summary": "Explore how zero-copy data architecture and enterprise AI help leaders reduce costs, analyze unstructured data and make faster decisions.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-summit-2026-zero-copy-data-architecture",
-      "date": "2026-08-14T16:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 6,
-      "tags": [],
+      "title": "Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports Oracle Application Express (APEX) version 26.1. Amazon RDS for Oracle is a managed database service that makes it simple to set up, operate, and scale Oracle Database deployments in the cloud. Oracle APEX is a low-code development platform that enables developers to build scalable, secure enterprise applications with modern us",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/",
+      "date": "2026-08-14T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 12,
+      "tags": [
+        "cloud",
+        "data"
+      ],
       "image": null
     },
     {
@@ -56,6 +72,17 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon SES click tracking now supports custom URL paths for mobile app deep linking",
+      "summary": "Amazon Simple Email Service (SES) now makes it easier to support mobile deep linking with the new ses:custom-path HTML attribute. When you add this attribute to an <a> tag, SES carries your path segment through to the tracking URL, so mobile operating systems can match it to your app's Universal Links (iOS) or App Links (Android) configuration. This enables you to use mobile deep linking without d",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking",
+      "date": "2026-08-14T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -427,30 +454,6 @@
       "image": null
     },
     {
-      "title": "AWS IAM now provides role manager to set up IAM roles automatically",
-      "summary": "Today, AWS announces the general availability of role manager, a capability in AWS Identity and Access Management (IAM) that automatically sets up the IAM roles your AWS services need. When you set up a supported service in the console, role manager creates a default role on your behalf, or reuses one that already exists in your account if it already matches the required permissions. You can enabl",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager",
-      "date": "2026-08-12T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EKS now supports advanced Kubernetes control plane configuration parameters",
-      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports configuring parameters for Kubernetes control plane components including the scheduler, controller manager, and API server. You can tune pod placement strategies to improve resource utilization, adjust how quickly horizontal pod autoscaling responds to changes in demand, set resource lifecycle parameters such as event retention duration, ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters",
-      "date": "2026-08-12T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "How a major freight railroad scaled pipeline creation with Genie Code",
       "summary": "One of Canada’s largest railway networks spans roughly 20,000 route miles across...",
       "url": "https://www.databricks.com/blog/how-major-freight-railroad-scaled-pipeline-creation-genie-code",
@@ -706,17 +709,6 @@
       "tags": [
         "security"
       ],
-      "image": null
-    },
-    {
-      "title": "Electric joins Databricks to bring WASM Postgres to AI agent sandboxes",
-      "summary": "Today, we’re excited to welcome Electric to Databricks. The world is building a new...",
-      "url": "https://www.databricks.com/blog/electric-joins-databricks-bring-wasm-postgres-ai-agent-sandboxes",
-      "date": "2026-08-11T07:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [],
       "image": null
     },
     {
@@ -1476,6 +1468,17 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Snowflake CoCo: Built to Scale Enterprise AI with Trust",
+      "summary": "Discover Snowflake CoCo with Desktop, Cloud Agents, AI cost governance and Agent Settings to scale trusted enterprise AI with security and control.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-coco-built-to-scale-enterprise-ai",
+      "date": "2026-07-21T16:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 7,
       "tags": [],
       "image": null
     },
