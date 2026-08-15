@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T05:19:25.214467+00:00",
+  "generated": "2026-08-15T11:13:50.522979+00:00",
   "sources": 21,
   "articles": [
     {
@@ -1555,17 +1555,6 @@
       "relevance": 13,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Our approach to bioresilience",
-      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "date": "2026-07-16T09:30:42+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo"
     }
   ]
 }
