@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T11:13:50.522979+00:00",
+  "generated": "2026-08-15T17:15:11.727925+00:00",
   "sources": 21,
   "articles": [
     {
@@ -1533,28 +1533,6 @@
         "security"
       ],
       "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Connect more of your apps to Search",
-      "summary": "Connected apps rendering",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "date": "2026-07-16T16:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "date": "2026-07-16T16:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 13,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"
     }
   ]
 }
