@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-16T11:14:37.185423+00:00",
+  "generated": "2026-08-16T17:14:15.746713+00:00",
   "sources": 21,
   "articles": [
     {
@@ -1519,20 +1519,6 @@
         "cloud"
       ],
       "image": null
-    },
-    {
-      "title": "Introducing Gemini 3.5 Flash Cyber",
-      "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-      "date": "2026-07-17T15:00:11+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 18,
-      "tags": [
-        "ai",
-        "security"
-      ],
-      "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo"
     }
   ]
 }
