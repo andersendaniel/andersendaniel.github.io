@@ -1,17 +1,123 @@
 {
-  "generated": "2026-08-17T17:21:01.944370+00:00",
+  "generated": "2026-08-17T23:16:50.253061+00:00",
   "sources": 21,
   "articles": [
     {
+      "title": "How Databricks Feature Store serves features with sub-second freshness",
+      "summary": "Machine learning models are only as good as the signals they receive. A fraud detection...",
+      "url": "https://www.databricks.com/blog/how-databricks-feature-store-serves-features-sub-second-freshness",
+      "date": "2026-08-17T23:10:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 18,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models",
+      "summary": "Amazon Bedrock now supports the OpenAI GPT-5.6 models (Sol, Terra, and Luna) on the bedrock-runtime endpoint, with support for the Responses, Converse, and Chat Completions APIs. It also adds support for cross-Region inference, allowing customers to use Global and Geo cross-Region inference to access higher throughput and lower inference costs. Cross-Region inference automatically routes inference",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/",
+      "date": "2026-08-17T20:29:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 28,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Building a Context Layer for AI Agents | Snowflake",
+      "summary": "Learn best practices for creating a semantic layer using Snowflake semantic views. Improve data accuracy and scale AI agent performance across your stack.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-internal-context-layer-for-ai-agents",
+      "date": "2026-08-17T19:48:19+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The prototyping tax is killing your AI roadmap",
+      "summary": "You know the feeling. Your team has a great idea for an AI-powered pipeline - maybe...",
+      "url": "https://www.databricks.com/blog/prototyping-tax-killing-your-ai-roadmap",
+      "date": "2026-08-17T19:42:33+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon ECR now supports 25 replication rules per registry",
+      "summary": "Amazon Elastic Container Registry (Amazon ECR) has increased the maximum number of replication rules per registry from 10 to 25. Previously, customers with complex multi-region or multi-account architectures were constrained to 10 replication rules per registry, requiring them to consolidate replication configurations to work within that constraint. With this update, customers can define up to 25 ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-increased-replication-rules-limit",
+      "date": "2026-08-17T19:01:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 Auto Scaling now supports batch instance termination",
+      "summary": "Amazon EC2 Auto Scaling now supports batch instance termination in a single API call. You can now pass up to 100 instance IDs to the TerminateInstanceInAutoScalingGroup API to terminate them as a batch, reducing the number of API calls needed to scale down your Auto Scaling groups. Batch termination is designed for workloads that need to rapidly scale down, such as AI/ML training jobs, container o",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-auto-scaling-batch-termination",
+      "date": "2026-08-17T18:11:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon MSK now supports configuring custom domain names for MSK Provisioned clusters",
+      "summary": "You can now easily configure custom domain names on Amazon MSK Provisioned clusters, on either ZooKeeper or KRaft mode for metadata management. This capability helps client applications maintain the same connection endpoints, simplifying cluster migrations, disaster recovery failovers, and scaling operations without reconfiguration. Previously, customers configured custom domain names manually on ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/17/amazon-msk-custom-domain-names/",
+      "date": "2026-08-17T18:01:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 R8i and R8i-Flex instances are now available in Canada West (Calgary) region",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Canada West (Calgary) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The R8i and R8i-flex instances offer up to 15% better price-perfor",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex-calgary/",
+      "date": "2026-08-17T17:28:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Network Firewall Now Supports Stateful Rule Hit Counts",
+      "summary": "AWS Network Firewall now provides rule hit counts for stateful rules, giving network administrators and security engineers visibility into how often each stateful rule in the firewall policy matches network traffic. AWS Network Firewall is a managed network firewall service that provides inspection and visibility into your VPC traffic. With rule hit counts, you can turn firewall rule activity into",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-stateful-rule-hit-counts/",
+      "date": "2026-08-17T16:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
-      "summary": "Last week, the OpenSearch and Valkey teams visited Seoul to meet open source developers and contributors in the Open Source Summit Korea 2026 and MCP DevSummit Seoul 2026. At the four-day event, community leaders and users of open source projects and emerging agent AI gathered to share knowledge, collaborate on solutions, and push the projects […]",
+      "summary": "Last week, AWS contributors joined the OpenSearch and Valkey communities at Open Source Summit Korea 2026 and MCP DevSummit Seoul 2026 to meet open source developers and contributors. At the four-day event, community leaders and users of these Linux Foundation open source projects gathered to share knowledge, collaborate on solutions, and push the projects forward. […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
       "date": "2026-08-17T16:02:36+00:00",
       "source": "AWS Blog",
       "category": "aws",
       "relevance": 15,
       "tags": [
-        "ai",
         "developer"
       ],
       "image": null
@@ -50,6 +156,20 @@
       "category": "aws",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS CloudShell now includes a built-in visual file editor",
+      "summary": "AWS CloudShell now includes a built-in visual file editor that you can launch directly from your shell session using a single 'edit' command, no setup required. CloudShell provides a browser-based shell environment that uses your existing AWS Management Console credentials, making it a popular choice for developers, DevOps engineers, and cloud administrators managing scripts, infrastructure-as-cod",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cloudshell-visual-file-editor/",
+      "date": "2026-08-17T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud",
+        "developer"
+      ],
       "image": null
     },
     {
@@ -206,8 +326,19 @@
       "image": null
     },
     {
-      "title": "Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports Oracle Application Express (APEX) version 26.1. Amazon RDS for Oracle is a managed database service that makes it simple to set up, operate, and scale Oracle Database deployments in the cloud. Oracle APEX is a low-code development platform that enables developers to build scalable, secure enterprise applications with modern us",
+      "title": "Amazon Quick now supports customizable no data messages for visuals",
+      "summary": "Amazon Quick announces support for no data message customization, enabling authors to replace the default \"No data to display\" message with a tailored message when a visual returns no data. Authors can configure a custom title, subtitle, and hyperlink that give readers immediate context about why no data is shown and what steps to take next. All text fields support parameters, so the message can d",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quick-custom-no-data-message/",
+      "date": "2026-08-14T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS for Oracle now supports Oracle APEX version 26.1",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports Oracle APEX version 26.1. Amazon RDS for Oracle is a managed database service that makes it simple to set up, operate, and scale Oracle Database deployments in the cloud. Oracle APEX is a low-code development platform that enables developers to build scalable, secure enterprise applications with modern user interfaces. To lear",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/",
       "date": "2026-08-14T15:00:00+00:00",
       "source": "AWS What's New",
@@ -231,17 +362,6 @@
       "image": null
     },
     {
-      "title": "Amazon SES click tracking now supports custom URL paths for mobile app deep linking",
-      "summary": "Amazon Simple Email Service (SES) now makes it easier to support mobile deep linking with the new ses:custom-path HTML attribute. When you add this attribute to an <a> tag, SES carries your path segment through to the tracking URL, so mobile operating systems can match it to your app's Universal Links (iOS) or App Links (Android) configuration. This enables you to use mobile deep linking without d",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking",
-      "date": "2026-08-14T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Life Sciences M&A Data Integration with Snowflake",
       "summary": "Learn how Snowflake accelerates life sciences M&A and divestitures with secure data sharing, clean rooms, governance, and faster integration.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ma-data-integration",
@@ -250,19 +370,6 @@
       "category": "snowflake",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Billing and Cost Management introduces Managed Dashboards",
-      "summary": "AWS Billing and Cost Management (BCM) Dashboards now include Managed Dashboards. These are a collection of preconfigured and read-only dashboards located in your dashboard list. They deliver actionable cost insights with your account data pre-populated without setup. There are five curated dashboards. Cost Overview & Trends tracks your spending patterns across services, accounts, and regions over ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/",
-      "date": "2026-08-14T02:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -288,17 +395,6 @@
       "image": null
     },
     {
-      "title": "AWS Client VPN now supports CLI, administration controls, and faster connections",
-      "summary": "AWS Client VPN introduces a rebuilt AWS VPN Client v6.0.x which offers new features like command-line interface (CLI) support, enterprise administrative controls, and faster connection establishment time, making it easier you to automate VPN connectivity and centralize device management across your organization. The AWS VPN Client CLI provides full feature parity with the GUI. You can now script V",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/",
-      "date": "2026-08-13T20:49:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "What are AI Hallucinations?",
       "summary": "AI hallucinations are outputs that sound coherent and confident but are factually wrong, fabricated...",
       "url": "https://www.databricks.com/blog/ai-hallucinations",
@@ -307,20 +403,6 @@
       "category": "databricks",
       "relevance": 2,
       "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Redshift adds rg.large and rg.12xlarge instance sizes in AWS GovCloud (US) Regions",
-      "summary": "Amazon Redshift now offers rg.large and rg.12xlarge instance sizes for RG instances in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions. RG instances deliver better performance, running data warehouse and data lake workloads up to 2.4x as fast as previous generation RA3 instances, at 30% lower price per vCPU. RG instances include Redshift's custom-built vectorized data lake query engi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-adds-rg-large-12xlarge-aws-govcloud-regions/",
-      "date": "2026-08-13T19:34:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud",
         "data"
       ],
       "image": null
@@ -335,20 +417,6 @@
       "relevance": 13,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
-      "summary": "AWS GovCloud (US) now offers Claude Opus 5 — the most advanced Opus model yet, and compatible with zero data retention (ZDR) — bringing a step-change in coding, long-running agents, and complex professional work to teams building at the highest level. Claude Opus 5 is available via the bedrock-runtime endpoint in both AWS GovCloud (US) regions, and available via the bedrock-mantle endpoint in AWS ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/",
-      "date": "2026-08-13T18:23:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 28,
-      "tags": [
-        "ai",
-        "cloud"
       ],
       "image": null
     },
@@ -372,19 +440,6 @@
       "category": "databricks",
       "relevance": 3,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Spot Placement Score now includes Local Zones",
-      "summary": "Today, AWS announces support for AWS Local Zones in Spot placement score, helping you identify locations where your Spot capacity request is most likely to succeed. Spot placement score evaluates your target capacity and compute requirements and returns scores for AWS Regions or Availability Zones. Previously, Spot placement scores excluded local zone capacity information when reporting zonal and ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/spot-placement-score-local-zones/",
-      "date": "2026-08-13T17:13:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -423,19 +478,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
     },
     {
-      "title": "Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock",
-      "summary": "Security teams can now access Daybreak Red and Daybreak Blue from OpenAI on Amazon Bedrock. Both are part of Daybreak, the cyber defense initiative from OpenAI that gives defenders governed access to frontier AI for cybersecurity work. Daybreak Blue is the starting point for most security teams across defensive workflows including vulnerability discovery, detection engineering, and incident respon",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/",
-      "date": "2026-08-13T16:12:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 22,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
       "title": "What 50 open source projects taught us about security in the AI era",
       "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about security in the AI era appeared first on The GitHub Blog .",
       "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
@@ -460,17 +502,6 @@
       "image": null
     },
     {
-      "title": "AWS Certificate Manager supports switching from e-mail to DNS validation",
-      "summary": "AWS Certificate Manager (ACM) now enables you to change the domain validation method on your existing ACM issued public TLS certificates from e-mail to DNS, without reissuing the certificate or changing its existing Amazon Resource Name (ARN). Due to the Certification Authority/Browser (CA/B) Forum's mandated deprecation of email-based domain validation for publicly trusted certificates, effective",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/AWS-Certificate-Manager-Email-DNS-Switch",
-      "date": "2026-08-13T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
       "summary": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations that make Frame Generation feel even more responsive while streaming. On top of that, Performance members will see higher frame […]",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
@@ -480,17 +511,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-13-blog-1920x1080-logo.jpg"
-    },
-    {
-      "title": "Amazon S3 adds additional policy details to access denied error messages",
-      "summary": "Amazon S3 now includes the specific AWS Identity and Access Management (IAM) and AWS Organizations policy Amazon Resource Name (ARN) in HTTP 403 Access Denied error messages for same-account and same-organization requests. This helps you quickly identify the exact policy responsible for a denied request and remediate the issue directly. Previously, S3 access denied error messages included the poli",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/s3-additional-policy-details-access-denied-error-messages/",
-      "date": "2026-08-13T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
-      "image": null
     },
     {
       "title": "SAP Order Management Services Named a Leader in IDC MarketScape: Worldwide AI-Enabled Order Orchestration and Fulfillment Applications for Retail and B2C 2026 Vendor Assessment",
@@ -736,17 +756,6 @@
       "image": null
     },
     {
-      "title": "Open-sourcing Metals v2: Databricks’ Java and Scala language server for multi‑million line codebases",
-      "summary": "Most code at Databricks is now written by agents. For the moments engineers still...",
-      "url": "https://www.databricks.com/blog/open-sourcing-metals-v2-databricks-java-and-scala-language-server-multi-million-line-codebases",
-      "date": "2026-08-11T19:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "From coder to orchestrator: How agents shift the role of a developer",
       "summary": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog .",
       "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
@@ -806,17 +815,6 @@
         "ai"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg"
-    },
-    {
-      "title": "Modern Risk Demands a Real-Time Foundation: The CRO’s Mandate",
-      "summary": "In a volatile macroeconomic environment, enterprise risk management today is constrained...",
-      "url": "https://www.databricks.com/blog/modern-risk-demands-real-time-foundation-cros-mandate",
-      "date": "2026-08-11T12:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 10,
-      "tags": [],
-      "image": null
     },
     {
       "title": "How a Small AI Use Case Is Automating Document Processing in the Supply Chain of Lemvigh-Müller",
@@ -1489,21 +1487,6 @@
       "relevance": 19,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Enterprise AI Agents for the Era of Agentic AI",
-      "summary": "Explore how enterprise AI agents, real-time data, and agent orchestration are reshaping commerce, supply chains and store operations.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/enterprise-ai-agents-agentic-ai",
-      "date": "2026-07-22T18:04:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 35,
-      "tags": [
-        "ai",
-        "data",
-        "automation"
       ],
       "image": null
     },
