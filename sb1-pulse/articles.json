@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-16T23:13:59.863805+00:00",
+  "generated": "2026-08-17T05:30:05.205526+00:00",
   "sources": 21,
   "articles": [
     {
@@ -76,17 +76,6 @@
       "image": null
     },
     {
-      "title": "Scale Customer Support With AI Agents: 5 Service Tips For SMBs",
-      "summary": "Your customers deserve fast, personal service — here's how AI agents are delivering it.",
-      "url": "https://www.salesforce.com/blog/small-business/customer-support-tips-with-ai-agents/",
-      "date": "2026-08-14T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Amazon SES click tracking now supports custom URL paths for mobile app deep linking",
       "summary": "Amazon Simple Email Service (SES) now makes it easier to support mobile deep linking with the new ses:custom-path HTML attribute. When you add this attribute to an <a> tag, SES carries your path segment through to the tracking URL, so mobile operating systems can match it to your app's Universal Links (iOS) or App Links (Android) configuration. This enables you to use mobile deep linking without d",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking",
@@ -119,17 +108,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Scale Agent Development with Salesforce Headless 360",
-      "summary": "Take your Agent Development Lifecycle headless with CLI-driven, AI-assisted workflows that help teams build complex agents faster while preserving quality as they scale.",
-      "url": "https://www.salesforce.com/blog/agent-development-lifecycle-headless/",
-      "date": "2026-08-13T21:06:25+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 5,
-      "tags": [],
       "image": null
     },
     {
@@ -182,19 +160,6 @@
       "image": null
     },
     {
-      "title": "The Experimentation Phase of AI Is Over. Here’s What Commerce Leaders Are Focusing on Now",
-      "summary": "Until recently, agentic AI in commerce has largely lived in the pilot phase. Businesses tested AI-powered agents for increasingly complex tasks, like generating product pages, drafting and localizing product descriptions at catalog scale,…",
-      "url": "https://www.salesforce.com/blog/commerce-leaders-ai-focus/",
-      "date": "2026-08-13T18:56:34+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
       "summary": "AWS GovCloud (US) now offers Claude Opus 5 — the most advanced Opus model yet, and compatible with zero data retention (ZDR) — bringing a step-change in coding, long-running agents, and complex professional work to teams building at the highest level. Claude Opus 5 is available via the bedrock-runtime endpoint in both AWS GovCloud (US) regions, and available via the bedrock-mantle endpoint in AWS ",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/",
@@ -206,17 +171,6 @@
         "ai",
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Accessibility is the Blueprint for Trustworthy AI",
-      "summary": "AI changes how software behaves, but it doesn't change what people need to trust it. Accessible design is the solution.",
-      "url": "https://www.salesforce.com/blog/ai-accessibility-builds-trust/",
-      "date": "2026-08-13T18:19:08+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -439,19 +393,6 @@
       "image": null
     },
     {
-      "title": "What Is Dreamforce? Everything About Salesforce’s Annual Event",
-      "summary": "Dreamforce is Salesforce's annual event for becoming an Agentic Enterprise — where attendees learn, connect, have fun, and give back.",
-      "url": "https://www.salesforce.com/blog/what-is-dreamforce/",
-      "date": "2026-08-12T19:21:55+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 4,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Write your first prompt with the GitHub Copilot app",
       "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
@@ -533,17 +474,6 @@
       "image": null
     },
     {
-      "title": "How to Make AI a Trusted Business Partner With Anti-Hallucination Practices",
-      "summary": "Learn how to make AI more reliable for your business with these anti-hallucination strategies.",
-      "url": "https://www.salesforce.com/blog/small-business/ai-anti-hallucination-practices/",
-      "date": "2026-08-12T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The Future of Data Analytics: Why AI is rewriting the Analyst’s Job Description",
       "summary": "The Data Analyst role has been declared dead more times than we can count. AI will...",
       "url": "https://www.databricks.com/blog/future-data-analytics-why-ai-rewriting-analysts-job-description",
@@ -611,19 +541,6 @@
       "category": "databricks",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Why Headless Architecture Is the Future of ITSM (and Why CIOs Are Choosing Buy + Build)",
-      "summary": "The question for IT leaders isn’t whether to adopt agentic AI across ITSM operations. It’s how. And getting that architectural decision wrong will cost you. Two failure modes are emerging. On one end:…",
-      "url": "https://www.salesforce.com/blog/headless-itsm/",
-      "date": "2026-08-11T21:35:29+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
