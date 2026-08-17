@@ -1,7 +1,79 @@
 {
-  "generated": "2026-08-17T11:19:27.860580+00:00",
+  "generated": "2026-08-17T17:21:01.944370+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
+      "summary": "Last week, the OpenSearch and Valkey teams visited Seoul to meet open source developers and contributors in the Open Source Summit Korea 2026 and MCP DevSummit Seoul 2026. At the four-day event, community leaders and users of open source projects and emerging agent AI gathered to share knowledge, collaborate on solutions, and push the projects […]",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
+      "date": "2026-08-17T16:02:36+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 15,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+      "date": "2026-08-17T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 4,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Quick Microsoft 365 extensions are now generally available",
+      "summary": "Amazon Quick announces the general availability of Microsoft 365 extensions for Excel, PowerPoint, Word, and Outlook. These extensions enable Quick to perform tasks directly within users' M365 environments, using AI to handle complex local tasks such as redlining documents, building financial models, creating presentation-ready decks, and managing Outlook inboxes. The Excel extension helps with co",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-microsoft-365-extensions-generally-available",
+      "date": "2026-08-17T15:41:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon OpenSearch Service now supports automatic semantic enrichment for VPC domains",
+      "summary": "Amazon OpenSearch Service now extends automatic semantic enrichment to VPC-enabled domains, allowing customers with private network configurations to leverage AI-powered semantic search without exposing their domains to the public internet. Automatic semantic enrichment transforms traditional keyword-only search into context-aware retrieval by understanding the meaning behind queries. For example,",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-vpc/",
+      "date": "2026-08-17T15:39:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Assist Your Front Desk Team With an AI Receptionist",
+      "summary": "Free your front desk team to focus on growth with an AI receptionist.",
+      "url": "https://www.salesforce.com/blog/small-business/ai-receptionist-for-growing-businesses/",
+      "date": "2026-08-17T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Securing the Infrastructure of Intelligence",
+      "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory, and networking — as well as land, power and […]",
+      "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+      "date": "2026-08-17T12:34:51+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png"
+    },
     {
       "title": "SAP’s New Industry AI Portfolio Tackles the Hardest Challenges Faced by Enterprises",
       "summary": "Moving beyond isolated use cases toward autonomous, end-to-end agentic execution.",
@@ -27,6 +99,30 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
     },
     {
+      "title": "The Defender’s Window",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "url": "https://openai.com/index/the-defenders-window",
+      "date": "2026-08-17T05:30:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 7,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "date": "2026-08-17T05:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "New policy ideas for the Intelligence Age",
       "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
       "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
@@ -45,6 +141,19 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Quick now supports data loss prevention with Microsoft Purview",
+      "summary": "Amazon Quick now integrates with Microsoft Purview to enforce data loss prevention (DLP) policies across your Quick environment. Organizations need to ensure that sensitive files aren't shared outside approved channels. With this integration, IT administrators and security teams can apply their existing Purview sensitivity labels to automatically control how files are handled in Quick capabilities",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-dlp-purview/",
+      "date": "2026-08-14T21:04:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
       "tags": [
         "data"
       ],
@@ -255,17 +364,6 @@
       "image": null
     },
     {
-      "title": "Amazon Quick Microsoft 365 extensions are now generally available",
-      "summary": "Today, Amazon Quick announces the general availability of Microsoft 365 extensions for Excel, PowerPoint, Word, and Outlook. These extensions enable Quick to perform tasks directly within users' M365 environments, using AI to handle complex local tasks such as redlining documents, building financial models, creating presentation-ready decks, and managing Outlook inboxes. The Excel extension helps ",
-      "url": "https://aws.amazon.com/amazon-quick-microsoft-365-extensions-generally-available",
-      "date": "2026-08-13T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Smart Routing in Unity AI Gateway: Match frontier quality with 30%+ lower cost per task",
       "summary": "The price and performance frontier for coding tasks features a huge diversity of models and harnesses: in 2026 alone...",
       "url": "https://www.databricks.com/blog/smart-routing-unity-ai-gateway-match-frontier-quality-30-lower-cost-task",
@@ -391,17 +489,6 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Clean Rooms supports minimum aggregation thresholds in custom analysis rules",
-      "summary": "AWS Clean Rooms now supports minimum aggregation thresholds for the Custom analysis rule type . Minimum aggregation helps protect the privacy of individual data subjects by preventing queries from returning results about individuals or small groups. With this launch, organizations can enforce minimum aggregation on custom SQL queries, ensuring that every row a query outputs represents at least the",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-minimum-aggregation-custom-analysis-rules",
-      "date": "2026-08-13T12:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -649,19 +736,6 @@
       "image": null
     },
     {
-      "title": "Why Headless Architecture Is the Future of ITSM (and Why CIOs Are Choosing Buy + Build)",
-      "summary": "The question for IT leaders isn’t whether to adopt agentic AI across ITSM operations. It’s how. And getting that architectural decision wrong will cost you. Two failure modes are emerging. On one end:…",
-      "url": "https://www.salesforce.com/blog/headless-itsm/",
-      "date": "2026-08-11T21:35:29+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Open-sourcing Metals v2: Databricks’ Java and Scala language server for multi‑million line codebases",
       "summary": "Most code at Databricks is now written by agents. For the moments engineers still...",
       "url": "https://www.databricks.com/blog/open-sourcing-metals-v2-databricks-java-and-scala-language-server-multi-million-line-codebases",
@@ -887,28 +961,6 @@
       "image": null
     },
     {
-      "title": "Premium seats are coming to ChatGPT Business",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "date": "2026-08-10T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "date": "2026-08-10T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
       "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure. Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]",
       "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
@@ -956,19 +1008,6 @@
       "relevance": 16,
       "tags": [
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "How we took malware advisories beyond npm",
-      "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on The GitHub Blog .",
-      "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
-      "date": "2026-08-06T16:51:12+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
-      "tags": [
-        "data"
       ],
       "image": null
     },
@@ -1121,20 +1160,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/ai-storage-fms-1920x1080-1.jpg"
-    },
-    {
-      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-      "summary": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines […]",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-      "date": "2026-08-04T13:00:47+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 18,
-      "tags": [
-        "ai",
-        "security"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/agentic-ai-press-osaia-5518050-1280x680-r2.png"
     },
     {
       "title": "The latest AI news we announced in July 2026",
