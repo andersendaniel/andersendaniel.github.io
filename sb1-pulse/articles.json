@@ -1,7 +1,40 @@
 {
-  "generated": "2026-08-18T05:22:36.645858+00:00",
+  "generated": "2026-08-18T11:19:33.247091+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Evaluating AI Agents Live at the Grounded Reasoning Cup",
+      "summary": "This year, Databricks hosted the inaugural Grounded Reasoning Cup, a first-of-its-kind...",
+      "url": "https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup",
+      "date": "2026-08-18T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "date": "2026-08-18T11:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "date": "2026-08-18T11:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "How Databricks Feature Store serves features with sub-second freshness",
       "summary": "Machine learning models are only as good as the signals they receive. A fraud detection...",
@@ -745,17 +778,6 @@
       "image": null
     },
     {
-      "title": "Taking AUTO CDC to the next level: Solving the hardest real-world use cases",
-      "summary": "Change data capture is one of the most common things data engineers build on Spark...",
-      "url": "https://www.databricks.com/blog/taking-auto-cdc-next-level-solving-hardest-real-world-use-cases",
-      "date": "2026-08-11T23:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "From coder to orchestrator: How agents shift the role of a developer",
       "summary": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog .",
       "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
@@ -930,32 +952,6 @@
       "category": "sap",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Putting frontier cyber models in more trusted hands",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "date": "2026-08-10T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 7,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "date": "2026-08-10T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 19,
-      "tags": [
-        "security"
-      ],
       "image": null
     },
     {
