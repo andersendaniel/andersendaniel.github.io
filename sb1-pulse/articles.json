@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T17:20:48.218224+00:00",
+  "generated": "2026-08-18T23:15:58.441327+00:00",
   "sources": 21,
   "articles": [
     {
@@ -11,6 +11,138 @@
       "category": "snowflake",
       "relevance": 7,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Databricks Document Intelligence: pushing the frontier for complex document extraction",
+      "summary": "Every enterprise has valuable data trapped in messy, unstructured documents. Today,...",
+      "url": "https://www.databricks.com/blog/databricks-document-intelligence-pushing-frontier-complex-document-extraction",
+      "date": "2026-08-18T22:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Corretto August 2026 Critical Security Patch Updates",
+      "summary": "On Aug 18, 2026, Amazon announced critical security patch update (CSPU) for Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of OpenJDK. Corretto 26.0.2.11.1, 25.0.4.8.1, 21.0.12.9.1, 17.0.20.10.1, 11.0.32.10.1, and 8u504 are now available for download . Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK. Visit Corretto home page to down",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-corretto-august-2026-security-updates",
+      "date": "2026-08-18T21:48:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Close the Agentforce Usage Visibility Gap With the AI Usage Data Model",
+      "summary": "A step-by-step walkthrough of the AI Agent Generative AI Usage Data Model — the near-real-time, fine-grained source of truth for AI consumption.",
+      "url": "https://www.salesforce.com/blog/agentforce-usage-data-model/",
+      "date": "2026-08-18T20:14:54+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 31,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AgentCore payments is now generally available in Amazon Bedrock AgentCore",
+      "summary": "Today, AWS announces the general availability of AgentCore payments, a capability within Amazon Bedrock AgentCore that enables AI agents to autonomously discover, access, and pay for paid APIs, MCPs, and content with just a few lines of code. AgentCore payments provides the security, guardrails, and observability enterprises need to deploy transacting agents in production at scale. AgentCore payme",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-payments-ga/",
+      "date": "2026-08-18T19:15:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 43,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Strengthening democratic oversight in national security",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "date": "2026-08-18T19:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio now supports data profiling and anomaly detection",
+      "summary": "Amazon SageMaker Unified Studio now supports data profiling and anomaly detection, powered by AWS Glue Data Quality. Data stewards, engineers and analysts can generate statistical profiles of their data to understand its shape and completeness, and track how these statistics change over time. Anomaly detection helps identify when data points drift from historical patterns without requiring predefi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-profiling",
+      "date": "2026-08-18T18:49:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Field Service for Home Health: Build a Proactive, Connected Care Model",
+      "summary": "The value of moving care into the home comes from connecting every patient signal to trusted context, professional judgment, and action.",
+      "url": "https://www.salesforce.com/blog/field-service-home-health/",
+      "date": "2026-08-18T18:05:57+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon MWAA Serverless now supports PythonOperator and BashOperator",
+      "summary": "Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Serverless now supports running custom Python functions and shell scripts directly in the serverless runtime using PythonOperator and BashOperator. With this launch, data engineering teams can execute the code patterns they rely on daily, including data transformations, format conversions, and data quality checks, without provisioning addit",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/mwaa-serverless-pythonoperator-bashoperator/",
+      "date": "2026-08-18T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 10,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 R8i instances are now available in Israel (Tel Aviv) region",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i instances are available in the Israel (Tel Aviv) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The R8i instances offer up to 15% better price-performance, and 2.5x more memory ba",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-israel-tel-aviv/",
+      "date": "2026-08-18T17:24:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "IAM Policy Autopilot now supports Terraform plan files",
+      "summary": "IAM Policy Autopilot can now generate baseline IAM policies directly from a Terraform plan file. IAM Policy Autopilot is an open source tool, launched at re:Invent 2025, that analyzes your code to deterministically create scoped-down IAM policies you can refine as your application evolves, reducing the time you spend writing IAM policies and troubleshooting access issues. Until now the tool analyz",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-policy-autopilot-now-supports-terraform-plan-files",
+      "date": "2026-08-18T17:19:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "PostgreSQL 19 Beta 3 is now available in Amazon RDS Database Preview Environment",
+      "summary": "Starting today, Amazon RDS for PostgreSQL 19 Beta 3 is available in the Amazon RDS Database Preview Environment , allowing you to evaluate the pre-release of PostgreSQL 19 on Amazon RDS for PostgreSQL. PostgreSQL 19 Beta 3 adds new capabilities for query performance and autovacuum management. The new pg_stat_autovacuum_scores view helps you monitor and tune autovacuum prioritization. Parallel auto",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/postgresql-19-beta-3-amazon-rds-database-preview-environment/",
+      "date": "2026-08-18T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -104,6 +236,19 @@
       "image": null
     },
     {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "date": "2026-08-18T11:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 3,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
       "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
       "url": "https://openai.com/index/chatgpt-for-teens",
@@ -111,6 +256,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon WorkSpaces now supports Nested Virtualization",
+      "summary": "AWS announces availability of nested virtualization for Amazon WorkSpaces Personal and Amazon WorkSpaces Core Managed Bundles. With nested virtualization enabled, developers can run Docker Desktop, WSL2, and other hypervisor-dependent tools directly on their Windows WorkSpaces, and KVM-based workloads, Android emulators, and nested containers on their Linux WorkSpaces — without needing separate ph",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/nested-virtualization-workspaces/",
+      "date": "2026-08-18T09:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -260,42 +416,6 @@
       "image": null
     },
     {
-      "title": "Amazon Quick Microsoft 365 extensions are now generally available",
-      "summary": "Amazon Quick announces the general availability of Microsoft 365 extensions for Excel, PowerPoint, Word, and Outlook. These extensions enable Quick to perform tasks directly within users' M365 environments, using AI to handle complex local tasks such as redlining documents, building financial models, creating presentation-ready decks, and managing Outlook inboxes. The Excel extension helps with co",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-microsoft-365-extensions-generally-available",
-      "date": "2026-08-17T15:41:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon OpenSearch Service now supports automatic semantic enrichment for VPC domains",
-      "summary": "Amazon OpenSearch Service now extends automatic semantic enrichment to VPC-enabled domains, allowing customers with private network configurations to leverage AI-powered semantic search without exposing their domains to the public internet. Automatic semantic enrichment transforms traditional keyword-only search into context-aware retrieval by understanding the meaning behind queries. For example,",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-vpc/",
-      "date": "2026-08-17T15:39:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS CloudShell now includes a built-in visual file editor",
-      "summary": "AWS CloudShell now includes a built-in visual file editor that you can launch directly from your shell session using a single 'edit' command, no setup required. CloudShell provides a browser-based shell environment that uses your existing AWS Management Console credentials, making it a popular choice for developers, DevOps engineers, and cloud administrators managing scripts, infrastructure-as-cod",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cloudshell-visual-file-editor/",
-      "date": "2026-08-17T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud",
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "Assist Your Front Desk Team With an AI Receptionist",
       "summary": "Free your front desk team to focus on growth with an AI receptionist.",
       "url": "https://www.salesforce.com/blog/small-business/ai-receptionist-for-growing-businesses/",
@@ -390,19 +510,6 @@
       "image": null
     },
     {
-      "title": "Amazon Quick now supports data loss prevention with Microsoft Purview",
-      "summary": "Amazon Quick now integrates with Microsoft Purview to enforce data loss prevention (DLP) policies across your Quick environment. Organizations need to ensure that sensitive files aren't shared outside approved channels. With this integration, IT administrators and security teams can apply their existing Purview sensitivity labels to automatically control how files are handled in Quick capabilities",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-dlp-purview/",
-      "date": "2026-08-14T21:04:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
       "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of […]",
       "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
@@ -411,7 +518,7 @@
       "category": "nvidia",
       "relevance": 1,
       "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Launching-Ceremony-2-1-scaled.jpeg"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/telco-tech-blog-header-indosat-ai-technology-center-1920x1080-1.png"
     },
     {
       "title": "What’s new with Google Cloud",
@@ -446,31 +553,6 @@
       "category": "snowflake",
       "relevance": 6,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Quick now supports customizable no data messages for visuals",
-      "summary": "Amazon Quick announces support for no data message customization, enabling authors to replace the default \"No data to display\" message with a tailored message when a visual returns no data. Authors can configure a custom title, subtitle, and hyperlink that give readers immediate context about why no data is shown and what steps to take next. All text fields support parameters, so the message can d",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quick-custom-no-data-message/",
-      "date": "2026-08-14T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS for Oracle now supports Oracle APEX version 26.1",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports Oracle APEX version 26.1. Amazon RDS for Oracle is a managed database service that makes it simple to set up, operate, and scale Oracle Database deployments in the cloud. Oracle APEX is a low-code development platform that enables developers to build scalable, secure enterprise applications with modern user interfaces. To lear",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/",
-      "date": "2026-08-14T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 12,
-      "tags": [
-        "cloud",
-        "data"
-      ],
       "image": null
     },
     {
@@ -704,19 +786,6 @@
       "image": null
     },
     {
-      "title": "What Is Dreamforce? Everything About Salesforce’s Annual Event",
-      "summary": "Dreamforce is Salesforce's annual event for becoming an Agentic Enterprise — where attendees learn, connect, have fun, and give back.",
-      "url": "https://www.salesforce.com/blog/what-is-dreamforce/",
-      "date": "2026-08-12T19:21:55+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 4,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "GitHub Copilot app for Beginners: Write your first prompt",
       "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post GitHub Copilot app for Beginners: Write your first prompt appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
@@ -738,19 +807,6 @@
       "category": "github",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "How a major freight railroad scaled pipeline creation with Genie Code",
-      "summary": "One of Canada’s largest railway networks spans roughly 20,000 route miles across...",
-      "url": "https://www.databricks.com/blog/how-major-freight-railroad-scaled-pipeline-creation-genie-code",
-      "date": "2026-08-12T16:35:18+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -975,28 +1031,6 @@
       "relevance": 5,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "date": "2026-08-10T14:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-      "url": "https://openai.com/index/model-ml",
-      "date": "2026-08-10T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 14,
-      "tags": [],
-      "image": null
     },
     {
       "title": "AI’s Dual Role in Procurement Transformation",
@@ -1338,17 +1372,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The next measure of AI momentum is work transformed",
-      "summary": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter. The post The next measure of AI momentum is work transformed appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
