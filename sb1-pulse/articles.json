@@ -1,7 +1,51 @@
 {
-  "generated": "2026-08-18T11:19:33.247091+00:00",
+  "generated": "2026-08-18T17:20:48.218224+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Maximize AI Impact: More Model Choice, Smarter Routing",
+      "summary": "AI usage doesn't equal productivity. See how dynamic model routing in Cortex AI Gateway helps enterprises achieve real intelligence efficiency.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-intelligence-efficiency-dynamic-model-routing",
+      "date": "2026-08-19T04:27:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 7,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Dynamic Model Routing & Open Models in Snowflake Cortex AI",
+      "summary": "Snowflake introduces dynamic model routing and expands open model access in Cortex AI to help organizations improve AI efficiency, performance, and cost.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/dynamic-model-routing-open-models-cortex-ai",
+      "date": "2026-08-18T16:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "When it comes to Governance, Retailers need a control plane for context",
+      "summary": "Retailers are entering a new phase of AI adoption.The early conversations around...",
+      "url": "https://www.databricks.com/blog/when-it-comes-governance-retailers-need-control-plane-context",
+      "date": "2026-08-18T15:18:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Our Most Expansive ISV Product Release To Date: More Ways to Build, Stand Out and Grow",
+      "summary": "Your customers want more: smarter service, stronger data protection, and industry-tailored experiences. You’d love to have it all in your roadmap, even if your engineering backlog doesn’t agree. That’s why Salesforce is opening…",
+      "url": "https://www.salesforce.com/blog/most-expansive-isv-release-2026/",
+      "date": "2026-08-18T15:01:07+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Evaluating AI Agents Live at the Grounded Reasoning Cup",
       "summary": "This year, Databricks hosted the inaugural Grounded Reasoning Cup, a first-of-its-kind...",
@@ -11,6 +55,41 @@
       "category": "databricks",
       "relevance": 14,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
+      "summary": "Each location will be a permanent community space to offer free workshops, networking events, pitch nights, content creation spaces, collaboration/co-working areas, and event hosting for developers, students, or tech professionals who want to walk through the doors.",
+      "url": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/",
+      "date": "2026-08-18T13:58:41+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Governed AI for Every Builder: Enterprise Controls in Snowflake CoCo",
+      "summary": "Govern AI at scale with Snowflake CoCo. Set per-user quotas, enforce enterprise policies, restrict agent access, and govern MCP tools with Cortex AI Gateway.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/governed-ai-enterprise-controls-snowflake-coco",
+      "date": "2026-08-18T13:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "With Agentic AI, ABAP Takes Evolution to the Next Level",
+      "summary": "ABAP has a long track record of successful reinvention. AI is just the next chapter.",
+      "url": "https://news.sap.com/2026/08/with-agentic-ai-abap-takes-evolution-to-the-next-level/",
+      "date": "2026-08-18T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -32,6 +111,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+      "url": "https://openai.com/index/asana",
+      "date": "2026-08-18T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -708,30 +798,6 @@
       "image": null
     },
     {
-      "title": "How to Make AI a Trusted Business Partner With Anti-Hallucination Practices",
-      "summary": "Learn how to make AI more reliable for your business with these anti-hallucination strategies.",
-      "url": "https://www.salesforce.com/blog/small-business/ai-anti-hallucination-practices/",
-      "date": "2026-08-12T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The Future of Data Analytics: Why AI is rewriting the Analyst’s Job Description",
-      "summary": "The Data Analyst role has been declared dead more times than we can count. AI will...",
-      "url": "https://www.databricks.com/blog/future-data-analytics-why-ai-rewriting-analysts-job-description",
-      "date": "2026-08-12T13:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Service-Led Growth Starts with the Business Model",
       "summary": "Technology can help scale a service business, but it does not define how value is created, delivered, or monetized.",
       "url": "https://news.sap.com/2026/08/service-led-growth-starts-with-business-model/",
@@ -884,17 +950,6 @@
       "tags": [
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "What building an AI-native finance function taught me",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "date": "2026-08-10T17:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1298,17 +1353,6 @@
       "image": null
     },
     {
-      "title": "The Humanity and AI of It All: The State of Customer Experience",
-      "summary": "CX is now a cross-functional discipline and the stakes for getting it wrong are higher than ever.",
-      "url": "https://news.sap.com/2026/07/state-of-cx-the-humanity-ai/",
-      "date": "2026-07-30T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Apache Iceberg Lakehouse: Snowflake & Google Cloud",
       "summary": "Discover how Snowflake and Google Cloud use Apache Iceberg to build an open, AI-ready lakehouse. Achieve data interoperability without vendor lock-in.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-google-cloud-open-lakehouse",
@@ -1411,19 +1455,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp"
     },
     {
-      "title": "Observability at Scale: Whatnot at Snowflake Summit",
-      "summary": "Discover how Whatnot used observability, AI analytics and real-time monitoring in Snowflake to support hyper-growth and faster decisions.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/observability-at-scale-whatnot-snowflake-summit",
-      "date": "2026-07-27T16:30:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 9,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
       "summary": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences. The post What customers value most in Microsoft Databases—from reliability to AI readiness appeared first on Microsoft Azure Blog .",
       "url": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
@@ -1448,19 +1479,6 @@
       "image": null
     },
     {
-      "title": "Announcing Claude Opus 5 on Snowflake Cortex AI",
-      "summary": "Claude Opus 5 is now available in public preview on Snowflake Cortex AI, bringing advanced reasoning and agentic capabilities with Snowflake’s secure governed AI platform.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-opus-5-snowflake-cortex-ai",
-      "date": "2026-07-24T16:22:01+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
       "summary": "AT&T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-scale telecom AI. The post AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD appeared first on Microsoft Azure B",
       "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
@@ -1470,19 +1488,6 @@
       "relevance": 2,
       "tags": [
         "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Agentic AI ROI: A Framework for Executive Leaders",
-      "summary": "Struggling to scale agentic AI? Learn how the Snowflake AI Data Cloud helps enterprises eliminate operational tax and drive measurable ROI for AI initiatives.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-ai-roi-executive-framework",
-      "date": "2026-07-22T20:33:57+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 19,
-      "tags": [
-        "ai"
       ],
       "image": null
     },
