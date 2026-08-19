@@ -1,17 +1,140 @@
 {
-  "generated": "2026-08-19T17:21:00.742618+00:00",
+  "generated": "2026-08-19T23:17:54.885695+00:00",
   "sources": 21,
   "articles": [
     {
+      "title": "Launching External Web Access for Web Search on Amazon Bedrock",
+      "summary": "Earlier this month, we announced Web Search on Amazon Bedrock , a built-in server-side tool that allows you to ground model responses with current web knowledge, while maintaining data within your secured AWS environment with zero data egress. Today, we are expanding Web Search to enable the external_web_access parameter allowing Web Search to retrieve content directly from the public web so model",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/",
+      "date": "2026-08-19T23:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 15,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AI SRE Done Right: Why Your Data Foundation Matters",
+      "summary": "Discover why most AI SREs underperform and the three-layer architecture that helps engineering teams troubleshoot incidents faster.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-sre-unified-telemetry-context-graph-incident-investigation",
+      "date": "2026-08-19T21:31:41+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Why Companies Are Turning to Salesforce as a Customer Success Platform",
+      "summary": "Success teams are increasingly choosing Salesforce over standalone customer success platforms. Here's what Apollo, Superhuman, AppsFlyer, and Sensor Tower learned along the way.",
+      "url": "https://www.salesforce.com/blog/why-companies-are-turning-to-salesforce-as-a-customer-success-platform/",
+      "date": "2026-08-19T21:24:41+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch log Centralization now supports log group tag propagation",
+      "summary": "Amazon CloudWatch Centralization now copies log group tags from source accounts to the destination log groups created by centralization rules. CloudWatch Centralization aggregates log data from multiple accounts and Regions into one destination account. With tag propagation, the cost, ownership, and compliance tags you maintain at the source now apply to the copied log groups. With today's launch,",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/",
+      "date": "2026-08-19T21:06:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker notebooks now support trusted identity propagation",
+      "summary": "Amazon SageMaker Notebooks now support Trusted Identity Propagation (TIP) with Amazon Athena, Amazon Redshift, and Amazon EMR Serverless, enabling per-user access control for data analytics. When connected to a TIP-enabled compute in a TIP-enabled Project, each notebook user's IAM Identity Center identity flows through to AWS Lake Formation, ensuring they see only the tables, columns, and rows the",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/",
+      "date": "2026-08-19T20:25:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Offering Zero Data Retention for frontier models",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "date": "2026-08-19T19:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 4,
       "tags": [
         "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock",
+      "summary": "AWS Cost Anomaly Detection now monitors spend on third-party foundation models running on Amazon Bedrock, such as Anthropic Claude and other provider-hosted models. Cost Anomaly Detection uses machine learning to detect and alert on unusual spend, and this launch extends that coverage to third-party model usage on Amazon Bedrock. Teams running production generative AI workloads now get automatic a",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P/",
+      "date": "2026-08-19T17:57:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 54,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon OpenSearch Ingestion is now available in GovCloud Regions",
+      "summary": "Starting today, customers can use Amazon OpenSearch Ingestion in AWS GovCloud (US-East) and AWS GovCloud (US-West), for ingesting data into their Amazon OpenSearch Service managed clusters or serverless collections. Amazon OpenSearch Ingestion is a fully managed data ingestion tier that allows you to ingest and process data before indexing it in Amazon OpenSearch managed clusters or serverless col",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions",
+      "date": "2026-08-19T17:54:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Managing your work",
+      "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+      "date": "2026-08-19T17:50:23+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 12,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Marketplace launches support for Amazon Lightsail",
+      "summary": "Today, AWS Marketplace announces support for launching select Amazon Machine Images (AMIs) on Amazon Lightsail. Customers who want simple, predictable pricing and a streamlined instance-creation experience can now easily deploy eligible AWS Marketplace AMIs on Amazon Lightsail in just a few clicks. Lightsail instance bundles include compute, storage, and a generous data transfer allowance at a fix",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail",
+      "date": "2026-08-19T17:04:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS announces a new Availability Zone in the Europe (London) Region",
+      "summary": "AWS has added a fourth Availability Zone to the Europe (London) Region (eu-west-2), expanding infrastructure capacity to meet growing demand for cloud compute in the Region. The new Availability Zone delivers next-generation AI and ML capacity, including Amazon EC2, Trn3, and P6 accelerated instances, alongside general-purpose compute. The new Availability Zone gives AWS customers in eu-west-2 gre",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/",
+      "date": "2026-08-19T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -62,6 +185,20 @@
       "image": null
     },
     {
+      "title": "Amazon WorkSpaces Applications now offers in-console monitoring capabilities",
+      "summary": "Amazon WorkSpaces Applications now offers a native monitoring experience embedded directly in the service console. Administrators can now access real-time session-level metrics, instance-level resource data, and network performance metrics without requiring third-party monitoring tools or Amazon CloudWatch expertise. Previously, enterprise customers managing large WorkSpaces Applications deploymen",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-console-monitoring",
+      "date": "2026-08-19T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 10,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "You Already Own These AI Agents, but Are You Using Them?",
       "summary": "The AI Investment That Keeps Paying Ask any financial services leader what’s keeping them up at night, and you’ll hear a version of the same story: customer expectations have never been higher, margins…",
       "url": "https://www.salesforce.com/blog/agentforce-financial-services-templates/",
@@ -108,6 +245,17 @@
       "image": null
     },
     {
+      "title": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Tape and Volume Gateway",
+      "summary": "AWS Storage Gateway now supports FIPS 140-3 validated endpoints over AWS PrivateLink for Tape Gateway and Volume Gateway. Previously, FIPS endpoints were available only over the public internet. Now you can keep FIPS-compliant traffic on the private AWS network, making it easier to use Storage Gateway for regulated workloads. With this launch, your Tape Gateway and Volume Gateway can reach the Sto",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/storage-gateway-fips-privatelink/",
+      "date": "2026-08-19T10:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "SAP Brings SAP SuccessFactors and Joule to NTT DATA’s Global People and Culture Transformation",
       "summary": "WALLDORF — SAP will help replace multiple legacy HR systems with one unified platform for people data and processes.",
       "url": "https://news.sap.com/2026/08/ntt-data-inc-accelerates-ai-driven-people-transformation/",
@@ -115,6 +263,17 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 R8a instances are now available in Asia Pacific (Taipei) region",
+      "summary": "Starting today, Amazon EC2 R8a instances are now available in Asia Pacific (Taipei) Region. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver up to 30% higher performance, and up to 19% better price-performance compared to R7a instances. R8a instances deliver 45% more memory bandwidth compared to R7a instances, making thes",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-asia-pacific-taipei/",
+      "date": "2026-08-19T07:51:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -130,13 +289,13 @@
       "image": null
     },
     {
-      "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6",
-      "summary": "Amazon Bedrock now supports SpaceXAI Grok 4.6, SpaceXAI's latest flagship model built for long-running agents and ambitious interactive and visual work. Grok 4.6 offers a 500K context window and configurable reasoning efforts (low, medium, high, xhigh). Grok 4.6 builds on previous generations of Grok with a particular focus on staying with complex tasks across many steps, whether researching a top",
+      "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6 with Cross Region Inferencing",
+      "summary": "Amazon Bedrock now supports SpaceXAI Grok 4.6, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Customers can now access Grok 4.6 at scale with cross-Region inference routing requests across multiple AWS Regions for higher throughput and lower inference costs. Cross-Region inference automatically routes inference requests across m",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/",
       "date": "2026-08-19T05:18:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
-      "relevance": 14,
+      "relevance": 15,
       "tags": [
         "ai"
       ],
@@ -227,19 +386,6 @@
       "image": null
     },
     {
-      "title": "AgentCore payments is now generally available in Amazon Bedrock AgentCore",
-      "summary": "Today, AWS announces the general availability of AgentCore payments, a capability within Amazon Bedrock AgentCore that enables AI agents to autonomously discover, access, and pay for paid APIs, MCPs, and content with just a few lines of code. AgentCore payments provides the security, guardrails, and observability enterprises need to deploy transacting agents in production at scale. AgentCore payme",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-payments-ga/",
-      "date": "2026-08-18T19:15:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 43,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Strengthening democratic oversight in national security",
       "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
       "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -247,17 +393,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio now supports data profiling and anomaly detection",
-      "summary": "Amazon SageMaker Unified Studio now supports data profiling and anomaly detection, powered by AWS Glue Data Quality. Data stewards, engineers and analysts can generate statistical profiles of their data to understand its shape and completeness, and track how these statistics change over time. Anomaly detection helps identify when data points drift from historical patterns without requiring predefi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-profiling",
-      "date": "2026-08-18T18:49:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -270,56 +405,6 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon MWAA Serverless now supports PythonOperator and BashOperator",
-      "summary": "Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Serverless now supports running custom Python functions and shell scripts directly in the serverless runtime using PythonOperator and BashOperator. With this launch, data engineering teams can execute the code patterns they rely on daily, including data transformations, format conversions, and data quality checks, without provisioning addit",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/mwaa-serverless-pythonoperator-bashoperator/",
-      "date": "2026-08-18T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 10,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 R8i instances are now available in Israel (Tel Aviv) region",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i instances are available in the Israel (Tel Aviv) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The R8i instances offer up to 15% better price-performance, and 2.5x more memory ba",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-israel-tel-aviv/",
-      "date": "2026-08-18T17:24:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "IAM Policy Autopilot now supports Terraform plan files",
-      "summary": "IAM Policy Autopilot can now generate baseline IAM policies directly from a Terraform plan file. IAM Policy Autopilot is an open source tool, launched at re:Invent 2025, that analyzes your code to deterministically create scoped-down IAM policies you can refine as your application evolves, reducing the time you spend writing IAM policies and troubleshooting access issues. Until now the tool analyz",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-policy-autopilot-now-supports-terraform-plan-files",
-      "date": "2026-08-18T17:19:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "PostgreSQL 19 Beta 3 is now available in Amazon RDS Database Preview Environment",
-      "summary": "Starting today, Amazon RDS for PostgreSQL 19 Beta 3 is available in the Amazon RDS Database Preview Environment , allowing you to evaluate the pre-release of PostgreSQL 19 on Amazon RDS for PostgreSQL. PostgreSQL 19 Beta 3 adds new capabilities for query performance and autovacuum management. The new pg_stat_autovacuum_scores view helps you monitor and tune autovacuum prioritization. Parallel auto",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/postgresql-19-beta-3-amazon-rds-database-preview-environment/",
-      "date": "2026-08-18T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -437,17 +522,6 @@
       "image": null
     },
     {
-      "title": "Amazon WorkSpaces now supports Nested Virtualization",
-      "summary": "Amazon WorkSpaces now supports nested virtualization for Amazon WorkSpaces Personal and Amazon WorkSpaces Core Managed Bundles. With nested virtualization enabled, developers can run Docker Desktop, Windows Subsystem for Linux (WSL2), and other hypervisor-dependent tools directly on their Windows WorkSpaces, and KVM-based workloads, Android emulators, and nested containers on their Linux WorkSpace",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/nested-virtualization-workspaces/",
-      "date": "2026-08-18T08:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
       "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
       "url": "https://openai.com/index/asana",
@@ -456,19 +530,6 @@
       "category": "openai",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon S3 Metadata and annotations are now available in AWS GovCloud (US) Regions",
-      "summary": "Amazon S3 Metadata and annotations are now available in AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions, giving you the easiest and fastest way to discover, understand, and enrich your S3 data. S3 Metadata automatically captures system-defined details like object size and source, and stores them in Amazon S3 Tables, optimized for near real-time tabular queries that simplify business anal",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-metadata-annotations-govcloud-regions",
-      "date": "2026-08-18T04:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -494,19 +555,6 @@
       "image": null
     },
     {
-      "title": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models",
-      "summary": "Amazon Bedrock now supports the OpenAI GPT-5.6 models (Sol, Terra, and Luna) on the bedrock-runtime endpoint, with support for the Responses, Converse, and Chat Completions APIs. It also adds support for cross-Region inference, allowing customers to use Global and Geo cross-Region inference to access higher throughput and lower inference costs. Cross-Region inference automatically routes inference",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/",
-      "date": "2026-08-17T20:29:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 28,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Building a Context Layer for AI Agents | Snowflake",
       "summary": "Learn best practices for creating a semantic layer using Snowflake semantic views. Improve data accuracy and scale AI agent performance across your stack.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-internal-context-layer-for-ai-agents",
@@ -528,17 +576,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon ECR now supports 25 replication rules per registry",
-      "summary": "Amazon Elastic Container Registry (Amazon ECR) has increased the maximum number of replication rules per registry from 10 to 25. Previously, customers with complex multi-region or multi-account architectures were constrained to 10 replication rules per registry, requiring them to consolidate replication configurations to work within that constraint. With this update, customers can define up to 25 ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-increased-replication-rules-limit",
-      "date": "2026-08-17T19:01:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -604,17 +641,6 @@
         "ai"
       ],
       "image": null
-    },
-    {
-      "title": "Get closer to the game with Gemini and Pixel",
-      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "date": "2026-08-17T08:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 13,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
     },
     {
       "title": "The Defender’s Window",
@@ -785,10 +811,12 @@
       "summary": "The video shows Sheets canvas in action.",
       "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "date": "2026-08-13T16:45:00+00:00",
-      "source": "Google AI",
+      "source": "Google Cloud",
       "category": "google",
       "relevance": 2,
-      "tags": [],
+      "tags": [
+        "cloud"
+      ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
     },
     {
@@ -987,17 +1015,6 @@
       "image": null
     },
     {
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "summary": "AMIE promotional video",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "date": "2026-08-11T17:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 5,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp"
-    },
-    {
       "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
       "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU. In traditional power delivery, electricity travels from the grid as an alternating current (AC) […]",
       "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
@@ -1072,17 +1089,6 @@
       "image": null
     },
     {
-      "title": "Evolve your marketing with new AI tools",
-      "summary": "Advisor UI in Google Ads and Google Analytics",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "date": "2026-08-10T14:30:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 5,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
-    },
-    {
       "title": "AI’s Dual Role in Procurement Transformation",
       "summary": "The gap between AI’s promise and procurement’s reality is widening. Here’s what needs to change.",
       "url": "https://news.sap.com/2026/08/ai-dual-role-procurement-transformation/",
@@ -1128,19 +1134,6 @@
       "tags": [
         "ai",
         "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "A guide to slash commands in the GitHub Copilot app",
-      "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
-      "date": "2026-08-06T19:49:34+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 16,
-      "tags": [
-        "developer"
       ],
       "image": null
     },
@@ -1299,10 +1292,12 @@
       "summary": "July AI recap header",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "date": "2026-08-04T13:00:00+00:00",
-      "source": "Google AI",
+      "source": "Google Cloud",
       "category": "google",
-      "relevance": 1,
-      "tags": [],
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp"
     },
     {
@@ -1359,10 +1354,12 @@
       "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
       "date": "2026-08-03T15:00:00+00:00",
-      "source": "Google AI",
+      "source": "Google Cloud",
       "category": "google",
-      "relevance": 1,
-      "tags": [],
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
     },
     {
@@ -1442,19 +1439,6 @@
       "image": null
     },
     {
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "date": "2026-07-28T16:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
-    },
-    {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "summary": "",
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
@@ -1466,42 +1450,6 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "date": "2026-07-28T13:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "date": "2026-07-28T13:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Enterprise AI Security: Agentic Controls and MCP Governance",
-      "summary": "Snowflake announces enterprise-grade AI security at Black Hat 2026, including Cortex AI Gateway and Cortex tools for MCP governance, agent identity controls and data exfiltration prevention.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/enterprise-ai-security-agentic-mcp-governance",
-      "date": "2026-07-28T12:58:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 11,
-      "tags": [
-        "ai",
-        "security"
-      ],
-      "image": null
     },
     {
       "title": "NOAA and Google Cloud collaborate to advance weather forecasting.",
@@ -1563,17 +1511,6 @@
       "relevance": 1,
       "tags": [],
       "image": null
-    },
-    {
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "date": "2026-07-22T13:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"
     },
     {
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
