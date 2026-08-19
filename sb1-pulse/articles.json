@@ -1,7 +1,42 @@
 {
-  "generated": "2026-08-19T05:23:27.828910+00:00",
+  "generated": "2026-08-19T11:19:36.087533+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "What NASA’s Return to the Moon Can Teach Leaders About Transformation at Scale",
+      "summary": "Managing complexity, sustaining momentum, and using emerging technology support mission outcomes.",
+      "url": "https://news.sap.com/2026/08/sap-now-nasa-return-to-moon-teach-about-transformation-at-scale/",
+      "date": "2026-08-19T10:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "SAP Brings SAP SuccessFactors and Joule to NTT DATA’s Global People and Culture Transformation",
+      "summary": "WALLDORF — SAP will help replace multiple legacy HR systems with one unified platform for people data and processes.",
+      "url": "https://news.sap.com/2026/08/ntt-data-inc-accelerates-ai-driven-people-transformation/",
+      "date": "2026-08-19T08:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6",
+      "summary": "Amazon Bedrock now supports SpaceXAI Grok 4.6, SpaceXAI's latest flagship model built for long-running agents and ambitious interactive and visual work. Grok 4.6 offers a 500K context window and configurable reasoning efforts (low, medium, high, xhigh). Grok 4.6 builds on previous generations of Grok with a particular focus on staying with complex tasks across many steps, whether researching a top",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/",
+      "date": "2026-08-19T05:18:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
     {
       "title": "Maximize AI Impact: More Model Choice, Smarter Routing",
       "summary": "AI usage doesn't equal productivity. See how dynamic model routing in Cortex AI Gateway helps enterprises achieve real intelligence efficiency.",
@@ -37,6 +72,17 @@
       "tags": [
         "cloud"
       ],
+      "image": null
+    },
+    {
+      "title": "ChatGPT Ads expands across Europe",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "date": "2026-08-18T22:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 17,
+      "tags": [],
       "image": null
     },
     {
@@ -399,19 +445,6 @@
       "category": "aws",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon MSK now supports configuring custom domain names for MSK Provisioned clusters",
-      "summary": "You can now easily configure custom domain names on Amazon MSK Provisioned clusters, on either ZooKeeper or KRaft mode for metadata management. This capability helps client applications maintain the same connection endpoints, simplifying cluster migrations, disaster recovery failovers, and scaling operations without reconfiguration. Previously, customers configured custom domain names manually on ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/17/amazon-msk-custom-domain-names/",
-      "date": "2026-08-17T18:01:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -1011,17 +1044,6 @@
       "image": null
     },
     {
-      "title": "Testing ads in ChatGPT",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "2026-08-11T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Using the GitHub Copilot SDK for Java",
       "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog .",
       "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
@@ -1367,17 +1389,6 @@
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
     },
     {
-      "title": "SAP Acknowledged as a Leader in First-Ever Gartner® Magic Quadrant™ for Digital Twin of an Organization Platforms",
-      "summary": "SAP offers businesses a dynamic digital twin of an organization with continuous observability and AI-driven actionability features.",
-      "url": "https://news.sap.com/2026/07/sap-leader-gartner-magic-quadrant-digital-twin-organization-platforms/",
-      "date": "2026-07-31T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
       "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
@@ -1388,17 +1399,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Statement on the Decision of the German Federal Cartel Office Not to Initiate Antitrust Proceedings Against SAP",
-      "summary": "WALLDORF — SAP welcomes the decision of the Bundeskartellamt.",
-      "url": "https://news.sap.com/2026/07/statement-on-the-decision-of-the-german-federal-cartel-office-not-to-initiate-antitrust-proceedings-against-sap/",
-      "date": "2026-07-30T13:05:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
