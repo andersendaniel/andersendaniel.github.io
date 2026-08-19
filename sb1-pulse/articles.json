@@ -1,7 +1,101 @@
 {
-  "generated": "2026-08-19T11:19:36.087533+00:00",
+  "generated": "2026-08-19T17:21:00.742618+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "date": "2026-08-19T19:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 4,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Salesforce Architect’s Guide to Dreamforce 2026",
+      "summary": "Join us at Dreamforce 2026 in person or on Salesforce+ to experience the Agentic Enterprise. Powered by you, amplified by agents.",
+      "url": "https://www.salesforce.com/blog/salesforce-architect-guide-dreamforce-2026/",
+      "date": "2026-08-19T16:01:43+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 4,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Designing effective Genie Agents from a single prompt",
+      "summary": "Ask a generic agent about revenue, and it’ll likely grab the first revenue table...",
+      "url": "https://www.databricks.com/blog/designing-effective-genie-agents-single-prompt",
+      "date": "2026-08-19T16:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Quick adds deny by default for custom permissions",
+      "summary": "Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reach users. Previously, new AI capabilities were available to all users on release, requiring administrators to react after the fact. With deny by default, administrators restrict the AI capability category in a custom permissions profile and assign it to ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/",
+      "date": "2026-08-19T15:36:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Is It Worth Upgrading to Agentforce for Financial Services?",
+      "summary": "The Financial Services Firms Pulling Ahead Have One Thing In Common The recipe for success in financial services is getting harder to perfect. Customer expectations are rising, competition is intensifying, and the teams…",
+      "url": "https://www.salesforce.com/blog/upgrade-agentforce-financial-services/",
+      "date": "2026-08-19T15:09:50+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 12,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "You Already Own These AI Agents, but Are You Using Them?",
+      "summary": "The AI Investment That Keeps Paying Ask any financial services leader what’s keeping them up at night, and you’ll hear a version of the same story: customer expectations have never been higher, margins…",
+      "url": "https://www.salesforce.com/blog/agentforce-financial-services-templates/",
+      "date": "2026-08-19T14:31:40+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 25,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "An IT Leader’s Guide to Dreamforce 2026",
+      "summary": "Technology is evolving faster than ever, and IT teams are in the hot seat. Discover the keynotes, sessions, and hands-on experiences designed to help you securely scale AI across your enterprise.",
+      "url": "https://www.salesforce.com/blog/it-guide-to-dreamforce-2026/",
+      "date": "2026-08-19T14:18:36+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Powering AI with Salesforce Data 360 & Unstructured Data",
+      "summary": "Customer insights rarely reside solely in structured databases in rows and columns. Instead, significant enterprise value remains trapped within unstructured content —such as PDFs, knowledge base articles, email threads, customer interaction transcripts, media…",
+      "url": "https://www.salesforce.com/blog/powering-ai-with-salesforce-data-360-unstructured-data/",
+      "date": "2026-08-19T13:23:54+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "What NASA’s Return to the Moon Can Teach Leaders About Transformation at Scale",
       "summary": "Managing complexity, sustaining momentum, and using emerging technology support mission outcomes.",
@@ -21,6 +115,17 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "url": "https://openai.com/index/replit",
+      "date": "2026-08-19T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -437,17 +542,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 Auto Scaling now supports batch instance termination",
-      "summary": "Amazon EC2 Auto Scaling now supports batch instance termination in a single API call. You can now pass up to 100 instance IDs to the TerminateInstanceInAutoScalingGroup API to terminate them as a batch, reducing the number of API calls needed to scale down your Auto Scaling groups. Batch termination is designed for workloads that need to rapidly scale down, such as AI/ML training jobs, container o",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-auto-scaling-batch-termination",
-      "date": "2026-08-17T18:11:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
       "summary": "Last week, AWS contributors joined the OpenSearch and Valkey communities at Open Source Summit Korea 2026 and MCP DevSummit Seoul 2026 to meet open source developers and contributors. At the four-day event, community leaders and users of these Linux Foundation open source projects gathered to share knowledge, collaborate on solutions, and push the projects forward. […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
@@ -485,17 +579,6 @@
       "tags": [
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Assist Your Front Desk Team With an AI Receptionist",
-      "summary": "Free your front desk team to focus on growth with an AI receptionist.",
-      "url": "https://www.salesforce.com/blog/small-business/ai-receptionist-for-growing-businesses/",
-      "date": "2026-08-17T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -628,17 +711,6 @@
       "image": null
     },
     {
-      "title": "Scale Customer Support With AI Agents: 5 Service Tips For SMBs",
-      "summary": "Your customers deserve fast, personal service — here's how AI agents are delivering it.",
-      "url": "https://www.salesforce.com/blog/small-business/customer-support-tips-with-ai-agents/",
-      "date": "2026-08-14T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Life Sciences M&A Data Integration with Snowflake",
       "summary": "Learn how Snowflake accelerates life sciences M&A and divestitures with secure data sharing, clean rooms, governance, and faster integration.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ma-data-integration",
@@ -646,17 +718,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Scale Agent Development with Salesforce Headless 360",
-      "summary": "Take your Agent Development Lifecycle headless with CLI-driven, AI-assisted workflows that help teams build complex agents faster while preserving quality as they scale.",
-      "url": "https://www.salesforce.com/blog/agent-development-lifecycle-headless/",
-      "date": "2026-08-13T21:06:25+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -682,30 +743,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "The Experimentation Phase of AI Is Over. Here’s What Commerce Leaders Are Focusing on Now",
-      "summary": "Until recently, agentic AI in commerce has largely lived in the pilot phase. Businesses tested AI-powered agents for increasingly complex tasks, like generating product pages, drafting and localizing product descriptions at catalog scale,…",
-      "url": "https://www.salesforce.com/blog/commerce-leaders-ai-focus/",
-      "date": "2026-08-13T18:56:34+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Accessibility is the Blueprint for Trustworthy AI",
-      "summary": "AI changes how software behaves, but it doesn't change what people need to trust it. Accessible design is the solution.",
-      "url": "https://www.salesforce.com/blog/ai-accessibility-builds-trust/",
-      "date": "2026-08-13T18:19:08+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -847,17 +884,6 @@
       "image": null
     },
     {
-      "title": "Databricks Network Configuration delivery to Tens of Millions of Serverless VMs",
-      "summary": "SummaryDatabricks' serverless platform launches tens of millions of VMs daily, and...",
-      "url": "https://www.databricks.com/blog/databricks-network-configuration-delivery-tens-millions-serverless-vms",
-      "date": "2026-08-12T20:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 7,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "GitHub Copilot app for Beginners: Write your first prompt",
       "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post GitHub Copilot app for Beginners: Write your first prompt appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
@@ -937,19 +963,6 @@
       "image": null
     },
     {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "date": "2026-08-12T06:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 29,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
       "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies […]",
       "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
@@ -959,17 +972,6 @@
       "relevance": 3,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/jhh-support-blog-visual-logo-lock-up-3x4-1.png"
-    },
-    {
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "url": "https://openai.com/index/ringcentral",
-      "date": "2026-08-12T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     },
     {
       "title": "From coder to orchestrator: How agents shift the role of a developer",
@@ -1583,20 +1585,6 @@
       "relevance": 13,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
-      "summary": "Last week, my team visited Seoul to meet AWS Korea User Group (AWSKRUG) leaders. AWSKRUG is the largest cloud developer community in Korea, with 20 meetup groups organized by topic and area that collectively host over 100 events each year, primarily in Seoul. My team regularly visits countries across the Asia-Pacific region, listens to feedback […]",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
-      "date": "2026-07-20T16:37:34+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 28,
-      "tags": [
-        "ai",
-        "cloud"
       ],
       "image": null
     }
