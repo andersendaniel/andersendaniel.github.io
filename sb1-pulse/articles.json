@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T05:24:07.280822+00:00",
+  "generated": "2026-08-20T11:20:14.710250+00:00",
   "sources": 21,
   "articles": [
     {
@@ -70,6 +70,20 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 13,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch pipelines adds GeoIP, RDS, and XML processors",
+      "summary": "Amazon CloudWatch pipelines now includes three new processors that parse and enrich log data as it's ingested: an Amazon RDS log parser, an XML parser and a GeoIP enrichment processor. CloudWatch pipelines is a fully managed service that ingests, transforms, and routes telemetry to CloudWatch without managing infrastructure. Log sources often produce data that isn't immediately queryable without r",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/cloudwatch-geoip-rds-xml/",
+      "date": "2026-08-19T20:13:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
       "tags": [
         "cloud",
         "data"
@@ -338,19 +352,6 @@
       "image": null
     },
     {
-      "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6 with Cross Region Inferencing",
-      "summary": "Amazon Bedrock now supports SpaceXAI Grok 4.6, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Customers can now access Grok 4.6 at scale with cross-Region inference routing requests across multiple AWS Regions for higher throughput and lower inference costs. Cross-Region inference automatically routes inference requests across m",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/",
-      "date": "2026-08-19T05:18:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 15,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Maximize AI Impact: More Model Choice, Smarter Routing",
       "summary": "AI usage doesn't equal productivity. See how dynamic model routing in Cortex AI Gateway helps enterprises achieve real intelligence efficiency.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-intelligence-efficiency-dynamic-model-routing",
@@ -614,6 +615,19 @@
       "tags": [
         "ai",
         "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
+      "summary": "Cloud-native platforms are becoming the foundation for AI transformation. Discover how Microsoft's Azure application platform helps organizations modernize, innovate, and operate AI-powered applications at scale. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
+      "date": "2026-08-17T15:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 3,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
