@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T23:17:54.885695+00:00",
+  "generated": "2026-08-20T05:24:07.280822+00:00",
   "sources": 21,
   "articles": [
     {
@@ -11,6 +11,20 @@
       "category": "aws",
       "relevance": 15,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
+      "summary": "Web Search in Amazon Bedrock AgentCore now supports domain filtering and published-date filtering, giving agents per-request control over which web sources and time windows they search. Amazon Bedrock AgentCore provides the infrastructure to build, connect, and optimize AI agents, and Web Search enables those agents to ground responses in current web data. With runtime domain filtering, agents can",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
+      "date": "2026-08-19T22:55:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 30,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -61,6 +75,17 @@
         "data"
       ],
       "image": null
+    },
+    {
+      "title": "5 new ways to level up your learning with Search",
+      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "date": "2026-08-19T19:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"
     },
     {
       "title": "Offering Zero Data Retention for frontier models",
@@ -139,6 +164,19 @@
       "image": null
     },
     {
+      "title": "AWS Lambda MicroVMs is now available in 5 additional AWS regions",
+      "summary": "AWS Lambda MicroVMs is now available in 5 additional AWS Regions: Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Europe (Frankfurt), and Europe (Stockholm). With this launch, you can use Lambda MicroVMs in a total of 10 AWS Regions. Lambda MicroVMs is a serverless compute primitive that provides VM-level isolation, near-instant launch and resume speeds, and state preservat",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions",
+      "date": "2026-08-19T16:14:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 9,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "The Salesforce Architect’s Guide to Dreamforce 2026",
       "summary": "Join us at Dreamforce 2026 in person or on Salesforce+ to experience the Agentic Enterprise. Powered by you, amplified by agents.",
       "url": "https://www.salesforce.com/blog/salesforce-architect-guide-dreamforce-2026/",
@@ -196,6 +234,17 @@
         "cloud",
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "AWS IAM now supports 20 managed policies per role by default",
+      "summary": "AWS Identity and Access Management (IAM) has increased the default quota for managed policies per role from 10 to 20. This higher default quota reduces the need to make Service Quota requests when following IAM best practices like separating permissions into purpose-specific policies or when onboarding to AWS Partner products that require attaching additional managed policies. If you need more tha",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-quota-increase/",
+      "date": "2026-08-19T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
       "image": null
     },
     {
@@ -313,32 +362,6 @@
       "image": null
     },
     {
-      "title": "Amazon Bedrock now supports OpenAI models in India",
-      "summary": "Amazon Bedrock now supports the OpenAI GPT-5.6 models (Terra and Luna) in India, with India Geo cross-Region inference. Customers with regulatory requirements of in-country inferencing can now use OpenAI models at scale ensuring that inferencing is processed within India. Cross-Region inference automatically routes inference requests across multiple AWS Regions to give you higher throughput, witho",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/",
-      "date": "2026-08-18T23:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 27,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region",
-      "summary": "AWS Identity and Access Management (IAM) now enables AWS workloads in the AWS European Sovereign Cloud (Germany) Region to securely authenticate with external services using short-lived JSON Web Tokens (JWTs). The AWS European Sovereign Cloud is an independent cloud for Europe entirely located within the European Union (EU), designed to help customers meet their evolving sovereignty requirements. ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/",
-      "date": "2026-08-18T22:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 10,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "ChatGPT Ads expands across Europe",
       "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
       "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
@@ -357,17 +380,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Corretto August 2026 Critical Security Patch Updates",
-      "summary": "On Aug 18, 2026, Amazon announced critical security patch update (CSPU) for Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of OpenJDK. Corretto 26.0.2.11.1, 25.0.4.8.1, 21.0.12.9.1, 17.0.20.10.1, 11.0.32.10.1, and 8u504 are now available for download . Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK. Visit Corretto home page to down",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-corretto-august-2026-security-updates",
-      "date": "2026-08-18T21:48:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
       "tags": [],
       "image": null
     },
@@ -606,19 +618,6 @@
       "image": null
     },
     {
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
-      "summary": "Cloud-native platforms are becoming the foundation for AI transformation. Discover how Microsoft's Azure application platform helps organizations modernize, innovate, and operate AI-powered applications at scale. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
-      "date": "2026-08-17T15:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Securing the Infrastructure of Intelligence",
       "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory and networking — as well as land, power and […]",
       "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
@@ -641,6 +640,17 @@
         "ai"
       ],
       "image": null
+    },
+    {
+      "title": "Get closer to the game with Gemini and Pixel",
+      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "date": "2026-08-17T08:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 13,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
     },
     {
       "title": "The Defender’s Window",
@@ -811,12 +821,10 @@
       "summary": "The video shows Sheets canvas in action.",
       "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "date": "2026-08-13T16:45:00+00:00",
-      "source": "Google Cloud",
+      "source": "Google AI",
       "category": "google",
       "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
+      "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
     },
     {
@@ -1015,6 +1023,17 @@
       "image": null
     },
     {
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "summary": "AMIE promotional video",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "date": "2026-08-11T17:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 5,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp"
+    },
+    {
       "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
       "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU. In traditional power delivery, electricity travels from the grid as an alternating current (AC) […]",
       "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
@@ -1087,6 +1106,17 @@
         "cloud"
       ],
       "image": null
+    },
+    {
+      "title": "Evolve your marketing with new AI tools",
+      "summary": "Advisor UI in Google Ads and Google Analytics",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "date": "2026-08-10T14:30:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 5,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
     },
     {
       "title": "AI’s Dual Role in Procurement Transformation",
@@ -1292,12 +1322,10 @@
       "summary": "July AI recap header",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "date": "2026-08-04T13:00:00+00:00",
-      "source": "Google Cloud",
+      "source": "Google AI",
       "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
+      "relevance": 1,
+      "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp"
     },
     {
@@ -1354,12 +1382,10 @@
       "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
       "date": "2026-08-03T15:00:00+00:00",
-      "source": "Google Cloud",
+      "source": "Google AI",
       "category": "google",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
+      "relevance": 1,
+      "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
     },
     {
@@ -1439,6 +1465,19 @@
       "image": null
     },
     {
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "date": "2026-07-28T16:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
+    },
+    {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "summary": "",
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
@@ -1450,6 +1489,28 @@
         "ai"
       ],
       "image": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "date": "2026-07-28T13:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "date": "2026-07-28T13:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
     },
     {
       "title": "NOAA and Google Cloud collaborate to advance weather forecasting.",
@@ -1511,6 +1572,17 @@
       "relevance": 1,
       "tags": [],
       "image": null
+    },
+    {
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "date": "2026-07-22T13:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"
     },
     {
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
