@@ -1,7 +1,86 @@
 {
-  "generated": "2026-08-20T11:20:14.710250+00:00",
+  "generated": "2026-08-20T17:22:42.936652+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "The Mobile Worker Crisis: Solving Turnover and Disconnection in the Field",
+      "summary": "66% of field service organizations are losing technicians to poor training and disconnection. Here's how 39% are turning the tide—and keeping revenue high.",
+      "url": "https://www.salesforce.com/blog/mobile-worker-crisis/",
+      "date": "2026-08-20T17:12:29+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Data 360 Headless: Extend the Power of Data 360 to Any Agent, App, or Dev Tool",
+      "summary": "A couple of months ago, I stood on a stage in Chicago and let Claude talk to a live Salesforce org in front of a room full of practitioners. Real queries, real data.…",
+      "url": "https://www.salesforce.com/blog/data-360-headless-extend-the-power-of-data-360-to-any-agent-app-or-dev-tool/",
+      "date": "2026-08-20T16:59:01+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "From Alliance to Apache: The Next Chapter for Open Semantics",
+      "summary": "The Open Semantic Interchange entered the Apache Incubator as Apache Ossie (Incubating), backed by a growing coalition of 50+ data and AI leaders.",
+      "url": "https://www.salesforce.com/blog/alliance-to-apache-next-chapter-for-open-semantics/",
+      "date": "2026-08-20T16:53:57+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+      "summary": "It’s a new way into the cloud. GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or everyday PC, it’s now even easier to play supported PC games without downloading a dedicated app. Plus, discover […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+      "date": "2026-08-20T13:00:24+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GFN_Thursday-Firefox.jpg"
+    },
+    {
+      "title": "The AI-Powered Go-to-Market Organization Isn’t Just a Vision Anymore",
+      "summary": "Explore five moments in the customer journey where the shift to AI is already showing up in results.",
+      "url": "https://news.sap.com/2026/08/ai-powered-gtm-organization-not-just-a-vision/",
+      "date": "2026-08-20T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Marketplace now supports category-based notifications and multi-channel delivery for partners",
+      "summary": "AWS partners can now configure category-based notifications and multi-channel delivery for AWS Marketplace notifications through AWS User Notifications. Previously, partners received their AWS Marketplace notifications through their AWS account’s root email address or custom email aliases, with no way to select notification categories or route each category to the teams responsible for managing it",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace/",
+      "date": "2026-08-20T00:06:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "url": "https://openai.com/index/stampli",
+      "date": "2026-08-20T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Launching External Web Access for Web Search on Amazon Bedrock",
       "summary": "Earlier this month, we announced Web Search on Amazon Bedrock , a built-in server-side tool that allows you to ground model responses with current web knowledge, while maintaining data within your secured AWS environment with zero data egress. Today, we are expanding Web Search to enable the external_web_access parameter allowing Web Search to retrieve content directly from the public web so model",
@@ -284,36 +363,12 @@
       "image": null
     },
     {
-      "title": "Powering AI with Salesforce Data 360 & Unstructured Data",
-      "summary": "Customer insights rarely reside solely in structured databases in rows and columns. Instead, significant enterprise value remains trapped within unstructured content —such as PDFs, knowledge base articles, email threads, customer interaction transcripts, media…",
-      "url": "https://www.salesforce.com/blog/powering-ai-with-salesforce-data-360-unstructured-data/",
-      "date": "2026-08-19T13:23:54+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "What NASA’s Return to the Moon Can Teach Leaders About Transformation at Scale",
       "summary": "Managing complexity, sustaining momentum, and using emerging technology support mission outcomes.",
       "url": "https://news.sap.com/2026/08/sap-now-nasa-return-to-moon-teach-about-transformation-at-scale/",
       "date": "2026-08-19T10:15:00+00:00",
       "source": "SAP News",
       "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Tape and Volume Gateway",
-      "summary": "AWS Storage Gateway now supports FIPS 140-3 validated endpoints over AWS PrivateLink for Tape Gateway and Volume Gateway. Previously, FIPS endpoints were available only over the public internet. Now you can keep FIPS-compliant traffic on the private AWS network, making it easier to use Storage Gateway for regulated workloads. With this launch, your Tape Gateway and Volume Gateway can reach the Sto",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/storage-gateway-fips-privatelink/",
-      "date": "2026-08-19T10:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -326,17 +381,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 R8a instances are now available in Asia Pacific (Taipei) region",
-      "summary": "Starting today, Amazon EC2 R8a instances are now available in Asia Pacific (Taipei) Region. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver up to 30% higher performance, and up to 19% better price-performance compared to R7a instances. R8a instances deliver 45% more memory bandwidth compared to R7a instances, making thes",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-asia-pacific-taipei/",
-      "date": "2026-08-19T07:51:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -385,20 +429,6 @@
       "image": null
     },
     {
-      "title": "Close the Agentforce Usage Visibility Gap With the AI Usage Data Model",
-      "summary": "A step-by-step walkthrough of the AI Agent Generative AI Usage Data Model — the near-real-time, fine-grained source of truth for AI consumption.",
-      "url": "https://www.salesforce.com/blog/agentforce-usage-data-model/",
-      "date": "2026-08-18T20:14:54+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 31,
-      "tags": [
-        "ai",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Strengthening democratic oversight in national security",
       "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
       "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -406,17 +436,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Field Service for Home Health: Build a Proactive, Connected Care Model",
-      "summary": "The value of moving care into the home comes from connecting every patient signal to trusted context, professional judgment, and action.",
-      "url": "https://www.salesforce.com/blog/field-service-home-health/",
-      "date": "2026-08-18T18:05:57+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -439,17 +458,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Our Most Expansive ISV Product Release To Date: More Ways to Build, Stand Out and Grow",
-      "summary": "Your customers want more: smarter service, stronger data protection, and industry-tailored experiences. You’d love to have it all in your roadmap, even if your engineering backlog doesn’t agree. That’s why Salesforce is opening…",
-      "url": "https://www.salesforce.com/blog/most-expansive-isv-release-2026/",
-      "date": "2026-08-18T15:01:07+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 6,
       "tags": [],
       "image": null
     },
@@ -912,17 +920,6 @@
       "image": null
     },
     {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "date": "2026-08-13T09:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "GitHub availability report: July 2026",
       "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog .",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
@@ -1321,17 +1318,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/alpamayo-launch-kv-blog-1920x1080-1.jpg"
     },
     {
-      "title": "As AI Increases Demands on Memory, Storage Steps Up",
-      "summary": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights. At this week’s Future of […]",
-      "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-      "date": "2026-08-04T15:00:47+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/ai-storage-fms-1920x1080-1.jpg"
-    },
-    {
       "title": "The latest AI news we announced in July 2026",
       "summary": "July AI recap header",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
@@ -1401,17 +1387,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "AI Agent Sprawl: Why AI Governance Is Now a Board-Level Issue",
-      "summary": "As adoption of AI agents accelerates, governance is struggling to keep pace.",
-      "url": "https://news.sap.com/2026/08/agent-sprawl-why-ai-governance-is-now-board-level-issue/",
-      "date": "2026-08-03T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 13,
-      "tags": [],
-      "image": null
     },
     {
       "title": "What Google Cloud announced in AI this month",
@@ -1597,19 +1572,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "date": "2026-07-21T15:16:30+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     }
   ]
 }
