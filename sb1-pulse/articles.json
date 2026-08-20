@@ -1,7 +1,121 @@
 {
-  "generated": "2026-08-20T17:22:42.936652+00:00",
+  "generated": "2026-08-20T23:20:08.058604+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Inbound Private Link now supports account-level Genie One, the account console, and custom URLs",
+      "summary": "Enterprises adopting Databricks for their most sensitive data commonly rely on Inbound...",
+      "url": "https://www.databricks.com/blog/inbound-private-link-now-supports-account-level-genie-one-account-console-and-custom-urls",
+      "date": "2026-08-20T22:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada",
+      "summary": "AWS Local Zone in Las Vegas, Nevada is now generally available. The new AWS Local Zone supports Amazon Elastic Compute Cloud (Amazon EC2) C7i, M7i, R7i, and C8gn instances, Amazon Elastic Block Store (Amazon EBS) volume types gp3, gp2, io1, sc1, and st1, Amazon Elastic Container Service (Amazon ECS), Amazon Elastic Kubernetes Service (Amazon EKS), Application Load Balancer, and AWS Direct Connect.",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/",
+      "date": "2026-08-20T21:45:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Timestream for InfluxDB now supports customer managed keys",
+      "summary": "Amazon Timestream for InfluxDB now supports AWS Key Management Service (AWS KMS) customer managed keys for encrypting data at rest in InfluxDB 2 database instances, InfluxDB 2 Read Replicas, and InfluxDB 3 clusters. Customers select a symmetric AWS KMS key when creating a database resource. Timestream for InfluxDB uses the selected key to encrypt the underlying database storage for InfluxDB 2 and ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/",
+      "date": "2026-08-20T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Busting SQL Migration Myths: How New SQL Features Make Lift-and-Shift to Lakehouse Easier",
+      "summary": "Somewhere in your warehouse, hundreds of stored procedures wake up every night and...",
+      "url": "https://www.databricks.com/blog/busting-sql-migration-myths-how-new-sql-features-make-lift-and-shift-lakehouse-easier",
+      "date": "2026-08-20T19:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EKS now supports certificate authority (CA) rotation with automated lifecycle management",
+      "summary": "Today, Amazon Elastic Kubernetes Service (Amazon EKS) announced certificate authority (CA) rotation, enabling customers to rotate their cluster's CA through a managed lifecycle with automated safeguards. Each Amazon EKS cluster has its own CA that allows encrypted connections to the cluster's Kubernetes API, and now you can rotate the CA before it expires to ensure your cluster remains operational",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-certificate-authority-ca-rotation-automated-lifecycle-management",
+      "date": "2026-08-20T18:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudFront now supports Origin Access Control (OAC) for Amazon S3 Multi-Region Access Points",
+      "summary": "Starting today, customers can protect their origins using Amazon S3 Multi-Region Access Points (MRAP) by using CloudFront Origin Access Control (OAC) to only allow access from designated CloudFront distributions. Customers use Amazon S3 MRAP with CloudFront to serve content from a single global endpoint that automatically routes to the closest available replicated bucket across regions during a ca",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudfront-oac-s3-mrap",
+      "date": "2026-08-20T18:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Partner Central agents MCP Server now supports OAuth with AWS Sign-In",
+      "summary": "AWS partners can now access AWS Partner Central agents from tools they already use, such as Amazon Quick and Kiro, using OAuth through AWS Sign-In. Partners can authorize agent access with their existing AWS identities, sign-in methods, IAM permissions, and governance controls without installing or maintaining additional authentication software. Previously, AWS Partners needed to set up an MCP pro",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/8/aws-partner-central-mcp/",
+      "date": "2026-08-20T18:02:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "ARC Region switch adds Amazon RDS Switchover Read Replica execution block",
+      "summary": "Today, we are launching the Amazon RDS Switchover Read Replica execution block in ARC Region switch , which automates recovery orchestration for Amazon RDS databases running Oracle Data Guard in multi-Region workloads. Amazon Application Recovery Controller (ARC) Region switch helps customers orchestrate the failover of their multi-Region applications to achieve a bounded recovery time in the even",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/region-switch-rds-switchover-execution-block/",
+      "date": "2026-08-20T17:45:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Generative AI Inference Recommendation for Amazon SageMaker now available in the SageMaker AI Studio",
+      "summary": "Amazon SageMaker AI now offers Generative AI Inference Recommendations in SageMaker AI Studio, giving customers a guided, low-code, no-code path to find the best inference configuration for their workload. This builds on the API-based launch in April 2026, extending the same benchmarking infrastructure to teams that prefer a visual workflow over programmatic access. Deploying generative AI models ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/generative-ai-inference-recommendation-for-amazon-sagemaker-now-available-in-the-sagemaker-ai-studio",
+      "date": "2026-08-20T17:25:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 28,
+      "tags": [
+        "cloud",
+        "automation"
+      ],
+      "image": null
+    },
     {
       "title": "The Mobile Worker Crisis: Solving Turnover and Disconnection in the Field",
       "summary": "66% of field service organizations are losing technicians to poor training and disconnection. Here's how 39% are turning the tide—and keeping revenue high.",
@@ -38,6 +152,19 @@
       "image": null
     },
     {
+      "title": "Amazon Redshift introduces long-term system table retention with Amazon S3 Tables integration",
+      "summary": "Amazon Redshift now supports long-term retention for system table data through native integration with Amazon S3 Tables. With this feature, you can configure your Redshift system table data retention beyond the current 7-day limit to meet your compliance, auditing, and observability requirements. Once enabled, AWS automatically writes system table data to S3 Tables in Apache Iceberg format and man",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-long-term-system-table-retention/",
+      "date": "2026-08-20T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
       "summary": "It’s a new way into the cloud. GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or everyday PC, it’s now even easier to play supported PC games without downloading a dedicated app. Plus, discover […]",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
@@ -60,6 +187,17 @@
       "image": null
     },
     {
+      "title": "Introducing AI Futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "date": "2026-08-20T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "AWS Marketplace now supports category-based notifications and multi-channel delivery for partners",
       "summary": "AWS partners can now configure category-based notifications and multi-channel delivery for AWS Marketplace notifications through AWS User Notifications. Previously, partners received their AWS Marketplace notifications through their AWS account’s root email address or custom email aliases, with no way to select notification categories or route each category to the teams responsible for managing it",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace/",
@@ -71,7 +209,7 @@
       "image": null
     },
     {
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "url": "https://openai.com/index/stampli",
       "date": "2026-08-20T00:00:00+00:00",
@@ -118,6 +256,19 @@
       "image": null
     },
     {
+      "title": "Amazon EC2 enables AMI creation with local snapshots from instances on Outposts",
+      "summary": "Amazon EC2 now supports creating Amazon Machine Images (AMIs) with local snapshots from instances running on AWS Outposts. This capability makes it easier for customers to create AMIs while storing snapshots directly on the Outpost to meet data residency requirements. Customers can now create AMIs with snapshots stored either on the Outpost itself or in the parent AWS Region. When keeping data loc",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-create-image-local-snapshot-outpost",
+      "date": "2026-08-19T21:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Why Companies Are Turning to Salesforce as a Customer Success Platform",
       "summary": "Success teams are increasingly choosing Salesforce over standalone customer success platforms. Here's what Apollo, Superhuman, AppsFlyer, and Sensor Tower learned along the way.",
       "url": "https://www.salesforce.com/blog/why-companies-are-turning-to-salesforce-as-a-customer-success-platform/",
@@ -142,31 +293,14 @@
       "image": null
     },
     {
-      "title": "Amazon SageMaker notebooks now support trusted identity propagation",
-      "summary": "Amazon SageMaker Notebooks now support Trusted Identity Propagation (TIP) with Amazon Athena, Amazon Redshift, and Amazon EMR Serverless, enabling per-user access control for data analytics. When connected to a TIP-enabled compute in a TIP-enabled Project, each notebook user's IAM Identity Center identity flows through to AWS Lake Formation, ensuring they see only the tables, columns, and rows the",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/",
-      "date": "2026-08-19T20:25:00+00:00",
+      "title": "Amazon DynamoDB Streams now supports attribute-based access control",
+      "summary": "Amazon DynamoDB Streams now supports attribute-based access control (ABAC), enabling you to use tag-based conditions in your Identity and Access Management (IAM) policies to control access to your data streams. ABAC is an authorization strategy that simplifies access management by allowing you to enforce different access levels for multiple teams and applications using fewer IAM policies. This cap",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-streams-abac/",
+      "date": "2026-08-19T21:03:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
-      "relevance": 13,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon CloudWatch pipelines adds GeoIP, RDS, and XML processors",
-      "summary": "Amazon CloudWatch pipelines now includes three new processors that parse and enrich log data as it's ingested: an Amazon RDS log parser, an XML parser and a GeoIP enrichment processor. CloudWatch pipelines is a fully managed service that ingests, transforms, and routes telemetry to CloudWatch without managing infrastructure. Log sources often produce data that isn't immediately queryable without r",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/cloudwatch-geoip-rds-xml/",
-      "date": "2026-08-19T20:13:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud",
-        "data"
-      ],
+      "relevance": 5,
+      "tags": [],
       "image": null
     },
     {
@@ -194,32 +328,6 @@
       "image": null
     },
     {
-      "title": "AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock",
-      "summary": "AWS Cost Anomaly Detection now monitors spend on third-party foundation models running on Amazon Bedrock, such as Anthropic Claude and other provider-hosted models. Cost Anomaly Detection uses machine learning to detect and alert on unusual spend, and this launch extends that coverage to third-party model usage on Amazon Bedrock. Teams running production generative AI workloads now get automatic a",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P/",
-      "date": "2026-08-19T17:57:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 54,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon OpenSearch Ingestion is now available in GovCloud Regions",
-      "summary": "Starting today, customers can use Amazon OpenSearch Ingestion in AWS GovCloud (US-East) and AWS GovCloud (US-West), for ingesting data into their Amazon OpenSearch Service managed clusters or serverless collections. Amazon OpenSearch Ingestion is a fully managed data ingestion tier that allows you to ingest and process data before indexing it in Amazon OpenSearch managed clusters or serverless col",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions",
-      "date": "2026-08-19T17:54:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "GitHub Copilot app for Beginners: Managing your work",
       "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
@@ -229,43 +337,6 @@
       "relevance": 12,
       "tags": [
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Marketplace launches support for Amazon Lightsail",
-      "summary": "Today, AWS Marketplace announces support for launching select Amazon Machine Images (AMIs) on Amazon Lightsail. Customers who want simple, predictable pricing and a streamlined instance-creation experience can now easily deploy eligible AWS Marketplace AMIs on Amazon Lightsail in just a few clicks. Lightsail instance bundles include compute, storage, and a generous data transfer allowance at a fix",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail",
-      "date": "2026-08-19T17:04:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS announces a new Availability Zone in the Europe (London) Region",
-      "summary": "AWS has added a fourth Availability Zone to the Europe (London) Region (eu-west-2), expanding infrastructure capacity to meet growing demand for cloud compute in the Region. The new Availability Zone delivers next-generation AI and ML capacity, including Amazon EC2, Trn3, and P6 accelerated instances, alongside general-purpose compute. The new Availability Zone gives AWS customers in eu-west-2 gre",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/",
-      "date": "2026-08-19T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Lambda MicroVMs is now available in 5 additional AWS regions",
-      "summary": "AWS Lambda MicroVMs is now available in 5 additional AWS Regions: Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Europe (Frankfurt), and Europe (Stockholm). With this launch, you can use Lambda MicroVMs in a total of 10 AWS Regions. Lambda MicroVMs is a serverless compute primitive that provides VM-level isolation, near-instant launch and resume speeds, and state preservat",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions",
-      "date": "2026-08-19T16:14:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 9,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -294,17 +365,6 @@
       "image": null
     },
     {
-      "title": "Amazon Quick adds deny by default for custom permissions",
-      "summary": "Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reach users. Previously, new AI capabilities were available to all users on release, requiring administrators to react after the fact. With deny by default, administrators restrict the AI capability category in a custom permissions profile and assign it to ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/",
-      "date": "2026-08-19T15:36:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Is It Worth Upgrading to Agentforce for Financial Services?",
       "summary": "The Financial Services Firms Pulling Ahead Have One Thing In Common The recipe for success in financial services is getting harder to perfect. Customer expectations are rising, competition is intensifying, and the teams…",
       "url": "https://www.salesforce.com/blog/upgrade-agentforce-financial-services/",
@@ -312,31 +372,6 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 12,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon WorkSpaces Applications now offers in-console monitoring capabilities",
-      "summary": "Amazon WorkSpaces Applications now offers a native monitoring experience embedded directly in the service console. Administrators can now access real-time session-level metrics, instance-level resource data, and network performance metrics without requiring third-party monitoring tools or Amazon CloudWatch expertise. Previously, enterprise customers managing large WorkSpaces Applications deploymen",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-console-monitoring",
-      "date": "2026-08-19T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 10,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS IAM now supports 20 managed policies per role by default",
-      "summary": "AWS Identity and Access Management (IAM) has increased the default quota for managed policies per role from 10 to 20. This higher default quota reduces the need to make Service Quota requests when following IAM best practices like separating permissions into purpose-specific policies or when onboarding to AWS Partner products that require attaching additional managed policies. If you need more tha",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-quota-increase/",
-      "date": "2026-08-19T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
       "tags": [],
       "image": null
     },
@@ -791,30 +826,6 @@
       "image": null
     },
     {
-      "title": "What are AI Hallucinations?",
-      "summary": "AI hallucinations are outputs that sound coherent and confident but are factually wrong, fabricated...",
-      "url": "https://www.databricks.com/blog/ai-hallucinations",
-      "date": "2026-08-13T19:35:16+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Smart Routing in Unity AI Gateway: Match frontier quality with 30%+ lower cost per task",
-      "summary": "The price and performance frontier for coding tasks features a huge diversity of models and harnesses: in 2026 alone...",
-      "url": "https://www.databricks.com/blog/smart-routing-unity-ai-gateway-match-frontier-quality-30-lower-cost-task",
-      "date": "2026-08-13T17:52:04+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Introducing Gemini 3.7 Flash",
       "summary": "",
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
@@ -906,17 +917,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "date": "2026-08-13T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 14,
-      "tags": [],
       "image": null
     },
     {
@@ -1090,19 +1090,6 @@
       "category": "sap",
       "relevance": 2,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Using the GitHub Copilot SDK for Java",
-      "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog .",
-      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
-      "date": "2026-08-10T19:30:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 17,
-      "tags": [
-        "developer"
-      ],
       "image": null
     },
     {
