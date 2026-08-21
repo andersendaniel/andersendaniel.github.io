@@ -1,7 +1,66 @@
 {
-  "generated": "2026-08-21T11:19:39.581700+00:00",
+  "generated": "2026-08-21T17:22:24.455801+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Connecting retail demand planning to campaign and store execution",
+      "summary": "Retail and consumer goods teams make decisions across a connected but complex operating cycle...",
+      "url": "https://www.databricks.com/blog/connecting-retail-demand-planning-campaign-and-store-execution",
+      "date": "2026-08-21T17:20:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 17 - Aug 21 Webina",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "date": "2026-08-21T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "What’s the Real Cost of Disconnected Data? Here Are the Numbers",
+      "summary": "Every commerce leader knows disconnected data is a problem, but few can put a number on it. To truly understand the toll of disconnected data — and the benefits when it’s unified —…",
+      "url": "https://www.salesforce.com/blog/cost-of-disconnected-data/",
+      "date": "2026-08-21T15:41:24+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Agentic AI Could Rewrite the Economics of SAP Transformation",
+      "summary": "Agentic transformation is not something waiting over the horizon—that world is here now.",
+      "url": "https://news.sap.com/2026/08/agentic-ai-could-rewrite-economics-of-sap-transformation/",
+      "date": "2026-08-21T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "date": "2026-08-21T11:59:48+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
+    },
     {
       "title": "Inbound Private Link now supports account-level Genie One, the account console, and custom URLs",
       "summary": "Enterprises adopting Databricks for their most sensitive data commonly rely on Inbound...",
@@ -378,28 +437,6 @@
       "image": null
     },
     {
-      "title": "You Already Own These AI Agents, but Are You Using Them?",
-      "summary": "The AI Investment That Keeps Paying Ask any financial services leader what’s keeping them up at night, and you’ll hear a version of the same story: customer expectations have never been higher, margins…",
-      "url": "https://www.salesforce.com/blog/agentforce-financial-services-templates/",
-      "date": "2026-08-19T14:31:40+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 25,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "An IT Leader’s Guide to Dreamforce 2026",
-      "summary": "Technology is evolving faster than ever, and IT teams are in the hot seat. Discover the keynotes, sessions, and hands-on experiences designed to help you securely scale AI across your enterprise.",
-      "url": "https://www.salesforce.com/blog/it-guide-to-dreamforce-2026/",
-      "date": "2026-08-19T14:18:36+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "What NASA’s Return to the Moon Can Teach Leaders About Transformation at Scale",
       "summary": "Managing complexity, sustaining momentum, and using emerging technology support mission outcomes.",
       "url": "https://news.sap.com/2026/08/sap-now-nasa-return-to-moon-teach-about-transformation-at-scale/",
@@ -771,19 +808,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/telco-tech-blog-header-indosat-ai-technology-center-1920x1080-1.png"
     },
     {
-      "title": "What’s new with Google Cloud",
-      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 10 - Aug 14 Diagno",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "date": "2026-08-14T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
-    },
-    {
       "title": "How to bring your software delivery workflow into GitHub with agent apps",
       "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
@@ -812,17 +836,6 @@
       "date": "2026-08-14T07:00:00+00:00",
       "source": "Snowflake Blog",
       "category": "snowflake",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Scottish Water Made Its Capital Investment Data Conversational With Databricks Genie",
-      "summary": "Across Scottish Water’s Capital Investment (CI) programme, teams need fast answers...",
-      "url": "https://www.databricks.com/blog/how-scottish-water-made-its-capital-investment-data-conversational-databricks-genie",
-      "date": "2026-08-13T21:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
       "relevance": 2,
       "tags": [],
       "image": null
@@ -1329,17 +1342,6 @@
       "image": null
     },
     {
-      "title": "Digital Transformation Isn’t About Technology, It’s About a Strong Foundation",
-      "summary": "Ipiranga’s journey offers a powerful reminder that digital transformation is about assertive fundamentals.",
-      "url": "https://news.sap.com/2026/08/ipiranga-digital-transformation-strong-foundation/",
-      "date": "2026-08-04T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
       "summary": "Meta’s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes into the details on how we achieved: doubling end-to-end (E2E) training efficiency to 20–25% Model FLOPs Utilization (MFU) while scaling training FLOPs 4x in [...] Read More... The ",
       "url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
@@ -1539,28 +1541,6 @@
         "cloud"
       ],
       "image": null
-    },
-    {
-      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "date": "2026-07-22T13:38:54+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "date": "2026-07-22T13:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"
     }
   ]
 }
