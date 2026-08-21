@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T23:20:08.058604+00:00",
+  "generated": "2026-08-21T05:26:51.667479+00:00",
   "sources": 21,
   "articles": [
     {
@@ -49,6 +49,19 @@
       "relevance": 1,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 P6-B300 instances are now available in the Asia Pacific (Seoul) Region",
+      "summary": "Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the Asia Pacific (Seoul) Region. P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GPU memory, 6.4 Tbps EFA networking, 300 Gbps dedicated ENA throughput, and 4 TB of system memory. P6-B300 instances deliver 2x networking bandwidth, 1.5x GPU memory size, and 1.5x GPU TFLOPS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/",
+      "date": "2026-08-20T18:31:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -290,17 +303,6 @@
       "tags": [
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon DynamoDB Streams now supports attribute-based access control",
-      "summary": "Amazon DynamoDB Streams now supports attribute-based access control (ABAC), enabling you to use tag-based conditions in your Identity and Access Management (IAM) policies to control access to your data streams. ABAC is an authorization strategy that simplifies access management by allowing you to enforce different access levels for multiple teams and applications using fewer IAM policies. This cap",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-streams-abac/",
-      "date": "2026-08-19T21:03:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
       "image": null
     },
     {
