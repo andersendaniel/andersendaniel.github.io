@@ -1,7 +1,53 @@
 {
-  "generated": "2026-08-21T17:22:24.455801+00:00",
+  "generated": "2026-08-21T23:17:27.706938+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon Connect Customer now lets managers chat with their data",
+      "summary": "Amazon Connect Customer now lets managers chat with their data in plain language and get back the answer, the evidence behind it, and the fix, in seconds. Managers have always had the data. What they haven’t had is the time to dig through dashboards, find what’s driving performance, and decide what to do next. Now Amazon Connect Customer does that work for them. It searches across more than 150 me",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics",
+      "date": "2026-08-21T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
+      "summary": "AWS Glue 6.0 is built on a fully modernized runtime, Apache Spark 4.1, Python 3.12, and Scala 2.13, delivering 30% lower pricing than previous AWS Glue versions.",
+      "url": "https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/",
+      "date": "2026-08-21T18:53:26+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor",
+      "summary": "The AWS Deadline Cloud monitor now shows the progress, status, and health of your automatic file downlaods from jobs running in the cloud. Deadline Cloud is a fully managed service that helps teams run compute-intensive workloads in the cloud for visual effects, animation, product design, simulation, and gaming. The Deadline Cloud Monitor (DCM) desktop app provides customers with visibility into t",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/",
+      "date": "2026-08-21T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Your Guide to Sustainability at Dreamforce",
+      "summary": "Here’s how we’re bringing sustainability to life at Dreamforce — and how you can get involved.",
+      "url": "https://www.salesforce.com/blog/sustainability-at-dreamforce/",
+      "date": "2026-08-21T18:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Connecting retail demand planning to campaign and store execution",
       "summary": "Retail and consumer goods teams make decisions across a connected but complex operating cycle...",
@@ -11,6 +57,32 @@
       "category": "databricks",
       "relevance": 2,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EKS Capability for Argo CD now supports custom configuration",
+      "summary": "The Amazon Elastic Kubernetes Service (Amazon EKS) Capability for Argo CD now supports custom configuration through a standard argocd-cm ConfigMap in your cluster. This capability gives you a fully managed GitOps continuous delivery experience, and you can now tune it to fit how your teams work. You can define custom health checks for your Custom Resources, customize the Argo CD UI banner content,",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-argo-cd-configuration",
+      "date": "2026-08-21T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Glue 6.0 delivers 30% price reduction and Iceberg v3 support",
+      "summary": "AWS Glue 6.0 is now generally available, delivering a 30% price reduction and introducing full support for Apache Iceberg v3, newer versions of Apache Hudi and Delta Lake, and new capabilities to improve developer productivity. AWS Glue 6.0 also upgrades runtime to Apache Spark 4.1, Python 3.13, and Scala 2.13. With Apache Iceberg v3, AWS Glue 6.0 adds the VARIANT data type with automatic shreddin",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3",
+      "date": "2026-08-21T16:42:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -62,6 +134,17 @@
       "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
     },
     {
+      "title": "Amazon SES now supports open and click tracking override parameters",
+      "summary": "Amazon Simple Email Service (SES) now supports open and click tracking override parameters in the SendEmail and SendBulkEmail APIs. Senders can enable or disable open tracking and click tracking on an individual API call, rather than managing tracking preferences through separate configuration sets. Previously, controlling tracking behavior required maintaining a distinct configuration set for eac",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-adds-open-click-tracking-override/",
+      "date": "2026-08-21T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Inbound Private Link now supports account-level Genie One, the account console, and custom URLs",
       "summary": "Enterprises adopting Databricks for their most sensitive data commonly rely on Inbound...",
       "url": "https://www.databricks.com/blog/inbound-private-link-now-supports-account-level-genie-one-account-console-and-custom-urls",
@@ -95,6 +178,19 @@
       "relevance": 1,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 C8gd, M8gd and R8gd instances are now available in additional AWS Regions",
+      "summary": "Amazon Elastic Compute Cloud (Amazon EC2) C8gd, M8gd, and R8gd instances with up to 11.4 TB of local NVMe-based SSD block-level storage are now available in additional regions. C8gd instances are now available in Asia Pacific (Singapore), M8gd instances are available in Mexico (Central) and Asia Pacific (Melbourne), and R8gd instances are available in Europe (Zurich). These instances are powered b",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd/",
+      "date": "2026-08-20T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -224,14 +320,15 @@
       "image": null
     },
     {
-      "title": "Amazon Redshift introduces long-term system table retention with Amazon S3 Tables integration",
-      "summary": "Amazon Redshift now supports long-term retention for system table data through native integration with Amazon S3 Tables. With this feature, you can configure your Redshift system table data retention beyond the current 7-day limit to meet your compliance, auditing, and observability requirements. Once enabled, AWS automatically writes system table data to S3 Tables in Apache Iceberg format and man",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-long-term-system-table-retention/",
-      "date": "2026-08-20T15:00:00+00:00",
+      "title": "Amazon Aurora DSQL now supports Amazon CloudWatch Database Insights",
+      "summary": "Amazon Aurora DSQL now features a new Amazon CloudWatch Database Insights metric that delivers per-statement, cluster-level performance monitoring details. Aurora DSQL database insights captures sampled wait states and normalized SQL statements for all active cluster sessions. You can use it to diagnose performance issues with your clusters, and identify the queries consuming the most resources. A",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-dsql-cloudwatch-database-insights/",
+      "date": "2026-08-20T16:00:00+00:00",
       "source": "AWS What's New",
       "category": "aws",
-      "relevance": 2,
+      "relevance": 3,
       "tags": [
+        "cloud",
         "data"
       ],
       "image": null
@@ -270,17 +367,6 @@
       "image": null
     },
     {
-      "title": "AWS Marketplace now supports category-based notifications and multi-channel delivery for partners",
-      "summary": "AWS partners can now configure category-based notifications and multi-channel delivery for AWS Marketplace notifications through AWS User Notifications. Previously, partners received their AWS Marketplace notifications through their AWS account’s root email address or custom email aliases, with no way to select notification categories or route each category to the teams responsible for managing it",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace/",
-      "date": "2026-08-20T00:06:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "url": "https://openai.com/index/stampli",
@@ -289,31 +375,6 @@
       "category": "openai",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Launching External Web Access for Web Search on Amazon Bedrock",
-      "summary": "Earlier this month, we announced Web Search on Amazon Bedrock , a built-in server-side tool that allows you to ground model responses with current web knowledge, while maintaining data within your secured AWS environment with zero data egress. Today, we are expanding Web Search to enable the external_web_access parameter allowing Web Search to retrieve content directly from the public web so model",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/",
-      "date": "2026-08-19T23:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 15,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
-      "summary": "Web Search in Amazon Bedrock AgentCore now supports domain filtering and published-date filtering, giving agents per-request control over which web sources and time windows they search. Amazon Bedrock AgentCore provides the infrastructure to build, connect, and optimize AI agents, and Web Search enables those agents to ground responses in current web data. With runtime domain filtering, agents can",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
-      "date": "2026-08-19T22:55:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 30,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -328,19 +389,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 enables AMI creation with local snapshots from instances on Outposts",
-      "summary": "Amazon EC2 now supports creating Amazon Machine Images (AMIs) with local snapshots from instances running on AWS Outposts. This capability makes it easier for customers to create AMIs while storing snapshots directly on the Outpost to meet data residency requirements. Customers can now create AMIs with snapshots stored either on the Outpost itself or in the parent AWS Region. When keeping data loc",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-create-image-local-snapshot-outpost",
-      "date": "2026-08-19T21:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Why Companies Are Turning to Salesforce as a Customer Success Platform",
       "summary": "Success teams are increasingly choosing Salesforce over standalone customer success platforms. Here's what Apollo, Superhuman, AppsFlyer, and Sensor Tower learned along the way.",
       "url": "https://www.salesforce.com/blog/why-companies-are-turning-to-salesforce-as-a-customer-success-platform/",
@@ -349,19 +397,6 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon CloudWatch log Centralization now supports log group tag propagation",
-      "summary": "Amazon CloudWatch Centralization now copies log group tags from source accounts to the destination log groups created by centralization rules. CloudWatch Centralization aggregates log data from multiple accounts and Regions into one destination account. With tag propagation, the cost, ownership, and compliance tags you maintain at the source now apply to the copied log groups. With today's launch,",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/",
-      "date": "2026-08-19T21:06:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -422,17 +457,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Is It Worth Upgrading to Agentforce for Financial Services?",
-      "summary": "The Financial Services Firms Pulling Ahead Have One Thing In Common The recipe for success in financial services is getting harder to perfect. Customer expectations are rising, competition is intensifying, and the teams…",
-      "url": "https://www.salesforce.com/blog/upgrade-agentforce-financial-services/",
-      "date": "2026-08-19T15:09:50+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 12,
       "tags": [],
       "image": null
     },
