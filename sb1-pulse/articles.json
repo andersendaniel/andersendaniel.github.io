@@ -1,7 +1,18 @@
 {
-  "generated": "2026-08-22T23:14:29.786521+00:00",
+  "generated": "2026-08-23T05:23:11.362763+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Leading Through Change: Jameel’s Customer Success Career in the AI Era",
+      "summary": "A month after a friend referred him to Salesforce, Jameel received the call that would begin a ten-year journey. “Salesforce was like a calling, to be honest.” At the time, he was between…",
+      "url": "https://www.salesforce.com/blog/leading-through-change-jameels-customer-success-career-in-the-ai-era/",
+      "date": "2026-08-23T02:04:16+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
       "summary": "Today, OpenAI announced that they are lowering API prices for GPT-5.6 Sol. Following the recent Terra and Luna price reductions, Sol now costs $4 per million input tokens and $20 per million output tokens—20% lower input pricing and 33.3% lower output pricing. This promotional pricing is available at least through November 21, 2026. Whether you're building autonomous coding agents, running complex",
@@ -389,17 +400,6 @@
       "image": null
     },
     {
-      "title": "Why Companies Are Turning to Salesforce as a Customer Success Platform",
-      "summary": "Success teams are increasingly choosing Salesforce over standalone customer success platforms. Here's what Apollo, Superhuman, AppsFlyer, and Sensor Tower learned along the way.",
-      "url": "https://www.salesforce.com/blog/why-companies-are-turning-to-salesforce-as-a-customer-success-platform/",
-      "date": "2026-08-19T21:24:41+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "5 new ways to level up your learning with Search",
       "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
@@ -433,19 +433,6 @@
       "relevance": 12,
       "tags": [
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "The Salesforce Architect’s Guide to Dreamforce 2026",
-      "summary": "Join us at Dreamforce 2026 in person or on Salesforce+ to experience the Agentic Enterprise. Powered by you, amplified by agents.",
-      "url": "https://www.salesforce.com/blog/salesforce-architect-guide-dreamforce-2026/",
-      "date": "2026-08-19T16:01:43+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 4,
-      "tags": [
-        "ai"
       ],
       "image": null
     },
