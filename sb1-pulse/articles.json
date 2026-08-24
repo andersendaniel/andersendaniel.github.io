@@ -1,7 +1,18 @@
 {
-  "generated": "2026-08-24T05:32:47.744139+00:00",
+  "generated": "2026-08-24T11:21:01.780923+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Customer Industry Solutions Shape the Future of Autonomous Enterprises",
+      "summary": "Every customer engagement is an opportunity to learn, refine, and build solutions that can benefit entire industries.",
+      "url": "https://news.sap.com/2026/08/customer-industry-solutions-shape-future-autonomous-enterprises/",
+      "date": "2026-08-24T10:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Leading Through Change: Jameel’s Customer Success Career in the AI Era",
       "summary": "A month after a friend referred him to Salesforce, Jameel received the call that would begin a ten-year journey. “Salesforce was like a calling, to be honest.” At the time, he was between…",
@@ -1340,17 +1351,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "How Salling Group Uses SAP and AI to Improve Everyday Retail",
-      "summary": "The European retailer is positioned to apply AI at scale with its SAP Cloud ERP backbone.",
-      "url": "https://news.sap.com/2026/08/salling-group-ai-improve-everyday-retail/",
-      "date": "2026-08-04T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 6,
-      "tags": [],
-      "image": null
     },
     {
       "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
