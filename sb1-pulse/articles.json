@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-24T17:25:09.187341+00:00",
+  "generated": "2026-08-24T23:17:37.939169+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Streaming Data into Apache Iceberg with Snowflake",
+      "summary": "Discover how to easily stream data into Snowflake-managed Apache Iceberg tables using Snowpipe Streaming.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowpipe-streaming-iceberg-tables",
+      "date": "2026-08-24T19:58:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "SageMaker MLflow now supports customer managed keys",
+      "summary": "SageMaker MLflow now enables customers to encrypt their data using customer-managed keys (CMK) through AWS Key Management Service (KMS). This enhancement allows organizations with strict security and compliance requirements to manage their own encryption keys. With customer-managed keys, you gain enhanced security control and comprehensive audit capabilities through AWS CloudTrail integration. You",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys",
+      "date": "2026-08-24T19:26:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud",
+        "security",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EKS now supports multiple external OIDC identity providers per cluster",
+      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports multiple external OpenID Connect (OIDC) identity providers per cluster. You can associate up to 10 OIDC identity providers with a single cluster, giving you more flexibility in how you authenticate users and workloads to your Kubernetes clusters. Many organizations use different identity providers for different user populations, such as e",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers",
+      "date": "2026-08-24T18:29:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 8,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
+      "summary": "Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles. To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA transport protocol purpose-built for AI workloads on commodity Ethernet. We’re releasing the MetaRoCE specification, a reference software implementation and a compliance test [...] Read Mo",
+      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+      "date": "2026-08-24T18:02:29+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
+      "summary": "MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models. We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the communication needs associated with training recommendation models with superior performance over general-purpose GPUs. By co-designing MTIA’s communication library, HCCL, alongside t",
+      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
+      "date": "2026-08-24T17:45:52+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Run, debug, and scale Databricks workloads from your local IDE",
       "summary": "The Databricks workspace is purposefully built for data analysis and data engineering. However...",
@@ -21,6 +84,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23",
+      "summary": "Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL versions 18.4, 17.10, 16.14, 15.18, and 14.23 which include bug fixes from the PostgreSQL community and Aurora-specific enhancements. We recommend upgrading to the latest minor versions to address known Common Vulnerabilities and Exposures (CVEs) and benefit from these improvements, as detailed in the release notes . You can upgra",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-postgresql-18-4-17-10-16-14-15-18-14-23/",
+      "date": "2026-08-24T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -74,6 +148,42 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700.jpg"
     },
     {
+      "title": "Amazon SageMaker HyperPod enhances support for Ray",
+      "summary": "Amazon SageMaker HyperPod now enhances support for Ray with built-in observability, resilient training, accelerated inference and managed development environments. Ray is a popular open-source framework for scaling AI workloads on a unified compute layer, from data processing and distributed training to reinforcement learning and model serving. Running Ray on Kubernetes at production scale can be ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray",
+      "date": "2026-08-24T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 8,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Connect Customer now supports information extraction for agent voice and chat conversations",
+      "summary": "Amazon Connect Customer now supports information extraction, which automatically captures key data from voice and chat interactions, reducing manual data capture and improving agent and supervisor productivity. Information extraction captures verbatim values like account numbers, reservation IDs, and product names, as well as derived insights inferred from the conversation such as reason for conta",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-information/",
+      "date": "2026-08-24T14:46:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS ParallelCluster 3.16 adds an on-node diagnostics tool",
+      "summary": "AWS ParallelCluster 3.16 is now generally available with a new on-node diagnostics tool, cluster stability improvements, and an updated HPC and AI/ML software stack. pcluster-diag is a diagnostics tool built into the ParallelCluster AMIs that lets you run diagnostic checks on any cluster node with a single command, and get a structured report that makes it easier to identify issues. This release a",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-parallelcluster/",
+      "date": "2026-08-24T14:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud (US)",
       "summary": "GPT-5.6 Terra and Luna are now generally available on Amazon Bedrock in AWS GovCloud (US-West) and AWS GovCloud (US-East), bringing the smartest family of models from OpenAI yet to Bedrock's next-generation inference engine built for high-performance, security and reliability. GPT-5.6 sets a new standard for intelligence and efficiency, allowing you to solve harder problems in less time and with m",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/",
@@ -95,6 +205,17 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "date": "2026-08-24T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -131,6 +252,19 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Neuron 2.32 introduces expanded NKI programming, MXFP8 training kernels, and variable-size collectives for Trn2 and Trn",
+      "summary": "AWS Neuron 2.32.0 is now available, introducing NKI 0.6.0 with an on-device top-K instruction, a variable-length `all-gather `for kernels whose ranks hold differently sized tensors, and new loop constructs for data-dependent iteration. This release also introduces 13 new NKI Library kernels for Mixture of Experts (MoE) training and sparse attention, and a new Neuron Agentic Development skill that ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0",
+      "date": "2026-08-21T21:11:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "ai"
+      ],
       "image": null
     },
     {
@@ -301,58 +435,6 @@
       "image": null
     },
     {
-      "title": "AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada",
-      "summary": "AWS Local Zone in Las Vegas, Nevada is now generally available. The new AWS Local Zone supports Amazon Elastic Compute Cloud (Amazon EC2) C7i, M7i, R7i, and C8gn instances, Amazon Elastic Block Store (Amazon EBS) volume types gp3, gp2, io1, sc1, and st1, Amazon Elastic Container Service (Amazon ECS), Amazon Elastic Kubernetes Service (Amazon EKS), Application Load Balancer, and AWS Direct Connect.",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/",
-      "date": "2026-08-20T21:45:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Timestream for InfluxDB now supports customer managed keys",
-      "summary": "Amazon Timestream for InfluxDB now supports AWS Key Management Service (AWS KMS) customer managed keys for encrypting data at rest in InfluxDB 2 database instances, InfluxDB 2 Read Replicas, and InfluxDB 3 clusters. Customers select a symmetric AWS KMS key when creating a database resource. Timestream for InfluxDB uses the selected key to encrypt the underlying database storage for InfluxDB 2 and ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/",
-      "date": "2026-08-20T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 C8gd, M8gd and R8gd instances are now available in additional AWS Regions",
-      "summary": "Amazon Elastic Compute Cloud (Amazon EC2) C8gd, M8gd, and R8gd instances with up to 11.4 TB of local NVMe-based SSD block-level storage are now available in additional regions. C8gd instances are now available in Asia Pacific (Singapore), M8gd instances are available in Mexico (Central) and Asia Pacific (Melbourne), and R8gd instances are available in Europe (Zurich). These instances are powered b",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd/",
-      "date": "2026-08-20T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Redshift now supports concurrency scaling of streaming ingestion workloads from Amazon Kinesis data streams",
-      "summary": "Amazon Redshift , starting with patch P203 , supports concurrency scaling for refreshes of Amazon Kinesis Data Streams (KDS)-connected streaming materialized views (MVs). Amazon Web Services (AWS) Redshift Streaming Ingestion enables low-latency, high-speed data ingestion from Amazon KDS to Amazon Redshift data warehouses. The data lands in a Redshift streaming materialized view, providing fast ac",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-concurrencyscaling-for-kds-streams/",
-      "date": "2026-08-20T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Busting SQL Migration Myths: How New SQL Features Make Lift-and-Shift to Lakehouse Easier",
       "summary": "Somewhere in your warehouse, hundreds of stored procedures wake up every night and...",
       "url": "https://www.databricks.com/blog/busting-sql-migration-myths-how-new-sql-features-make-lift-and-shift-lakehouse-easier",
@@ -362,45 +444,6 @@
       "relevance": 1,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 P6-B300 instances are now available in the Asia Pacific (Seoul) Region",
-      "summary": "Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the Asia Pacific (Seoul) Region. P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GPU memory, 6.4 Tbps EFA networking, 300 Gbps dedicated ENA throughput, and 4 TB of system memory. P6-B300 instances deliver 2x networking bandwidth, 1.5x GPU memory size, and 1.5x GPU TFLOPS",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/",
-      "date": "2026-08-20T18:31:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EKS now supports certificate authority (CA) rotation with automated lifecycle management",
-      "summary": "Today, Amazon Elastic Kubernetes Service (Amazon EKS) announced certificate authority (CA) rotation, enabling customers to rotate their cluster's CA through a managed lifecycle with automated safeguards. Each Amazon EKS cluster has its own CA that allows encrypted connections to the cluster's Kubernetes API, and now you can rotate the CA before it expires to ensure your cluster remains operational",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-certificate-authority-ca-rotation-automated-lifecycle-management",
-      "date": "2026-08-20T18:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon CloudFront now supports Origin Access Control (OAC) for Amazon S3 Multi-Region Access Points",
-      "summary": "Starting today, customers can protect their origins using Amazon S3 Multi-Region Access Points (MRAP) by using CloudFront Origin Access Control (OAC) to only allow access from designated CloudFront distributions. Customers use Amazon S3 MRAP with CloudFront to serve content from a single global endpoint that automatically routes to the closest available replicated bucket across regions during a ca",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudfront-oac-s3-mrap",
-      "date": "2026-08-20T18:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -1002,19 +1045,6 @@
       "image": null
     },
     {
-      "title": "The builder’s guide to GPT‑5.6",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "date": "2026-08-13T11:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 27,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "GitHub availability report: July 2026",
       "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog .",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
@@ -1114,19 +1144,6 @@
       "relevance": 3,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/jhh-support-blog-visual-logo-lock-up-3x4-1.png"
-    },
-    {
-      "title": "From coder to orchestrator: How agents shift the role of a developer",
-      "summary": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog .",
-      "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
-      "date": "2026-08-11T18:38:17+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
-      "tags": [
-        "developer"
-      ],
-      "image": null
     },
     {
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
@@ -1443,17 +1460,6 @@
       "image": null
     },
     {
-      "title": "The next measure of AI momentum is work transformed",
-      "summary": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter. The post The next measure of AI momentum is work transformed appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Apache Iceberg Lakehouse: Snowflake & Google Cloud",
       "summary": "Discover how Snowflake and Google Cloud use Apache Iceberg to build an open, AI-ready lakehouse. Achieve data interoperability without vendor lock-in.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-google-cloud-open-lakehouse",
@@ -1464,19 +1470,6 @@
       "tags": [
         "cloud",
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Adaptive Compute: Now GA Across Select AWS, Azure and Google Cloud Regions",
-      "summary": "Snowflake Adaptive Compute is now GA across select AWS, Azure and Google Cloud regions, offering improved price-performance for variable and AI workloads with no manual tuning required.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/adaptive-compute-ga-azure-google-cloud",
-      "date": "2026-07-28T20:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 2,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
