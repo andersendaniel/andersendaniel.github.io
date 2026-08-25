@@ -1,7 +1,80 @@
 {
-  "generated": "2026-08-25T17:25:28.317811+00:00",
+  "generated": "2026-08-25T23:19:48.760553+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "How to evaluate LLMs before production",
+      "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "date": "2026-08-25T21:35:11+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 12,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Capital Markets Finance Protects Balance Sheet Returns",
+      "summary": "An insurer settles a claim months after the loss. An asset manager marks someone...",
+      "url": "https://www.databricks.com/blog/how-capital-markets-finance-protects-balance-sheet-returns",
+      "date": "2026-08-25T20:00:01+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS IoT Core now supports native InfluxDB routing for time-series data",
+      "summary": "AWS IoT Core now supports InfluxDB rule action that routes time-series data from your Internet of Things (IoT) devices directly to InfluxDB databases, without writing custom device-side code or using intermediate cloud services. AWS IoT Core is a fully managed service that securely connects billions of IoT devices to the AWS cloud, and routes IoT device data to AWS and third-party services. The ne",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/",
+      "date": "2026-08-25T19:42:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Batch now supports Amazon ECS Managed Instances",
+      "summary": "AWS Batch now supports Amazon ECS Managed Instances (ECS MI) as a new compute option, enabling you to run GPU-accelerated and compute-intensive batch workloads on AWS-managed infrastructure. With AWS Batch on ECS MI you can now access GPU-accelerated instances while AWS handles AMI updates, security patching, and instance lifecycle automatically, eliminating the operational overhead of customer-ma",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances/",
+      "date": "2026-08-25T19:36:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Budget Effect of a Security Incident",
+      "summary": "Why investing in Salesforce security before an incident can reduce costs, strengthen resilience, and prepare your organization for AI.",
+      "url": "https://www.salesforce.com/blog/the-budget-effect-of-a-security-incident/",
+      "date": "2026-08-25T18:06:39+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Lambda MicroVMs now supports AWS PrivateLink",
+      "summary": "AWS Lambda MicroVMs now supports AWS PrivateLink, enabling private connectivity to Lambda MicroVMs directly from Amazon Virtual Private Cloud (VPC) resources without exposing traffic to the public internet. This launch helps regulated workloads in financial services, healthcare, and government meet strict network isolation requirements when building with Lambda MicroVMs. PrivateLink VPC Endpoints ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink",
+      "date": "2026-08-25T16:34:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "Happy 20th Birthday, Amazon EC2",
       "summary": "On the 20th Anniversary, we recognize how AWS has continued to push the boundaries of what cloud computing can deliver, building custom silicon for general-purpose and AI workloads and expanding EC2 into new form factors and deployment models that our customers in 2006 could not have imagined.",
@@ -24,6 +97,19 @@
       "category": "aws",
       "relevance": 4,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24",
+      "summary": "Amazon Relational Database Service (RDS) for PostgreSQL now supports the latest minor versions 18.6, 17.11, 16.15, 15.19, and 14.24. We recommend that you upgrade to the latest minor versions to address Common Vulnerabilities and Exposures (CVEs) in prior versions of PostgreSQL, and to benefit from the bug fixes and improvements added by the PostgreSQL community. You can upgrade your databases dur",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24/",
+      "date": "2026-08-25T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -62,6 +148,28 @@
       "image": null
     },
     {
+      "title": "IAM Roles Anywhere now provides a Java plugin for the AWS SDK",
+      "summary": "AWS Identity and Access Management (IAM) Roles Anywhere now provides a plugin for the AWS SDK for Java v2 that enables workloads running outside of AWS to obtain temporary AWS credentials directly within the Java application process. The plugin runs in the same Java Virtual Machine (JVM) as your application, removing the need to run the IAM Roles Anywhere credential helper as a separate process or",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/",
+      "date": "2026-08-25T13:18:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15",
+      "summary": "Today, AWS Lambda introduces managed runtimes in public preview, starting with Node.js 26 and Python 3.15. This gives customers, partners and upstream language communities the opportunity to try upcoming managed runtimes before their general availability (GA) release and to share their feedback with the Lambda team. Previously, Lambda managed runtimes were launched directly as GA releases. Since t",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-node-js-python-public-preview/",
+      "date": "2026-08-25T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "5 Ways to Get Your Invoices Paid In Full",
       "summary": "Chasing down unpaid invoices doesn't have to be part of the job — here's how to get paid with the right tools.",
       "url": "https://www.salesforce.com/blog/small-business/invoice-payments/",
@@ -84,6 +192,32 @@
       "image": null
     },
     {
+      "title": "Amazon RDS now supports the latest CU for Microsoft SQL Server",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest Cumulative Updates (CU) for Microsoft SQL Server. This release includes support for Microsoft SQL Server 2025 CU6 KB5093421 (RDS version 17.00.4055.5.v1). For additional information on the improvements and fixes included in these updates, see Microsoft documentation for KB5093421. We recommend that you upgrade y",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-microsoft-sql-server/",
+      "date": "2026-08-25T07:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS for Oracle now supports July 2026 Release Update",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports the Oracle July 2026 Release Update (RU) for Oracle Database versions 19c, 21c and 26ai. We recommend upgrading to the July 2026 RU as it includes security updates for Oracle database products. Starting with July 2026 releases, the naming format for an RU in Oracle Database 19c changes to <version>.ru-<YYYY-MM>.mrp-<YYYY-MM>.r",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-july-2026-release-update",
+      "date": "2026-08-25T07:24:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "The full stack behind abundant intelligence",
       "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
       "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
@@ -92,6 +226,19 @@
       "category": "openai",
       "relevance": 2,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Secrets Manager adds managed external secrets support for Cisco Security Platform and Netskope",
+      "summary": "AWS Secrets Manager now extends its managed external secrets capability to include Cisco Security Platform API keys and Netskope API tokens, enabling you to automatically rotate these third-party credentials directly from the AWS console without writing any custom rotation code. For Cisco Security Platform (Security Cloud Control), Secrets Manager rotates the API key's refresh token on your schedu",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-cisco-netskope/",
+      "date": "2026-08-25T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -126,6 +273,17 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "date": "2026-08-25T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -228,17 +386,6 @@
       "image": null
     },
     {
-      "title": "Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23",
-      "summary": "Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL versions 18.4, 17.10, 16.14, 15.18, and 14.23 which include bug fixes from the PostgreSQL community and Aurora-specific enhancements. We recommend upgrading to the latest minor versions to address known Common Vulnerabilities and Exposures (CVEs) and benefit from these improvements, as detailed in the release notes . You can upgra",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-postgresql-18-4-17-10-16-14-15-18-14-23/",
-      "date": "2026-08-24T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Datablazer Roundup: August",
       "summary": "There’s a lot going on in the Datablazer Community right now, and honestly, some of the best stuff gets buried before most people ever see it. So we’re trying something new: the Datablazer…",
       "url": "https://www.salesforce.com/blog/datablazer-monthly-roundup/",
@@ -288,56 +435,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700.jpg"
     },
     {
-      "title": "Amazon SageMaker HyperPod enhances support for Ray",
-      "summary": "Amazon SageMaker HyperPod now enhances support for Ray with built-in observability, resilient training, accelerated inference and managed development environments. Ray is a popular open-source framework for scaling AI workloads on a unified compute layer, from data processing and distributed training to reinforcement learning and model serving. Running Ray on Kubernetes at production scale can be ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray",
-      "date": "2026-08-24T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 8,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Connect Customer now supports information extraction for agent voice and chat conversations",
-      "summary": "Amazon Connect Customer now supports information extraction, which automatically captures key data from voice and chat interactions, reducing manual data capture and improving agent and supervisor productivity. Information extraction captures verbatim values like account numbers, reservation IDs, and product names, as well as derived insights inferred from the conversation such as reason for conta",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-information/",
-      "date": "2026-08-24T14:46:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS ParallelCluster 3.16 adds an on-node diagnostics tool",
-      "summary": "AWS ParallelCluster 3.16 is now generally available with a new on-node diagnostics tool, cluster stability improvements, and an updated HPC and AI/ML software stack. pcluster-diag is a diagnostics tool built into the ParallelCluster AMIs that lets you run diagnostic checks on any cluster node with a single command, and get a structured report that makes it easier to identify issues. This release a",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-parallelcluster/",
-      "date": "2026-08-24T14:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud (US)",
-      "summary": "GPT-5.6 Terra and Luna are now generally available on Amazon Bedrock in AWS GovCloud (US-West) and AWS GovCloud (US-East), bringing the smartest family of models from OpenAI yet to Bedrock's next-generation inference engine built for high-performance, security and reliability. GPT-5.6 sets a new standard for intelligence and efficiency, allowing you to solve harder problems in less time and with m",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/",
-      "date": "2026-08-24T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 29,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Connect Your Data: MuleSoft For Small Businesses and Startups",
       "summary": "MuleSoft connects all your apps and gives you a complete view of your customers‌ — ‌no matter what size your business is.",
       "url": "https://www.salesforce.com/blog/small-business/mulesoft-for-smbs-and-startups/",
@@ -371,19 +468,6 @@
       "image": null
     },
     {
-      "title": "Amazon RDS for MySQL now supports new minor version 8.4.11",
-      "summary": "Starting today, Amazon Relational Database Service (Amazon RDS) for MySQL supports MySQL minor version 8.4.11, the latest minor released by community MySQL. In addition to operational improvements, MySQL 8.4.11 introduces support for post-quantum TLS (PQ-TLS) key exchange, providing you with post-quantum cryptography options for encrypting your data in-transit. We recommend upgrading to the newer ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mysql-8411-available/",
-      "date": "2026-08-24T08:41:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Leading Through Change: Jameel’s Customer Success Career in the AI Era",
       "summary": "A month after a friend referred him to Salesforce, Jameel received the call that would begin a ten-year journey. “Salesforce was like a calling, to be honest.” At the time, he was between…",
       "url": "https://www.salesforce.com/blog/leading-through-change-jameels-customer-success-career-in-the-ai-era/",
@@ -391,44 +475,6 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Neuron 2.32 introduces expanded NKI programming, MXFP8 training kernels, and variable-size collectives for Trn2 and Trn",
-      "summary": "AWS Neuron 2.32.0 is now available, introducing NKI 0.6.0 with an on-device top-K instruction, a variable-length `all-gather `for kernels whose ranks hold differently sized tensors, and new loop constructs for data-dependent iteration. This release also introduces 13 new NKI Library kernels for Mixture of Experts (MoE) training and sparse attention, and a new Neuron Agentic Development skill that ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0",
-      "date": "2026-08-21T21:11:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
-      "summary": "Today, OpenAI announced that they are lowering API prices for GPT-5.6 Sol. Following the recent Terra and Luna price reductions, Sol now costs $4 per million input tokens and $20 per million output tokens—20% lower input pricing and 33.3% lower output pricing. This promotional pricing is available at least through November 21, 2026. Whether you're building autonomous coding agents, running complex",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
-      "date": "2026-08-21T20:11:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 26,
-      "tags": [
-        "ai",
-        "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Connect Customer now lets managers chat with their data",
-      "summary": "Amazon Connect Customer now lets managers chat with their data in plain language and get back the answer, the evidence behind it, and the fix, in seconds. Managers have always had the data. What they haven’t had is the time to dig through dashboards, find what’s driving performance, and decide what to do next. Now Amazon Connect Customer does that work for them. It searches across more than 150 me",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics",
-      "date": "2026-08-21T20:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -441,19 +487,6 @@
       "category": "aws",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor",
-      "summary": "The AWS Deadline Cloud monitor now shows the progress, status, and health of your automatic file downloads from jobs running in the cloud. Deadline Cloud is a fully managed service that helps teams run compute-intensive workloads in the cloud for visual effects, animation, product design, simulation, and gaming. The Deadline Cloud Monitor (DCM) desktop app provides customers with visibility into t",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/",
-      "date": "2026-08-21T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
       "image": null
     },
     {
@@ -559,19 +592,6 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Data 360 Headless: Extend the Power of Data 360 to Any Agent, App, or Dev Tool",
-      "summary": "A couple of months ago, I stood on a stage in Chicago and let Claude talk to a live Salesforce org in front of a room full of practitioners. Real queries, real data.…",
-      "url": "https://www.salesforce.com/blog/data-360-headless-extend-the-power-of-data-360-to-any-agent-app-or-dev-tool/",
-      "date": "2026-08-20T16:59:01+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -777,17 +797,6 @@
       "image": null
     },
     {
-      "title": "Evaluating AI Agents Live at the Grounded Reasoning Cup",
-      "summary": "This year, Databricks hosted the inaugural Grounded Reasoning Cup, a first-of-its-kind...",
-      "url": "https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup",
-      "date": "2026-08-18T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
       "summary": "Each location will be a permanent community space to offer free workshops, networking events, pitch nights, content creation spaces, collaboration/co-working areas, and event hosting for developers, students, or tech professionals who want to walk through the doors.",
       "url": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/",
@@ -854,17 +863,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-      "url": "https://openai.com/index/asana",
-      "date": "2026-08-18T07:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1112,17 +1110,6 @@
       "tags": [
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "Your contributors are AI-first now. Is your project?",
-      "summary": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared first on The GitHub Blog .",
-      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
-      "date": "2026-08-12T18:00:08+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 13,
-      "tags": [],
       "image": null
     },
     {
