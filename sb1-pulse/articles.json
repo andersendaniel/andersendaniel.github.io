@@ -1,7 +1,110 @@
 {
-  "generated": "2026-08-25T11:21:20.678377+00:00",
+  "generated": "2026-08-25T17:25:28.317811+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Happy 20th Birthday, Amazon EC2",
+      "summary": "On the 20th Anniversary, we recognize how AWS has continued to push the boundaries of what cloud computing can deliver, building custom silicon for general-purpose and AI workloads and expanding EC2 into new form factors and deployment models that our customers in 2006 could not have imagined.",
+      "url": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/",
+      "date": "2026-08-25T16:11:02+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
+      "summary": "Amazon Connect Customer now lets agents change the profile on a case or choose a profile after the case is opened. If a case is linked to the wrong customer, agents can update the profile to keep case histories accurate. Agents can also add a profile later when the customer is not identified at case creation, such as for calls from a shared phone number or issues that require identity verification",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/",
+      "date": "2026-08-25T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "date": "2026-08-25T16:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+      "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark and Ubisoft are among the latest game publishers and developers bringing their blockbuster titles to NVIDIA RTX Spark ahead of its launch […]",
+      "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+      "date": "2026-08-25T15:30:48+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg"
+    },
+    {
+      "title": "Modernizing SQL ETL in Lakehouse with Declarative Patterns",
+      "summary": "Databricks is bringing declarative ETL to data warehousing workflows in Lakehouse...",
+      "url": "https://www.databricks.com/blog/modernizing-sql-etl-lakehouse-declarative-patterns",
+      "date": "2026-08-25T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "5 Ways to Get Your Invoices Paid In Full",
+      "summary": "Chasing down unpaid invoices doesn't have to be part of the job — here's how to get paid with the right tools.",
+      "url": "https://www.salesforce.com/blog/small-business/invoice-payments/",
+      "date": "2026-08-25T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AI-Powered Memory Games Bring Personal Stories into Dementia Care",
+      "summary": "Memory Lane Games collaborated with SAP and EY to develop an AI prototype that can generate memory games tailored to an individual’s life experiences.",
+      "url": "https://news.sap.com/2026/08/memory-lane-games-ai-personalization-dementia-care/",
+      "date": "2026-08-25T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "date": "2026-08-25T07:05:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "date": "2026-08-25T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "AWS Lambda functions now support full IAM resource-based policies",
       "summary": "AWS Lambda functions now support full Identity and Access Management (IAM) resource-based policies , enabling platform admins and security teams to define granular access permissions using the full capabilities of AWS IAM. With full IAM resource-based policies, you can define permissions for multiple principals and actions in a single policy document and leverage the full range of IAM condition ke",
@@ -376,19 +479,6 @@
       "image": null
     },
     {
-      "title": "Amazon EKS Capability for Argo CD now supports custom configuration",
-      "summary": "The Amazon Elastic Kubernetes Service (Amazon EKS) Capability for Argo CD now supports custom configuration through a standard argocd-cm ConfigMap in your cluster. This capability gives you a fully managed GitOps continuous delivery experience, and you can now tune it to fit how your teams work. You can define custom health checks for your Custom Resources, customize the Argo CD UI banner content,",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-argo-cd-configuration",
-      "date": "2026-08-21T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "What’s new with Google Cloud",
       "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 17 - Aug 21 Webina",
       "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -482,17 +572,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "From Alliance to Apache: The Next Chapter for Open Semantics",
-      "summary": "The Open Semantic Interchange entered the Apache Incubator as Apache Ossie (Incubating), backed by a growing coalition of 50+ data and AI leaders.",
-      "url": "https://www.salesforce.com/blog/alliance-to-apache-next-chapter-for-open-semantics/",
-      "date": "2026-08-20T16:53:57+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -801,17 +880,6 @@
       "image": null
     },
     {
-      "title": "How Databricks Feature Store serves features with sub-second freshness",
-      "summary": "Machine learning models are only as good as the signals they receive. A fraud detection...",
-      "url": "https://www.databricks.com/blog/how-databricks-feature-store-serves-features-sub-second-freshness",
-      "date": "2026-08-17T23:10:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 18,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Building a Context Layer for AI Agents | Snowflake",
       "summary": "Learn best practices for creating a semantic layer using Snowflake semantic views. Improve data accuracy and scale AI agent performance across your stack.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-internal-context-layer-for-ai-agents",
@@ -896,30 +964,6 @@
       "relevance": 13,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "The Defender’s Window",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "url": "https://openai.com/index/the-defenders-window",
-      "date": "2026-08-17T05:30:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 7,
-      "tags": [
-        "security"
-      ],
-      "image": null
-    },
-    {
-      "title": "OpenAI joins PORTS-Pike project",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "date": "2026-08-17T05:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
@@ -1304,17 +1348,6 @@
       "image": null
     },
     {
-      "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
-      "summary": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector.",
-      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
-      "date": "2026-08-06T13:00:00+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nv-ov-ito-social-1920x1080-1.jpg"
-    },
-    {
       "title": "AI Adoption and SAP Transformation: What Customers Report from Practice",
       "summary": "How do new technologies actually work in day-to-day operations?",
       "url": "https://news.sap.com/2026/08/ai-adoption-transformation-what-customers-report/",
@@ -1372,17 +1405,6 @@
       "tags": [
         "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "Support Accreditation: SAP’s Enablement Course to Unlock Faster, Smarter, AI-Powered Customer Support",
-      "summary": "What if you could resolve issues faster, work more independently, and stay ahead of AI-driven innovation all in just over 60 minutes of learning?",
-      "url": "https://news.sap.com/2026/08/support-accreditation-course-unlock-customer-support/",
-      "date": "2026-08-05T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 2,
-      "tags": [],
       "image": null
     },
     {
@@ -1459,6 +1481,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "The next measure of AI momentum is work transformed",
+      "summary": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter. The post The next measure of AI momentum is work transformed appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [],
       "image": null
     },
     {
