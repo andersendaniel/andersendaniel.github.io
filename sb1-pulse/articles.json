@@ -1,7 +1,20 @@
 {
-  "generated": "2026-08-24T23:17:37.939169+00:00",
+  "generated": "2026-08-25T05:26:00.788789+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now automatically detects and repairs container instances, enabling customers to reduce undetected workload failures and improve application availability without manual intervention. With this launch, Amazon ECS continuously monitors agent connectivity across container instances. Infrastructure events such as EBS volume degradation, host thermal events",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health",
+      "date": "2026-08-24T22:42:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "Streaming Data into Apache Iceberg with Snowflake",
       "summary": "Discover how to easily stream data into Snowflake-managed Apache Iceberg tables using Snowpipe Streaming.",
@@ -411,17 +424,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Amazon SES now supports open and click tracking override parameters",
-      "summary": "Amazon Simple Email Service (SES) now supports open and click tracking override parameters in the SendEmail and SendBulkEmail APIs. Senders can enable or disable open tracking and click tracking on an individual API call, rather than managing tracking preferences through separate configuration sets. Previously, controlling tracking behavior required maintaining a distinct configuration set for eac",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-adds-open-click-tracking-override/",
-      "date": "2026-08-21T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Inbound Private Link now supports account-level Genie One, the account console, and custom URLs",
