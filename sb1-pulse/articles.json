@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-25T23:19:48.760553+00:00",
+  "generated": "2026-08-26T05:28:23.702711+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Introducing Governance Hub: Intelligent, account-level governance over your Databricks estate",
+      "summary": "Your FinOps lead needs to easily drill-down into Databricks spend and identify what’s driving costs, ...",
+      "url": "https://www.databricks.com/blog/introducing-governance-hub-intelligent-account-level-governance-over-your-databricks-estate",
+      "date": "2026-08-26T03:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Leveraging Databricks to Support FISC Security Guidelines",
+      "summary": "The FISC Security Guidelines on Computer Systems for Banking and Related Financial...",
+      "url": "https://www.databricks.com/blog/leveraging-databricks-support-fisc-security-guidelines",
+      "date": "2026-08-26T00:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 26,
+      "tags": [
+        "banking"
+      ],
+      "image": null
+    },
     {
       "title": "How to evaluate LLMs before production",
       "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .",
@@ -76,6 +100,17 @@
       "image": null
     },
     {
+      "title": "Choosing Data Governance Tools for Enterprise Data Governance",
+      "summary": "Data governance tools are software platforms that help organizations catalog, secure,...",
+      "url": "https://www.databricks.com/blog/data-governance-tools",
+      "date": "2026-08-25T16:17:44+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Happy 20th Birthday, Amazon EC2",
       "summary": "On the 20th Anniversary, we recognize how AWS has continued to push the boundaries of what cloud computing can deliver, building custom silicon for general-purpose and AI workloads and expanding EC2 into new form factors and deployment models that our customers in 2006 could not have imagined.",
       "url": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/",
@@ -89,14 +124,16 @@
       "image": null
     },
     {
-      "title": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
-      "summary": "Amazon Connect Customer now lets agents change the profile on a case or choose a profile after the case is opened. If a case is linked to the wrong customer, agents can update the profile to keep case histories accurate. Agents can also add a profile later when the customer is not identified at case creation, such as for calls from a shared phone number or issues that require identity verification",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/",
-      "date": "2026-08-25T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [],
+      "title": "Data Mesh vs. Data Fabric: Key Differences and How the Lakehouse Resolves the Debate",
+      "summary": "Executive Verdict: Organization vs. TechnologyData mesh vs. data fabric hinges on...",
+      "url": "https://www.databricks.com/blog/data-mesh-vs-data-fabric",
+      "date": "2026-08-25T16:05:34+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -110,6 +147,17 @@
       "tags": [
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
+      "summary": "Amazon Connect Customer now lets agents change the profile on a case or choose a profile after the case is opened. If a case is linked to the wrong customer, agents can update the profile to keep case histories accurate. Agents can also add a profile later when the customer is not identified at case creation, such as for calls from a shared phone number or issues that require identity verification",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/",
+      "date": "2026-08-25T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
       "image": null
     },
     {
@@ -188,6 +236,17 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Open Table Formats Explained: Iceberg vs. Delta vs. Hudi",
+      "summary": "Open table formats are metadata layers that sit on top of data files in object storage, adding ACID transactions...",
+      "url": "https://www.databricks.com/blog/open-table-formats",
+      "date": "2026-08-25T07:37:09+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -386,6 +445,19 @@
       "image": null
     },
     {
+      "title": "Relational vs Non-Relational Database: Choosing the Right Data Store",
+      "summary": "Choosing between relational and non-relational databases is one of the most consequential...",
+      "url": "https://www.databricks.com/blog/relational-vs-non-relational-database",
+      "date": "2026-08-24T16:56:45+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
       "title": "Datablazer Roundup: August",
       "summary": "There’s a lot going on in the Datablazer Community right now, and honestly, some of the best stuff gets buried before most people ever see it. So we’re trying something new: the Datablazer…",
       "url": "https://www.salesforce.com/blog/datablazer-monthly-roundup/",
@@ -501,17 +573,6 @@
       "image": null
     },
     {
-      "title": "Connecting retail demand planning to campaign and store execution",
-      "summary": "Retail and consumer goods teams make decisions across a connected but complex operating cycle...",
-      "url": "https://www.databricks.com/blog/connecting-retail-demand-planning-campaign-and-store-execution",
-      "date": "2026-08-21T17:20:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "What’s new with Google Cloud",
       "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 17 - Aug 21 Webina",
       "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -558,41 +619,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "Inbound Private Link now supports account-level Genie One, the account console, and custom URLs",
-      "summary": "Enterprises adopting Databricks for their most sensitive data commonly rely on Inbound...",
-      "url": "https://www.databricks.com/blog/inbound-private-link-now-supports-account-level-genie-one-account-console-and-custom-urls",
-      "date": "2026-08-20T22:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Busting SQL Migration Myths: How New SQL Features Make Lift-and-Shift to Lakehouse Easier",
-      "summary": "Somewhere in your warehouse, hundreds of stored procedures wake up every night and...",
-      "url": "https://www.databricks.com/blog/busting-sql-migration-myths-how-new-sql-features-make-lift-and-shift-lakehouse-easier",
-      "date": "2026-08-20T19:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "The Mobile Worker Crisis: Solving Turnover and Disconnection in the Field",
-      "summary": "66% of field service organizations are losing technicians to poor training and disconnection. Here's how 39% are turning the tide—and keeping revenue high.",
-      "url": "https://www.salesforce.com/blog/mobile-worker-crisis/",
-      "date": "2026-08-20T17:12:29+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
@@ -687,17 +713,6 @@
       "image": null
     },
     {
-      "title": "Designing effective Genie Agents from a single prompt",
-      "summary": "Ask a generic agent about revenue, and it’ll likely grab the first revenue table...",
-      "url": "https://www.databricks.com/blog/designing-effective-genie-agents-single-prompt",
-      "date": "2026-08-19T16:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "What NASA’s Return to the Moon Can Teach Leaders About Transformation at Scale",
       "summary": "Managing complexity, sustaining momentum, and using emerging technology support mission outcomes.",
       "url": "https://news.sap.com/2026/08/sap-now-nasa-return-to-moon-teach-about-transformation-at-scale/",
@@ -753,17 +768,6 @@
       "image": null
     },
     {
-      "title": "Databricks Document Intelligence: pushing the frontier for complex document extraction",
-      "summary": "Every enterprise has valuable data trapped in messy, unstructured documents. Today,...",
-      "url": "https://www.databricks.com/blog/databricks-document-intelligence-pushing-frontier-complex-document-extraction",
-      "date": "2026-08-18T22:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Strengthening democratic oversight in national security",
       "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
       "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -781,17 +785,6 @@
       "date": "2026-08-18T16:00:00+00:00",
       "source": "Snowflake Blog",
       "category": "snowflake",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "When it comes to Governance, Retailers need a control plane for context",
-      "summary": "Retailers are entering a new phase of AI adoption.The early conversations around...",
-      "url": "https://www.databricks.com/blog/when-it-comes-governance-retailers-need-control-plane-context",
-      "date": "2026-08-18T15:18:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
       "relevance": 2,
       "tags": [],
       "image": null
@@ -1468,17 +1461,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "The next measure of AI momentum is work transformed",
-      "summary": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter. The post The next measure of AI momentum is work transformed appeared first on Microsoft 365 Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00+00:00",
-      "source": "Microsoft 365",
-      "category": "microsoft",
-      "relevance": 13,
-      "tags": [],
       "image": null
     },
     {
