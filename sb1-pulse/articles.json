@@ -1,7 +1,18 @@
 {
-  "generated": "2026-08-26T05:28:23.702711+00:00",
+  "generated": "2026-08-26T11:23:13.917014+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Digital Transformation Is Complex, But We Often Make It Harder Than It Needs to Be",
+      "summary": "Complexity is not always the problem. Unmanaged, and often self-created, complexity is.",
+      "url": "https://news.sap.com/2026/08/digital-transformation-complexity-harder-than-it-needs-to-be/",
+      "date": "2026-08-26T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Introducing Governance Hub: Intelligent, account-level governance over your Databricks estate",
       "summary": "Your FinOps lead needs to easily drill-down into Databricks spend and identify what’s driving costs, ...",
@@ -9,6 +20,17 @@
       "date": "2026-08-26T03:00:00+00:00",
       "source": "Databricks Blog",
       "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "url": "https://openai.com/index/loveholidays",
+      "date": "2026-08-26T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -218,6 +240,19 @@
       "image": null
     },
     {
+      "title": "Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region",
+      "summary": "Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The M8i and M8i-flex instances offer up to 15% better price-performance, and 2.5x more memory ban",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-m8i-m8i-flex-canada-west/",
+      "date": "2026-08-25T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "5 Ways to Get Your Invoices Paid In Full",
       "summary": "Chasing down unpaid invoices doesn't have to be part of the job — here's how to get paid with the right tools.",
       "url": "https://www.salesforce.com/blog/small-business/invoice-payments/",
@@ -325,6 +360,17 @@
       "image": null
     },
     {
+      "title": "Amazon GameLift Servers enhanced DDoS Protection now available",
+      "summary": "Amazon GameLift Servers now offers Enhanced DDoS Protection, a new layer of protection that defends game servers from common network and transport layer DDoS attacks with no configuration required. Enhanced DDoS Protection is active from the moment you start running game servers on Amazon GameLift Servers , with nothing to enable or opt in to. Enhanced DDoS Protection provides proactive, gaming-op",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-servers-enhanced-ddos-protection",
+      "date": "2026-08-25T00:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Disrupting a new covert influence campaign from Russia",
       "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
@@ -369,34 +415,6 @@
       "relevance": 1,
       "tags": [
         "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "SageMaker MLflow now supports customer managed keys",
-      "summary": "SageMaker MLflow now enables customers to encrypt their data using customer-managed keys (CMK) through AWS Key Management Service (KMS). This enhancement allows organizations with strict security and compliance requirements to manage their own encryption keys. With customer-managed keys, you gain enhanced security control and comprehensive audit capabilities through AWS CloudTrail integration. You",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys",
-      "date": "2026-08-24T19:26:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud",
-        "security",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EKS now supports multiple external OIDC identity providers per cluster",
-      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports multiple external OpenID Connect (OIDC) identity providers per cluster. You can associate up to 10 OIDC identity providers with a single cluster, giving you more flexibility in how you authenticate users and workloads to your Kubernetes clusters. Many organizations use different identity providers for different user populations, such as e",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers",
-      "date": "2026-08-24T18:29:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 8,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -860,17 +878,6 @@
       "image": null
     },
     {
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-      "url": "https://openai.com/index/nvidia/chatgpt-work",
-      "date": "2026-08-18T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 17,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Building a Context Layer for AI Agents | Snowflake",
       "summary": "Learn best practices for creating a semantic layer using Snowflake semantic views. Improve data accuracy and scale AI agent performance across your stack.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-internal-context-layer-for-ai-agents",
@@ -1328,17 +1335,6 @@
       "image": null
     },
     {
-      "title": "AI Adoption and SAP Transformation: What Customers Report from Practice",
-      "summary": "How do new technologies actually work in day-to-day operations?",
-      "url": "https://news.sap.com/2026/08/ai-adoption-transformation-what-customers-report/",
-      "date": "2026-08-06T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking",
       "summary": "Every day, Meta’s recommendation platforms handle billions of user interactions, generating rich temporal signals that capture individual preferences and intent across products, ads, and content. In our 2024 post on sequence learning for ads recommendations, we showed how modeling the order and timing of user actions (rather than relying on static, manually engineered sparse features) [...] Read M",
       "url": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
@@ -1461,6 +1457,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "The next measure of AI momentum is work transformed",
+      "summary": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter. The post The next measure of AI momentum is work transformed appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 13,
+      "tags": [],
       "image": null
     },
     {
