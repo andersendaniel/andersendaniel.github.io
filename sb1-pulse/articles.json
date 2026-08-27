@@ -1,7 +1,88 @@
 {
-  "generated": "2026-08-26T18:53:22.541739+00:00",
+  "generated": "2026-08-27T04:11:06.078787+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon Cognito adds admin API operation to reset user TOTP configurations",
+      "summary": "Amazon Cognito now provides a new admin API operation to reset a user's time-based one-time Password (TOTP) multi-factor authentication (MFA) configuration. When users lose access to their TOTP device, administrators can remove the device association, allowing the user to enroll a new device on their next sign-in. This removes the need to recreate accounts to recover locked-out users if they lose ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-totp-reset/",
+      "date": "2026-08-26T22:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Don’t Use AI to Build Your Comp Management Tool. There’s a Better Way.",
+      "summary": "The DIY compensation planning trap is real — and costly. Here's what secure, AI-native comp management actually looks like.",
+      "url": "https://www.salesforce.com/blog/agentic-incentive-compensation-management-vs-diy-ai-icm/",
+      "date": "2026-08-26T21:39:04+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+      "summary": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]",
+      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+      "date": "2026-08-26T21:05:30+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 13,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gpu-architecture-corp-blog-nvhbm-1280x680-5547600.jpg"
+    },
+    {
+      "title": "7 ways to kick-start back to school using Gemini in Workspace",
+      "summary": "A student placing books in a satchel with the text “Back to School using Google Workspace with Gemini",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
+      "date": "2026-08-26T20:30:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 13,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Student-blog-header.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+      "date": "2026-08-26T20:12:53+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 12,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Design Dynamic Approvals That Can Scale",
+      "summary": "Learn an extensible pattern for designing a dynamic metadata-driven approvals solution on Salesforce.",
+      "url": "https://www.salesforce.com/blog/metadata-driven-approvals/",
+      "date": "2026-08-26T19:02:52+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Mountpoint for Amazon S3 adds memory usage controls",
+      "summary": "Mountpoint for Amazon S3 can now limit memory usage, either automatically based on the environment it runs in or with a limit that you define. This lets you run Mountpoint alongside memory-intensive applications, for example, in machine learning training or analytics workloads where applications share a memory budget. Previously, Mountpoint’s memory usage could expand over time based on usage patt",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/mountpoint-for-S3-adds-memory-usage-controls",
+      "date": "2026-08-26T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 9,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "What Does Salesforce Do?",
       "summary": "From your first customer conversation to your next big win, Salesforce's #1 agentic CRM helps you build stronger relationships, work smarter with AI agents, and transform your business into an agentic enterprise.",
@@ -25,6 +106,30 @@
       "relevance": 12,
       "tags": [
         "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Connect Customer now supports points-based scoring in performance evaluations",
+      "summary": "Amazon Connect Customer now supports points-based scoring to evaluate human and AI agent performance, giving managers more flexibility in configuring evaluation scores. With points-based scoring, managers assign points to each criterion based on its importance to the business, and the score is the sum of the points earned. In contrast, with the existing percentage-based scoring, each question is a",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-points-based-scoring-evaluations/",
+      "date": "2026-08-26T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Glue 5.1 is now available in AWS European Sovereign Cloud Region",
+      "summary": "AWS Glue 5.1 is now available in the AWS European Sovereign Cloud Region. AWS Glue is a serverless, scalable data integration service that simplifies discovering, preparing, moving, and integrating data from multiple sources. AWS Glue 5.1 upgrades core engines to Apache Spark 3.5.6, Python 3.11, and Scala 2.12.18, bringing performance and security enhancements. This release also updates support fo",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-5-1-european-sovereign-cloud",
+      "date": "2026-08-26T16:26:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -73,6 +178,17 @@
       "image": null
     },
     {
+      "title": "AWS Backup adds cross-Region backup copy and logically air-gapped vault support for Amazon DocumentDB in nine additional AWS Regions",
+      "summary": "AWS Backup now supports copying Amazon DocumentDB backups across AWS Regions and storing them in logically air-gapped vaults in nine additional AWS Regions: Asia Pacific (Hong Kong, Jakarta, Melbourne, Osaka), Europe (Spain, Stockholm, Zurich), Africa (Cape Town), and Israel (Tel Aviv). With cross-Region copy now available in these Regions, you can copy DocumentDB backups into and out of them usin",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-cross-region-air-gapped-docdb/",
+      "date": "2026-08-26T10:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
@@ -102,6 +218,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "date": "2026-08-26T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 3,
       "tags": [],
       "image": null
     },
@@ -266,6 +393,17 @@
       "image": null
     },
     {
+      "title": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
+      "summary": "Amazon Connect Customer now lets agents change the profile on a case or choose a profile after the case is opened. If a case is linked to the wrong customer, agents can update the profile to keep case histories accurate. Agents can also add a profile later when the customer is not identified at case creation, such as for calls from a shared phone number or issues that require identity verification",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/",
+      "date": "2026-08-25T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24",
       "summary": "Amazon Relational Database Service (RDS) for PostgreSQL now supports the latest minor versions 18.6, 17.11, 16.15, 15.19, and 14.24. We recommend that you upgrade to the latest minor versions to address Common Vulnerabilities and Exposures (CVEs) in prior versions of PostgreSQL, and to benefit from the bug fixes and improvements added by the PostgreSQL community. You can upgrade your databases dur",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24/",
@@ -276,17 +414,6 @@
       "tags": [
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
-      "summary": "Amazon Connect Customer now lets agents change the profile on a case or choose a profile after the case is opened. If a case is linked to the wrong customer, agents can update the profile to keep case histories accurate. Agents can also add a profile later when the customer is not identified at case creation, such as for calls from a shared phone number or issues that require identity verification",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/",
-      "date": "2026-08-25T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [],
       "image": null
     },
     {
@@ -336,30 +463,6 @@
       "image": null
     },
     {
-      "title": "AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15",
-      "summary": "Today, AWS Lambda introduces managed runtimes in public preview, starting with Node.js 26 and Python 3.15. This gives customers, partners and upstream language communities the opportunity to try upcoming managed runtimes before their general availability (GA) release and to share their feedback with the Lambda team. Previously, Lambda managed runtimes were launched directly as GA releases. Since t",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-node-js-python-public-preview/",
-      "date": "2026-08-25T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region",
-      "summary": "Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The M8i and M8i-flex instances offer up to 15% better price-performance, and 2.5x more memory ban",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-m8i-m8i-flex-canada-west/",
-      "date": "2026-08-25T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "5 Ways to Get Your Invoices Paid In Full",
       "summary": "Chasing down unpaid invoices doesn't have to be part of the job — here's how to get paid with the right tools.",
       "url": "https://www.salesforce.com/blog/small-business/invoice-payments/",
@@ -393,32 +496,6 @@
       "image": null
     },
     {
-      "title": "Amazon RDS now supports the latest CU for Microsoft SQL Server",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest Cumulative Updates (CU) for Microsoft SQL Server. This release includes support for Microsoft SQL Server 2025 CU6 KB5093421 (RDS version 17.00.4055.5.v1). For additional information on the improvements and fixes included in these updates, see Microsoft documentation for KB5093421. We recommend that you upgrade y",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-microsoft-sql-server/",
-      "date": "2026-08-25T07:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS for Oracle now supports July 2026 Release Update",
-      "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports the Oracle July 2026 Release Update (RU) for Oracle Database versions 19c, 21c and 26ai. We recommend upgrading to the July 2026 RU as it includes security updates for Oracle database products. Starting with July 2026 releases, the naming format for an RU in Oracle Database 19c changes to <version>.ru-<YYYY-MM>.mrp-<YYYY-MM>.r",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-july-2026-release-update",
-      "date": "2026-08-25T07:24:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "The full stack behind abundant intelligence",
       "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
       "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
@@ -430,19 +507,6 @@
       "image": null
     },
     {
-      "title": "AWS Secrets Manager adds managed external secrets support for Cisco Security Platform and Netskope",
-      "summary": "AWS Secrets Manager now extends its managed external secrets capability to include Cisco Security Platform API keys and Netskope API tokens, enabling you to automatically rotate these third-party credentials directly from the AWS console without writing any custom rotation code. For Cisco Security Platform (Security Cloud Control), Secrets Manager rotates the API key's refresh token on your schedu",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-cisco-netskope/",
-      "date": "2026-08-25T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
       "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
       "url": "https://openai.com/index/jalapeno-first-results",
@@ -451,19 +515,6 @@
       "category": "openai",
       "relevance": 3,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Lambda functions now support full IAM resource-based policies",
-      "summary": "AWS Lambda functions now support full Identity and Access Management (IAM) resource-based policies , enabling platform admins and security teams to define granular access permissions using the full capabilities of AWS IAM. With full IAM resource-based policies, you can define permissions for multiple principals and actions in a single policy document and leverage the full range of IAM condition ke",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-full-iam-resource-based-policies/",
-      "date": "2026-08-25T02:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "security"
-      ],
       "image": null
     },
     {
@@ -559,17 +610,6 @@
       "image": null
     },
     {
-      "title": "Datablazer Roundup: August",
-      "summary": "There’s a lot going on in the Datablazer Community right now, and honestly, some of the best stuff gets buried before most people ever see it. So we’re trying something new: the Datablazer…",
-      "url": "https://www.salesforce.com/blog/datablazer-monthly-roundup/",
-      "date": "2026-08-24T15:45:01+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How XPUs Meet a World-Class AI Factory",
       "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider […]",
       "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
@@ -606,17 +646,6 @@
         "data"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700.jpg"
-    },
-    {
-      "title": "Connect Your Data: MuleSoft For Small Businesses and Startups",
-      "summary": "MuleSoft connects all your apps and gives you a complete view of your customers‌ — ‌no matter what size your business is.",
-      "url": "https://www.salesforce.com/blog/small-business/mulesoft-for-smbs-and-startups/",
-      "date": "2026-08-24T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
     },
     {
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
@@ -711,9 +740,20 @@
       "image": null
     },
     {
-      "title": "Introducing AI Futures",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "title": "Introducing Intelligence Age",
+      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "url": "https://openai.com/index/introducing-ai-futures",
+      "date": "2026-08-20T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing Intelligence Age",
+      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "url": "https://openai.com/index/introducing-intelligence-age",
       "date": "2026-08-20T07:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -836,17 +876,6 @@
       "image": null
     },
     {
-      "title": "Strengthening democratic oversight in national security",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "date": "2026-08-18T19:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Dynamic Model Routing & Open Models in Snowflake Cortex AI",
       "summary": "Snowflake introduces dynamic model routing and expands open model access in Cortex AI to help organizations improve AI efficiency, performance, and cost.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/dynamic-model-routing-open-models-cortex-ai",
@@ -890,17 +919,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "date": "2026-08-18T11:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -1123,19 +1141,6 @@
       "category": "github",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "GitHub Copilot app for Beginners: Write your first prompt",
-      "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post GitHub Copilot app for Beginners: Write your first prompt appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
-      "date": "2026-08-12T19:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 13,
-      "tags": [
-        "developer"
-      ],
       "image": null
     },
     {
