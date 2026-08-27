@@ -1,7 +1,160 @@
 {
-  "generated": "2026-08-27T04:11:06.078787+00:00",
+  "generated": "2026-08-27T16:02:39.769765+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+      "summary": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it. appeared first on The GitHub Blog .",
+      "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+      "date": "2026-08-27T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Building for the AI Era: Lakebase, Streaming, and Lakehouse Innovations  at VLDB 2026",
+      "summary": "We are headed to VLDB 2026 to share multiple innovations that power the Databricks platform...",
+      "url": "https://www.databricks.com/blog/building-ai-era-lakebase-streaming-and-lakehouse-innovations-vldb-2026",
+      "date": "2026-08-27T15:22:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 4,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "What QSR reports miss about the decisions matter the most",
+      "summary": "Limited-time offers can be a powerful way to create excitement, bring guests back,...",
+      "url": "https://www.databricks.com/blog/what-qsr-reports-miss-about-decisions-matter-most",
+      "date": "2026-08-27T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Enhancing Agent Retrieval with Structured Chart Extraction",
+      "summary": "The MotivationMore and more enterprises are now asking agents to work with their...",
+      "url": "https://www.databricks.com/blog/enhancing-agent-retrieval-structured-chart-extraction",
+      "date": "2026-08-27T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "From Documents to Context: Designing Effective Chunking in Data 360",
+      "summary": "Two organizations can ingest the same documents and receive dramatically different AI responses. The difference may not be the model. It can be how the content was parsed, divided, enriched, indexed, and retrieved.…",
+      "url": "https://www.salesforce.com/blog/from-documents-to-context-designing-effective-chunking-in-data-360/",
+      "date": "2026-08-27T14:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Vertical Advantage: Transforming Industries with Lakebase and Agentic AI",
+      "summary": "In the first blog of this series, we looked at how Lakebase Postgres is rewriting...",
+      "url": "https://www.databricks.com/blog/vertical-advantage-transforming-industries-lakebase-and-agentic-ai",
+      "date": "2026-08-27T13:05:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
+      "summary": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology controls give members more ways to fine-tune gameplay, while expanded support for new Steam devices, GOG single sign-on, Firefox browser […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
+      "date": "2026-08-27T13:00:33+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-27-nv-blog-1280x680-logo.jpg"
+    },
+    {
+      "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+      "summary": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+      "date": "2026-08-27T13:00:17+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/vera-key-visual-1920x1080-1.jpg"
+    },
+    {
+      "title": "Virtual Whiteboarding: Running Collaborative Brainstorming Sessions in Slack",
+      "summary": "Your next big idea is closer than you think — and it might just start in a Slack channel.",
+      "url": "https://www.salesforce.com/blog/small-business/virtual-whiteboarding-with-slack/",
+      "date": "2026-08-27T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "summary": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "date": "2026-08-27T12:59:16+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "SAP CX Wins TrustRadius Top Rated 2026: Earning Trust, Powering the Future of Agentic AI",
+      "summary": "Across sales, service, and commerce, customers consistently highlighted the depth of integration, reliability at enterprise scale, and the tangible business impact of AI-powered workflows.",
+      "url": "https://news.sap.com/2026/08/sap-cx-wins-trustradius-top-rated-2026/",
+      "date": "2026-08-27T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 22,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Object Storage + WAL: Lakebase Postgres for the agentic era",
+      "summary": "Agents that interact with a traditional OLTP database often create bottlenecks at the storage layer. New deployments...",
+      "url": "https://www.databricks.com/blog/object-storage-wal-lakebase-postgres-agentic-era",
+      "date": "2026-08-27T07:18:59+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "date": "2026-08-27T03:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Amazon Cognito adds admin API operation to reset user TOTP configurations",
       "summary": "Amazon Cognito now provides a new admin API operation to reset a user's time-based one-time Password (TOTP) multi-factor authentication (MFA) configuration. When users lose access to their TOTP device, administrators can remove the device association, allowing the user to enroll a new device on their next sign-in. This removes the need to recreate accounts to recover locked-out users if they lose ",
@@ -332,17 +485,6 @@
       "image": null
     },
     {
-      "title": "The Budget Effect of a Security Incident",
-      "summary": "Why investing in Salesforce security before an incident can reduce costs, strengthen resilience, and prepare your organization for AI.",
-      "url": "https://www.salesforce.com/blog/the-budget-effect-of-a-security-incident/",
-      "date": "2026-08-25T18:06:39+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AWS Lambda MicroVMs now supports AWS PrivateLink",
       "summary": "AWS Lambda MicroVMs now supports AWS PrivateLink, enabling private connectivity to Lambda MicroVMs directly from Amazon Virtual Private Cloud (VPC) resources without exposing traffic to the public internet. This launch helps regulated workloads in financial services, healthcare, and government meet strict network isolation requirements when building with Lambda MicroVMs. PrivateLink VPC Endpoints ",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink",
@@ -393,13 +535,13 @@
       "image": null
     },
     {
-      "title": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
-      "summary": "Amazon Connect Customer now lets agents change the profile on a case or choose a profile after the case is opened. If a case is linked to the wrong customer, agents can update the profile to keep case histories accurate. Agents can also add a profile later when the customer is not identified at case creation, such as for calls from a shared phone number or issues that require identity verification",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/",
+      "title": "The patch window is collapsing: Why security needs a new control plane",
+      "summary": "Organizations need protection that operates in the gap between discovery and remediation. The post The patch window is collapsing: Why security needs a new control plane appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
       "date": "2026-08-25T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 4,
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -414,6 +556,17 @@
       "tags": [
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
+      "summary": "Amazon Connect Customer now lets agents change the profile on a case or choose a profile after the case is opened. If a case is linked to the wrong customer, agents can update the profile to keep case histories accurate. Agents can also add a profile later when the customer is not identified at case creation, such as for calls from a shared phone number or issues that require identity verification",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/",
+      "date": "2026-08-25T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
       "image": null
     },
     {
@@ -439,19 +592,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg"
     },
     {
-      "title": "Modernizing SQL ETL in Lakehouse with Declarative Patterns",
-      "summary": "Databricks is bringing declarative ETL to data warehousing workflows in Lakehouse...",
-      "url": "https://www.databricks.com/blog/modernizing-sql-etl-lakehouse-declarative-patterns",
-      "date": "2026-08-25T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "IAM Roles Anywhere now provides a Java plugin for the AWS SDK",
       "summary": "AWS Identity and Access Management (IAM) Roles Anywhere now provides a plugin for the AWS SDK for Java v2 that enables workloads running outside of AWS to obtain temporary AWS credentials directly within the Java application process. The plugin runs in the same Java Virtual Machine (JVM) as your application, removing the need to run the IAM Roles Anywhere credential helper as a separate process or",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/",
@@ -463,17 +603,6 @@
       "image": null
     },
     {
-      "title": "5 Ways to Get Your Invoices Paid In Full",
-      "summary": "Chasing down unpaid invoices doesn't have to be part of the job — here's how to get paid with the right tools.",
-      "url": "https://www.salesforce.com/blog/small-business/invoice-payments/",
-      "date": "2026-08-25T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AI-Powered Memory Games Bring Personal Stories into Dementia Care",
       "summary": "Memory Lane Games collaborated with SAP and EY to develop an AI prototype that can generate memory games tailored to an individual’s life experiences.",
       "url": "https://news.sap.com/2026/08/memory-lane-games-ai-personalization-dementia-care/",
@@ -481,17 +610,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Open Table Formats Explained: Iceberg vs. Delta vs. Hudi",
-      "summary": "Open table formats are metadata layers that sit on top of data files in object storage, adding ACID transactions...",
-      "url": "https://www.databricks.com/blog/open-table-formats",
-      "date": "2026-08-25T07:37:09+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -572,41 +690,6 @@
       "category": "meta",
       "relevance": 3,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Run, debug, and scale Databricks workloads from your local IDE",
-      "summary": "The Databricks workspace is purposefully built for data analysis and data engineering. However...",
-      "url": "https://www.databricks.com/blog/run-debug-and-scale-databricks-workloads-your-local-ide",
-      "date": "2026-08-24T17:01:08+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Databricks Uses AI to Accelerate Incident Investigation",
-      "summary": "In our previous blog post, we shared how Databricks uses AI to debug thousands of...",
-      "url": "https://www.databricks.com/blog/how-databricks-uses-ai-accelerate-incident-investigation",
-      "date": "2026-08-24T17:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Relational vs Non-Relational Database: Choosing the Right Data Store",
-      "summary": "Choosing between relational and non-relational databases is one of the most consequential...",
-      "url": "https://www.databricks.com/blog/relational-vs-non-relational-database",
-      "date": "2026-08-24T16:56:45+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -861,17 +944,6 @@
       "source": "Snowflake Blog",
       "category": "snowflake",
       "relevance": 7,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "ChatGPT Ads expands across Europe",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "date": "2026-08-18T22:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 17,
       "tags": [],
       "image": null
     },
@@ -1133,17 +1205,6 @@
       "image": null
     },
     {
-      "title": "GitHub availability report: July 2026",
-      "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
-      "date": "2026-08-12T22:17:32+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "The Economics of Agent Optimization: From pilots to measurable returns",
       "summary": "Learn how AI cost management helps organizations move from AI pilots to measurable ROI through greater visibility, governance, and optimization. The post The Economics of Agent Optimization: From pilots to measurable returns appeared first on Microsoft Azure Blog .",
       "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
@@ -1245,19 +1306,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/raig-rolling-blog-local-ai-community-open-source.jpg"
     },
     {
-      "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
-      "summary": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloads. This release follows Nemotron […]",
-      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "date": "2026-08-11T13:00:05+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg"
-    },
-    {
       "title": "How a Small AI Use Case Is Automating Document Processing in the Supply Chain of Lemvigh-Müller",
       "summary": "For the 180-year-old Danish wholesaler, an efficient supply chain isn't a nice-to-have. It's the business model.",
       "url": "https://news.sap.com/2026/08/ai-automating-document-processing-lemvigh-muller/",
@@ -1297,30 +1345,6 @@
       "summary": "The gap between AI’s promise and procurement’s reality is widening. Here’s what needs to change.",
       "url": "https://news.sap.com/2026/08/ai-dual-role-procurement-transformation/",
       "date": "2026-08-10T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
-      "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure. Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]",
-      "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-      "date": "2026-08-08T10:24:54+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1.jpg"
-    },
-    {
-      "title": "Innovating with AI Because Reinvention Is in Cirque du Soleil’s DNA",
-      "summary": "Cirque du Soleil knows firsthand how to leverage SAP technology not only to run its operations, but also to reinvent them.",
-      "url": "https://news.sap.com/2026/08/innovating-with-ai-cirque-du-soleil/",
-      "date": "2026-08-07T11:15:00+00:00",
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
@@ -1514,54 +1538,6 @@
         "data"
       ],
       "image": null
-    },
-    {
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "date": "2026-07-28T16:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "summary": "",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "date": "2026-07-28T13:21:37+00:00",
-      "source": "Google DeepMind",
-      "category": "google",
-      "relevance": 12,
-      "tags": [
-        "ai"
-      ],
-      "image": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "date": "2026-07-28T13:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "date": "2026-07-28T13:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
     }
   ]
 }
