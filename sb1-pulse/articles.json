@@ -1,7 +1,57 @@
 {
-  "generated": "2026-08-28T01:14:31.362951+00:00",
+  "generated": "2026-08-28T17:06:36.623907+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
+      "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.45, which includes community MySQL fixes and Aurora-specific improvements. For detailed information on this release, refer to Aurora MySQL 3 and MySQL 8.0.45 release notes. You can upgrade your databases during scheduled maintenance windows using automatic minor version upgrades. To simplify ope",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/",
+      "date": "2026-08-28T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 24 - Aug 28 Grok 4",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "date": "2026-08-28T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "title": "How People Analytics Is Powering the Future of Workforce Decision-Making",
+      "summary": "People analytics is evolving from a reporting function into a strategic capability.",
+      "url": "https://news.sap.com/2026/08/people-analytics-powering-workforce-decision-making/",
+      "date": "2026-08-28T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 4,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "date": "2026-08-28T02:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Fast, fault-tolerant PyTorch training on AI Runtime",
       "summary": "At scale, your training efficiency is determined by a single metric: \"goodput\", the...",
@@ -476,17 +526,6 @@
       "image": null
     },
     {
-      "title": "The Screen Was Never the Point. Here’s What Marketing Looks Like Without It.",
-      "summary": "Your marketing data should do more than explain what happened. It should help you decide what to do next.",
-      "url": "https://www.salesforce.com/blog/marketers-the-screen-was-never-the-point/",
-      "date": "2026-08-26T12:44:54+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Digital Transformation Is Complex, But We Often Make It Harder Than It Needs to Be",
       "summary": "Complexity is not always the problem. Unmanaged, and often self-created, complexity is.",
       "url": "https://news.sap.com/2026/08/digital-transformation-complexity-harder-than-it-needs-to-be/",
@@ -806,19 +845,6 @@
       "image": null
     },
     {
-      "title": "What’s new with Google Cloud",
-      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 17 - Aug 21 Webina",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "date": "2026-08-21T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
-    },
-    {
       "title": "Agentic AI Could Rewrite the Economics of SAP Transformation",
       "summary": "Agentic transformation is not something waiting over the horizon—that world is here now.",
       "url": "https://news.sap.com/2026/08/agentic-ai-could-rewrite-economics-of-sap-transformation/",
@@ -918,19 +944,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Offering Zero Data Retention for frontier models",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "date": "2026-08-19T19:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 4,
-      "tags": [
-        "automation"
-      ],
-      "image": null
     },
     {
       "title": "GitHub Copilot app for Beginners: Managing your work",
@@ -1372,17 +1385,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
     },
     {
-      "title": "AI’s Dual Role in Procurement Transformation",
-      "summary": "The gap between AI’s promise and procurement’s reality is widening. Here’s what needs to change.",
-      "url": "https://news.sap.com/2026/08/ai-dual-role-procurement-transformation/",
-      "date": "2026-08-10T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
       "summary": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU support, and sessions lasting up to 14 days.",
       "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
@@ -1554,20 +1556,6 @@
       "category": "microsoft",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Apache Iceberg Lakehouse: Snowflake & Google Cloud",
-      "summary": "Discover how Snowflake and Google Cloud use Apache Iceberg to build an open, AI-ready lakehouse. Achieve data interoperability without vendor lock-in.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-google-cloud-open-lakehouse",
-      "date": "2026-07-29T16:21:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 3,
-      "tags": [
-        "cloud",
-        "data"
-      ],
       "image": null
     }
   ]
