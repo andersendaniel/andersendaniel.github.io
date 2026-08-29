@@ -1,7 +1,118 @@
 {
-  "generated": "2026-08-28T17:06:36.623907+00:00",
+  "generated": "2026-08-29T03:59:15.597189+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Europe (Paris) region. The C8gn instances provide up to 30% better compute performance than Graviton3-based Amazon EC2 C7gn instances. Amazon EC2 C8gn instances feature the latest 6th generation AWS Nitro Cards, and offer up to 600 Gbps netwo",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/",
+      "date": "2026-08-28T22:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Beyond answers: New Genie One features to turn insights into action",
+      "summary": "We all know the pattern: you ask an AI tool a question and get an answer in seconds,...",
+      "url": "https://www.databricks.com/blog/beyond-answers-new-genie-one-features-turn-insights-action",
+      "date": "2026-08-28T21:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
+      "summary": "Amazon Bedrock AgentCore Memory now supports fine-grained access control (FGAC), enabling you to enforce per-user and per-tenant memory isolation through AgentCore Gateway without building custom authorization logic. With FGAC, you can front your Memory resource with an AgentCore Gateway configured for OAuth (JWT) authentication and attach Cedar policies that restrict access based on the authentic",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
+      "date": "2026-08-28T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 13,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
+      "summary": "Amazon Bedrock AgentCore Memory now lets developers define flexible namespace variables to scope long-term memories along any application-specific dimension - such as organization, tenant, team, or environment - without creating duplicate strategies or overloading built-in variables. This gives multi-tenant and complex-hierarchy applications fine-grained control over how memories are organized, is",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
+      "date": "2026-08-28T20:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Transform now in scope for FedRAMP Class C",
+      "summary": "AWS Transform is now in scope for FedRAMP Class C (formerly Moderate baseline) in the US East (Ohio) Region. You can now use AWS Transform to build applications and run workloads that are subject to FedRAMP Class C compliance requirements. The Federal Risk and Authorization Management Program (FedRAMP) is a US government-wide program that delivers a standard approach to the security assessment, au",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/",
+      "date": "2026-08-28T19:45:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 P6-B300 instances are now available in additional AWS Regions",
+      "summary": "Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in Asia Pacific (Hyderabad) and South America (Sao Paulo) Regions. P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GPU memory, 6.4 Tbps EFA networking, 300 Gbps dedicated ENA throughput, and 4 TB of system memory. P6-B300 instances deliver 2x networking bandwidth, 1.5x GPU m",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions",
+      "date": "2026-08-28T17:34:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "How Indra unified EV charging data on Databricks",
+      "summary": "When data grows faster than the systems around it, complexity becomes the default....",
+      "url": "https://www.databricks.com/blog/how-indra-unified-ev-charging-data-databricks",
+      "date": "2026-08-28T17:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Trackunit turns construction data into decisions with AI",
+      "summary": "Construction generates abundant data, from equipment telemetry and maintenance records...",
+      "url": "https://www.databricks.com/blog/how-trackunit-turns-construction-data-decisions-ai",
+      "date": "2026-08-28T17:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch agent adds support for journald logs",
+      "summary": "AWS announces support for collecting systemd journal (journald) logs with the Amazon CloudWatch agent. You can now configure the CloudWatch agent to read log entries directly from the systemd journal on Linux instances and send them to Amazon CloudWatch Logs, without first writing those logs to files on disk. Many modern Linux distributions, including Amazon Linux 2023, use systemd journal as the ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/",
+      "date": "2026-08-28T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
       "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.45, which includes community MySQL fixes and Aurora-specific improvements. For detailed information on this release, refer to Aurora MySQL 3 and MySQL 8.0.45 release notes. You can upgrade your databases during scheduled maintenance windows using automatic minor version upgrades. To simplify ope",
@@ -29,6 +140,20 @@
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
+      "title": "SpaceXAI Grok 4.6 now available on Amazon Bedrock in AWS GovCloud (US)",
+      "summary": "Amazon Bedrock in AWS GovCloud (US) now supports SpaceXAI Grok 4.6, a frontier model built for coding, agentic tasks, and knowledge work. Grok 4.6 is SpaceXAI’s latest flagship model, built for long-running agents and ambitious interactive and visual work. It offers 500k context window and configurable reasoning efforts (low, medium, high, xhigh). The model runs on the bedrock-runtime endpoint wit",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/spacexai-grok-4-6-govcloud/",
+      "date": "2026-08-28T13:17:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 15,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "How People Analytics Is Powering the Future of Workforce Decision-Making",
       "summary": "People analytics is evolving from a reporting function into a strategic capability.",
       "url": "https://news.sap.com/2026/08/people-analytics-powering-workforce-decision-making/",
@@ -39,6 +164,17 @@
       "tags": [
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "date": "2026-08-28T06:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 2,
+      "tags": [],
       "image": null
     },
     {
@@ -116,7 +252,7 @@
     },
     {
       "title": "Amazon Redshift integrates with Agent Toolkit for AWS for AI-assisted data warehouse management",
-      "summary": "Amazon Redshift now integrates with the Agent Toolkit for AWS , enabling you to build, query, troubleshoot, and migrate to Amazon Redshift data warehouses and date lakes directly from AI agents such as Claude Code, Kiro, and Cursor. The integration pairs the AWS MCP (Model Context Protocol) server , which provides authenticated AWS API execution on your behalf — with Redshift skills : curated pack",
+      "summary": "Amazon Redshift now integrates with the Agent Toolkit for AWS , enabling you to build, query, troubleshoot, and migrate to Amazon Redshift data warehouses and data lakes directly from AI agents such as Claude Code, Kiro, and Cursor. The integration pairs the AWS MCP (Model Context Protocol) server , which provides authenticated AWS API execution on your behalf — with Redshift skills : curated pack",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-agenttoolkit-for-ai-assisted-datawarehouse-mgmt",
       "date": "2026-08-27T20:07:00+00:00",
       "source": "AWS What's New",
@@ -157,42 +293,6 @@
       "image": null
     },
     {
-      "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
-      "summary": "Amazon Connect Customer now supports generative AI-powered summaries, real-time call analytics, and real-time rules in the Africa (Cape Town) Region. These capabilities extend the post-contact conversational analytics already available in the Region, giving companies access to AI-powered insights that help them improve customer experience, agent performance, and operational efficiency. With genera",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/",
-      "date": "2026-08-27T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 21,
-      "tags": [
-        "ai",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Connect Customer now automatically refreshes scheduling metrics",
-      "summary": "Amazon Connect Customer now automatically refreshes schedule metrics on the scheduling page, giving managers immediate visibility into the impact of schedule updates. For example, when a new team meeting is added for 10 agents from 10 AM – 11 AM, metrics such as net available headcount and projected service level are automatically updated. This gives workforce managers up-to-date visibility into h",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-scheduling-metrics/",
-      "date": "2026-08-27T17:59:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon FSx for NetApp ONTAP now supports copying backups across AWS Regions and accounts",
-      "summary": "Amazon FSx for NetApp ONTAP, a fully managed shared storage service built on NetApp's popular ONTAP file system, now supports copying backups within and across AWS Regions, and across trusted accounts in your AWS organization. You can now provide an additional layer of protection for your data by storing secondary backup copies in a different Region or account than your primary copies, making it e",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/fsx-ontap-cross-region-backup-copy/",
-      "date": "2026-08-27T17:37:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
       "summary": "Compare managed PostgreSQL vs. self-hosted PostgreSQL across cost, control, security, resilience, scalability, and operational effort. The post Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs appeared first on Microsoft Azure Blog .",
       "url": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
@@ -213,19 +313,6 @@
       "relevance": 13,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EVS now supports i7i.metal-48xl Amazon EC2 instance type",
-      "summary": "Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) now supports the i7i.metal-48xl Amazon Elastic Cloud Compute (Amazon EC2) bare-metal instance type, offering a higher core-count option with a newer generation processor to help you realize cost-performance benefits for your VMware-based workloads on AWS. With this release, you now have more options for running your virtual ma",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-evs-i7i-48xl",
-      "date": "2026-08-27T16:35:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
       ],
       "image": null
     },
@@ -407,20 +494,6 @@
       "image": null
     },
     {
-      "title": "Amazon Aurora DSQL now supports foreign key constraints",
-      "summary": "Amazon Aurora DSQL now lets you add foreign key constraints to new and existing tables. Aurora DSQL is a serverless, distributed SQL database with PostgreSQL compatibility and active-active multi-Region availability. You can now express your application's rules about how tables reference each other as FOREIGN KEY constraints in your Aurora DSQL cluster. Declare, for example, that a customer's prim",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-dsql-foreign-key-constraints/",
-      "date": "2026-08-27T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Expanding OpenAI’s presence in Brazil",
       "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "url": "https://openai.com/index/expanding-our-presence-in-brazil",
@@ -428,17 +501,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Cognito adds admin API operation to reset user TOTP configurations",
-      "summary": "Amazon Cognito now provides a new admin API operation to reset a user's time-based one-time Password (TOTP) multi-factor authentication (MFA) configuration. When users lose access to their TOTP device, administrators can remove the device association, allowing the user to enroll a new device on their next sign-in. This removes the need to recreate accounts to recover locked-out users if they lose ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-totp-reset/",
-      "date": "2026-08-26T22:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -537,9 +599,9 @@
       "image": null
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "url": "https://openai.com/index/learning-never-stops",
       "date": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -548,9 +610,9 @@
       "image": null
     },
     {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "date": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -592,19 +654,6 @@
       "image": null
     },
     {
-      "title": "Leveraging Databricks to Support FISC Security Guidelines",
-      "summary": "The FISC Security Guidelines on Computer Systems for Banking and Related Financial...",
-      "url": "https://www.databricks.com/blog/leveraging-databricks-support-fisc-security-guidelines",
-      "date": "2026-08-26T00:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 26,
-      "tags": [
-        "banking"
-      ],
-      "image": null
-    },
-    {
       "title": "How to evaluate LLMs before production",
       "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
@@ -612,28 +661,6 @@
       "source": "GitHub Blog",
       "category": "github",
       "relevance": 12,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Capital Markets Finance Protects Balance Sheet Returns",
-      "summary": "An insurer settles a claim months after the loss. An asset manager marks someone...",
-      "url": "https://www.databricks.com/blog/how-capital-markets-finance-protects-balance-sheet-returns",
-      "date": "2026-08-25T20:00:01+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Choosing Data Governance Tools for Enterprise Data Governance",
-      "summary": "Data governance tools are software platforms that help organizations catalog, secure,...",
-      "url": "https://www.databricks.com/blog/data-governance-tools",
-      "date": "2026-08-25T16:17:44+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 6,
       "tags": [],
       "image": null
     },
@@ -893,7 +920,7 @@
     {
       "title": "Introducing Intelligence Age",
       "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "url": "https://openai.com/index/introducing-ai-futures",
+      "url": "https://openai.com/index/introducing-intelligence-age",
       "date": "2026-08-20T07:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -904,22 +931,11 @@
     {
       "title": "Introducing Intelligence Age",
       "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "url": "https://openai.com/index/introducing-intelligence-age",
+      "url": "https://openai.com/index/introducing-ai-futures",
       "date": "2026-08-20T07:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "url": "https://openai.com/index/stampli",
-      "date": "2026-08-20T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
