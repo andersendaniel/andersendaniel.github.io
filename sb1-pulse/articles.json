@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29T19:35:38.615281+00:00",
+  "generated": "2026-08-30T00:56:42.580535+00:00",
   "sources": 21,
   "articles": [
     {
@@ -125,6 +125,19 @@
         "data"
       ],
       "image": null
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 24 - Aug 28 Grok 4",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "date": "2026-08-28T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
       "title": "SpaceXAI Grok 4.6 now available on Amazon Bedrock in AWS GovCloud (US)",
@@ -352,17 +365,6 @@
       "image": null
     },
     {
-      "title": "What QSR reports miss about the decisions matter the most",
-      "summary": "Limited-time offers can be a powerful way to create excitement, bring guests back,...",
-      "url": "https://www.databricks.com/blog/what-qsr-reports-miss-about-decisions-matter-most",
-      "date": "2026-08-27T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Enhancing Agent Retrieval with Structured Chart Extraction",
       "summary": "The MotivationMore and more enterprises are now asking agents to work with their...",
       "url": "https://www.databricks.com/blog/enhancing-agent-retrieval-structured-chart-extraction",
@@ -370,6 +372,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What QSR reports miss about the decisions matter the most",
+      "summary": "Limited-time offers can be a powerful way to create excitement, bring guests back,...",
+      "url": "https://www.databricks.com/blog/what-qsr-reports-miss-about-decisions-matter-most",
+      "date": "2026-08-27T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1522,6 +1535,20 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "What Google Cloud announced in AI this month",
+      "summary": "Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. Since launching the Gemini Enterprise Agent Platform a few months ago, we’ve watched businesses move from basic experiments to serious, production-grade builds. We want to make it even easier — and more sec",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "date": "2026-07-31T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 19,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
     }
   ]
 }
