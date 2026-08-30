@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30T15:08:16.809561+00:00",
+  "generated": "2026-08-30T19:35:35.086648+00:00",
   "sources": 21,
   "articles": [
     {
@@ -1535,20 +1535,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "What Google Cloud announced in AI this month",
-      "summary": "Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. Since launching the Gemini Enterprise Agent Platform a few months ago, we’ve watched businesses move from basic experiments to serious, production-grade builds. We want to make it even easier — and more sec",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "date": "2026-07-31T16:00:00+00:00",
-      "source": "Google Cloud Blog",
-      "category": "google",
-      "relevance": 19,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
     }
   ]
 }
