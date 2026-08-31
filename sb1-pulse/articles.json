@@ -1,7 +1,226 @@
 {
-  "generated": "2026-08-31T11:17:54.182969+00:00",
+  "generated": "2026-08-31T21:42:51.065055+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
+      "summary": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time analytics.",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+      "date": "2026-08-31T19:53:34+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 10,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions",
+      "summary": "You can now use Amazon Timestream for InfluxDB in the Africa (Cape Town), Asia Pacific (Bangkok), Asia Pacific (Hong Kong), Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Asia Pacific (Seoul), Europe (Zurich), and Israel (Tel Aviv) AWS Regions. Timestream for InfluxDB makes it easy for application developers and DevOps teams to run fully managed InfluxDB databases on AWS for real-time time-se",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/",
+      "date": "2026-08-31T19:48:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 15,
+      "tags": [
+        "data",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Redshift now supports Apache Iceberg v3 tables",
+      "summary": "Amazon Redshift now supports reading from and writing to Apache Iceberg v3 tables in your data lake. Apache Iceberg is an open table format, and its v3 release adds several new features. With this launch, Amazon Redshift introduces support for default column values, row lineage, and deletion vectors. With default column values, you can define an initial value that Amazon Redshift applies when no v",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3",
+      "date": "2026-08-31T18:10:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 R9g and R9gd memory optimized instances are now available",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R9g and R9gd instances, powered by AWS Graviton5 processors, are generally available. AWS Graviton5 processors are the fifth generation of custom-designed CPUs, delivering the best price performance for memory-intensive workloads running on Amazon EC2. R9g instances are ideal for memory-intensive workloads including databases, in-memory cac",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+      "date": "2026-08-31T18:08:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Cognito now supports machine-to-machine authorization without a user pool domain",
+      "summary": "Amazon Cognito now supports the GetClientToken API operation, enabling app clients to obtain access tokens for machine-to-machine (M2M) authorization directly through the AWS SDK, CLI, or API — without configuring a user pool domain. This gives you an additional path to authorize service-to-service communication for applications, microservices, and automated workloads. The new GetClientToken API o",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token/",
+      "date": "2026-08-31T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Lambda recursive loop detection is now available in all commercial AWS Regions",
+      "summary": "AWS Lambda recursive loop detection has expanded support to all commercial AWS Regions. This feature, which is enabled by default, is a guardrail that automatically detects and stops recursive invocations between Lambda functions and other supported services, preventing runaway workloads. When using event sources such as Amazon S3, Amazon SQS, and Amazon SNS to trigger Lambda functions, a misconfi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions",
+      "date": "2026-08-31T17:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Autoscaling Lakebase Postgres",
+      "summary": "Choosing a database instance size before you know the workload is an old building pattern...",
+      "url": "https://www.databricks.com/blog/autoscaling-lakebase-postgres",
+      "date": "2026-08-31T17:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions",
+      "summary": "Amazon Aurora serverless now delivers up to 30% better performance and enhanced scaling in additional AWS Regions: Asia Pacific (New Zealand), Asia Pacific (Thailand), Africa (Cape Town), Europe (Milan), and Mexico (Central). These improvements are available for both Aurora PostgreSQL and Aurora MySQL. Aurora serverless is the autoscaling database that scales up to support your most demanding work",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/",
+      "date": "2026-08-31T16:46:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 10,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status",
+      "summary": "Amazon OpenSearch Service has expanded Cluster Insights with 17 new insights that identify the root causes behind Red and Yellow cluster status and provide actionable recommendations to resolve them. These insights cover resource exhaustion scenarios including JVM out-of-memory, sustained CPU saturation, as well as configuration issues such as zone imbalance, and misconfigured replica counts. Prev",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/",
+      "date": "2026-08-31T15:41:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Agent Registry for centralized agent discovery and governance is now generally available",
+      "summary": "AWS Agent Registry is now generally available. It provides a private, governed catalog and discovery layer for agents, tools, skills, MCP servers, and custom resources within your organization. Teams get complete visibility into their AI landscape, so they can discover existing capabilities instead of rebuilding from scratch. Access it through the AWS Agent Registry console, AWS CLI, or AWS SDK. Y",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-generally-available",
+      "date": "2026-08-31T15:21:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Scaling Trust: How to Build a Foundation for Global Privacy",
+      "summary": "Compliance is a requirement, but building trust is the goal. Learn how to scale consent management without the growing pains.",
+      "url": "https://www.salesforce.com/blog/global-consent-manager/",
+      "date": "2026-08-31T15:02:05+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS announces AWS Interconnect - multicloud connectivity with Microsoft Azure in preview",
+      "summary": "AWS announces the public preview of AWS Interconnect — multicloud with Microsoft Azure. Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons including interoperability requirements, the freedom to choose technology that best suits their needs, and the ability to build and deploy applications on any environment with greater e",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announces-AWS-interconnect-multicloud-microsoft-azure-preview/",
+      "date": "2026-08-31T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
+      "summary": "The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind DuckDB, the popular open source analytical database that runs in-process and executes SQL directly against files like Parquet, CSV, and JSON. DuckDB stays open source under its independent foundation […]",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
+      "date": "2026-08-31T14:45:25+00:00",
+      "source": "AWS Blog",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "ai",
+        "data",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "New IDC Business Value White Paper: SAP Integration Suite Customers Achieve 368% ROI and Eight-Month Payback",
+      "summary": "There is measurable impact across the full breadth of what integration touches in a modern enterprise.",
+      "url": "https://news.sap.com/2026/08/idc-sap-integration-suite-roi-and-8-month-payback/",
+      "date": "2026-08-31T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Automated Security Response on AWS adds AI Toolkit for custom remediations",
+      "summary": "Today, AWS announced four new capabilities for Automated Security Response on AWS (ASR). Customers can now use an AI-driven Toolkit that generates custom remediations using any AI assistant with built-in safety guardrails. In addition, customers can automatically remediate findings from Amazon Inspector, Amazon GuardDuty, and Amazon Macie. Customers can also centrally configure and scope automated",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/",
+      "date": "2026-08-31T06:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS Elastic Beanstalk now supports Active Directory domain join for Windows Server environments",
+      "summary": "AWS Elastic Beanstalk now automatically joins the Windows Server instances in your environment to an Active Directory domain that you manage with AWS Directory Service. Previously, running domain-joined Windows workloads on Elastic Beanstalk required custom join scripts that you had to maintain. With this launch, you set a few configuration options and every instance in the environment — including",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-beanstalk-active-directory-domain-join/",
+      "date": "2026-08-31T04:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "date": "2026-08-31T04:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What is an AI Copilot?",
+      "summary": "An AI copilot is an AI assistant embedded directly in a software application. It...",
+      "url": "https://www.databricks.com/blog/ai-copilot",
+      "date": "2026-08-28T22:22:15+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 14,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region",
       "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Europe (Paris) region. The C8gn instances provide up to 30% better compute performance than Graviton3-based Amazon EC2 C7gn instances. Amazon EC2 C8gn instances feature the latest 6th generation AWS Nitro Cards, and offer up to 600 Gbps netwo",
@@ -66,19 +285,6 @@
       "image": null
     },
     {
-      "title": "Amazon EC2 P6-B300 instances are now available in additional AWS Regions",
-      "summary": "Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in Asia Pacific (Hyderabad) and South America (Sao Paulo) Regions. P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GPU memory, 6.4 Tbps EFA networking, 300 Gbps dedicated ENA throughput, and 4 TB of system memory. P6-B300 instances deliver 2x networking bandwidth, 1.5x GPU m",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions",
-      "date": "2026-08-28T17:34:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "How Indra unified EV charging data on Databricks",
       "summary": "When data grows faster than the systems around it, complexity becomes the default....",
       "url": "https://www.databricks.com/blog/how-indra-unified-ev-charging-data-databricks",
@@ -101,32 +307,6 @@
       "image": null
     },
     {
-      "title": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
-      "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.45, which includes community MySQL fixes and Aurora-specific improvements. For detailed information on this release, refer to Aurora MySQL 3 and MySQL 8.0.45 release notes. You can upgrade your databases during scheduled maintenance windows using automatic minor version upgrades. To simplify ope",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/",
-      "date": "2026-08-28T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon CloudWatch agent adds support for journald logs",
-      "summary": "AWS announces support for collecting systemd journal (journald) logs with the Amazon CloudWatch agent. You can now configure the CloudWatch agent to read log entries directly from the systemd journal on Linux instances and send them to Amazon CloudWatch Logs, without first writing those logs to files on disk. Many modern Linux distributions, including Amazon Linux 2023, use systemd journal as the ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/",
-      "date": "2026-08-28T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "What’s new with Google Cloud",
       "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 24 - Aug 28 Grok 4",
       "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -138,20 +318,6 @@
         "cloud"
       ],
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
-    },
-    {
-      "title": "SpaceXAI Grok 4.6 now available on Amazon Bedrock in AWS GovCloud (US)",
-      "summary": "Amazon Bedrock in AWS GovCloud (US) now supports SpaceXAI Grok 4.6, a frontier model built for coding, agentic tasks, and knowledge work. Grok 4.6 is SpaceXAI’s latest flagship model, built for long-running agents and ambitious interactive and visual work. It offers 500k context window and configurable reasoning efforts (low, medium, high, xhigh). The model runs on the bedrock-runtime endpoint wit",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/spacexai-grok-4-6-govcloud/",
-      "date": "2026-08-28T13:17:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 15,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
     },
     {
       "title": "How People Analytics Is Powering the Future of Workforce Decision-Making",
@@ -200,31 +366,6 @@
       "image": null
     },
     {
-      "title": "Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart",
-      "summary": "NVIDIA's Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models form the Cosmos 3 family of open, frontier omnimodal world models for physical AI, enabling customers to build robots, autonomous vehicles, and vision AI that perceive, reason, plan, and act in the",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/",
-      "date": "2026-08-27T22:41:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart",
-      "summary": "Meta's Muse-Glimmer-30B and Alibaba's Qwen 3.8-27B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These two models bring specialized capabilities spanning autonomous local agentic workflows and multimodal long-horizon reasoning, enabling customers to deploy high-performance, scalable AI solutions on AWS infrastructur",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/",
-      "date": "2026-08-27T22:39:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 18,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
-    },
-    {
       "title": "What Does Salesforce Do?",
       "summary": "From your first customer conversation to your next big win, Salesforce's #1 agentic CRM helps you build stronger relationships, work smarter with AI agents, and transform your business into an agentic enterprise.",
       "url": "https://www.salesforce.com/blog/what-does-salesforce-do/",
@@ -234,61 +375,6 @@
       "relevance": 17,
       "tags": [
         "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Redshift streaming can now ingest 10MiB records from Amazon Kinesis Data Streams",
-      "summary": "Amazon Redshift now supports Amazon Kinesis Data Streams (KDS) record sizes up to 10 MiB—a 10x increase from the previous 1 MiB limit—fully matching the expanded maximum record size in Amazon KDS. This means you can stream significantly larger payloads directly into Amazon Redshift without splitting records, simplifying your ingestion pipelines and unlocking new use cases for high-volume, large-re",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-streaming-supports-kds-10mib-records",
-      "date": "2026-08-27T21:41:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Redshift integrates with Agent Toolkit for AWS for AI-assisted data warehouse management",
-      "summary": "Amazon Redshift now integrates with the Agent Toolkit for AWS , enabling you to build, query, troubleshoot, and migrate to Amazon Redshift data warehouses and data lakes directly from AI agents such as Claude Code, Kiro, and Cursor. The integration pairs the AWS MCP (Model Context Protocol) server , which provides authenticated AWS API execution on your behalf — with Redshift skills : curated pack",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-agenttoolkit-for-ai-assisted-datawarehouse-mgmt",
-      "date": "2026-08-27T20:07:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 29,
-      "tags": [
-        "ai",
-        "data",
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 X8i instances are now available in additional regions",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the Europe (Milan) and Europe (Spain) regions. These instances are powered by custom Intel Xeon 6 processors available only on AWS. X8i instances are SAP-certified and deliver the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. They deliver up to 43% higher perf",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-x8i-europe-milan-spain/",
-      "date": "2026-08-27T18:40:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Bedrock AgentCore expands to two new regions",
-      "summary": "Amazon Bedrock AgentCore is now available in two additional AWS Regions: US West (N. California) and Asia Pacific (Hyderabad). Amazon Bedrock AgentCore is the platform to build, connect, and optimize agents. It helps engineers ship agents fast with any framework and any model, connect them to enterprise systems and tools, and optimize them continuously, with security enforced at the infrastructure",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-two-new-regions/",
-      "date": "2026-08-27T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 20,
-      "tags": [
-        "ai",
-        "cloud"
       ],
       "image": null
     },
@@ -365,17 +451,6 @@
       "image": null
     },
     {
-      "title": "What QSR reports miss about the decisions matter the most",
-      "summary": "Limited-time offers can be a powerful way to create excitement, bring guests back,...",
-      "url": "https://www.databricks.com/blog/what-qsr-reports-miss-about-decisions-matter-most",
-      "date": "2026-08-27T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Enhancing Agent Retrieval with Structured Chart Extraction",
       "summary": "The MotivationMore and more enterprises are now asking agents to work with their...",
       "url": "https://www.databricks.com/blog/enhancing-agent-retrieval-structured-chart-extraction",
@@ -383,6 +458,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What QSR reports miss about the decisions matter the most",
+      "summary": "Limited-time offers can be a powerful way to create excitement, bring guests back,...",
+      "url": "https://www.databricks.com/blog/what-qsr-reports-miss-about-decisions-matter-most",
+      "date": "2026-08-27T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -480,20 +566,6 @@
       "image": null
     },
     {
-      "title": "Object Storage + WAL: Lakebase Postgres for the agentic era",
-      "summary": "Agents that interact with a traditional OLTP database often create bottlenecks at the storage layer. New deployments...",
-      "url": "https://www.databricks.com/blog/object-storage-wal-lakebase-postgres-agentic-era",
-      "date": "2026-08-27T07:18:59+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "ai",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Expanding OpenAI’s presence in Brazil",
       "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "url": "https://openai.com/index/expanding-our-presence-in-brazil",
@@ -501,17 +573,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Don’t DIY Build Your Comp Management Tool with AI. There’s a Better Way.",
-      "summary": "The DIY compensation planning trap is real — and costly. Here's what secure, AI-native comp management actually looks like.",
-      "url": "https://www.salesforce.com/blog/agentic-incentive-compensation-management-vs-diy-ai-icm/",
-      "date": "2026-08-26T21:39:04+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -553,17 +614,6 @@
       "image": null
     },
     {
-      "title": "Design Dynamic Approvals That Can Scale",
-      "summary": "Learn an extensible pattern for designing a dynamic metadata-driven approvals solution on Salesforce.",
-      "url": "https://www.salesforce.com/blog/metadata-driven-approvals/",
-      "date": "2026-08-26T19:02:52+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Intelligent transcription with Gemini 3.5 Transcribe",
       "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
       "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
@@ -577,17 +627,6 @@
       "image": null
     },
     {
-      "title": "B2C Commerce August Release: Custom Apps and Omnichannel Innovations",
-      "summary": "Ecommerce teams spend hours every week clicking through menus, searching for deeply buried tools, and manually reconciling product data across channels. The August 2026 release fixes that frustration by handing you the keys…",
-      "url": "https://www.salesforce.com/blog/b2c-commerce-august-26-release/",
-      "date": "2026-08-26T15:35:46+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Digital Transformation Is Complex, But We Often Make It Harder Than It Needs to Be",
       "summary": "Complexity is not always the problem. Unmanaged, and often self-created, complexity is.",
       "url": "https://news.sap.com/2026/08/digital-transformation-complexity-harder-than-it-needs-to-be/",
@@ -595,17 +634,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
-      "date": "2026-08-26T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -621,13 +649,13 @@
       "image": null
     },
     {
-      "title": "Introducing Governance Hub: Intelligent, account-level governance over your Databricks estate",
-      "summary": "Your FinOps lead needs to easily drill-down into Databricks spend and identify what’s driving costs, ...",
-      "url": "https://www.databricks.com/blog/introducing-governance-hub-intelligent-account-level-governance-over-your-databricks-estate",
-      "date": "2026-08-26T03:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "url": "https://openai.com/index/learning-never-stops",
+      "date": "2026-08-26T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -921,17 +949,6 @@
       "title": "Introducing Intelligence Age",
       "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "url": "https://openai.com/index/introducing-intelligence-age",
-      "date": "2026-08-20T07:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Introducing Intelligence Age",
-      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "url": "https://openai.com/index/introducing-ai-futures",
       "date": "2026-08-20T07:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -1364,17 +1381,6 @@
         "developer"
       ],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/raig-rolling-blog-local-ai-community-open-source.jpg"
-    },
-    {
-      "title": "How a Small AI Use Case Is Automating Document Processing in the Supply Chain of Lemvigh-Müller",
-      "summary": "For the 180-year-old Danish wholesaler, an efficient supply chain isn't a nice-to-have. It's the business model.",
-      "url": "https://news.sap.com/2026/08/ai-automating-document-processing-lemvigh-muller/",
-      "date": "2026-08-11T10:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 2,
-      "tags": [],
-      "image": null
     },
     {
       "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
