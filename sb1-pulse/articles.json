@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30T19:35:35.086648+00:00",
+  "generated": "2026-08-31T01:02:22.020662+00:00",
   "sources": 21,
   "articles": [
     {
@@ -101,19 +101,6 @@
       "image": null
     },
     {
-      "title": "Amazon CloudWatch agent adds support for journald logs",
-      "summary": "AWS announces support for collecting systemd journal (journald) logs with the Amazon CloudWatch agent. You can now configure the CloudWatch agent to read log entries directly from the systemd journal on Linux instances and send them to Amazon CloudWatch Logs, without first writing those logs to files on disk. Many modern Linux distributions, including Amazon Linux 2023, use systemd journal as the ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/",
-      "date": "2026-08-28T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
       "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.45, which includes community MySQL fixes and Aurora-specific improvements. For detailed information on this release, refer to Aurora MySQL 3 and MySQL 8.0.45 release notes. You can upgrade your databases during scheduled maintenance windows using automatic minor version upgrades. To simplify ope",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/",
@@ -123,6 +110,19 @@
       "relevance": 2,
       "tags": [
         "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch agent adds support for journald logs",
+      "summary": "AWS announces support for collecting systemd journal (journald) logs with the Amazon CloudWatch agent. You can now configure the CloudWatch agent to read log entries directly from the systemd journal on Linux instances and send them to Amazon CloudWatch Logs, without first writing those logs to files on disk. Many modern Linux distributions, including Amazon Linux 2023, use systemd journal as the ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/",
+      "date": "2026-08-28T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
       ],
       "image": null
     },
@@ -365,17 +365,6 @@
       "image": null
     },
     {
-      "title": "Enhancing Agent Retrieval with Structured Chart Extraction",
-      "summary": "The MotivationMore and more enterprises are now asking agents to work with their...",
-      "url": "https://www.databricks.com/blog/enhancing-agent-retrieval-structured-chart-extraction",
-      "date": "2026-08-27T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "What QSR reports miss about the decisions matter the most",
       "summary": "Limited-time offers can be a powerful way to create excitement, bring guests back,...",
       "url": "https://www.databricks.com/blog/what-qsr-reports-miss-about-decisions-matter-most",
@@ -383,6 +372,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Enhancing Agent Retrieval with Structured Chart Extraction",
+      "summary": "The MotivationMore and more enterprises are now asking agents to work with their...",
+      "url": "https://www.databricks.com/blog/enhancing-agent-retrieval-structured-chart-extraction",
+      "date": "2026-08-27T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 5,
       "tags": [],
       "image": null
     },
