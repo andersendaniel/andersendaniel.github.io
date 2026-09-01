@@ -1,7 +1,67 @@
 {
-  "generated": "2026-09-01T09:42:08.257041+00:00",
+  "generated": "2026-09-01T15:21:55.115324+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "From Cloud to Court: Wilson Runs Smarter and Faster with SAP",
+      "summary": "With SAP, Wilson can perform at its best.",
+      "url": "https://news.sap.com/2026/09/cloud-to-court-wilson-runs-smarter-faster-sap/",
+      "date": "2026-09-01T14:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The new Brickbuilder Partner Network tiers for ISVs and Data Providers are here",
+      "summary": "Earlier this year, we redesigned the Brickbuilder Partner Network Program for ISVs...",
+      "url": "https://www.databricks.com/blog/new-brickbuilder-partner-network-tiers-isvs-and-data-providers-are-here",
+      "date": "2026-09-01T14:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How Discovery Bank delivers hyper-personalized banking at scale: behavioral AI, governed data, and real-time decisioning",
+      "summary": "How can a bank make every client interaction feel personal while meeting the scale, speed, security...",
+      "url": "https://www.databricks.com/blog/how-discovery-bank-delivers-hyper-personalized-banking-scale-behavioral-ai-governed-data-and",
+      "date": "2026-09-01T13:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 31,
+      "tags": [
+        "banking"
+      ],
+      "image": null
+    },
+    {
+      "title": "15 Ways to Use Social AI Agents to Manage Your Feeds",
+      "summary": "Here's how social AI agents can help lean teams show up for prospects and customers — consistently.",
+      "url": "https://www.salesforce.com/blog/small-business/social-ai-agents-for-startups/",
+      "date": "2026-09-01T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch now supports warm-up periods for alarms",
+      "summary": "Amazon CloudWatch now lets you configure a warm-up period for metric alarms and log alarms, delaying alarm evaluation for a set time after the alarm is created. This reduces noise from missing data while a new resource or service starts up and begins publishing metrics. For example, a team that provisions a new microservice and its alarms together through a CI/CD pipeline can attach a warm-up peri",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period",
+      "date": "2026-09-01T08:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Amazon DocumentDB now supports direct major version upgrades to version 8.0",
       "summary": "Amazon DocumentDB (with MongoDB compatibility) now supports in-place major version upgrades (MVU) directly from engine versions 3.6 and 4.0 to version 8.0. This upgrade capability removes the need for intermediate version upgrades and allows you to upgrade your version 3.6 or 4.0 clusters while preserving existing data, configurations, and cluster settings. Upgrading to version 8.0 provides access",
@@ -10,6 +70,19 @@
       "source": "AWS What's New",
       "category": "aws",
       "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Elemental MediaTailor introduces in-console analytics dashboard for ad monetization and streaming performance",
+      "summary": "AWS Elemental MediaTailor now includes an analytics dashboard built directly into the AWS Management Console, giving publishers a global and multi-region view of ad monetization and streaming performance — with the ability to compare across regions and drill into individual playback configurations. The dashboard surfaces key business metrics including fill rate, ad impression rate, video completio",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediatailor-analytics-dashboard",
+      "date": "2026-08-31T21:35:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
       "tags": [
         "data"
       ],
@@ -209,32 +282,6 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS announces AWS Interconnect - multicloud connectivity with Microsoft Azure in preview",
-      "summary": "AWS announces the public preview of AWS Interconnect — multicloud with Microsoft Azure. Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons including interoperability requirements, the freedom to choose technology that best suits their needs, and the ability to build and deploy applications on any environment with greater e",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announces-AWS-interconnect-multicloud-microsoft-azure-preview/",
-      "date": "2026-08-31T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon MSK Connect now supports restarting connectors",
-      "summary": "Amazon MSK Connect (Amazon Managed Streaming for Apache Kafka Connect) supports restarting newly created connectors and their tasks, enabling fast recovery for streaming data pipelines. Amazon MSK Connect is a fully managed service that allows you to deploy, monitor, and scale Apache Kafka Connect connectors with Amazon MSK (Managed Streaming for Apache Kafka). Previously, recovering from failures",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-connect-restart/",
-      "date": "2026-08-31T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -493,41 +540,6 @@
       "category": "databricks",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Enhancing Agent Retrieval with Structured Chart Extraction",
-      "summary": "The MotivationMore and more enterprises are now asking agents to work with their...",
-      "url": "https://www.databricks.com/blog/enhancing-agent-retrieval-structured-chart-extraction",
-      "date": "2026-08-27T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "From Documents to Context: Designing Effective Chunking in Data 360",
-      "summary": "Two organizations can ingest the same documents and receive dramatically different AI responses. The difference may not be the model. It can be how the content was parsed, divided, enriched, indexed, and retrieved.…",
-      "url": "https://www.salesforce.com/blog/from-documents-to-context-designing-effective-chunking-in-data-360/",
-      "date": "2026-08-27T14:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Vertical Advantage: Transforming Industries with Lakebase and Agentic AI",
-      "summary": "In the first blog of this series, we looked at how Lakebase Postgres is rewriting...",
-      "url": "https://www.databricks.com/blog/vertical-advantage-transforming-industries-lakebase-and-agentic-ai",
-      "date": "2026-08-27T13:05:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -817,19 +829,6 @@
       "image": null
     },
     {
-      "title": "Streaming Data into Apache Iceberg with Snowflake",
-      "summary": "Discover how to easily stream data into Snowflake-managed Apache Iceberg tables using Snowpipe Streaming.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowpipe-streaming-iceberg-tables",
-      "date": "2026-08-24T19:58:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
       "summary": "Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles. To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA transport protocol purpose-built for AI workloads on commodity Ethernet. We’re releasing the MetaRoCE specification, a reference software implementation and a compliance test [...] Read Mo",
       "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
@@ -958,17 +957,6 @@
       "image": null
     },
     {
-      "title": "AI SRE Done Right: Why Your Data Foundation Matters",
-      "summary": "Discover why most AI SREs underperform and the three-layer architecture that helps engineering teams troubleshoot incidents faster.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-sre-unified-telemetry-context-graph-incident-investigation",
-      "date": "2026-08-19T21:31:41+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "5 new ways to level up your learning with Search",
       "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
@@ -1015,28 +1003,6 @@
       "image": null
     },
     {
-      "title": "Maximize AI Impact: More Model Choice, Smarter Routing",
-      "summary": "AI usage doesn't equal productivity. See how dynamic model routing in Cortex AI Gateway helps enterprises achieve real intelligence efficiency.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-intelligence-efficiency-dynamic-model-routing",
-      "date": "2026-08-19T04:27:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 7,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Dynamic Model Routing & Open Models in Snowflake Cortex AI",
-      "summary": "Snowflake introduces dynamic model routing and expands open model access in Cortex AI to help organizations improve AI efficiency, performance, and cost.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/dynamic-model-routing-open-models-cortex-ai",
-      "date": "2026-08-18T16:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
       "summary": "Each location will be a permanent community space to offer free workshops, networking events, pitch nights, content creation spaces, collaboration/co-working areas, and event hosting for developers, students, or tech professionals who want to walk through the doors.",
       "url": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/",
@@ -1044,17 +1010,6 @@
       "source": "AWS Blog",
       "category": "aws",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Governed AI for Every Builder: Enterprise Controls in Snowflake CoCo",
-      "summary": "Govern AI at scale with Snowflake CoCo. Set per-user quotas, enforce enterprise policies, restrict agent access, and govern MCP tools with Cortex AI Gateway.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/governed-ai-enterprise-controls-snowflake-coco",
-      "date": "2026-08-18T13:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -1069,17 +1024,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Building a Context Layer for AI Agents | Snowflake",
-      "summary": "Learn best practices for creating a semantic layer using Snowflake semantic views. Improve data accuracy and scale AI agent performance across your stack.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-internal-context-layer-for-ai-agents",
-      "date": "2026-08-17T19:48:19+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 14,
-      "tags": [],
       "image": null
     },
     {
@@ -1180,28 +1124,6 @@
       "image": null
     },
     {
-      "title": "Zero-Copy Data Architecture: Snowflake Summit 2026",
-      "summary": "Explore how zero-copy data architecture and enterprise AI help leaders reduce costs, analyze unstructured data and make faster decisions.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-summit-2026-zero-copy-data-architecture",
-      "date": "2026-08-14T16:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 6,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Life Sciences M&A Data Integration with Snowflake",
-      "summary": "Learn how Snowflake accelerates life sciences M&A and divestitures with secure data sharing, clean rooms, governance, and faster integration.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ma-data-integration",
-      "date": "2026-08-14T07:00:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Introducing Gemini 3.7 Flash",
       "summary": "",
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
@@ -1212,17 +1134,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "Connect AI Agents to Telemetry with Observe MCP & CLI",
-      "summary": "Observe by Snowflake's redesigned MCP server and new CLI give AI agents direct access to telemetry, enabling faster, more cost-efficient incident investigation.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/observe-mcp-server-cli-ai-agents-telemetry",
-      "date": "2026-08-13T16:48:55+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 13,
-      "tags": [],
       "image": null
     },
     {
@@ -1322,17 +1233,6 @@
       "date": "2026-08-12T13:00:28+00:00",
       "source": "Meta Engineering",
       "category": "meta",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Service-Led Growth Starts with the Business Model",
-      "summary": "Technology can help scale a service business, but it does not define how value is created, delivered, or monetized.",
-      "url": "https://news.sap.com/2026/08/service-led-growth-starts-with-business-model/",
-      "date": "2026-08-12T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -1453,31 +1353,6 @@
       "source": "Meta Engineering",
       "category": "meta",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Agentic Intelligence for Contract Review on Snowflake",
-      "summary": "See how Snowflake used agentic AI to reduce contract review time by 70%, improve audit coverage and scale revenue-control workflows.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-intelligence-contract-review-snowflake",
-      "date": "2026-08-05T18:02:34+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 17,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "CTO Circle: Lessons on Building AI-Native Engineering Teams",
-      "summary": "350+ CTOs at Snowflake Summit shared lessons on building AI-native engineering orgs — from deploying AI in production to redesigning engineering teams.",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/cto-circle-ai-native-engineering",
-      "date": "2026-08-05T16:39:00+00:00",
-      "source": "Snowflake Blog",
-      "category": "snowflake",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
