@@ -1,7 +1,104 @@
 {
-  "generated": "2026-09-01T15:21:55.115324+00:00",
+  "generated": "2026-09-01T19:43:00.641744+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Collaboration makes us all stronger",
+      "summary": "The best security bugs come with a good storySome of our best security investments haven't been tools or scanners...",
+      "url": "https://www.databricks.com/blog/collaboration-makes-us-all-stronger",
+      "date": "2026-09-01T19:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Build Salesforce Conventions That Adapt to Change",
+      "summary": "See how documenting the rationale behind the conventions you choose and governing them keeps standards durable as the platform, your org, and your team all change around you.",
+      "url": "https://www.salesforce.com/blog/salesforce-conventions-adapt-to-change/",
+      "date": "2026-09-01T18:53:09+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing agentic video understanding with Gemini",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "date": "2026-09-01T17:08:51+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 12,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Connect Customer dashboards now support compact mode",
+      "summary": "Amazon Connect Customer now offers compact mode on the analytics dashboards, increasing data density so supervisors can see more of their operational data without scrolling. Compact mode reduces widget size, font, and minimizes filters to maximize screen space. For example, a supervisor on a 13-inch laptop toggles compact mode, which reduces row height, enabling them to view all team agents on the",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/",
+      "date": "2026-09-01T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "date": "2026-09-01T17:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 23,
+      "tags": [
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "date": "2026-09-01T16:00:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 1,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Amazon MWAA supports Apache Airflow version 3.3.1",
+      "summary": "Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 3.3.1, the latest release of the popular open-source workflow orchestration framework. Amazon MWAA is a managed orchestration service for Apache Airflow that makes it easier to set up and operate end-to-end data pipelines in the cloud. Apache Airflow 3.3 introduces stateful tasks and multi-language support. With",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-apache-airflow-3-3-1/",
+      "date": "2026-09-01T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Operationalizing Genie Ontology in Your Data Stack",
+      "summary": "Beyond the semantic model: Building shared business context for AI agentsLarge language...",
+      "url": "https://www.databricks.com/blog/operationalizing-genie-ontology-your-data-stack",
+      "date": "2026-09-01T15:00:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 15,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "From Cloud to Court: Wilson Runs Smarter and Faster with SAP",
       "summary": "With SAP, Wilson can perform at its best.",
@@ -45,6 +142,17 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "date": "2026-09-01T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -177,19 +285,6 @@
       "image": null
     },
     {
-      "title": "Introducing Azure Multicloud Interconnect for AWS",
-      "summary": "Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and AI workloads with a more streamlined, cloud-native networking experience. Built on open interoperability standards, it helps reduce operational complexity while providing high-performance connectivity across cloud environments. The post Introducing Azu",
-      "url": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
-      "date": "2026-08-31T18:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 18,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "Amazon Cognito now supports machine-to-machine authorization without a user pool domain",
       "summary": "Amazon Cognito now supports the GetClientToken API operation, enabling app clients to obtain access tokens for machine-to-machine (M2M) authorization directly through the AWS SDK, CLI, or API — without configuring a user pool domain. This gives you an additional path to authorize service-to-service communication for applications, microservices, and automated workloads. The new GetClientToken API o",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token/",
@@ -238,39 +333,6 @@
         "cloud",
         "data"
       ],
-      "image": null
-    },
-    {
-      "title": "Inside Microsoft’s marketing team: Scaling expertise with AI",
-      "summary": "AI is helping organizations meet high expectations as markets change quickly and technology advances at a rapid pace. The post Inside Microsoft’s marketing team: Scaling expertise with AI appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
-      "date": "2026-08-31T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status",
-      "summary": "Amazon OpenSearch Service has expanded Cluster Insights with 17 new insights that identify the root causes behind Red and Yellow cluster status and provide actionable recommendations to resolve them. These insights cover resource exhaustion scenarios including JVM out-of-memory, sustained CPU saturation, as well as configuration issues such as zone imbalance, and misconfigured replica counts. Prev",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/",
-      "date": "2026-08-31T15:41:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Agent Registry for centralized agent discovery and governance is now generally available",
-      "summary": "AWS Agent Registry is now generally available. It provides a private, governed catalog and discovery layer for agents, tools, skills, MCP servers, and custom resources within your organization. Teams get complete visibility into their AI landscape, so they can discover existing capabilities instead of rebuilding from scratch. Access it through the AWS Agent Registry console, AWS CLI, or AWS SDK. Y",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-generally-available",
-      "date": "2026-08-31T15:21:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -471,19 +533,6 @@
       "image": null
     },
     {
-      "title": "What 2,000 Leaders Told Us About Winning With Agentic AI",
-      "summary": "The gap between companies winning with agentic AI and those stuck in pilot isn't speed. It's what they did before they hit launch.",
-      "url": "https://www.salesforce.com/blog/agentic-ai-roi-report/",
-      "date": "2026-08-27T17:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
       "summary": "",
       "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
@@ -514,30 +563,6 @@
       "date": "2026-08-27T16:00:00+00:00",
       "source": "GitHub Blog",
       "category": "github",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Building for the AI Era: Lakebase, Streaming, and Lakehouse Innovations  at VLDB 2026",
-      "summary": "We are headed to VLDB 2026 to share multiple innovations that power the Databricks platform...",
-      "url": "https://www.databricks.com/blog/building-ai-era-lakebase-streaming-and-lakehouse-innovations-vldb-2026",
-      "date": "2026-08-27T15:22:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 4,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "What QSR reports miss about the decisions matter the most",
-      "summary": "Limited-time offers can be a powerful way to create excitement, bring guests back,...",
-      "url": "https://www.databricks.com/blog/what-qsr-reports-miss-about-decisions-matter-most",
-      "date": "2026-08-27T15:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
       "relevance": 1,
       "tags": [],
       "image": null
@@ -807,25 +832,16 @@
       "image": null
     },
     {
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "date": "2026-08-25T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
+      "title": "Streaming Data into Apache Iceberg with Snowflake",
+      "summary": "Discover how to easily stream data into Snowflake-managed Apache Iceberg tables using Snowpipe Streaming.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowpipe-streaming-iceberg-tables",
+      "date": "2026-08-24T19:58:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "date": "2026-08-25T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -957,6 +973,17 @@
       "image": null
     },
     {
+      "title": "AI SRE Done Right: Why Your Data Foundation Matters",
+      "summary": "Discover why most AI SREs underperform and the three-layer architecture that helps engineering teams troubleshoot incidents faster.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-sre-unified-telemetry-context-graph-incident-investigation",
+      "date": "2026-08-19T21:31:41+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "5 new ways to level up your learning with Search",
       "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
@@ -1003,6 +1030,28 @@
       "image": null
     },
     {
+      "title": "Maximize AI Impact: More Model Choice, Smarter Routing",
+      "summary": "AI usage doesn't equal productivity. See how dynamic model routing in Cortex AI Gateway helps enterprises achieve real intelligence efficiency.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-intelligence-efficiency-dynamic-model-routing",
+      "date": "2026-08-19T04:27:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 7,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Dynamic Model Routing & Open Models in Snowflake Cortex AI",
+      "summary": "Snowflake introduces dynamic model routing and expands open model access in Cortex AI to help organizations improve AI efficiency, performance, and cost.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/dynamic-model-routing-open-models-cortex-ai",
+      "date": "2026-08-18T16:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
       "summary": "Each location will be a permanent community space to offer free workshops, networking events, pitch nights, content creation spaces, collaboration/co-working areas, and event hosting for developers, students, or tech professionals who want to walk through the doors.",
       "url": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/",
@@ -1010,6 +1059,17 @@
       "source": "AWS Blog",
       "category": "aws",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Governed AI for Every Builder: Enterprise Controls in Snowflake CoCo",
+      "summary": "Govern AI at scale with Snowflake CoCo. Set per-user quotas, enforce enterprise policies, restrict agent access, and govern MCP tools with Cortex AI Gateway.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/governed-ai-enterprise-controls-snowflake-coco",
+      "date": "2026-08-18T13:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 5,
       "tags": [],
       "image": null
     },
@@ -1024,6 +1084,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "Building a Context Layer for AI Agents | Snowflake",
+      "summary": "Learn best practices for creating a semantic layer using Snowflake semantic views. Improve data accuracy and scale AI agent performance across your stack.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-internal-context-layer-for-ai-agents",
+      "date": "2026-08-17T19:48:19+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 14,
+      "tags": [],
       "image": null
     },
     {
@@ -1124,6 +1195,28 @@
       "image": null
     },
     {
+      "title": "Zero-Copy Data Architecture: Snowflake Summit 2026",
+      "summary": "Explore how zero-copy data architecture and enterprise AI help leaders reduce costs, analyze unstructured data and make faster decisions.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-summit-2026-zero-copy-data-architecture",
+      "date": "2026-08-14T16:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Life Sciences M&A Data Integration with Snowflake",
+      "summary": "Learn how Snowflake accelerates life sciences M&A and divestitures with secure data sharing, clean rooms, governance, and faster integration.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ma-data-integration",
+      "date": "2026-08-14T07:00:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Introducing Gemini 3.7 Flash",
       "summary": "",
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
@@ -1134,6 +1227,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "Connect AI Agents to Telemetry with Observe MCP & CLI",
+      "summary": "Observe by Snowflake's redesigned MCP server and new CLI give AI agents direct access to telemetry, enabling faster, more cost-efficient incident investigation.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/observe-mcp-server-cli-ai-agents-telemetry",
+      "date": "2026-08-13T16:48:55+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 13,
+      "tags": [],
       "image": null
     },
     {
@@ -1353,6 +1457,31 @@
       "source": "Meta Engineering",
       "category": "meta",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Agentic Intelligence for Contract Review on Snowflake",
+      "summary": "See how Snowflake used agentic AI to reduce contract review time by 70%, improve audit coverage and scale revenue-control workflows.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/agentic-intelligence-contract-review-snowflake",
+      "date": "2026-08-05T18:02:34+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 17,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "CTO Circle: Lessons on Building AI-Native Engineering Teams",
+      "summary": "350+ CTOs at Snowflake Summit shared lessons on building AI-native engineering orgs — from deploying AI in production to redesigning engineering teams.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/cto-circle-ai-native-engineering",
+      "date": "2026-08-05T16:39:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 1,
       "tags": [],
       "image": null
     },
