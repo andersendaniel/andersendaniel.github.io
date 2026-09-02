@@ -1,7 +1,29 @@
 {
-  "generated": "2026-09-02T09:14:58.975407+00:00",
+  "generated": "2026-09-02T14:53:36.021125+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Activate Your Central Business Platform With The Right Integrations",
+      "summary": "Your business platform is only as powerful as the tools connected to it — here's how to build a system that works for you.",
+      "url": "https://www.salesforce.com/blog/small-business/central-business-platform/",
+      "date": "2026-09-02T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How to Optimize AI for the Entire Enterprise, Not Just the Individual",
+      "summary": "AI should bridge the individual-to-institutional value gap.",
+      "url": "https://news.sap.com/2026/09/how-to-optimize-ai-entire-enterprise-not-just-individual/",
+      "date": "2026-09-02T10:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "HARTING Accelerates Cloud Transformation with RISE with SAP",
       "summary": "WALLDORF — The industrial connectivity provider is marking a decisive milestone in its global IT and digital strategy.",
@@ -1361,17 +1383,6 @@
       "tags": [
         "developer"
       ],
-      "image": null
-    },
-    {
-      "title": "SAP Positioned as a Leader in the Inaugural Gartner® Magic Quadrant™ for Supply Chain Management Suites",
-      "summary": "For more than 50 years, SAP has helped organizations navigate supply chain volatility by connecting planning, execution, and business processes across the enterprise.",
-      "url": "https://news.sap.com/2026/08/sap-a-leader-inaugural-gartner-magic-quadrant-scm-suites/",
-      "date": "2026-08-13T15:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 5,
-      "tags": [],
       "image": null
     },
     {
