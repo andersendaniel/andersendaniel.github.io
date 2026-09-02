@@ -1,7 +1,140 @@
 {
-  "generated": "2026-09-01T19:43:00.641744+00:00",
+  "generated": "2026-09-02T00:45:53.406308+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Operational Intelligence: Turning Enterprise Data Into Enterprise Decisions with AI",
+      "summary": "Back when I joined Salesforce, one of the first things that struck me was the sheer ambition of our engineering organization. Fifteen thousand engineers shipping software across a portfolio of products that millions…",
+      "url": "https://www.salesforce.com/blog/operational-intelligence/",
+      "date": "2026-09-01T23:53:58+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Rise of Agentic CCaaS: A New Playbook for Customer Service",
+      "summary": "The future of customer service belongs to organizations that connect people, AI, and customer data across every interaction.",
+      "url": "https://www.salesforce.com/blog/the-rise-of-agentic-ccaas/",
+      "date": "2026-09-01T23:12:09+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "From Adoption to Business Value: What Customer Success Really Means",
+      "summary": "You have invested in technology. Your teams have been trained. Your platform is live. So, how do you know whether you are actually successful? That is where Customer Success comes in. Customer Success…",
+      "url": "https://www.salesforce.com/blog/customer-success-business-value/",
+      "date": "2026-09-01T22:45:42+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "How the FDA is building a secure, AI-ready data foundation on Databricks for Government",
+      "summary": "Modernizing a federal data platform is a little like steering an aircraft carrier while rebuilding the engine mid-ocean...",
+      "url": "https://www.databricks.com/blog/how-fda-building-secure-ai-ready-data-foundation-databricks-government",
+      "date": "2026-09-01T21:45:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 7,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Quick now lets you build custom apps with natural language  -",
+      "summary": "Now generally available, Amazon Quick lets you build custom applications by simply describing them in natural language. Create project trackers, customer dashboards, and training portals in minutes instead of months. Whether you're a product manager, finance lead, HR partner, or ops analyst, you can now turn ideas into fully functional apps without writing any code. Tell Quick what you need, and i",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
+      "date": "2026-09-01T21:37:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "summary": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+      "date": "2026-09-01T21:19:20+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 5,
+      "tags": [
+        "ai",
+        "security"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/crowdstrike-nvidia-stage-scaled.jpg"
+    },
+    {
+      "title": "The latest AI news we announced in August 2026",
+      "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "date": "2026-09-01T20:45:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 13,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "AWS Deadline Cloud now supports sharing job bundles",
+      "summary": "AWS Deadline Cloud now supports sharing job bundles, giving teams a simple way to distribute and reuse render job templates without manual file distribution. Deadline Cloud is a fully managed service that helps teams run compute-intensive workloads in the cloud for visual effects, animation, product design, simulation, and gaming. Job bundles define the jobs you submit to Deadline Cloud, including",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing",
+      "date": "2026-09-01T20:16:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "How we eliminated $1 million a year of wasted AI agent spend in one hour",
+      "summary": "Databricks engineers rely heavily on AI agents to streamline and accelerate their work. In turn...",
+      "url": "https://www.databricks.com/blog/how-we-eliminated-1-million-year-wasted-ai-agent-spend-one-hour",
+      "date": "2026-09-01T19:43:51+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 26,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudWatch Database Insights now supports self-managed PostgreSQL",
+      "summary": "Today, AWS announces support for self-managed PostgreSQL databases in Amazon CloudWatch Database Insights. Using CloudWatch Database Insights, you can now monitor your self-managed PostgreSQL instances running on Amazon EC2, alongside Amazon RDS and Amazon Aurora, to give you a complete view of your database fleet in a single console. Amazon CloudWatch Database Insights is a database observability",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/",
+      "date": "2026-09-01T19:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Kinesis Data Streams now supports a dry run feature to validate API requests",
+      "summary": "Amazon Kinesis Data Streams now supports a dry run feature to check whether an API request would succeed without executing the operation. Customers can now set the new optional parameter ‘DryRun’ to true in their API requests to validate permissions before interacting with a stream in production. Previously, customers had no safe way to test whether their application had the correct permissions to",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-kinesis-data-streams-api/",
+      "date": "2026-09-01T19:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Collaboration makes us all stronger",
       "summary": "The best security bugs come with a good storySome of our best security investments haven't been tools or scanners...",
@@ -64,6 +197,19 @@
       "image": null
     },
     {
+      "title": "Announcing Claude Fable 5.1 on Snowflake Cortex AI",
+      "summary": "Claude Fable 5.1 is now available in private preview on Snowflake Cortex AI, bringing its advanced reasoning and agentic capabilities with Snowflake’s secure governed AI platform",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-fable-5-1-snowflake-cortex-ai",
+      "date": "2026-09-01T16:37:31+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 14,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
       "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
@@ -73,6 +219,19 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "What Google Cloud announced in AI this month",
+      "summary": "Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. This month, we focused on making AI highly practical for your business, including its associated costs. This meant tailoring our models for specialized industries – starting with Financial Services and Lega",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "date": "2026-09-01T16:00:00+00:00",
+      "source": "Google Cloud Blog",
+      "category": "google",
+      "relevance": 15,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
     },
     {
       "title": "Amazon MWAA supports Apache Airflow version 3.3.1",
@@ -96,6 +255,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 15,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS",
+      "summary": "Claude Fable 5.1 is generally available on AWS and brings Anthropic's most capable frontier model to all customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. A clear improvement over Claude Fable 5, Fable 5.1 is a step up in intelligence on the hardest reasoning tasks, providing better judgement on ambiguous work and ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/",
+      "date": "2026-09-01T14:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 22,
       "tags": [],
       "image": null
     },
@@ -135,6 +305,19 @@
       "image": null
     },
     {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "url": "https://openai.com/index/path-to-astra",
+      "date": "2026-09-01T13:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 7,
+      "tags": [
+        "security"
+      ],
+      "image": null
+    },
+    {
       "title": "15 Ways to Use Social AI Agents to Manage Your Feeds",
       "summary": "Here's how social AI agents can help lean teams show up for prospects and customers — consistently.",
       "url": "https://www.salesforce.com/blog/small-business/social-ai-agents-for-startups/",
@@ -166,6 +349,19 @@
       "relevance": 2,
       "tags": [
         "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS Custom now supports the latest CU and GDR updates for Microsoft SQL Server",
+      "summary": "Amazon Relational Database Service (Amazon RDS) Custom for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for SQL Server 2019 CU32+GDR KB5102335 (RDS version 15.00.4480.2.v1) and SQL Server 2022 CU25 + GDR KB5101347 (RDS version 16.00.4262.2.v1). The GDR updates address vulnerabilitie",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server/",
+      "date": "2026-09-01T07:30:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
         "data"
       ],
       "image": null
@@ -235,77 +431,16 @@
       "image": null
     },
     {
-      "title": "Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions",
-      "summary": "You can now use Amazon Timestream for InfluxDB in the Africa (Cape Town), Asia Pacific (Bangkok), Asia Pacific (Hong Kong), Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Asia Pacific (Seoul), Europe (Zurich), and Israel (Tel Aviv) AWS Regions. Timestream for InfluxDB makes it easy for application developers and DevOps teams to run fully managed InfluxDB databases on AWS for real-time time-se",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/",
-      "date": "2026-08-31T19:48:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 15,
-      "tags": [
-        "data",
-        "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Connect Global Resiliency now supports cross-region routing of contacts across two active AWS regions",
-      "summary": "Amazon Connect Global Resiliency now supports cross-region routing of contacts to agents across two linked AWS regions. For example, a contact arriving in US East (N. Virginia) is offered to the longest-available matching agent whether that agent is in US East (N. Virginia) or US West (Oregon), while managers view analytics and search contacts across both regions as a unified contact center. Becau",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-global-resiliency-cross-region-routing/",
-      "date": "2026-08-31T19:25:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Redshift now supports Apache Iceberg v3 tables",
-      "summary": "Amazon Redshift now supports reading from and writing to Apache Iceberg v3 tables in your data lake. Apache Iceberg is an open table format, and its v3 release adds several new features. With this launch, Amazon Redshift introduces support for default column values, row lineage, and deletion vectors. With default column values, you can define an initial value that Amazon Redshift applies when no v",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3",
-      "date": "2026-08-31T18:10:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon EC2 R9g and R9gd memory optimized instances are now available",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R9g and R9gd instances, powered by AWS Graviton5 processors, are generally available. AWS Graviton5 processors are the fifth generation of custom-designed CPUs, delivering the best price performance for memory-intensive workloads running on Amazon EC2. R9g instances are ideal for memory-intensive workloads including databases, in-memory cac",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
-      "date": "2026-08-31T18:08:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 3,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Cognito now supports machine-to-machine authorization without a user pool domain",
-      "summary": "Amazon Cognito now supports the GetClientToken API operation, enabling app clients to obtain access tokens for machine-to-machine (M2M) authorization directly through the AWS SDK, CLI, or API — without configuring a user pool domain. This gives you an additional path to authorize service-to-service communication for applications, microservices, and automated workloads. The new GetClientToken API o",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token/",
+      "title": "Introducing Azure Multicloud Interconnect for AWS",
+      "summary": "Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and AI workloads with a more streamlined, cloud-native networking experience. Built on open interoperability standards, it helps reduce operational complexity while providing high-performance connectivity across cloud environments. The post Introducing Azu",
+      "url": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
       "date": "2026-08-31T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 6,
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 18,
       "tags": [
-        "developer"
+        "cloud"
       ],
-      "image": null
-    },
-    {
-      "title": "AWS Lambda recursive loop detection is now available in all commercial AWS Regions",
-      "summary": "AWS Lambda recursive loop detection has expanded support to all commercial AWS Regions. This feature, which is enabled by default, is a guardrail that automatically detects and stops recursive invocations between Lambda functions and other supported services, preventing runaway workloads. When using event sources such as Amazon S3, Amazon SQS, and Amazon SNS to trigger Lambda functions, a misconfi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions",
-      "date": "2026-08-31T17:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
       "image": null
     },
     {
@@ -322,17 +457,14 @@
       "image": null
     },
     {
-      "title": "Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions",
-      "summary": "Amazon Aurora serverless now delivers up to 30% better performance and enhanced scaling in additional AWS Regions: Asia Pacific (New Zealand), Asia Pacific (Thailand), Africa (Cape Town), Europe (Milan), and Mexico (Central). These improvements are available for both Aurora PostgreSQL and Aurora MySQL. Aurora serverless is the autoscaling database that scales up to support your most demanding work",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/",
-      "date": "2026-08-31T16:46:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 10,
-      "tags": [
-        "cloud",
-        "data"
-      ],
+      "title": "Inside Microsoft’s marketing team: Scaling expertise with AI",
+      "summary": "AI is helping organizations meet high expectations as markets change quickly and technology advances at a rapid pace. The post Inside Microsoft’s marketing team: Scaling expertise with AI appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
+      "date": "2026-08-31T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 2,
+      "tags": [],
       "image": null
     },
     {
@@ -439,17 +571,6 @@
       "image": null
     },
     {
-      "title": "How Trackunit turns construction data into decisions with AI",
-      "summary": "Construction generates abundant data, from equipment telemetry and maintenance records...",
-      "url": "https://www.databricks.com/blog/how-trackunit-turns-construction-data-decisions-ai",
-      "date": "2026-08-28T17:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "What’s new with Google Cloud",
       "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 24 - Aug 28 Grok 4",
       "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -495,30 +616,6 @@
       "category": "openai",
       "relevance": 1,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Fast, fault-tolerant PyTorch training on AI Runtime",
-      "summary": "At scale, your training efficiency is determined by a single metric: \"goodput\", the...",
-      "url": "https://www.databricks.com/blog/fast-fault-tolerant-pytorch-training-ai-runtime",
-      "date": "2026-08-28T01:15:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "What Does Salesforce Do?",
-      "summary": "From your first customer conversation to your next big win, Salesforce's #1 agentic CRM helps you build stronger relationships, work smarter with AI agents, and transform your business into an agentic enterprise.",
-      "url": "https://www.salesforce.com/blog/what-does-salesforce-do/",
-      "date": "2026-08-27T21:51:58+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 17,
-      "tags": [
-        "ai"
-      ],
       "image": null
     },
     {
@@ -817,17 +914,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "date": "2026-08-25T07:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 3,
       "tags": [],
       "image": null
     },
@@ -1373,19 +1459,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/800vdc.jpg"
-    },
-    {
-      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-      "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ecosystem. That includes NVIDIA’s latest open models, software […]",
-      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
-      "date": "2026-08-11T13:00:25+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 4,
-      "tags": [
-        "developer"
-      ],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/raig-rolling-blog-local-ai-community-open-source.jpg"
     },
     {
       "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
