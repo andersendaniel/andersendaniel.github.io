@@ -1,7 +1,31 @@
 {
-  "generated": "2026-09-02T00:45:53.406308+00:00",
+  "generated": "2026-09-02T09:14:58.975407+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "HARTING Accelerates Cloud Transformation with RISE with SAP",
+      "summary": "WALLDORF — The industrial connectivity provider is marking a decisive milestone in its global IT and digital strategy.",
+      "url": "https://news.sap.com/2026/09/harting-accelerates-cloud-transformation-with-rise-with-sap/",
+      "date": "2026-09-02T08:00:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Announcing the Databricks Big Book of AgentOps",
+      "summary": "What is AgentOps?AgentOps is the operating discipline for building, deploying and...",
+      "url": "https://www.databricks.com/blog/announcing-databricks-big-book-agentops",
+      "date": "2026-09-02T01:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Operational Intelligence: Turning Enterprise Data Into Enterprise Decisions with AI",
       "summary": "Back when I joined Salesforce, one of the first things that struck me was the sheer ambition of our engineering organization. Fifteen thousand engineers shipping software across a portfolio of products that millions…",
@@ -367,6 +391,17 @@
       "image": null
     },
     {
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "date": "2026-09-01T01:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 17,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon DocumentDB now supports direct major version upgrades to version 8.0",
       "summary": "Amazon DocumentDB (with MongoDB compatibility) now supports in-place major version upgrades (MVU) directly from engine versions 3.6 and 4.0 to version 8.0. This upgrade capability removes the need for intermediate version upgrades and allows you to upgrade your version 3.6 or 4.0 clusters while preserving existing data, configurations, and cluster settings. Upgrading to version 8.0 provides access",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/",
@@ -556,17 +591,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Indra unified EV charging data on Databricks",
-      "summary": "When data grows faster than the systems around it, complexity becomes the default....",
-      "url": "https://www.databricks.com/blog/how-indra-unified-ev-charging-data-databricks",
-      "date": "2026-08-28T17:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -795,9 +819,9 @@
       "image": null
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "url": "https://openai.com/index/learning-never-stops",
       "date": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -806,9 +830,9 @@
       "image": null
     },
     {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "date": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI Blog",
       "category": "openai",
@@ -903,17 +927,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The full stack behind abundant intelligence",
-      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "date": "2026-08-25T07:05:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1371,17 +1384,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-13-blog-1920x1080-logo.jpg"
-    },
-    {
-      "title": "SAP Order Management Services Named a Leader in IDC MarketScape: Worldwide AI-Enabled Order Orchestration and Fulfillment Applications for Retail and B2C 2026 Vendor Assessment",
-      "summary": "SAP is committed to innovation in order management.",
-      "url": "https://news.sap.com/2026/08/sap-order-management-services-a-leader-idc-marketscape-worldwide-ai-enabled-order-orchestration-fulfillment-applications-retail-b2c-2026-vendor-assessment/",
-      "date": "2026-08-13T11:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 14,
-      "tags": [],
-      "image": null
     },
     {
       "title": "The Economics of Agent Optimization: From pilots to measurable returns",
