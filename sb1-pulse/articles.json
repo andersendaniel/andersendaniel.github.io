@@ -1,7 +1,175 @@
 {
-  "generated": "2026-09-02T14:53:36.021125+00:00",
+  "generated": "2026-09-02T19:35:48.885239+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Expanding Genie Agents: Deep analysis, file reasoning, and more",
+      "summary": "At Data and AI Summit, we announced the evolution of Genie Spaces to Genie Agents,...",
+      "url": "https://www.databricks.com/blog/expanding-genie-agents-deep-analysis-file-reasoning-and-more",
+      "date": "2026-09-02T19:30:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Banking at Dreamforce: Your Guide to 3 Perfect Days",
+      "summary": "Dreamforce is back September 15–17 in San Francisco and streaming free on Salesforce+. For banking leaders, this is the year to see how AI proves its value. Across three days of keynotes, breakouts,…",
+      "url": "https://www.salesforce.com/blog/banking-dreamforce-preview/",
+      "date": "2026-09-02T18:02:44+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 25,
+      "tags": [
+        "banking"
+      ],
+      "image": null
+    },
+    {
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "date": "2026-09-02T18:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 13,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
+      "summary": "The Web Search built-in server-side tool on Amazon Bedrock is now available in AWS GovCloud (US-West), helping bring grounded web results to compliance-sensitive government and public-sector workloads. Web Search helps supported OpenAI GPT models ground responses with information from the web. Responses include citations to the sources the model used so users can trace each claim back to its web o",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/",
+      "date": "2026-09-02T17:52:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 27,
+      "tags": [
+        "ai",
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors",
+      "summary": "Amazon Quick connectors let users leverage tools and services such as Outlook, Slack, Salesforce, Jira, and homegrown MCP servers directly into their workflows across chat, agents, apps, flows, and deep research. Today, Amazon Quick introduces new tool settings and MCP sync support that give admins and connector owners more control over how connectors are deployed and kept up to date. Connector ow",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/",
+      "date": "2026-09-02T16:54:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "summary": "",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "date": "2026-09-02T16:24:24+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "date": "2026-09-02T16:18:31+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 12,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
+      "summary": "AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval, tool selection, memory, and agent performance at scale. The post The Economics of Agent Optimization: Context engineering for enterprise AI agents appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
+      "date": "2026-09-02T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 18,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Connect Customer announces general availability of agentic CX designer",
+      "summary": "Amazon Connect Customer announces the general availability of agentic CX designer, a no-code canvas for designing and deploying AI-powered self-service experiences. You can now build and launch voice and digital experiences that bring agentic and deterministic AI together to transform how you serve customers with the control and reliability enterprises demand. Your business teams users can go from",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentic-cx-designer/",
+      "date": "2026-09-02T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 9,
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "image": null
+    },
+    {
+      "title": "Second-generation AWS Outposts racks now in the AWS GovCloud (US) Regions",
+      "summary": "Second-generation AWS Outposts racks are now supported in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocation space for a truly consistent hybrid experience. Organizations from startups to enterprises and the public sector can now order their Outposts racks conn",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-outposts-govcloud-us-regions/",
+      "date": "2026-09-02T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 7,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Trailblazer Community’s Guide to Dreamforce ‘26",
+      "summary": "How to find your crew, connect with peers, and celebrate 20 years of Trailblazer Community magic.",
+      "url": "https://www.salesforce.com/blog/trailblazer-community-at-dreamforce-26/",
+      "date": "2026-09-02T15:48:54+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "summary": "Introducing Fairwind Program",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "date": "2026-09-02T15:40:00+00:00",
+      "source": "Google AI",
+      "category": "google",
+      "relevance": 5,
+      "tags": [],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "AWS Config now supports 60 new resource types",
+      "summary": "AWS Config now supports 60 additional AWS resource types across key services including Amazon Bedrock, Amazon EC2, Amazon SageMaker, and AWS Organizations. This expansion provides greater coverage over your AWS environment, enabling you to more effectively discover, assess, audit, and remediate an even broader range of resources. With this launch, if you have enabled recording for all resource typ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types/",
+      "date": "2026-09-02T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 12,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "AWS User Experience Customization (UXC) is now available in all commercial AWS Regions",
+      "summary": "AWS User Experience Customization (UXC) is now available in all commercial AWS Regions. UXC enables account administrators to set a custom account color and control which services and Regions appear in the AWS Management Console. Previously, UXC was available only in US East (N. Virginia), requiring customers who manage these settings programmatically to direct API calls to that single Region. Wit",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-uxc-aws-regions",
+      "date": "2026-09-02T13:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Activate Your Central Business Platform With The Right Integrations",
       "summary": "Your business platform is only as powerful as the tools connected to it — here's how to build a system that works for you.",
@@ -25,6 +193,17 @@
       "image": null
     },
     {
+      "title": "AWS Lambda now supports SnapStart for container image functions",
+      "summary": "Starting today, AWS Lambda supports SnapStart for functions packaged as container images , reducing startup times from several seconds to as low as sub-second. Lambda SnapStart is an opt-in capability that makes it easier for you to build highly responsive and scalable applications without provisioning resources or implementing complex performance optimizations. Customers deploy Lambda functions w",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/",
+      "date": "2026-09-02T09:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "HARTING Accelerates Cloud Transformation with RISE with SAP",
       "summary": "WALLDORF — The industrial connectivity provider is marking a decisive milestone in its global IT and digital strategy.",
       "url": "https://news.sap.com/2026/09/harting-accelerates-cloud-transformation-with-rise-with-sap/",
@@ -33,6 +212,19 @@
       "category": "sap",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon RDS for SQL Server supports additional SQL trace flags",
+      "summary": "Amazon RDS for SQL Server supports 18 additional SQL trace flags that you can enable through database parameter groups. Trace flags are configuration switches that modify SQL Server engine behavior — such as query optimizer cardinality estimation, lock escalation, statistics management, and memory handling — to allow database administrators to fine-tune performance and address workload-specific ch",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/rds-sqlserver-supports-additional-trace-flags/",
+      "date": "2026-09-02T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -204,6 +396,17 @@
       "image": null
     },
     {
+      "title": "AWS Marketplace reduces listing fee for professional services in multi-product solutions",
+      "summary": "AWS Marketplace now offers a 0% listing fee for professional services purchased as part of a qualifying multi-product solution. This builds on the recent reduction of professional services listing fee to 0.5%. It further lowers the cost for any Partner that transacts services through AWS Marketplace, while retaining the billing benefits that come with it. Over the past year, AWS Marketplace has bu",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-fee-professional-services/",
+      "date": "2026-09-01T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Introducing agentic video understanding with Gemini",
       "summary": "",
       "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
@@ -280,20 +483,6 @@
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
     },
     {
-      "title": "Amazon MWAA supports Apache Airflow version 3.3.1",
-      "summary": "Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 3.3.1, the latest release of the popular open-source workflow orchestration framework. Amazon MWAA is a managed orchestration service for Apache Airflow that makes it easier to set up and operate end-to-end data pipelines in the cloud. Apache Airflow 3.3 introduces stateful tasks and multi-language support. With",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-apache-airflow-3-3-1/",
-      "date": "2026-09-01T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Operationalizing Genie Ontology in Your Data Stack",
       "summary": "Beyond the semantic model: Building shared business context for AI agentsLarge language...",
       "url": "https://www.databricks.com/blog/operationalizing-genie-ontology-your-data-stack",
@@ -301,17 +490,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 15,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS",
-      "summary": "Claude Fable 5.1 is generally available on AWS and brings Anthropic's most capable frontier model to all customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. A clear improvement over Claude Fable 5, Fable 5.1 is a step up in intelligence on the hardest reasoning tasks, providing better judgement on ambiguous work and ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/",
-      "date": "2026-09-01T14:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 22,
       "tags": [],
       "image": null
     },
@@ -386,33 +564,6 @@
       "image": null
     },
     {
-      "title": "Amazon CloudWatch now supports warm-up periods for alarms",
-      "summary": "Amazon CloudWatch now lets you configure a warm-up period for metric alarms and log alarms, delaying alarm evaluation for a set time after the alarm is created. This reduces noise from missing data while a new resource or service starts up and begins publishing metrics. For example, a team that provisions a new microservice and its alarms together through a CI/CD pipeline can attach a warm-up peri",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period",
-      "date": "2026-09-01T08:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon RDS Custom now supports the latest CU and GDR updates for Microsoft SQL Server",
-      "summary": "Amazon Relational Database Service (Amazon RDS) Custom for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for SQL Server 2019 CU32+GDR KB5102335 (RDS version 15.00.4480.2.v1) and SQL Server 2022 CU25 + GDR KB5101347 (RDS version 16.00.4262.2.v1). The GDR updates address vulnerabilitie",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server/",
-      "date": "2026-09-01T07:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
       "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
       "url": "https://openai.com/index/gilbert-tobin",
@@ -421,57 +572,6 @@
       "category": "openai",
       "relevance": 17,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon DocumentDB now supports direct major version upgrades to version 8.0",
-      "summary": "Amazon DocumentDB (with MongoDB compatibility) now supports in-place major version upgrades (MVU) directly from engine versions 3.6 and 4.0 to version 8.0. This upgrade capability removes the need for intermediate version upgrades and allows you to upgrade your version 3.6 or 4.0 clusters while preserving existing data, configurations, and cluster settings. Upgrading to version 8.0 provides access",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/",
-      "date": "2026-08-31T22:30:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Elemental MediaTailor introduces in-console analytics dashboard for ad monetization and streaming performance",
-      "summary": "AWS Elemental MediaTailor now includes an analytics dashboard built directly into the AWS Management Console, giving publishers a global and multi-region view of ad monetization and streaming performance — with the ability to compare across regions and drill into individual playback configurations. The dashboard surfaces key business metrics including fill rate, ad impression rate, video completio",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediatailor-analytics-dashboard",
-      "date": "2026-08-31T21:35:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Agent Registry agents and MCP servers now available in Amazon Quick",
-      "summary": "Today, Amazon Quick announces integration with AWS Agent Registry, enabling users to discover and use resources from their organization's AWS Agent Registry directly within Amazon Quick. AWS Agent Registry supports MCP servers and agents, which users can now search and browse directly within Amazon Quick. After finding the agent or MCP server they need, users can enable it with a few clicks. Conne",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/",
-      "date": "2026-08-31T21:05:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing",
-      "summary": "Amazon Redshift now supports AWS IAM Identity Center authentication for provisioned clusters and serverless workgroups configured with enhanced VPC routing (EVR). You can access Amazon Redshift with single sign-on with your corporate credentials, and the traffic traverses Amazon Virtual Private Cloud (Amazon VPC) and stays on the AWS network. This is valuable for customers with data residency, reg",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr",
-      "date": "2026-08-31T21:02:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 10,
-      "tags": [
-        "cloud",
-        "security"
-      ],
       "image": null
     },
     {
@@ -602,17 +702,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 14,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Beyond answers: New Genie One features to turn insights into action",
-      "summary": "We all know the pattern: you ask an AI tool a question and get an answer in seconds,...",
-      "url": "https://www.databricks.com/blog/beyond-answers-new-genie-one-features-turn-insights-action",
-      "date": "2026-08-28T21:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -1373,19 +1462,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
     },
     {
-      "title": "What 50 open source projects taught us about security in the AI era",
-      "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about security in the AI era appeared first on The GitHub Blog .",
-      "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
-      "date": "2026-08-13T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 7,
-      "tags": [
-        "developer"
-      ],
-      "image": null
-    },
-    {
       "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
       "summary": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations that make Frame Generation feel even more responsive while streaming. On top of that, Performance members will see higher frame […]",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
@@ -1594,44 +1670,6 @@
       "relevance": 1,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
-      "summary": "Meta’s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes into the details on how we achieved: doubling end-to-end (E2E) training efficiency to 20–25% Model FLOPs Utilization (MFU) while scaling training FLOPs 4x in [...] Read More... The ",
-      "url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
-      "date": "2026-08-03T18:00:17+00:00",
-      "source": "Meta Engineering",
-      "category": "meta",
-      "relevance": 26,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
-      "summary": "Last week I had the joy of participating in Amazon’s “Bring Your Kids to Work Day” with my 7 year old son. We commuted together into the New York City office, his first real rush hour train ride, and spent the day exploring how Amazon uses AI, machine learning, and robotics to deliver packages to […]",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
-      "date": "2026-08-03T16:12:30+00:00",
-      "source": "AWS Blog",
-      "category": "aws",
-      "relevance": 31,
-      "tags": [
-        "ai",
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Inside our 353,000-person vibe coding course",
-      "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "date": "2026-08-03T15:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
     }
   ]
 }
