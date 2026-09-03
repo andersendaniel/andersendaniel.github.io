@@ -1,7 +1,153 @@
 {
-  "generated": "2026-09-03T14:50:15.920003+00:00",
+  "generated": "2026-09-03T19:34:33.017746+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Build a Credit Feedback Loop for Data 360",
+      "summary": "Learn how to cap build costs with data space filters, trace current consumption to a single resource with Digital Wallet DLOs, and tune refresh cadence before a credit spike reaches your invoice.",
+      "url": "https://www.salesforce.com/blog/data-360-credit-feedback-loop/",
+      "date": "2026-09-03T18:03:23+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon CloudFront announces API support for flat-rate pricing plans",
+      "summary": "Starting today, customers can subscribe and manage flat-rate pricing plans programmatically using the AWS CLI, AWS SDKs, CloudFormation, CDK, or the PricingPlanManager API. CloudFront flat-rate plans give you one monthly price covering global content delivery, WAF, DDoS, DNS, logging, and edge compute, with no usage-based overage charges regardless of traffic spikes or attacks. Previously, custome",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/",
+      "date": "2026-09-03T18:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick",
+      "summary": "Amazon Quick now offers Quick Max, a new plan for power users who want to get the absolute most out of Quick. With 5x the usage and 5x the storage of Plus, Max gives you the room to do more: more agents, more workflows, more of whatever makes Quick yours. With Max, you can run large, concurrent workloads without interruption—all month long. It delivers more value per dollar the more you use it and",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/",
+      "date": "2026-09-03T17:17:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 4,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Frontier AI Changed the Rules of Cyberattacks. Here’s How We’re Protecting You.",
+      "summary": "Salesforce is using leading frontier AI models to accelerate our defenses and protect your data.",
+      "url": "https://www.salesforce.com/blog/frontier-ai-changed-the-rules-of-cyberattacks/",
+      "date": "2026-09-03T16:16:49+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "summary": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators […]",
+      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "date": "2026-09-03T16:00:59+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 3,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg"
+    },
+    {
+      "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
+      "summary": "We’re introducing ZGateway, the proxy we are using to unify traffic through ZippyDB, Meta’s most widely-used key value store. As a bonus, it also enables admission control, load balancing, cross-region resilience, and richer operations. ZippyDB is the most widely used key value store at Meta, backing product metadata, counters, and configuration, and can serve billions [...] Read More... The post ",
+      "url": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
+      "date": "2026-09-03T16:00:20+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Use your voice to get more done in Gmail, Docs, and Keep",
+      "summary": "Text reading: \"Do more with your voice in Workspace\"",
+      "url": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
+      "date": "2026-09-03T16:00:00+00:00",
+      "source": "Google Cloud",
+      "category": "google",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/voice_in_Gmail_Docs_and_Keep_he.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "date": "2026-09-03T16:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 12,
+      "tags": [
+        "ai",
+        "developer"
+      ],
+      "image": null
+    },
+    {
+      "title": "The Partners Guide to the Headless Experience Layer",
+      "summary": "If you build on Salesforce as an ISV partner, you’ve poured years into the IP you ship: the Apex, Flows, and experiences your customers rely on every day. Agent harnesses like Claude, ChatGPT,…",
+      "url": "https://www.salesforce.com/blog/the-partners-guide-to-the-headless-experience-layer/",
+      "date": "2026-09-03T15:59:27+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 24,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
+      "title": "Multi-Cart Collaboration: Turn B2B Buying into a Real-Time Team Sport",
+      "summary": "In consumer shopping, each cart belongs to one person. But when it comes to B2B, purchasing is almost always a team sport. Traditional ecommerce platforms force business buying groups into a single-user box.…",
+      "url": "https://www.salesforce.com/blog/b2b-multi-cart-collaboration/",
+      "date": "2026-09-03T15:24:36+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 6,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "date": "2026-09-03T15:02:08+00:00",
+      "source": "Google DeepMind",
+      "category": "google",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Amazon MWAA adds built-in monitoring with Amazon CloudWatch",
+      "summary": "Amazon Managed Workflows for Apache Airflow (MWAA) now includes a built-in monitoring experience on the environment detail page in the AWS Management Console . A new metrics dashboard displays key Amazon CloudWatch metrics for your environment in one place, and each graph includes an optional toggle to overlay suggested warning ranges, helping you quickly identify conditions that may affect your e",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring/",
+      "date": "2026-09-03T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 6,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
     {
       "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
       "summary": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
@@ -71,6 +217,31 @@
       "tags": [
         "data"
       ],
+      "image": null
+    },
+    {
+      "title": "Amazon Linux 2027 is now available in public preview",
+      "summary": "Today, AWS announces the public preview of Amazon Linux 2027 (AL2027), the next version of the Amazon Linux operating system, purpose-built for cloud-native workloads on AWS with performance, scale, and security in mind. Built on AL2023's baseline, AL2027 is designed for customers running web applications, databases, containerized microservices, AI/ML workloads, and large-scale infrastructure who ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027/",
+      "date": "2026-09-03T08:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 8,
+      "tags": [
+        "cloud",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support",
+      "summary": "AWS Transform for migrations adds Amazon FSx for NetApp ONTAP as a generally available storage target for block storage workloads, alongside Amazon EBS. With AWS Transform, you can now migrate block storage directly to FSx for ONTAP as part of the same migration wave that handles compute and networks, eliminating the need for intermediate storage platforms and separate migration tools. Whether mig",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-fsx-netapp-ontap-support/",
+      "date": "2026-09-03T03:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [],
       "image": null
     },
     {
@@ -205,17 +376,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
-      "summary": "AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval, tool selection, memory, and agent performance at scale. The post The Economics of Agent Optimization: Context engineering for enterprise AI agents appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
-      "date": "2026-09-02T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 18,
-      "tags": [],
       "image": null
     },
     {
@@ -369,19 +529,6 @@
       "image": null
     },
     {
-      "title": "Amazon RDS for SQL Server supports additional SQL trace flags",
-      "summary": "Amazon RDS for SQL Server supports 18 additional SQL trace flags that you can enable through database parameter groups. Trace flags are configuration switches that modify SQL Server engine behavior — such as query optimizer cardinality estimation, lock escalation, statistics management, and memory handling — to allow database administrators to fine-tune performance and address workload-specific ch",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/rds-sqlserver-supports-additional-trace-flags/",
-      "date": "2026-09-02T07:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "Announcing the Databricks Big Book of AgentOps",
       "summary": "What is AgentOps?AgentOps is the operating discipline for building, deploying and...",
       "url": "https://www.databricks.com/blog/announcing-databricks-big-book-agentops",
@@ -395,43 +542,6 @@
       "image": null
     },
     {
-      "title": "Operational Intelligence: Turning Enterprise Data Into Enterprise Decisions with AI",
-      "summary": "Back when I joined Salesforce, one of the first things that struck me was the sheer ambition of our engineering organization. Fifteen thousand engineers shipping software across a portfolio of products that millions…",
-      "url": "https://www.salesforce.com/blog/operational-intelligence/",
-      "date": "2026-09-01T23:53:58+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 6,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "The Rise of Agentic CCaaS: A New Playbook for Customer Service",
-      "summary": "The future of customer service belongs to organizations that connect people, AI, and customer data across every interaction.",
-      "url": "https://www.salesforce.com/blog/the-rise-of-agentic-ccaas/",
-      "date": "2026-09-01T23:12:09+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "From Adoption to Business Value: What Customer Success Really Means",
-      "summary": "You have invested in technology. Your teams have been trained. Your platform is live. So, how do you know whether you are actually successful? That is where Customer Success comes in. Customer Success…",
-      "url": "https://www.salesforce.com/blog/customer-success-business-value/",
-      "date": "2026-09-01T22:45:42+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "How the FDA is building a secure, AI-ready data foundation on Databricks for Government",
       "summary": "Modernizing a federal data platform is a little like steering an aircraft carrier while rebuilding the engine mid-ocean...",
       "url": "https://www.databricks.com/blog/how-fda-building-secure-ai-ready-data-foundation-databricks-government",
@@ -439,17 +549,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 7,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon Quick now lets you build custom apps with natural language  -",
-      "summary": "Now generally available, Amazon Quick lets you build custom applications by simply describing them in natural language. Create project trackers, customer dashboards, and training portals in minutes instead of months. Whether you're a product manager, finance lead, HR partner, or ops analyst, you can now turn ideas into fully functional apps without writing any code. Tell Quick what you need, and i",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
-      "date": "2026-09-01T21:37:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -479,19 +578,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp"
     },
     {
-      "title": "AWS Deadline Cloud now supports sharing job bundles",
-      "summary": "AWS Deadline Cloud now supports sharing job bundles, giving teams a simple way to distribute and reuse render job templates without manual file distribution. Deadline Cloud is a fully managed service that helps teams run compute-intensive workloads in the cloud for visual effects, animation, product design, simulation, and gaming. Job bundles define the jobs you submit to Deadline Cloud, including",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing",
-      "date": "2026-09-01T20:16:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
       "title": "How we eliminated $1 million a year of wasted AI agent spend in one hour",
       "summary": "Databricks engineers rely heavily on AI agents to streamline and accelerate their work. In turn...",
       "url": "https://www.databricks.com/blog/how-we-eliminated-1-million-year-wasted-ai-agent-spend-one-hour",
@@ -503,31 +589,6 @@
       "image": null
     },
     {
-      "title": "Amazon CloudWatch Database Insights now supports self-managed PostgreSQL",
-      "summary": "Today, AWS announces support for self-managed PostgreSQL databases in Amazon CloudWatch Database Insights. Using CloudWatch Database Insights, you can now monitor your self-managed PostgreSQL instances running on Amazon EC2, alongside Amazon RDS and Amazon Aurora, to give you a complete view of your database fleet in a single console. Amazon CloudWatch Database Insights is a database observability",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/",
-      "date": "2026-09-01T19:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [
-        "cloud",
-        "data"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Kinesis Data Streams now supports a dry run feature to validate API requests",
-      "summary": "Amazon Kinesis Data Streams now supports a dry run feature to check whether an API request would succeed without executing the operation. Customers can now set the new optional parameter ‘DryRun’ to true in their API requests to validate permissions before interacting with a stream in production. Previously, customers had no safe way to test whether their application had the correct permissions to",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-kinesis-data-streams-api/",
-      "date": "2026-09-01T19:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Collaboration makes us all stronger",
       "summary": "The best security bugs come with a good storySome of our best security investments haven't been tools or scanners...",
       "url": "https://www.databricks.com/blog/collaboration-makes-us-all-stronger",
@@ -535,28 +596,6 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Build Salesforce Conventions That Adapt to Change",
-      "summary": "See how documenting the rationale behind the conventions you choose and governing them keeps standards durable as the platform, your org, and your team all change around you.",
-      "url": "https://www.salesforce.com/blog/salesforce-conventions-adapt-to-change/",
-      "date": "2026-09-01T18:53:09+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Marketplace reduces listing fee for professional services in multi-product solutions",
-      "summary": "AWS Marketplace now offers a 0% listing fee for professional services purchased as part of a qualifying multi-product solution. This builds on the recent reduction of professional services listing fee to 0.5%. It further lowers the cost for any Partner that transacts services through AWS Marketplace, while retaining the billing benefits that come with it. Over the past year, AWS Marketplace has bu",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-fee-professional-services/",
-      "date": "2026-09-01T18:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
@@ -1465,17 +1504,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/telco-tech-blog-header-indosat-ai-technology-center-1920x1080-1.png"
     },
     {
-      "title": "How to bring your software delivery workflow into GitHub with agent apps",
-      "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
-      "date": "2026-08-14T16:00:00+00:00",
-      "source": "GitHub Blog",
-      "category": "github",
-      "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Zero-Copy Data Architecture: Snowflake Summit 2026",
       "summary": "Explore how zero-copy data architecture and enterprise AI help leaders reduce costs, analyze unstructured data and make faster decisions.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-summit-2026-zero-copy-data-architecture",
@@ -1564,17 +1592,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
-      "summary": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees. Huang topped the list, with 99% of employees approving of the job he does. “As AI and shifting expectations […]",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
-      "date": "2026-08-12T14:00:00+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GlassdoorBestCEOs2026_16x9.png"
     },
     {
       "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
