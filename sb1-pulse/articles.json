@@ -1,7 +1,31 @@
 {
-  "generated": "2026-09-02T19:35:48.885239+00:00",
+  "generated": "2026-09-03T00:54:12.975800+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Southern Company’s SCOUT: Completing the Storm Intelligence Story",
+      "summary": "Completing the storm intelligence storyIn an earlier post, we explored how Southern...",
+      "url": "https://www.databricks.com/blog/southern-companys-scout-completing-storm-intelligence-story",
+      "date": "2026-09-02T23:20:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "date": "2026-09-02T21:00:00+00:00",
+      "source": "GitHub Blog",
+      "category": "github",
+      "relevance": 2,
+      "tags": [
+        "developer"
+      ],
+      "image": null
+    },
     {
       "title": "Expanding Genie Agents: Deep analysis, file reasoning, and more",
       "summary": "At Data and AI Summit, we announced the evolution of Genie Spaces to Genie Agents,...",
@@ -10,6 +34,17 @@
       "source": "Databricks Blog",
       "category": "databricks",
       "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "The Context Advantage: The Missing Piece of Your AI Growth Strategy",
+      "summary": "Learn why business context, beyond just model choice, is the key to a successful AI growth strategy. Discover how to leverage governed enterprise context to improve AI decision-making and performance.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/context-advantage-ai-growth-strategy",
+      "date": "2026-09-02T18:33:00+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 6,
       "tags": [],
       "image": null
     },
@@ -54,6 +89,19 @@
       "image": null
     },
     {
+      "title": "Amazon Connect Customer expands automated performance evaluations to Malay",
+      "summary": "Amazon Connect Customer now automates evaluations of human and AI agents in Malay using generative AI. Managers define custom evaluation criteria in natural language and receive AI-generated evaluations with justifications in their preferred language. Performance evaluations also supports cross-language evaluation and can complete assessments in English, even when the conversation is in Malay. Thi",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/",
+      "date": "2026-09-02T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 25,
+      "tags": [
+        "ai"
+      ],
+      "image": null
+    },
+    {
       "title": "Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors",
       "summary": "Amazon Quick connectors let users leverage tools and services such as Outlook, Slack, Salesforce, Jira, and homegrown MCP servers directly into their workflows across chat, agents, apps, flows, and deep research. Today, Amazon Quick introduces new tool settings and MCP sync support that give admins and connector owners more control over how connectors are deployed and kept up to date. Connector ow",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/",
@@ -86,17 +134,6 @@
       "tags": [
         "ai"
       ],
-      "image": null
-    },
-    {
-      "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
-      "summary": "AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval, tool selection, memory, and agent performance at scale. The post The Economics of Agent Optimization: Context engineering for enterprise AI agents appeared first on Microsoft Azure Blog .",
-      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
-      "date": "2026-09-02T16:00:00+00:00",
-      "source": "Azure Blog",
-      "category": "microsoft",
-      "relevance": 18,
-      "tags": [],
       "image": null
     },
     {
@@ -182,6 +219,17 @@
       "image": null
     },
     {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "date": "2026-09-02T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 13,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "How to Optimize AI for the Entire Enterprise, Not Just the Individual",
       "summary": "AI should bridge the individual-to-institutional value gap.",
       "url": "https://news.sap.com/2026/09/how-to-optimize-ai-entire-enterprise-not-just-individual/",
@@ -189,6 +237,17 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
+      "summary": "We’ve built an AI agent that acts as a secondary expert for a given domain, making deep specialist knowledge readily available and preserved for anyone in an organization to access, share, and build upon. This is not a typical domain-specific agent. Its novelty comes from integrating two layers: A structured, auditable knowledge architecture separates what [...] Read More... The post An Organizati",
+      "url": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+      "date": "2026-09-02T09:00:29+00:00",
+      "source": "Meta Engineering",
+      "category": "meta",
+      "relevance": 13,
       "tags": [],
       "image": null
     },
@@ -201,6 +260,19 @@
       "category": "aws",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio CI/CD adds notebook promotion and AI-assisted manifest generation",
+      "summary": "Amazon SageMaker Unified Studio CI/CD expands its open-source deployment toolkit with two new capabilities: (1) an AI agent skill that automates manifest authoring, and (2) native notebook promotion across environments. Together, they help data teams go from project to production faster while maintaining best-practice defaults across stages. AI-assisted manifest generation. The new generate-bundle",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-cicd-notebook-ai-manifest/",
+      "date": "2026-09-02T08:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 14,
+      "tags": [
+        "data"
+      ],
       "image": null
     },
     {
@@ -420,19 +492,6 @@
       "image": null
     },
     {
-      "title": "Amazon Connect Customer dashboards now support compact mode",
-      "summary": "Amazon Connect Customer now offers compact mode on the analytics dashboards, increasing data density so supervisors can see more of their operational data without scrolling. Compact mode reduces widget size, font, and minimizes filters to maximize screen space. For example, a supervisor on a 13-inch laptop toggles compact mode, which reduces row height, enabling them to view all team agents on the",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/",
-      "date": "2026-09-01T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [
-        "data"
-      ],
-      "image": null
-    },
-    {
       "title": "How AI-native companies turn workflows into operating capability",
       "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "url": "https://openai.com/index/ai-native-company-workflows",
@@ -625,17 +684,6 @@
       "image": null
     },
     {
-      "title": "Scaling Trust: How to Build a Foundation for Global Privacy",
-      "summary": "Compliance is a requirement, but building trust is the goal. Learn how to scale consent management without the growing pains.",
-      "url": "https://www.salesforce.com/blog/global-consent-manager/",
-      "date": "2026-08-31T15:02:05+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
       "summary": "The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind DuckDB, the popular open source analytical database that runs in-process and executes SQL directly against files like Parquet, CSV, and JSON. DuckDB stays open source under its independent foundation […]",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
@@ -691,17 +739,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "What is an AI Copilot?",
-      "summary": "An AI copilot is an AI assistant embedded directly in a software application. It...",
-      "url": "https://www.databricks.com/blog/ai-copilot",
-      "date": "2026-08-28T22:22:15+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -959,17 +996,6 @@
       "source": "OpenAI Blog",
       "category": "openai",
       "relevance": 3,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "url": "https://openai.com/index/loveholidays",
-      "date": "2026-08-26T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 1,
       "tags": [],
       "image": null
     },
