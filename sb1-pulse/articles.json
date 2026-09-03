@@ -1,7 +1,78 @@
 {
-  "generated": "2026-09-03T09:23:10.541425+00:00",
+  "generated": "2026-09-03T14:50:15.920003+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "summary": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "date": "2026-09-03T13:00:35+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 2,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gfn-thursday-9-3-blog-1920x1080-logo.jpg"
+    },
+    {
+      "title": "How to Create an AI Knowledge Base For Beginners",
+      "summary": "Here's how to build an AI knowledge base that delivers from day one.",
+      "url": "https://www.salesforce.com/blog/small-business/ai-knowledge-base-for-beginners/",
+      "date": "2026-09-03T13:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "SAP Commerce Cloud and Vercel: A Faster Path to Better Customer Outcomes",
+      "summary": "Together, SAP Commerce Cloud and Vercel give teams a more flexible way forward.",
+      "url": "https://news.sap.com/2026/09/sap-commerce-cloud-vercel-faster-path-better-customer-outcomes/",
+      "date": "2026-09-03T12:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Set Your Agentic Agenda: A Wealth and Asset Management Guide to Dreamforce 2026",
+      "summary": "Dreamforce (September 15–17) is all about moving from AI experimentation to real, scaled results. This is the year of the Financial Services Agentic Enterprise. Calling all wealth and asset management professionals! Are you…",
+      "url": "https://www.salesforce.com/blog/wealth-asset-management-dreamforce-preview/",
+      "date": "2026-09-03T12:00:00+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 29,
+      "tags": [
+        "ai",
+        "banking"
+      ],
+      "image": null
+    },
+    {
+      "title": "NVIDIA to Acquire Hugging Face",
+      "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "date": "2026-09-03T11:56:49+00:00",
+      "source": "NVIDIA Blog",
+      "category": "nvidia",
+      "relevance": 3,
+      "tags": [],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.png"
+    },
+    {
+      "title": "When Sustainability Data Meets Finance-Grade Rigor: Winning Under IFRS S1 and S2",
+      "summary": "Trusted sustainability data is becoming one of the most valuable assets an enterprise holds.",
+      "url": "https://news.sap.com/2026/09/sustainability-data-finance-grade-rigor-ifrs/",
+      "date": "2026-09-03T11:15:00+00:00",
+      "source": "SAP News",
+      "category": "sap",
+      "relevance": 6,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
     {
       "title": "Southern Company’s SCOUT: Completing the Storm Intelligence Story",
       "summary": "Completing the storm intelligence storyIn an earlier post, we explored how Southern...",
@@ -609,17 +680,6 @@
       "tags": [
         "security"
       ],
-      "image": null
-    },
-    {
-      "title": "15 Ways to Use Social AI Agents to Manage Your Feeds",
-      "summary": "Here's how social AI agents can help lean teams show up for prospects and customers — consistently.",
-      "url": "https://www.salesforce.com/blog/small-business/social-ai-agents-for-startups/",
-      "date": "2026-09-01T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 13,
-      "tags": [],
       "image": null
     },
     {
@@ -1321,19 +1381,6 @@
       "image": null
     },
     {
-      "title": "With Agentic AI, ABAP Takes Evolution to the Next Level",
-      "summary": "ABAP has a long track record of successful reinvention. AI is just the next chapter.",
-      "url": "https://news.sap.com/2026/08/with-agentic-ai-abap-takes-evolution-to-the-next-level/",
-      "date": "2026-08-18T12:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 13,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
       "title": "Building a Context Layer for AI Agents | Snowflake",
       "summary": "Learn best practices for creating a semantic layer using Snowflake semantic views. Improve data accuracy and scale AI agent performance across your stack.",
       "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-internal-context-layer-for-ai-agents",
@@ -1394,19 +1441,6 @@
       "relevance": 2,
       "tags": [],
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png"
-    },
-    {
-      "title": "SAP’s New Industry AI Portfolio Tackles the Hardest Challenges Faced by Enterprises",
-      "summary": "Moving beyond isolated use cases toward autonomous, end-to-end agentic execution.",
-      "url": "https://news.sap.com/2026/08/new-industry-ai-portfolio-sap-tackles-challenges-enterprises-face/",
-      "date": "2026-08-17T10:15:00+00:00",
-      "source": "SAP News",
-      "category": "sap",
-      "relevance": 5,
-      "tags": [
-        "ai"
-      ],
-      "image": null
     },
     {
       "title": "Get closer to the game with Gemini and Pixel",
@@ -1554,17 +1588,6 @@
       "image": null
     },
     {
-      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-      "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies […]",
-      "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
-      "date": "2026-08-12T00:38:21+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 3,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/jhh-support-blog-visual-logo-lock-up-3x4-1.png"
-    },
-    {
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "summary": "AMIE promotional video",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
@@ -1574,17 +1597,6 @@
       "relevance": 5,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
-      "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU. In traditional power delivery, electricity travels from the grid as an alternating current (AC) […]",
-      "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
-      "date": "2026-08-11T15:00:06+00:00",
-      "source": "NVIDIA Blog",
-      "category": "nvidia",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/800vdc.jpg"
     },
     {
       "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
@@ -1696,17 +1708,6 @@
         "cloud"
       ],
       "image": null
-    },
-    {
-      "title": "The latest AI news we announced in July 2026",
-      "summary": "July AI recap header",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "date": "2026-08-04T13:00:00+00:00",
-      "source": "Google AI",
-      "category": "google",
-      "relevance": 1,
-      "tags": [],
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp"
     }
   ]
 }
