@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T00:54:12.975800+00:00",
+  "generated": "2026-09-03T09:23:10.541425+00:00",
   "sources": 21,
   "articles": [
     {
@@ -134,6 +134,17 @@
       "tags": [
         "ai"
       ],
+      "image": null
+    },
+    {
+      "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
+      "summary": "AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval, tool selection, memory, and agent performance at scale. The post The Economics of Agent Optimization: Context engineering for enterprise AI agents appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
+      "date": "2026-09-02T16:00:00+00:00",
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 18,
+      "tags": [],
       "image": null
     },
     {
