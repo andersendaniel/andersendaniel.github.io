@@ -1,7 +1,78 @@
 {
-  "generated": "2026-09-03T19:34:33.017746+00:00",
+  "generated": "2026-09-04T00:38:13.902233+00:00",
   "sources": 21,
   "articles": [
+    {
+      "title": "Grok 4.6 Now Available on Snowflake Cortex AI",
+      "summary": "Grok 4.6, xAI's latest frontier model, is now in private preview on Snowflake Cortex AI. Run long-running agents and agentic pipelines with your data inside Snowflake's secure perimeter.",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/announcing-grok-4-6-snowflake-cortex-ai",
+      "date": "2026-09-03T23:15:41+00:00",
+      "source": "Snowflake Blog",
+      "category": "snowflake",
+      "relevance": 3,
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon ECS Managed Daemons now support non-critical daemons",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now support non-critical Managed Daemons for ECS Managed Instances . You can configure a daemon as non-critical so that your mission-critical application tasks continue running uninterrupted, even when a daemon fails, stops, or becomes unhealthy. Amazon ECS Managed Daemons lets you centrally deploy and manage software agents independently of applicatio",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
+      "date": "2026-09-03T22:01:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Governance beyond security: knowledge, context & ontology on the lakehouse",
+      "summary": "Ask most organizations what data governance for AI means, and you’ll hear a security...",
+      "url": "https://www.databricks.com/blog/governance-beyond-security-knowledge-context-ontology-lakehouse",
+      "date": "2026-09-03T20:20:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 3,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Building High-Quality and Trusted Data Products with Databricks",
+      "summary": "IntroductionOrganizations aiming to become AI and data-driven often need to provide...",
+      "url": "https://www.databricks.com/blog/building-high-quality-and-trusted-data-products-databricks",
+      "date": "2026-09-03T19:55:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 2,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "What is Data Transformation?",
+      "summary": "What is data transformation?Data transformation is the process of taking raw data...",
+      "url": "https://www.databricks.com/blog/what-is-data-transformation",
+      "date": "2026-09-03T19:54:00+00:00",
+      "source": "Databricks Blog",
+      "category": "databricks",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Can Pro Bono Volunteers Solve the Nonprofit AI Gap?",
+      "summary": "Our pro bono fellowship is where Salesforce talent apply their skills for the greater good — here's why it works.",
+      "url": "https://www.salesforce.com/blog/nonprofit-ai-pro-bono-volunteers/",
+      "date": "2026-09-03T19:41:11+00:00",
+      "source": "Salesforce Blog",
+      "category": "salesforce",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
     {
       "title": "Build a Credit Feedback Loop for Data 360",
       "summary": "Learn how to cap build costs with data space filters, trace current consumption to a single resource with Digital Wallet DLOs, and tune refresh cadence before a credit spike reaches your invoice.",
@@ -39,6 +110,17 @@
       "image": null
     },
     {
+      "title": "AWS Gateway Load Balancer now supports TCP Reset for faster failure recovery",
+      "summary": "A WS Gateway Load Balancer (GWLB) now supports sending TCP Reset (RST) packets when a target becomes unhealthy, is deregistered, or when a flow's idle timeout expires. This feature helps reduce traffic interruptions from minutes to seconds by enabling TCP endpoints to quickly detect failed connections and establish new TCP flows through healthy targets. Previously, when a GWLB target failed, exist",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-gateway-load-balancer-tcp-reset/",
+      "date": "2026-09-03T17:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Frontier AI Changed the Rules of Cyberattacks. Here’s How We’re Protecting You.",
       "summary": "Salesforce is using leading frontier AI models to accelerate our defenses and protect your data.",
       "url": "https://www.salesforce.com/blog/frontier-ai-changed-the-rules-of-cyberattacks/",
@@ -46,6 +128,28 @@
       "source": "Salesforce Blog",
       "category": "salesforce",
       "relevance": 3,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Redshift rg.large instances now support single-node clusters",
+      "summary": "Amazon Redshift rg.large instances, powered by AWS Graviton processors, now support single-node clusters. Single-node support for rg.large clusters is available on P204 or later patch versions. Customers can now create a single-node rg.large cluster for smaller workloads that do not require high availability, offering a cost-effective option to conduct proofs of concept and tests quickly. RG insta",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node",
+      "date": "2026-09-03T16:03:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon Aurora MySQL 8.4.8 (compatible with MySQL 8.4.8) is now generally available",
+      "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 will support MySQL 8.4.8. In addition to several security enhancements and bug fixes, Aurora MySQL 8.4.8 includes several improvements, such as support for post-quantum TLS (PQ-TLS) key exchange, transaction timeout, multi-source replication, and delayed replication. PQ-TLS provides you with post-quantum cryptography options for encrypting",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available/",
+      "date": "2026-09-03T16:01:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
       "tags": [],
       "image": null
     },
@@ -67,6 +171,19 @@
       "date": "2026-09-03T16:00:20+00:00",
       "source": "Meta Engineering",
       "category": "meta",
+      "relevance": 1,
+      "tags": [
+        "data"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon Aurora MySQL now supports multi-source replication and delayed replication",
+      "summary": "Starting today, Amazon Aurora MySQL supports two new replication capabilities: multi-source replication and delayed replication. Multi-source replication lets a single Aurora MySQL cluster replicate from multiple source databases at the same time, making it easier to consolidate data from separate MySQL databases. This enables critical use-cases, such as merging shards or aggregating data from sep",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep/",
+      "date": "2026-09-03T16:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
       "relevance": 1,
       "tags": [
         "data"
@@ -136,6 +253,19 @@
       "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo"
     },
     {
+      "title": "Amazon SageMaker Unified Studio Workflows support Python and Bash operators",
+      "summary": "Amazon SageMaker Unified Studio Workflows now supports PythonOperator and BashOperator, enabling you to run custom Python functions and shell commands directly in your serverless workflows without provisioning separate compute resources. This eliminates the need to offload custom logic to Lambda or ECS for tasks like data transformations or shell script execution. To get started, open a serverless",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-workflows-python-bash/",
+      "date": "2026-09-03T15:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 9,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
       "title": "Amazon MWAA adds built-in monitoring with Amazon CloudWatch",
       "summary": "Amazon Managed Workflows for Apache Airflow (MWAA) now includes a built-in monitoring experience on the environment detail page in the AWS Management Console . A new metrics dashboard displays key Amazon CloudWatch metrics for your environment in one place, and each graph includes an optional toggle to overlay suggested warning ranges, helping you quickly identify conditions that may affect your e",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring/",
@@ -146,6 +276,17 @@
       "tags": [
         "cloud"
       ],
+      "image": null
+    },
+    {
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "date": "2026-09-03T13:15:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 1,
+      "tags": [],
       "image": null
     },
     {
@@ -178,6 +319,28 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "date": "2026-09-03T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 17,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "date": "2026-09-03T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 14,
       "tags": [],
       "image": null
     },
@@ -234,6 +397,31 @@
       "image": null
     },
     {
+      "title": "Amazon SES now supports S/MIME email signing",
+      "summary": "Amazon Simple Email Service (SES) now supports Secure/Multipurpose Internet Mail Extensions (S/MIME) signing, giving you a way to help recipients verify your emails are authentic. An S/MIME signature lets recipients confirm that a message was sent by the holder of the From address and that its content was not altered in transit. Previously, senders who needed S/MIME had to sign each message themse",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-supports-smime-signing",
+      "date": "2026-09-03T07:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 1,
+      "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon S3 now supports PrivateLink for FIPS endpoints",
+      "summary": "Amazon S3 now supports AWS PrivateLink for endpoints that have been validated under the Federal Information Processing Standard (FIPS) 140-3 program. Customers with security and compliance requirements can use FIPS-validated cryptographic modules when connecting to S3 while keeping their traffic within their Virtual Private Cloud (VPC). To get started, create a new or edit an existing interface VP",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-privatelink-fips-endpoints",
+      "date": "2026-09-03T04:00:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud",
+        "security"
+      ],
+      "image": null
+    },
+    {
       "title": "AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support",
       "summary": "AWS Transform for migrations adds Amazon FSx for NetApp ONTAP as a generally available storage target for block storage workloads, alongside Amazon EBS. With AWS Transform, you can now migrate block storage directly to FSx for ONTAP as part of the same migration wave that handles compute and networks, eliminating the need for intermediate storage platforms and separate migration tools. Whether mig",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-fsx-netapp-ontap-support/",
@@ -242,6 +430,19 @@
       "category": "aws",
       "relevance": 2,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Safety overview: GPT-6 Astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "date": "2026-09-03T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "openai",
+      "relevance": 19,
+      "tags": [
+        "security"
+      ],
       "image": null
     },
     {
@@ -331,30 +532,6 @@
       "image": null
     },
     {
-      "title": "Amazon Connect Customer expands automated performance evaluations to Malay",
-      "summary": "Amazon Connect Customer now automates evaluations of human and AI agents in Malay using generative AI. Managers define custom evaluation criteria in natural language and receive AI-generated evaluations with justifications in their preferred language. Performance evaluations also supports cross-language evaluation and can complete assessments in English, even when the conversation is in Malay. Thi",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/",
-      "date": "2026-09-02T17:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 25,
-      "tags": [
-        "ai"
-      ],
-      "image": null
-    },
-    {
-      "title": "Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors",
-      "summary": "Amazon Quick connectors let users leverage tools and services such as Outlook, Slack, Salesforce, Jira, and homegrown MCP servers directly into their workflows across chat, agents, apps, flows, and deep research. Today, Amazon Quick introduces new tool settings and MCP sync support that give admins and connector owners more control over how connectors are deployed and kept up to date. Connector ow",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/",
-      "date": "2026-09-02T16:54:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 5,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Proactive cyber defense for governments and enterprises",
       "summary": "",
       "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
@@ -379,40 +556,13 @@
       "image": null
     },
     {
-      "title": "Amazon Connect Customer announces general availability of agentic CX designer",
-      "summary": "Amazon Connect Customer announces the general availability of agentic CX designer, a no-code canvas for designing and deploying AI-powered self-service experiences. You can now build and launch voice and digital experiences that bring agentic and deterministic AI together to transform how you serve customers with the control and reliability enterprises demand. Your business teams users can go from",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentic-cx-designer/",
+      "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
+      "summary": "AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval, tool selection, memory, and agent performance at scale. The post The Economics of Agent Optimization: Context engineering for enterprise AI agents appeared first on Microsoft Azure Blog .",
+      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
       "date": "2026-09-02T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 9,
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "image": null
-    },
-    {
-      "title": "Second-generation AWS Outposts racks now in the AWS GovCloud (US) Regions",
-      "summary": "Second-generation AWS Outposts racks are now supported in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocation space for a truly consistent hybrid experience. Organizations from startups to enterprises and the public sector can now order their Outposts racks conn",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-outposts-govcloud-us-regions/",
-      "date": "2026-09-02T16:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 7,
-      "tags": [
-        "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "The Trailblazer Community’s Guide to Dreamforce ‘26",
-      "summary": "How to find your crew, connect with peers, and celebrate 20 years of Trailblazer Community magic.",
-      "url": "https://www.salesforce.com/blog/trailblazer-community-at-dreamforce-26/",
-      "date": "2026-09-02T15:48:54+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 1,
+      "source": "Azure Blog",
+      "category": "microsoft",
+      "relevance": 18,
       "tags": [],
       "image": null
     },
@@ -426,39 +576,6 @@
       "relevance": 5,
       "tags": [],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "AWS Config now supports 60 new resource types",
-      "summary": "AWS Config now supports 60 additional AWS resource types across key services including Amazon Bedrock, Amazon EC2, Amazon SageMaker, and AWS Organizations. This expansion provides greater coverage over your AWS environment, enabling you to more effectively discover, assess, audit, and remediate an even broader range of resources. With this launch, if you have enabled recording for all resource typ",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types/",
-      "date": "2026-09-02T15:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 12,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS User Experience Customization (UXC) is now available in all commercial AWS Regions",
-      "summary": "AWS User Experience Customization (UXC) is now available in all commercial AWS Regions. UXC enables account administrators to set a custom account color and control which services and Regions appear in the AWS Management Console. Previously, UXC was available only in US East (N. Virginia), requiring customers who manage these settings programmatically to direct API calls to that single Region. Wit",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-uxc-aws-regions",
-      "date": "2026-09-02T13:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Activate Your Central Business Platform With The Right Integrations",
-      "summary": "Your business platform is only as powerful as the tools connected to it — here's how to build a system that works for you.",
-      "url": "https://www.salesforce.com/blog/small-business/central-business-platform/",
-      "date": "2026-09-02T13:00:00+00:00",
-      "source": "Salesforce Blog",
-      "category": "salesforce",
-      "relevance": 2,
-      "tags": [],
-      "image": null
     },
     {
       "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
@@ -491,30 +608,6 @@
       "category": "meta",
       "relevance": 13,
       "tags": [],
-      "image": null
-    },
-    {
-      "title": "AWS Lambda now supports SnapStart for container image functions",
-      "summary": "Starting today, AWS Lambda supports SnapStart for functions packaged as container images , reducing startup times from several seconds to as low as sub-second. Lambda SnapStart is an opt-in capability that makes it easier for you to build highly responsive and scalable applications without provisioning resources or implementing complex performance optimizations. Customers deploy Lambda functions w",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/",
-      "date": "2026-09-02T09:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio CI/CD adds notebook promotion and AI-assisted manifest generation",
-      "summary": "Amazon SageMaker Unified Studio CI/CD expands its open-source deployment toolkit with two new capabilities: (1) an AI agent skill that automates manifest authoring, and (2) native notebook promotion across environments. Together, they help data teams go from project to production faster while maintaining best-practice defaults across stages. AI-assisted manifest generation. The new generate-bundle",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-cicd-notebook-ai-manifest/",
-      "date": "2026-09-02T08:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 14,
-      "tags": [
-        "data"
-      ],
       "image": null
     },
     {
@@ -685,30 +778,6 @@
       "image": null
     },
     {
-      "title": "The new Brickbuilder Partner Network tiers for ISVs and Data Providers are here",
-      "summary": "Earlier this year, we redesigned the Brickbuilder Partner Network Program for ISVs...",
-      "url": "https://www.databricks.com/blog/new-brickbuilder-partner-network-tiers-isvs-and-data-providers-are-here",
-      "date": "2026-09-01T14:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "How Discovery Bank delivers hyper-personalized banking at scale: behavioral AI, governed data, and real-time decisioning",
-      "summary": "How can a bank make every client interaction feel personal while meeting the scale, speed, security...",
-      "url": "https://www.databricks.com/blog/how-discovery-bank-delivers-hyper-personalized-banking-scale-behavioral-ai-governed-data-and",
-      "date": "2026-09-01T13:30:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 31,
-      "tags": [
-        "banking"
-      ],
-      "image": null
-    },
-    {
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
       "url": "https://openai.com/index/path-to-astra",
@@ -766,19 +835,6 @@
       "relevance": 18,
       "tags": [
         "cloud"
-      ],
-      "image": null
-    },
-    {
-      "title": "Autoscaling Lakebase Postgres",
-      "summary": "Choosing a database instance size before you know the workload is an old building pattern...",
-      "url": "https://www.databricks.com/blog/autoscaling-lakebase-postgres",
-      "date": "2026-08-31T17:00:00+00:00",
-      "source": "Databricks Blog",
-      "category": "databricks",
-      "relevance": 1,
-      "tags": [
-        "data"
       ],
       "image": null
     },
@@ -1005,17 +1061,6 @@
       "image": null
     },
     {
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "date": "2026-08-27T03:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
       "summary": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]",
       "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
@@ -1073,39 +1118,6 @@
       "source": "SAP News",
       "category": "sap",
       "relevance": 4,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
-      "date": "2026-08-26T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "date": "2026-08-26T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 13,
-      "tags": [],
-      "image": null
-    },
-    {
-      "title": "The Hugging Face incident and the road ahead",
-      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "date": "2026-08-26T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "category": "openai",
-      "relevance": 3,
       "tags": [],
       "image": null
     },
