@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T00:38:13.902233+00:00",
+  "generated": "2026-09-04T09:16:10.495297+00:00",
   "sources": 21,
   "articles": [
     {
@@ -71,6 +71,32 @@
       "category": "salesforce",
       "relevance": 1,
       "tags": [],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in the AWS Asia Pacific (Hyderabad) Region. These instances offer up to 2x performance compared to P5en instances for AI training and inference. P6-B200 instances feature 8 Blackwell GPUs with 1440 GB of high-bandwidth GPU memory and a 60% increase in GPU memory bandwidth ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
+      "date": "2026-09-03T19:14:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 3,
+      "tags": [
+        "cloud"
+      ],
+      "image": null
+    },
+    {
+      "title": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
+      "summary": "Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the AWS Asia Pacific (Jakarta) Region. P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GPU memory, 6.4 Tbps EFA networking, 300 Gbps dedicated ENA throughput, and 4 TB of system memory. P6-B300 instances deliver 2x networking bandwidth, 1.5x GPU memory size, and 1.5x GPU ",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
+      "date": "2026-09-03T19:03:00+00:00",
+      "source": "AWS What's New",
+      "category": "aws",
+      "relevance": 2,
+      "tags": [
+        "cloud"
+      ],
       "image": null
     },
     {
@@ -253,6 +279,17 @@
       "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo"
     },
     {
+      "title": "PPCC 2026: Bringing AI and your business processes together",
+      "summary": "Every enterprise runs on business processes, but it's the people that provide judgment, manage exceptions, and often connect systems that were never designed to work together. The post PPCC 2026: Bringing AI and your business processes together appeared first on Microsoft 365 Blog .",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/",
+      "date": "2026-09-03T15:00:00+00:00",
+      "source": "Microsoft 365",
+      "category": "microsoft",
+      "relevance": 5,
+      "tags": [],
+      "image": null
+    },
+    {
       "title": "Amazon SageMaker Unified Studio Workflows support Python and Bash operators",
       "summary": "Amazon SageMaker Unified Studio Workflows now supports PythonOperator and BashOperator, enabling you to run custom Python functions and shell commands directly in your serverless workflows without provisioning separate compute resources. This eliminates the need to offload custom logic to Lambda or ECS for tasks like data transformations or shell script execution. To get started, open a serverless",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-workflows-python-bash/",
@@ -422,17 +459,6 @@
       "image": null
     },
     {
-      "title": "AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support",
-      "summary": "AWS Transform for migrations adds Amazon FSx for NetApp ONTAP as a generally available storage target for block storage workloads, alongside Amazon EBS. With AWS Transform, you can now migrate block storage directly to FSx for ONTAP as part of the same migration wave that handles compute and networks, eliminating the need for intermediate storage platforms and separate migration tools. Whether mig",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-fsx-netapp-ontap-support/",
-      "date": "2026-09-03T03:00:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 2,
-      "tags": [],
-      "image": null
-    },
-    {
       "title": "Safety overview: GPT-6 Astra",
       "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
       "url": "https://openai.com/index/safety-overview-gpt-6-astra",
@@ -514,20 +540,6 @@
       "relevance": 13,
       "tags": [
         "developer"
-      ],
-      "image": null
-    },
-    {
-      "title": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
-      "summary": "The Web Search built-in server-side tool on Amazon Bedrock is now available in AWS GovCloud (US-West), helping bring grounded web results to compliance-sensitive government and public-sector workloads. Web Search helps supported OpenAI GPT models ground responses with information from the web. Responses include citations to the sources the model used so users can trace each claim back to its web o",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/",
-      "date": "2026-09-02T17:52:00+00:00",
-      "source": "AWS What's New",
-      "category": "aws",
-      "relevance": 27,
-      "tags": [
-        "ai",
-        "cloud"
       ],
       "image": null
     },
